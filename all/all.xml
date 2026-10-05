@@ -1,0 +1,2019 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="VinhEPG v1.0.0" generator-info-url="https://github.com/huuvinh-dev/epg-file-asia">
+  <channel id="ViuTV.hk">
+    <display-name lang="zh">ViuTV</display-name>
+  </channel>
+  <channel id="ViuTVsix.hk">
+    <display-name lang="zh">ViuTVsix</display-name>
+  </channel>
+  <programme channel="ViuTV.hk" start="20261007203000 +0800" stop="20261007213000 +0800">
+    <title lang="zh">直樂VIURIETY 邊個瞓梳化？ - 第6集 - 嘉賓: 梁愷傑 (李綺雯丈夫)、李綺雯</title>
+    <desc lang="zh">今集《邊個瞓梳化？》請來李綺雯與丈夫 Ocean。二人剛於五月結婚，身份除了是新婚夫婦，更是合作無間的生意夥伴，攜手經營健身室。他們的默契能否經得起節目考驗？節目尾聲的「家庭大審判」環節中，Ocean 更會親自上陣控告綺雯兩條罪名。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007213000 +0800" stop="20261007223000 +0800">
+    <title lang="zh">地獄大狀 - 第3集 - 蔭蔭的計劃</title>
+    <desc lang="zh">蔭蔭想到辦法證明石松的遺願，同時再度遇上追殺她的兇手…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007210000 +0800" stop="20261007220000 +0800">
+    <title lang="zh">地球災難誌 - 第4集 - Volcano</title>
+    <desc lang="zh">Violent Earth with Liev Schreiber explores the unbelievable science behind epic natural disasters. Featuring incredible footage and interviews with scientists, storm chasers, and survivors, this series examines our changing climate.</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007220000 +0800" stop="20261007230000 +0800">
+    <title lang="zh">20/20時事雜誌 - 第477集 - Driven to Death (Part.1)</title>
+    <desc lang="zh">ABC News' acclaimed series </desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007003000 +0800" stop="20261007010000 +0800">
+    <title lang="zh">初戀Action! - 第8集 - 女人最痛</title>
+    <desc lang="zh">女人每個月都會經歷一次月經帶來的痛苦，而男朋友「越幫越忙」的行為，更令 Alice 火冒三丈。今集男嘉賓會使出渾身解數，用他們認為最有用的方法令哄經中的 Alice 開心，但這些招數似乎不太有用！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007010000 +0800" stop="20261007013000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1650集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007013000 +0800" stop="20261007023000 +0800">
+    <title lang="zh">無用的謊言 - 第13集</title>
+    <desc lang="zh">康民從嚴浩手中救出道河，他警告道河要確保率熙的安全，並不要讓她發現這件事，可是道河卻認為這很困難。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007023000 +0800" stop="20261007030000 +0800">
+    <title lang="zh">深宵新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007030000 +0800" stop="20261007040000 +0800">
+    <title lang="zh">冥冥之中 - 第21集</title>
+    <desc lang="zh">心兒接替麗珍，成為香港區域的主管，也順利得到了續命水，然而，就在心兒準備將續命水交給秋男之時，續命水卻被搶走，而更令心兒震驚的是，秋男的身世及小軍的真相。同時間，代理公司的「滅世計劃」已經展開，疫情擴散，寶玲的女兒也因此身亡，為改變女兒命運，寶玲不惜將心兒殺害，蝴蝶效應再次被觸發…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007040000 +0800" stop="20261007042500 +0800">
+    <title lang="zh">晚吹 - 男人亂講嘢 - 第51集 - 我老婆走火入魔</title>
+    <desc lang="zh">成為新手父母本係喜事，但巴打老婆似乎走火入魔？今集投稿講出初爲人父悲歌，老婆力臻完美想畀個仔更加多，成日比較驚個仔未踢先輸波，巴打湊細路同時要照顧老婆，主持們麻煩你哋落啲力呵。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007042500 +0800" stop="20261007043000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1466集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007043000 +0800" stop="20261007050000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1650集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007050000 +0800" stop="20261007060000 +0800">
+    <title lang="zh">掌心 - 第18集</title>
+    <desc lang="zh">葉平安讓霓裳和陸丹心圍繞質庫行動，打探出質庫背後與東橋鹽倉和海宜平都有著千絲萬縷的關聯，葉平安再次懷疑上海宜平。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007060000 +0800" stop="20261007090000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007090000 +0800" stop="20261007093000 +0800">
+    <title lang="zh">識碳惜生活 - 第4集 - Upcycling - 木材升級再造</title>
+    <desc lang="zh">被大自然吹倒的樹木，或被人類以不同原因砍伐的樹木，最終是否只有被遺棄的命運？今集讓我們一起欣賞如何將「美感設計＋環保再用」結合，讓木資源再生為社會帶來更大的價值。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007093000 +0800" stop="20261007110000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007110000 +0800" stop="20261007113000 +0800">
+    <title lang="zh">智富通 - 第596集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007113000 +0800" stop="20261007120000 +0800">
+    <title lang="zh">不一樣的家人 - 第5集 - 非一般的上契</title>
+    <desc lang="zh">雖然Chiko與Alan情同家人，但一直未正式上契。今次，Chiko和阿朗特意策劃一場非一般的上契儀式，場面笑料百出又充滿温馨。這一場儀式雖然簡單，卻讓彼此的羈絆變得更加深厚。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007120000 +0800" stop="20261007123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007123000 +0800" stop="20261007125500 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1651集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007125500 +0800" stop="20261007130000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1466集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007130000 +0800" stop="20261007133000 +0800">
+    <title lang="zh">給香港的情書 貳 - 第12集 - 數碼藝術創作人 - Angus Chan</title>
+    <desc lang="zh">Angus在商業廣告領域擁有超過十年的豐富經驗，自多倫多回港後，曾與騰訊、輝瑞、迪士尼及政府機構合作，設計數位通訊策略。近年，他嶄新嘗試將佛學理念結合數位藝術，透過不同的多媒體創作手法以平台「我佛慈Bass」推廣佛學，並不斷追尋創作的變化與平衡。他的熱誠在於將數碼創作視為無限制的表達方式，力求在商業與藝術間找到新的共鳴。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007133000 +0800" stop="20261007140000 +0800">
+    <title lang="zh">730 玩返轉 - 第314集 - 首爾烘焙咖啡店｜巴黎開店與布達拉宮</title>
+    <desc lang="zh">《730 玩返轉》Anton走訪首爾最近新開幕的烘焙咖啡店，品嚐新鮮出爐的麵包與手沖咖啡，感受韓式咖啡文化。隨後前往漢江欣賞彩虹噴泉，在夜色中享受浪漫氛圍。阿Luke分享在巴黎開店的過程與日常工作，細說花都餐飲業的挑戰與樂趣。Cindy前往西藏，在布達拉宮前打卡留念，感受世界屋脊的莊嚴與壯美。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007140000 +0800" stop="20261007150000 +0800">
+    <title lang="zh">夜之花 - 第18集</title>
+    <desc lang="zh">二人其後在朝上把左議政一直以來的罪行公諸於世，左議政得到應有的懲治後，二人的未來有了新的變化⋯</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007150000 +0800" stop="20261007160000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007160000 +0800" stop="20261007163000 +0800">
+    <title lang="zh">小獸醫維達 - 第18集 - 爆谷怕怕 / 費琪的最愛</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007163000 +0800" stop="20261007170000 +0800">
+    <title lang="zh">史諾比上太空 - 第4集 - 第十任務 / 第11任務 / 第12任務</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007170000 +0800" stop="20261007173000 +0800">
+    <title lang="zh">熊出沒之小小世界 2 - 第14集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007173000 +0800" stop="20261007180000 +0800">
+    <title lang="zh">雙線運動人生 - 第61集 - VX球運動員</title>
+    <desc lang="zh">Karen，擁有社工與運動員的雙重身份，她用專業關懷別人，也用運動挑戰自我。Karen證明即使工作繁忙，依然能在球場上全力以赴，練習擊球、防守與團隊配合。VX球在香港屬新興小眾運動，結合速度、技巧與策略，講求反應與默契。Karen 多年來堅持訓練，積極參與賽事及推廣活動，以穩定表現與熱血態度為港爭光。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007180000 +0800" stop="20261007183000 +0800">
+    <title lang="zh">6點新聞報道 (手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007183000 +0800" stop="20261007190000 +0800">
+    <title lang="zh">美女與純情男 - 第124集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007190000 +0800" stop="20261007193000 +0800">
+    <title lang="zh">7點新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007193000 +0800" stop="20261007200000 +0800">
+    <title lang="zh">730 玩返轉 - 第315集 - 曼谷沙吞區新地標｜西藏4A景區</title>
+    <desc lang="zh">《730 玩返轉》Chris前往曼谷沙吞區，參觀一個極度震撼的國家級新地標，感受泰國首都的發展活力。阿Luke分享曾經到南法學廚的經驗，並比較南法人與巴黎人的不同文化特質。Cindy前往一個海拔較低的西藏城市，遊覽當地國家級4A景區，欣賞高原上的秀麗風光。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007200000 +0800" stop="20261007203000 +0800">
+    <title lang="zh">煮題研習社 - 第6集 - 惜飲惜食－香蔥芝士醬雞胸貝果/芝士鬆餅</title>
+    <desc lang="zh">巴馬臣芝士、水牛芝士、忌廉芝士...係軟芝士定硬芝士？種類繁多，確實充滿學問。作為芝士百科全書的Andy，就算屋企剩好多都唔怕，一於踩入烘焙界「挑戰」Baker Ranya！二人同心，無論係貝果定鬆餅都繼續惜食！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007203000 +0800" stop="20261007213000 +0800">
+    <title lang="zh">直樂VIURIETY 邊個瞓梳化？ - 第6集 - 嘉賓: 梁愷傑 (李綺雯丈夫)、李綺雯</title>
+    <desc lang="zh">今集《邊個瞓梳化？》請來李綺雯與丈夫 Ocean。二人剛於五月結婚，身份除了是新婚夫婦，更是合作無間的生意夥伴，攜手經營健身室。他們的默契能否經得起節目考驗？節目尾聲的「家庭大審判」環節中，Ocean 更會親自上陣控告綺雯兩條罪名。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007213000 +0800" stop="20261007223000 +0800">
+    <title lang="zh">地獄大狀 - 第3集 - 蔭蔭的計劃</title>
+    <desc lang="zh">蔭蔭想到辦法證明石松的遺願，同時再度遇上追殺她的兇手…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007223000 +0800" stop="20261007230000 +0800">
+    <title lang="zh">沿路幫緊你 - 第13集 - 阿霞的心結</title>
+    <desc lang="zh">本集Shirley接獲特別委託，主角是因出演網上頻道影片而為人熟知的女演員阿霞。之前 曾為特約演員的阿霞，內心一直希望自己的演員工作能獲得父母的認同與理解，因而向節目組求助！為了完成委托，Shirley 拜訪網上頻道認識阿霞背後的重要團隊趙羅尼、王雍泰及戴妙珊，並以拍攝「寵物節目」為名，邀請阿霞的父母與愛犬上鏡套料！為了幫阿霞打開與父母之間的心結，節目組除了邀請到「雞Sir」邱頌偉，透過戲劇練習引導阿霞放鬆自我、吐露心聲。亦邀來大廚東正師傅指導阿霞親自下廚，究竟阿霞能否將心情傳遞給父母，融化長久以來的隔閡呢！？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007230000 +0800" stop="20261007233000 +0800">
+    <title lang="zh">晚吹 - 空肚講宵夜 - 第343集 - 咖喱</title>
+    <desc lang="zh">因咩事阿祖終於覺得同BabyJohn搵到共同點？Hailey分享爸爸秘製咖喱，食到阿祖同BabyJohn叫好連連？想知更多咖喱見聞，記得留意今集內容！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007233000 +0800" stop="20261007233500 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1467集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261007233500 +0800" stop="20261008003000 +0800">
+    <title lang="zh">日本第一的爛男人-我的假家人們 - 第6集</title>
+    <desc lang="zh">正助意識到一平正在利用他們的同居關係來競選。正助震驚地宣布他將盡快搬出一平家，但他希望他能留下來直到向陽的生日…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008003000 +0800" stop="20261008010000 +0800">
+    <title lang="zh">初戀Action! - 第9集 - 道歉與陪伴</title>
+    <desc lang="zh">一對情侶在相處過程中少不免會發生爭執，如何平息事件，都是一個技巧。Yoyo 亦曾組經為一件事與初戀對象爭執，甚至埋下分手導火線。究竟是一件甚麼事令 Yoyo 如此不滿？當她再遇一次這件事又有甚麼反應？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008010000 +0800" stop="20261008013000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1651集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008013000 +0800" stop="20261008023000 +0800">
+    <title lang="zh">無用的謊言 - 第14集</title>
+    <desc lang="zh">道河希望與得燦分開發展，得燦覺得不是味兒…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008023000 +0800" stop="20261008030000 +0800">
+    <title lang="zh">深宵新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008030000 +0800" stop="20261008040000 +0800">
+    <title lang="zh">冥冥之中 - 第22集</title>
+    <desc lang="zh">在心兒被殺所引發的異世界中，昏迷了三年的彭森終於醒來，他雖然有了不同維度世界的記憶，但所處的異世界已經發生了翻天覆地的變化。家明被認定為「滅世者」被執行處決，秋男在家明死前已經與其成婚，並育有一子彭正，被養在孤兒院中保護著。另邊廂，彭森與寶玲竟是情侶，而寶玲女兒的身世更令彭森詫異。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008040000 +0800" stop="20261008042500 +0800">
+    <title lang="zh">晚吹 - 空肚講宵夜 - 第343集 - 咖喱</title>
+    <desc lang="zh">因咩事阿祖終於覺得同BabyJohn搵到共同點？Hailey分享爸爸秘製咖喱，食到阿祖同BabyJohn叫好連連？想知更多咖喱見聞，記得留意今集內容！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008042500 +0800" stop="20261008043000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1467集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008043000 +0800" stop="20261008050000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1651集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008050000 +0800" stop="20261008060000 +0800">
+    <title lang="zh">掌心 - 第19集</title>
+    <desc lang="zh">葉平安被陸丹心發現真相。海宜平利用葉平安的弱點，設局使二人友誼破裂，姐妹相殘。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008060000 +0800" stop="20261008090000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008090000 +0800" stop="20261008093000 +0800">
+    <title lang="zh">文藝誌 - 第79集 - 劇團 (II)</title>
+    <desc lang="zh">闊別數年重聚，他們為觀眾帶來了什麼作品？今集也邀請了一眾主創及演員，聽聽他們的創作理念。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008093000 +0800" stop="20261008110000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008110000 +0800" stop="20261008113000 +0800">
+    <title lang="zh">智富通 - 第597集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008113000 +0800" stop="20261008120000 +0800">
+    <title lang="zh">不一樣的家人 - 第6集 - 婆媳</title>
+    <desc lang="zh">婆媳關係，注定是火星撞地球？又未必！今集江若琳Elaine與奶奶Peggy卻打破傳統觀念，初見面就一拍即合，甚至主動相約再見。真定假？為了摸清楚二人關係，節目更邀請筆跡專家，從心理角度分析她們親密無間的原因。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008120000 +0800" stop="20261008123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008123000 +0800" stop="20261008125500 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1652集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008125500 +0800" stop="20261008130000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1467集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008130000 +0800" stop="20261008133000 +0800">
+    <title lang="zh">平行教室 - 第15集 - 我想成為「陶藝家」</title>
+    <desc lang="zh">專注於陶藝創作的藝術家- Beavis，透過雙手與泥土對話。結合傳統技法與當代美學，創作兼具實用性與雕塑感的器物，在拉坯與燒製過程中探索材質的無限可能。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008133000 +0800" stop="20261008140000 +0800">
+    <title lang="zh">730 玩返轉 - 第315集 - 曼谷沙吞區新地標｜西藏4A景區</title>
+    <desc lang="zh">《730 玩返轉》Chris前往曼谷沙吞區，參觀一個極度震撼的國家級新地標，感受泰國首都的發展活力。阿Luke分享曾經到南法學廚的經驗，並比較南法人與巴黎人的不同文化特質。Cindy前往一個海拔較低的西藏城市，遊覽當地國家級4A景區，欣賞高原上的秀麗風光。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008140000 +0800" stop="20261008150000 +0800">
+    <title lang="zh">好拍檔 - 第1集</title>
+    <desc lang="zh">韓宥利第一天到大正律師事務所上班，本以為被分配到企業部門的她，竟發現自己成為離婚部門的一員，車恩京一眼就看出她並不適合這裡。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008150000 +0800" stop="20261008160000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008160000 +0800" stop="20261008163000 +0800">
+    <title lang="zh">宇宙巨人希曼 - 第11集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008163000 +0800" stop="20261008170000 +0800">
+    <title lang="zh">遊戲王GO RUSH!! - 第49集 - 遊帝亞斯對決史維喬</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008170000 +0800" stop="20261008173000 +0800">
+    <title lang="zh">噴氣小英雄 - 第6集 - 國際公開演講日 / 化石爭奪戰</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008173000 +0800" stop="20261008180000 +0800">
+    <title lang="zh">設計新態度 - 第67集 - 壁畫 (II)</title>
+    <desc lang="zh">畫作除了可以在平面呈現，又如何變成立體的作品，在家具上呈現？今集繼續聽聽藝術家們的分享。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008180000 +0800" stop="20261008183000 +0800">
+    <title lang="zh">6點新聞報道 (手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008183000 +0800" stop="20261008190000 +0800">
+    <title lang="zh">美女與純情男 - 第125集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008190000 +0800" stop="20261008193000 +0800">
+    <title lang="zh">7點新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008193000 +0800" stop="20261008200000 +0800">
+    <title lang="zh">730 玩返轉 - 第316集 - 深圳西麗燒雞店｜扎雜草原自然生態</title>
+    <desc lang="zh">《730 玩返轉》魚夫人走訪深圳西麗，品嚐火爆街頭的燒雞店，皮脆肉嫩，香氣四溢。阿Luke分享因為學廚而到過的地方，從法國到東南亞，足跡遍佈各地，累積豐富經驗。Cindy前往扎雜草原，觀察草原上的自然生態，感受高原草甸的遼闊與生機。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008200000 +0800" stop="20261008203000 +0800">
+    <title lang="zh">煮題研習社 - 第7集 - 惜飲惜食－童年麵包布甸/越式麵包沙律</title>
+    <desc lang="zh">陪伴你長大的又點會得豆奶？麵包布甸都可能係其中之一！你試過用豆奶整麵包布甸未？將越南法包拆開當沙律食又比Andy諗到？今集等Andy分享童年回憶，繼續同烘焙界代表Ranya互相偷師，將食剩的麵包昇華到一個新境界！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008203000 +0800" stop="20261008213000 +0800">
+    <title lang="zh">直樂VIURIETY SING還者 - 第6集 - 嘉賓:  關心妍</title>
+    <desc lang="zh">比賽賽程過半，參賽者除了要全力迎戰、免遭淘汰，更要爭取角逐所剩無幾的MVP獎章！本集邀請到關心妍擔任嘉賓評判，更會親自獻唱經典歌曲。此外，紅白兩組將再次以火熱跳唱一決勝負，點燃全場氣氛！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008213000 +0800" stop="20261008223000 +0800">
+    <title lang="zh">地獄大狀 - 第4集 - 愛與恨的距離</title>
+    <desc lang="zh">石松的爭產案即將落幕，面對結果，石松卻另有想，望蔭蔭幫鬼幫到底，為他解開心結…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008223000 +0800" stop="20261008230000 +0800">
+    <title lang="zh">沿路幫緊你 - 第14集 - 阿妹娟姐加入動物救援</title>
+    <desc lang="zh">本集由主持娟姐親自提出委托，因受到烏冬成長經歷的啟發，娟姐希望透過節目讓更多人認識浪浪救援，並投身幫助動物的行列。主持阿妹隨即接受任務，帶領娟姐展開一場深度的動物救援探索之旅。兩人首先來到流浪狗領養部，在負責人 Marco 的引導下親身接觸許多等待被領養的狗狗，體會浪浪在艱難環境中求存的渴望。接著，她們進一步深入了解動物救援工作，訪談救援督察 Felix 與 Bevis，了解過去轟動全港的貓狗救助事件！為了感受救援人員的艱辛與堅持，娟姐與阿妹更隨 Felix 出車直擊救援現場！過程爭分奪秒、觸目驚心！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008230000 +0800" stop="20261008233000 +0800">
+    <title lang="zh">晚吹 - 講玄 - 第21集 - 擇⽇出世 (嘉賓 : 龍躍天師傅)</title>
+    <desc lang="zh">不少⼈篤信「擇⽇出世」極為重要，能決定嬰兒往後命運，但原來比起⼈的命運並非掌握在擇⽇此事上。今集嘉賓⿓躍天師傅將會細說擇⽇的學問，除了新⽣命出世，還有哪些有擇⽇的必要。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008233000 +0800" stop="20261008233500 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1468集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261008233500 +0800" stop="20261009003000 +0800">
+    <title lang="zh">日本第一的爛男人-我的假家人們 - 第7集</title>
+    <desc lang="zh">一天晚上，一平和正助在家中聊天時，突然聽到門外有可疑的腳步聲。然而，前來的人究竟是誰？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009003000 +0800" stop="20261009010000 +0800">
+    <title lang="zh">初戀Action! - 第10集 - 給我安全感</title>
+    <desc lang="zh">在愛情路上，總會有人遇到另一半出軌，即使原諒對方，自己心中留下陰影。 Alice 雖然原諒了初戀對象「偷食」行為，卻對他失去了安全感。今日男朋友有一個重要會議要臨時外出，而他們會如何安慰沒有安全感的 Alice，又能順利外出？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009010000 +0800" stop="20261009013000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1652集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009013000 +0800" stop="20261009023000 +0800">
+    <title lang="zh">無用的謊言 - 第15集</title>
+    <desc lang="zh">有人於慶尚南道鶴川發現一具白骨，警方接到通知進行調查，他們認為這可能是失蹤女孩的骨頭…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009023000 +0800" stop="20261009030000 +0800">
+    <title lang="zh">深宵新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009030000 +0800" stop="20261009040000 +0800">
+    <title lang="zh">冥冥之中 - 第23集</title>
+    <desc lang="zh">為查探「滅世計劃」，石東進入慈善機構調查資金的流向，卻一時間毫無頭緒，只得向秦總打聽內情。在秦總的多番留難下，石東終於找到了關鍵所在。另邊廂，彭森幾經查探，終於得知在此異世界中多年前殺死心兒的兇手正是寶玲，他若想回到舊世界，寶玲必須死，然而在此世界中他與寶玲的關係卻讓他不知如何是好。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009040000 +0800" stop="20261009042500 +0800">
+    <title lang="zh">晚吹 - 講玄 - 第21集 - 擇⽇出世 (嘉賓 : 龍躍天師傅)</title>
+    <desc lang="zh">不少⼈篤信「擇⽇出世」極為重要，能決定嬰兒往後命運，但原來比起⼈的命運並非掌握在擇⽇此事上。今集嘉賓⿓躍天師傅將會細說擇⽇的學問，除了新⽣命出世，還有哪些有擇⽇的必要。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009042500 +0800" stop="20261009043000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1468集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009043000 +0800" stop="20261009050000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1652集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009050000 +0800" stop="20261009060000 +0800">
+    <title lang="zh">掌心 - 第20集</title>
+    <desc lang="zh">葉平安與伍安康發現鹽倉秘密，便找元少城帶人來驗倉。晚上，陸丹心約見葉平安，一箭把平安射入河中。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009060000 +0800" stop="20261009090000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009090000 +0800" stop="20261009093000 +0800">
+    <title lang="zh">國識商通 - 第179集 - 嘉賓: 岑浩璋教授</title>
+    <desc lang="zh">國家「十五五」規劃進一步強調科技創新、成果轉化及人才培育，並推動教育、科技、人才一體化發展，為高質量發展和培育新質生產力提供支撐。香港擁有世界級大學、國際化科研環境及資本市場，並與粵港澳大灣區緊密相連，可充分發揮「背靠祖國、聯通世界」的獨特優勢，協助國家匯聚全球創科資源、推進科研成果產業化，以及培養具國際視野的創科人才。今集請來香港大學副校長（研究）岑浩璋教授，剖析如何促進基礎研究、技術開發、成果轉化與人才培育的發展，積極把握機遇深化產學研合作和國際交流，鞏固香港作為國際創科中心的地位。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009093000 +0800" stop="20261009110000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009110000 +0800" stop="20261009113000 +0800">
+    <title lang="zh">智富通 - 第598集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009113000 +0800" stop="20261009120000 +0800">
+    <title lang="zh">不一樣的家人 - 第7集 - 獨有的蕭氏一家</title>
+    <desc lang="zh">上一集見到Elaine與奶奶Peggy親密無間，今次節目請到家中兩位男人——Elaine老公及老爺，一齊分享家中趣事。輕鬆搞笑的互動中，見到Elaine如何融入蕭家；下一刻，竟見到奶奶Peggy感動落淚！究竟發生了甚麼事？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009120000 +0800" stop="20261009123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009123000 +0800" stop="20261009125500 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1653集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009125500 +0800" stop="20261009130000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1468集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009130000 +0800" stop="20261009133000 +0800">
+    <title lang="zh">識碳惜生活 - 第5集 - 貫徹理念的故事</title>
+    <desc lang="zh">怎樣由愛護動物到素食，再結合環境理念，讓我們一起聽聽Kay的故事。另外，Leo又如何因旅行的發現，而在香港開設可持續發展的概念店舖呢。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009133000 +0800" stop="20261009140000 +0800">
+    <title lang="zh">730 玩返轉 - 第316集 - 深圳西麗燒雞店｜扎雜草原自然生態</title>
+    <desc lang="zh">《730 玩返轉》魚夫人走訪深圳西麗，品嚐火爆街頭的燒雞店，皮脆肉嫩，香氣四溢。阿Luke分享因為學廚而到過的地方，從法國到東南亞，足跡遍佈各地，累積豐富經驗。Cindy前往扎雜草原，觀察草原上的自然生態，感受高原草甸的遼闊與生機。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009140000 +0800" stop="20261009150000 +0800">
+    <title lang="zh">好拍檔 - 第2集</title>
+    <desc lang="zh">宥利直率的性格令她難以理解恩京所採取的一些手段，而對經驗老到的恩京來說，宥利只是一個新手律師。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009150000 +0800" stop="20261009160000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009160000 +0800" stop="20261009163000 +0800">
+    <title lang="zh">宇宙巨人希曼 - 第12集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009163000 +0800" stop="20261009170000 +0800">
+    <title lang="zh">遊戲王GO RUSH!! - 第50集 - 戰艦超速決鬥</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009170000 +0800" stop="20261009173000 +0800">
+    <title lang="zh">噴氣小英雄 - 第7集 - 英雄作戰手冊 / 超級特別小子</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009173000 +0800" stop="20261009180000 +0800">
+    <title lang="zh">杏林在線 - 第538集 - 新興運動(二): 匹克球新手注意</title>
+    <desc lang="zh">近期大熱的匹克球，是一種鍛煉全身的運動。對於新手及沒有運動習慣的人來說，一些重複揮拍和急剎的動作，或者會增加受傷的風險。今集《杏林在線》，匹克球港隊代表鄧諾瑤及林浚禧，機緣巧合下接觸匹克球，作為職業選手，他們希望憑自身經歷，推動社會各界多參與新興運動。物理治療師提醒新手，特別是久坐的上班族，腰椎、手腕等，本身容易因工作而疲勞或勞損，打球時有機會用錯力而受傷。香港都會大學護理及健康學院高級講師吳文東:「有些重複性的揮拍動作，容易引起一些過度使用的一些肌肉群，譬如我們說手肘、手腕、肩膀，甚至我們膝蓋和腳肘，要小心它會有扭傷的風險，當我們轉動得太快，例如急轉、刹停的時候，其實半月板和韌帶，承受的力度就會增加，如果我們本身的肌力不足的話，會較容易拉傷。」事前怎樣做動態熱身? 物理治療師會詳細講解。隨著匹克球熱潮掀起，相關場地亦應運而生。教練提醒選錯場地，隨時增加受傷風險。中國香港新興運動協會創辦人黎廣業:「室內的木地板場是淘汰的，康文署下面的場地，其實不是很適合打，因為它始終不是給匹克球的場地，所以木地板會很滑。」</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009180000 +0800" stop="20261009183000 +0800">
+    <title lang="zh">6點新聞報道 (手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009183000 +0800" stop="20261009190000 +0800">
+    <title lang="zh">美女與純情男 - 第126集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009190000 +0800" stop="20261009193000 +0800">
+    <title lang="zh">7點新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009193000 +0800" stop="20261009200000 +0800">
+    <title lang="zh">730 玩返轉 - 第317集 - 深圳自然博物館｜珠峰大本營日落</title>
+    <desc lang="zh">《730 玩返轉》Anton走訪深圳自然博物館，這個全新文化地標以豐富展品與互動體驗，展現自然萬物的奧秘。阿Luke分享在英國到過一個難忘小鎮的經歷，以及多年來做廚的心得體會。Cindy前往西藏珠峰大本營，一睹全球最高峰的日落美景，在世界的頂端感受大自然的壯麗與震撼。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009200000 +0800" stop="20261009203000 +0800">
+    <title lang="zh">煮題研習社 - 第8集 - 30分鐘快煮模式－黃金椰菜炒粉絲/甘香麻油雞飯</title>
+    <desc lang="zh">30分鐘真係煮到好嘢食？交比泰山！「黃金椰菜炒粉絲」成功擊敗蝦莉對椰菜嘅心理陰影，發現竅門係要買扁椰菜，炒出嚟先會香脆爽口！蝦莉喺泰山指導下能力升級，整個「甘香麻油雞飯」，聽日返工有飯帶！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009203000 +0800" stop="20261009213000 +0800">
+    <title lang="zh">直樂VIURIETY 四角無雙 - 第5集 - 陰陽界</title>
+    <desc lang="zh">《地獄大狀》陰陽界四角杜燕歌、林達倫、伍詠詩及邵美君四位演員；「人鬼」同場各懷鬼胎，深藏不露，鬥智角力連環變臉，Fake爆全場。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009213000 +0800" stop="20261009223000 +0800">
+    <title lang="zh">地獄大狀 - 第5集 - 孽障纏身</title>
+    <desc lang="zh">石松臨別時寄語蔭蔭要靠自己；蔭蔭為死亡作準備的同時，發現兇手從未放過她…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009223000 +0800" stop="20261009230000 +0800">
+    <title lang="zh">沿路幫緊你 - 第15集 - 阿妹娟姐送別浪浪</title>
+    <desc lang="zh">本集延續上集的浪浪救援任務，阿妹繼續帶娟姐深入探討流浪動物「絕育」與「善終」這兩大重要課題。深夜時份，兩人跟隨貓義工 Michaele 踏足偏僻角落，體驗夜間捕捉流浪貓進行絕育的艱辛過程。隔日，兩人更走進手術室，親眼見證絕育手術過程，生命的課題有始亦有終，節目的最後一站，阿妹與娟姐來到動物善終機構，認識寵物禮儀師 Don 以及由熱心的士司機組成的愛心車隊。她們隨車接送街頭往生的流浪貓狗，並參與浪浪舉辦的「畢業禮」，送別這些孤獨的生命最後一程！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009230000 +0800" stop="20261009233000 +0800">
+    <title lang="zh">晚吹 - 總有一瓣喺左近 - 第459集 - 靈性工作者Ame分享靈異經歷及個案</title>
+    <desc lang="zh">近年不少人去旅行都會選擇住民宿，居住的人數及空間都更加有彈性。今集嘉賓Ame早前到意大利旅行住上一間歷史悠久的大屋，甫入屋即感受到古怪氣氛，不料旅程結束後回到香港仍然被怪夢纏擾，究竟這間舊屋背後隱藏着怎樣的故事？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009233000 +0800" stop="20261009233500 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1469集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261009233500 +0800" stop="20261010003000 +0800">
+    <title lang="zh">日本第一的爛男人-我的假家人們 - 第8集</title>
+    <desc lang="zh">大江戶第一小學附近的託管班突然結束營業，家長們必須儘快找到新的託管班。一平決定暫時照看孩子，正助也盡力幫忙。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010003000 +0800" stop="20261010010000 +0800">
+    <title lang="zh">初戀Action! - 第11集 - 一見鍾情</title>
+    <desc lang="zh">節目迎接最後兩位女嘉賓 Grace 和 Winka，她們的初戀故事又會是怎樣呢？兩個人的相識，第一印象很重要！如果遇到一見鍾情的對象，男嘉賓又會用什麼方法認識她呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010010000 +0800" stop="20261010013000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1653集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010013000 +0800" stop="20261010023000 +0800">
+    <title lang="zh">無用的謊言 - 第16集</title>
+    <desc lang="zh">大眾發現道河是該案的主要嫌犯，他成為公眾指責的目標。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010023000 +0800" stop="20261010030000 +0800">
+    <title lang="zh">深宵新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010030000 +0800" stop="20261010040000 +0800">
+    <title lang="zh">冥冥之中 - 第24集</title>
+    <desc lang="zh">石東得知公司準備派出成千上萬的黑信封，感勢單力薄；秋男對彭森扭轉時空，救活家明父子寄予厚望，彭森明白此舉意味著寶玲必須死去，就在他進退兩難之時，寶玲竟請求彭森將自己殺死，以觸發蝴蝶效應。隨著寶玲的死去，時空回到了心兒遇害前的舊世界，彭森決心要阻止滅世，更要摧毀整個代理公司，一場實力懸殊的決戰拉開序幕……</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010040000 +0800" stop="20261010042500 +0800">
+    <title lang="zh">晚吹 - 總有一瓣喺左近 - 第459集 - 靈性工作者Ame分享靈異經歷及個案</title>
+    <desc lang="zh">近年不少人去旅行都會選擇住民宿，居住的人數及空間都更加有彈性。今集嘉賓Ame早前到意大利旅行住上一間歷史悠久的大屋，甫入屋即感受到古怪氣氛，不料旅程結束後回到香港仍然被怪夢纏擾，究竟這間舊屋背後隱藏着怎樣的故事？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010042500 +0800" stop="20261010043000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1469集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010043000 +0800" stop="20261010050000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1653集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010050000 +0800" stop="20261010060000 +0800">
+    <title lang="zh">掌心 - 第21集</title>
+    <desc lang="zh">葉平安掌心使一職被剝奪，孤立無援。海宜平指示陸丹心暗殺禮宗旭，並嫁禍給葉平安。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010060000 +0800" stop="20261010080000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010080000 +0800" stop="20261010083000 +0800">
+    <title lang="zh">嘥料 - 第5集 - 黑松露</title>
+    <desc lang="zh">眼淚從來也是女人的絕招，今次用上這門絕招的是 WinWin。她用黑松露去配芝士奶蓋紅茶，但要將奶發至稠厚， 一定要花大氣力及時間， WinWin 以她的絕招令 Christian 心軟出手協助。嘉倩賢良淑德，持家有道，今集她以家中用剩的食材去煮黑松露金銀蛋芫茜燉飯。George 家鄉的祖業是開捆粄店，有不同食材的捆粄，是鄉中名店。客家皇子今集將祖業搬上電視，可惜，沒有祖傳的米漿在手只得用粉開水去做，效果未如理想，George 最後更擔心無面目見江東父老。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010083000 +0800" stop="20261010090000 +0800">
+    <title lang="zh">One Day 約會實況 - 第5集 - 冰山美人</title>
+    <desc lang="zh">第五位女嘉賓是公認的「冰山美人」，亦是男士們的終極夢想。但美人果真人如其名，「冰山」真是一座嚴峻的冰山，對於沒有戀愛經驗的Marco來說，要為這位約會對象制定一個滿意的約會就像難過登天！但幸好獲得神隊友—Shirley及Kathy仔的傾囊相授，讓Marco戰鬥力大增，制定了獨特有趣的約會，更預先準備了禮物，最終Marco會否獲得不錯的評語呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010090000 +0800" stop="20261010093000 +0800">
+    <title lang="zh">打開你雪櫃 - 第12集 - 一念素食 Howard</title>
+    <desc lang="zh">素食先驅 Howard 與小谷相識逾十年，因公益而結緣，Howard 除了推出食物以重量收費的模式，推廣「惜食」概念，更熱心公益，幫助弱勢社群開設 NGO，協助他們自給自足，小谷與 Howard 特地探訪專門幫助自閉症兒童的機構，一同製作豆腐渣曲奇，將愛及關懷如種子傳播開去。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010093000 +0800" stop="20261010100000 +0800">
+    <title lang="zh">超人狄奧 - 第13集 - 美濃部的特別課堂</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010100000 +0800" stop="20261010103000 +0800">
+    <title lang="zh">舉頭三尺 - 第12集 - 苗栗五穀宮/神農大帝</title>
+    <desc lang="zh">Kathy仔與YOYO來到苗栗，這次任務學習製茶，茶也是中華文化裡重要的精神，農業飲食醫藥息息相關，找尋的大神像就是三皇之一的神農大帝，此次也學習到了身為炎黃子孫的驕傲。具有200多年歷史的五穀宮神農大帝位在苗栗竹南，神農巨像高達46.8米，神像依山傍水，兩側立有雷公、電母、風伯與雨神，路途搭乘鐵路或經高速公路都可以看到。和後厝龍鳳宮的大媽祖神像相互輝映，成為竹南兩大宗教地標。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010103000 +0800" stop="20261010110000 +0800">
+    <title lang="zh">區區都有STEM - 第25集 - 馬鞍山</title>
+    <desc lang="zh">今集，主持Gracey和STEM Sir 前往馬鞍山，走入劍擊場，了解這個運動當中的技術。劍擊動作中的4號位和6號位是甚麼意思呢？比賽用的衣服和用具，又跟STEM原理有甚麼關係？另外，設置在戶外的太陽能風力發電街燈，主要用途竟然不是用來供電，那有甚麼目的呢？而令人聞風喪膽的龍捲風又是如何形成呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010110000 +0800" stop="20261010113000 +0800">
+    <title lang="zh">我要爆Show - 第12集 - Chef Dixon爆Show暖意</title>
+    <desc lang="zh">Dixon為實現到素人家中煮飯並送暖的願望，化身Chef Dixon在街上招攬素人。在不被製作組看好之下，他終於在茫茫人海中成功尋找到幸運兒Ben！Ben更是廚藝好手，為Dixon提供不少意見。Ben和太太享用他精心炮製的餸菜，邊談天說地邊互相送暖，「Chef Dixon爆Show暖意」大成功！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010113000 +0800" stop="20261010120000 +0800">
+    <title lang="zh">我們與金牌的距離 - 第2集 - 劍擊 (II)</title>
+    <desc lang="zh">鐵漢也有柔情的一面！Phoebus 、 Fi 和小倫合力炮製「小倫的味道」，竟然令拍攝現場化身「地獄廚房」？！三人閒話家常，原來在開朗的背後，小倫幾經挫折，還差點不能振作起來！深情對話之後，到底兩位主持是否能在決戰「奸計得逞」，擊敗「師傅」呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010120000 +0800" stop="20261010123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010123000 +0800" stop="20261010133000 +0800">
+    <title lang="zh">我想身體健康 - 第141集 - 乾燥症</title>
+    <desc lang="zh">冬天皮膚乾燥是常態，但有一種怪病，竟然無時無刻都乾？今集主持強尼、米露迪、Ash，找來張嘉殷一起請教醫生！到底何謂乾燥症，又能如何醫治？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010133000 +0800" stop="20261010140000 +0800">
+    <title lang="zh">CHILL CLUB - 第325集 - 嘉賓: WHIZZ</title>
+    <desc lang="zh">本集嘉賓是WHIZZ，今集以「BLUE HOURS」為主題。Blue Hours就像人生遇上迷惘和失意時的狀態，每個人都有不同的方法去面對，也可以嘗試聆聽自己內心的聲音。今集WHIZZ挑選了幾首關於迷惘與成長的歌曲，用音樂陪伴大家走過Blue Hours，慢慢尋找屬於自己的方向。此外，節目亦設有「CHILL CLUB 推介榜」，與樂迷一同公布本週第一至第十位推介歌曲。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010140000 +0800" stop="20261010143000 +0800">
+    <title lang="zh">MOSHI MOSHI 富士山 - 第4集 - 拜見網紅「水豚君」</title>
+    <desc lang="zh">Mischa同阿Gi今集到了伊豆半島探望了網紅水豚君，吃了一頓仙人掌料理，之後趁真正登富士山前，到富士山博物館了解下佢嘅歷史，最後就到伊豆半島最南部的自然景觀龍宮窟參觀。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010143000 +0800" stop="20261010150000 +0800">
+    <title lang="zh">潛在挑戰中 - 第10集 - 成長見証</title>
+    <desc lang="zh">每一次潛水經歷都使人成長，本集記錄四位潛水員這段時間的特別見聞，令他們在心態及技術層面大幅進步。例如與特別嘉賓一起潛水，見證她順利考得O牌，過程中大家學會保持正面，勇敢面對上水及水底的困難。在菲律賓，他們潛入珍珠場，見証罕有珍珠採摘過程，令大家大開眼界。下星期，他們將會踏上日本之旅，繼續迎接不同挑戰。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010150000 +0800" stop="20261010153000 +0800">
+    <title lang="zh">名偵探光之美少女！ - 第28集 - 神秘的怪盜...迪慈．阿基</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010153000 +0800" stop="20261010160000 +0800">
+    <title lang="zh">職人小學徒 - 第13集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010160000 +0800" stop="20261010162000 +0800">
+    <title lang="zh">四鏡大暴走 - 第5集 - 歷久不衰的香港傳統</title>
+    <desc lang="zh">「紅白藍」是不少港人的集體回憶，亦代表香港人堅毅不屈的拼搏精神。四位成員到訪本地工場，製作獨一無二的紅白藍手工藝品，素來少接觸手工的四位男子的成品又是否合格呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010162000 +0800" stop="20261010181500 +0800">
+    <title lang="zh">NBA 球迷日2026</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010181500 +0800" stop="20261010183000 +0800">
+    <title lang="zh">貓之旅神 - 第14集 - 希林傑村飲酒, 咖啡, 咖啡占卜</title>
+    <desc lang="zh">《 貓之旅神》來到最後一集，當然要參觀土耳其著名的聖索菲亞清真寺，Shirley 及Asha為表誠意更特登挑選合適嘅頭巾！接住二人來到有頂大市集，更在大市集上蓋學特務電影007飛檐走壁？！驚慄刺激過後 ，二人就來到了有「最美好的村落」之稱的希林傑村 ，試咖啡占卜，嚐美酒，跟貓一同渡過最悠閒最寫意的旅程！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010183000 +0800" stop="20261010190000 +0800">
+    <title lang="zh">大鳴大放 - 第1017集</title>
+    <desc lang="zh">《大鳴大放》是一個30分鐘的時事討論節目，識英雄重英雄，請來各界重磅名人，拋出論點，言無不盡，深入討論時事，跨越維港神州，宏觀全世界。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010190000 +0800" stop="20261010193000 +0800">
+    <title lang="zh">7點新聞報道(手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010193000 +0800" stop="20261010195500 +0800">
+    <title lang="zh">生活小貼士 - 第7集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010195500 +0800" stop="20261010200000 +0800">
+    <title lang="zh">香港貿發局 聯繫全球機遇60年 - 第1集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010200000 +0800" stop="20261010203000 +0800">
+    <title lang="zh">同鄉同味 - 第10集 - 黑龍江</title>
+    <desc lang="zh">最後一集《同鄉同味》，我們走進中國最東北的省份── 黑龍江。黑龍江冬天非常寒冷，每年吸引港人一家大小前往體驗滑雪及觀賞冰雕世界，但卻比較少香港人接觸黑龍江美食，到底黑龍江特色名菜有哪些？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010203000 +0800" stop="20261010233000 +0800">
+    <title lang="zh">緊急迫降 - 第1集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261010233000 +0800" stop="20261011000000 +0800">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011000000 +0800" stop="20261011003000 +0800">
+    <title lang="zh">調教你男友 - 第2集 - 認識</title>
+    <desc lang="zh">跟隨製作組安排，六位男士坐船到南丫島展開未知旅程。第一天，互相認識。六位男友各有不同性格，有戀上姐姐的專一男孩Jeffrey、在Club場遇上真愛的花弗男阿餅、自認有公主病的小新、風趣幽默的崔建芒、情感細膩但又大男人的Ronald，還有擁有獨特身份的Sho。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011003000 +0800" stop="20261011010000 +0800">
+    <title lang="zh">ERROR死腳膠千萬巨蛋自作夢 - 第2集 - 借刀與借力</title>
+    <desc lang="zh">體驗日本傳統鍛刀後，也實驗借助「外力」創作會對音樂藝術造成甚麼禍害。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011010000 +0800" stop="20261011020000 +0800">
+    <title lang="zh">瀛知有密 - 第17集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011020000 +0800" stop="20261011023000 +0800">
+    <title lang="zh">台灣乜都拜 - 第5集 - 石頭廟感人故事</title>
+    <desc lang="zh">今集將會走訪位於高雄的石頭廟，是當地著名的景點，但原來寺廟有今時今日的規模是因為當年發生了一件事，才令泰國人報恩。而程人富的分數正領先中，到底阿J和童童能否反超前，贏得獎品，避過皮蛋蛋糕的懲罰？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011023000 +0800" stop="20261011030000 +0800">
+    <title lang="zh">拆你個夢 - 第6集 - 嘉賓: Day@COLLAR、Ivy@COLLAR</title>
+    <desc lang="zh">Day 夢到如厠時被黑人搭訕，原來自己入錯男廁；拆夢揭開 Day 內心悲觀一面。Ivy 夢境反映她因入行而輟學仍耿耿於懷。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011030000 +0800" stop="20261011033000 +0800">
+    <title lang="zh">運動員背後 - 第8集 - 跑會 (II)</title>
+    <desc lang="zh">頑張跑會創辦人Sammy不是自少便是「跑步發燒友」，身為樂隊Kolor主音的他從前生活習慣差，年紀漸長下健康問題逐漸浮現，令他立心改變原有生活模式。現在跑步對Sammy來說，已經不是「做下運動」般簡單，已經進化成一份享受，甚至給予音樂上的靈感。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011033000 +0800" stop="20261011040000 +0800">
+    <title lang="zh">文藝誌 - 第79集 - 劇團 (II)</title>
+    <desc lang="zh">闊別數年重聚，他們為觀眾帶來了什麼作品？今集也邀請了一眾主創及演員，聽聽他們的創作理念。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011040000 +0800" stop="20261011043000 +0800">
+    <title lang="zh">平行教室 - 第15集 - 我想成為「陶藝家」</title>
+    <desc lang="zh">專注於陶藝創作的藝術家- Beavis，透過雙手與泥土對話。結合傳統技法與當代美學，創作兼具實用性與雕塑感的器物，在拉坯與燒製過程中探索材質的無限可能。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011043000 +0800" stop="20261011050000 +0800">
+    <title lang="zh">識碳惜生活 - 第5集 - 貫徹理念的故事</title>
+    <desc lang="zh">怎樣由愛護動物到素食，再結合環境理念，讓我們一起聽聽Kay的故事。另外，Leo又如何因旅行的發現，而在香港開設可持續發展的概念店舖呢。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011050000 +0800" stop="20261011053000 +0800">
+    <title lang="zh">嘥料 - 第5集 - 黑松露</title>
+    <desc lang="zh">眼淚從來也是女人的絕招，今次用上這門絕招的是 WinWin。她用黑松露去配芝士奶蓋紅茶，但要將奶發至稠厚， 一定要花大氣力及時間， WinWin 以她的絕招令 Christian 心軟出手協助。嘉倩賢良淑德，持家有道，今集她以家中用剩的食材去煮黑松露金銀蛋芫茜燉飯。George 家鄉的祖業是開捆粄店，有不同食材的捆粄，是鄉中名店。客家皇子今集將祖業搬上電視，可惜，沒有祖傳的米漿在手只得用粉開水去做，效果未如理想，George 最後更擔心無面目見江東父老。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011053000 +0800" stop="20261011060000 +0800">
+    <title lang="zh">One Day 約會實況 - 第5集 - 冰山美人</title>
+    <desc lang="zh">第五位女嘉賓是公認的「冰山美人」，亦是男士們的終極夢想。但美人果真人如其名，「冰山」真是一座嚴峻的冰山，對於沒有戀愛經驗的Marco來說，要為這位約會對象制定一個滿意的約會就像難過登天！但幸好獲得神隊友—Shirley及Kathy仔的傾囊相授，讓Marco戰鬥力大增，制定了獨特有趣的約會，更預先準備了禮物，最終Marco會否獲得不錯的評語呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011060000 +0800" stop="20261011080000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011080000 +0800" stop="20261011083000 +0800">
+    <title lang="zh">買不到的一餐 - 第3集 - 漁花海鮮</title>
+    <desc lang="zh">劏魚、在魚市場叫賣，或許不是每個人都能夠接受的工作。可是一位90後女生，大學畢後卻願意投身這行業，原來背後全是父親的栽培。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011083000 +0800" stop="20261011090000 +0800">
+    <title lang="zh">黃金興趣班 - 第7集 - 拉筋伸展班</title>
+    <desc lang="zh">拉筋除了提升身體柔軟度，更重要的是防止我們做運動時受傷。今集Ash鍾卓穎邀請到拉筋伸展班的導師Elvis，和我們分享拉筋對身體的重要性。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011090000 +0800" stop="20261011093000 +0800">
+    <title lang="zh">雙線運動人生 - 第61集 - VX球運動員</title>
+    <desc lang="zh">Karen，擁有社工與運動員的雙重身份，她用專業關懷別人，也用運動挑戰自我。Karen證明即使工作繁忙，依然能在球場上全力以赴，練習擊球、防守與團隊配合。VX球在香港屬新興小眾運動，結合速度、技巧與策略，講求反應與默契。Karen 多年來堅持訓練，積極參與賽事及推廣活動，以穩定表現與熱血態度為港爭光。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011093000 +0800" stop="20261011100000 +0800">
+    <title lang="zh">我的哪吒與變形金剛 - 第9集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011100000 +0800" stop="20261011103000 +0800">
+    <title lang="zh">運動員背後 - 第9集 - 業餘滑雪團隊</title>
+    <desc lang="zh">香港大部分人對於滑雪運動只有出國旅行才有機會接觸到，是一項在香港並不普及的運動。但原來香港存在一班愛好者，每星期持續滑雪。今集邀請了香港業餘滑雪團隊Uncle Team，分享他們怎樣可以持續練習，亦不斷令越來越多團友加入這個組織。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011103000 +0800" stop="20261011110000 +0800">
+    <title lang="zh">學神出沒注意 - 第12集 - 新牌學神考車最終回</title>
+    <desc lang="zh">今集《學神出沒注意》兩位學神Leanne同阿神學終於脫離Maymay師傅護蔭，挑戰獨立訓練區，在真正考牌之前認真練習泊車調頭技巧！節目組更擔心他們在真正考牌時失準，特意為他們認真準備了終極模擬試，更邀請真正嘅考官嚟坐陣！究竟他們考牌結果如何？另外，同場加映兩位學神的神秘搞笑學車MV隆重首播！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011110000 +0800" stop="20261011113000 +0800">
+    <title lang="zh">幪面超人 MY-TH - 第5集 - 狗會出現還是蛇會出現</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011113000 +0800" stop="20261011120000 +0800">
+    <title lang="zh">聲畫合拍 9 - 第10集 - 咪嚟老兵妙妙屋</title>
+    <desc lang="zh">《咪嚟老兵妙妙屋》講述收地處職員Dinner奉命前往鯉魚島進行收地任務，夥拍一架會說話的橡皮艇、潛伏於地底的草人和一隻牛，展開一場攀山涉水的經歷。今集請來導演和歌手上來分享拍攝故事。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011120000 +0800" stop="20261011123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011123000 +0800" stop="20261011125500 +0800">
+    <title lang="zh">雲端對談 第六系列 - 第7集 - 嘉賓: 郭俊峯 (香港⼊境處處長)</title>
+    <desc lang="zh">郭俊峯(香港⼊境處處長)。自2023年起出任入境事務處處長至今。於1989年加入前人民入境事務處，任職助理入境事務主任。2009年晉升總入境事務主任，2013年晉升助理首席入境事務主任，2016年晉升首席入境事務主任。他於2020年晉升入境事務處助理處長，並於2022年晉升入境事務處副處長。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011125500 +0800" stop="20261011130000 +0800">
+    <title lang="zh">香港貿發局 聯繫全球機遇60年 - 第1集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011130000 +0800" stop="20261011140000 +0800">
+    <title lang="zh">擊戰 2 - 第7集 - 人生最狂時光 剛好你都在場</title>
+    <desc lang="zh">繼續殘酷的自組樂隊PK戰，8強女鼓手如何克服各種挑戰，包括由零開始組建樂隊，刻苦排練培養默契，編曲及設計舞台表演技巧，以及應付捉隊廝殺、殘酷二進一的淘汰賽際。本集登場的四位女鼓手，誰會交出最佳的臨場發揮，奪得寶貴的勝利名額…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011140000 +0800" stop="20261011143000 +0800">
+    <title lang="zh">大力情人 - 第5集 - 吊出愛火花 (I)</title>
+    <desc lang="zh">來到情人節，我們預備了特別環節—快問快答，一考他們的默契。接着的挑戰是最講求身體柔韌性的瑜伽，今集《大力情人》更將難度升級至空中雙人瑜伽，究竟一眾參賽者越玩越合拍，還是越玩越火滾？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011143000 +0800" stop="20261011153000 +0800">
+    <title lang="zh">鮮浪潮．語 2026 - 第8集 - 他不知道我知道</title>
+    <desc lang="zh">在後現代性別語境下，父親的形象與秘密如何交織？Joan探望受傷的父親，發現他與神秘男子阿傑之間的曖昧關係，揭示父職與性別之間的複雜張力。在魔幻寫實的畫面上，動物符號更添深意。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011153000 +0800" stop="20261011160000 +0800">
+    <title lang="zh">日本winwin企画 S2 - 第8集 - 賞櫻之旅</title>
+    <desc lang="zh">過往賞櫻總是匆匆忙忙，今次拍攝遇上櫻花季節，Win Win決定親自製作便當，學日本人坐在櫻花樹下，慢慢感受賞櫻的樂趣。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011160000 +0800" stop="20261011163000 +0800">
+    <title lang="zh">10個尖房故事 - 第6集 - 小朋友</title>
+    <desc lang="zh">健身，好似無小朋友嘅事，尖房與細路仿佛亦沾不上邊。然而對於擁有一個運動員夢的孩子，尖房可能係佢哋通往夢想嘅必經之地。今集由8歲屢破攀岩紀錄的Veronica，以及11歲劍壇新秀Anson，親自示範如何將尖房改造成追夢嘅跳板。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011163000 +0800" stop="20261011173000 +0800">
+    <title lang="zh">爆旋陀螺X 第3季 - 第130集 - 第四關...dayu～</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011173000 +0800" stop="20261011180000 +0800">
+    <title lang="zh">放學玩啲咩 - 第31集 - 水球</title>
+    <desc lang="zh">水球這一種結合游水以及手球的運動，原來這項運動已經有過百年的歷史。究竟這一種球類運動，對球場及球員有甚麼要求？比賽時的規則又是如何呢？今集就為大家一一介紹。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011180000 +0800" stop="20261011203000 +0800">
+    <title lang="zh">NBA中國賽2026 - 達拉斯獨行俠 對 侯斯頓火箭</title>
+    <desc lang="zh">達拉斯獨行俠 對 侯斯頓火箭</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011203000 +0800" stop="20261011210000 +0800">
+    <title lang="zh">新聞報道 (手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011210000 +0800" stop="20261011220000 +0800">
+    <title lang="zh">爆谷一周 - 第20集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011220000 +0800" stop="20261011223000 +0800">
+    <title lang="zh">CHILL CLUB - 第326集 - 嘉賓: 梁詠琪 Gigi - 「Gi前的歌」</title>
+    <desc lang="zh">本集嘉賓邀請了梁詠琪 Gigi，今集以「Gi前的歌」為主題，適逢今年是Gigi入行30周年，即將開演唱會的Gigi挑選了一些耳熟能詳的歌曲，讓各位一直支持Gigi的樂迷，可以在演唱會前率先重溫多首經典歌曲。此外，節目亦設有 「CHILL CLUB 推介榜」，與樂迷一同公布本週第一至第十位推介歌曲。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011223000 +0800" stop="20261011230000 +0800">
+    <title lang="zh">蠟筆小新 - 第272集</title>
+    <desc lang="zh">臼井儀人漫畫作品。五歲小孩野原新之助（小新）百厭趣怪，個性誇張自戀，是最令人頭痛的小朋友。小新與父親廣志、母親美冴、妹妹小葵住在埼玉縣的春日部市，最愛領著「雙葉幼稚園」的朋友你搞冒險，在日常生活中製造無數瘋狂趣事。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011230000 +0800" stop="20261011233000 +0800">
+    <title lang="zh">SPY×FAMILY間諜家家酒 第三季 - 第38集 - 伯林特大騷動／情報商與「夜帷」</title>
+    <desc lang="zh">佛傑一家在休假日來到公園，安妮亞心情愉快地大口吃著雪糕，但卻從邦德預知的未來中，發現工地即將發生事件，立即慌了手腳。她好不容易把洛伊德他們帶到現場，卻看到工人操控著挖泥車開始失控暴走…。
+
+費歐娜接下了「WISE」的任務，為了尋找專門從事印章偽造的專家而去求助於弗朗基。兩人在約定的俱樂部與偽造師見了面，但談判卻進展不順。就在此時，保安局突然現身…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261011233000 +0800" stop="20261012000000 +0800">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012000000 +0800" stop="20261012010000 +0800">
+    <title lang="zh">選角 - 第3集 - 白雪公主</title>
+    <desc lang="zh">第二場小組對決以《白雪公主》為題目，兩組參賽者形成強烈對比︰一組毫無隔閡，更有組員比賽後落淚的原因不在勝負，而是捨不得好夥伴；另一組卻意見分歧，比賽當日似乎也因而受到影響…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012010000 +0800" stop="20261012013000 +0800">
+    <title lang="zh">買不到的一餐 - 第3集 - 漁花海鮮</title>
+    <desc lang="zh">劏魚、在魚市場叫賣，或許不是每個人都能夠接受的工作。可是一位90後女生，大學畢後卻願意投身這行業，原來背後全是父親的栽培。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012013000 +0800" stop="20261012020000 +0800">
+    <title lang="zh">大力情人 - 第5集 - 吊出愛火花 (I)</title>
+    <desc lang="zh">來到情人節，我們預備了特別環節—快問快答，一考他們的默契。接着的挑戰是最講求身體柔韌性的瑜伽，今集《大力情人》更將難度升級至空中雙人瑜伽，究竟一眾參賽者越玩越合拍，還是越玩越火滾？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012020000 +0800" stop="20261012023000 +0800">
+    <title lang="zh">日本winwin企画 S2 - 第8集 - 賞櫻之旅</title>
+    <desc lang="zh">過往賞櫻總是匆匆忙忙，今次拍攝遇上櫻花季節，Win Win決定親自製作便當，學日本人坐在櫻花樹下，慢慢感受賞櫻的樂趣。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012023000 +0800" stop="20261012030000 +0800">
+    <title lang="zh">潛在挑戰中 - 第10集 - 成長見証</title>
+    <desc lang="zh">每一次潛水經歷都使人成長，本集記錄四位潛水員這段時間的特別見聞，令他們在心態及技術層面大幅進步。例如與特別嘉賓一起潛水，見證她順利考得O牌，過程中大家學會保持正面，勇敢面對上水及水底的困難。在菲律賓，他們潛入珍珠場，見証罕有珍珠採摘過程，令大家大開眼界。下星期，他們將會踏上日本之旅，繼續迎接不同挑戰。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012030000 +0800" stop="20261012033000 +0800">
+    <title lang="zh">MM730 - 困獸鬥 - 第25集 - 朋友特輯 (II)</title>
+    <desc lang="zh">繼續朋友特輯下集，今次先玩經典遊戲「估人物」，保錡憑着亂說一通成功誤導所有人，但他自己又能否猜中自己頭上的那位人物呢？第二個遊戲是常識問答比賽，誰人最有常識，能夠勝出比賽？最後與朋友攜手勝出的，又是哪一位主持呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012033000 +0800" stop="20261012040000 +0800">
+    <title lang="zh">識碳惜生活 - 第5集 - 貫徹理念的故事</title>
+    <desc lang="zh">怎樣由愛護動物到素食，再結合環境理念，讓我們一起聽聽Kay的故事。另外，Leo又如何因旅行的發現，而在香港開設可持續發展的概念店舖呢。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012040000 +0800" stop="20261012043000 +0800">
+    <title lang="zh">聲畫合拍 9 - 第10集 - 咪嚟老兵妙妙屋</title>
+    <desc lang="zh">《咪嚟老兵妙妙屋》講述收地處職員Dinner奉命前往鯉魚島進行收地任務，夥拍一架會說話的橡皮艇、潛伏於地底的草人和一隻牛，展開一場攀山涉水的經歷。今集請來導演和歌手上來分享拍攝故事。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012043000 +0800" stop="20261012050000 +0800">
+    <title lang="zh">10個尖房故事 - 第7集 - HeHe</title>
+    <desc lang="zh">尖房是基界集中地？同志是健身界的中流砥柱？是耶非耶，不妨聽聽今集故事主人翁Barry以個人經歷現身說法: 原來不論年齡性別種族取向，在運動路上玩得埋才是真community! Barry 更會向兩位主持及嘉賓Kiri T下一道CrossFit戰書，來個交叉全方位大挑戰。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012050000 +0800" stop="20261012053000 +0800">
+    <title lang="zh">雙線運動人生 - 第61集 - VX球運動員</title>
+    <desc lang="zh">Karen，擁有社工與運動員的雙重身份，她用專業關懷別人，也用運動挑戰自我。Karen證明即使工作繁忙，依然能在球場上全力以赴，練習擊球、防守與團隊配合。VX球在香港屬新興小眾運動，結合速度、技巧與策略，講求反應與默契。Karen 多年來堅持訓練，積極參與賽事及推廣活動，以穩定表現與熱血態度為港爭光。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012053000 +0800" stop="20261012060000 +0800">
+    <title lang="zh">設計新態度 - 第67集 - 壁畫 (II)</title>
+    <desc lang="zh">畫作除了可以在平面呈現，又如何變成立體的作品，在家具上呈現？今集繼續聽聽藝術家們的分享。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012060000 +0800" stop="20261012090000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012090000 +0800" stop="20261012093000 +0800">
+    <title lang="zh">平行教室 - 第15集 - 我想成為「陶藝家」</title>
+    <desc lang="zh">專注於陶藝創作的藝術家- Beavis，透過雙手與泥土對話。結合傳統技法與當代美學，創作兼具實用性與雕塑感的器物，在拉坯與燒製過程中探索材質的無限可能。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012093000 +0800" stop="20261012110000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012110000 +0800" stop="20261012113000 +0800">
+    <title lang="zh">智富通 - 第599集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012113000 +0800" stop="20261012120000 +0800">
+    <title lang="zh">不一樣的家人 - 第8集 - 保姆</title>
+    <desc lang="zh">Ronald自小曾在保姆蘇太家中生活，蘇太的悉心照顧成為Ronald童年中最溫暖的依靠。今次Ronald帶住主持回到愛民邨探訪蘇太，重拾昔日點滴，回憶中滿載感恩。為報答蘇太當年嘅照顧，Ronald親自下廚。即使簡單一餐家常便飯，卻充滿了超過20年的情感。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012120000 +0800" stop="20261012123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012123000 +0800" stop="20261012125500 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1654集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012125500 +0800" stop="20261012130000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1469集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012130000 +0800" stop="20261012133000 +0800">
+    <title lang="zh">大鳴大放 - 第1018集</title>
+    <desc lang="zh">《大鳴大放》是一個30分鐘的時事討論節目，識英雄重英雄，請來各界重磅名人，拋出論點，言無不盡，深入討論時事，跨越維港神州，宏觀全世界。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012133000 +0800" stop="20261012140000 +0800">
+    <title lang="zh">730 玩返轉 - 第317集 - 深圳自然博物館｜珠峰大本營日落</title>
+    <desc lang="zh">《730 玩返轉》Anton走訪深圳自然博物館，這個全新文化地標以豐富展品與互動體驗，展現自然萬物的奧秘。阿Luke分享在英國到過一個難忘小鎮的經歷，以及多年來做廚的心得體會。Cindy前往西藏珠峰大本營，一睹全球最高峰的日落美景，在世界的頂端感受大自然的壯麗與震撼。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012140000 +0800" stop="20261012150000 +0800">
+    <title lang="zh">好拍檔 - 第3集</title>
+    <desc lang="zh">宥利決定告訴恩京，她丈夫出軌一事，原來恩京早知此事…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012150000 +0800" stop="20261012160000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012160000 +0800" stop="20261012163000 +0800">
+    <title lang="zh">小獸醫維達 - 第19集 - 鼠BB長牙齒的煩惱 / 迪比被太陽灼傷</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012163000 +0800" stop="20261012170000 +0800">
+    <title lang="zh">史諾比上太空 - 第1集 - 開始探索 / 全新任務 / 機械人</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012170000 +0800" stop="20261012173000 +0800">
+    <title lang="zh">熊出沒之小小世界 2 - 第15集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012173000 +0800" stop="20261012180000 +0800">
+    <title lang="zh">經緯線 - 第526集 - 人與狗，敵或友？</title>
+    <desc lang="zh">專題式深入報道香港及世界熱門時事。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012180000 +0800" stop="20261012183000 +0800">
+    <title lang="zh">6點新聞報道 (手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012183000 +0800" stop="20261012190000 +0800">
+    <title lang="zh">美女與純情男 - 第127集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012190000 +0800" stop="20261012193000 +0800">
+    <title lang="zh">7點新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012193000 +0800" stop="20261012200000 +0800">
+    <title lang="zh">730 玩返轉 - 第318集</title>
+    <desc lang="zh">《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012200000 +0800" stop="20261012203000 +0800">
+    <title lang="zh">煮題研習社 - 第9集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012203000 +0800" stop="20261012213000 +0800">
+    <title lang="zh">直樂VIURIETY 考朋友大作戰 - 第7集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012213000 +0800" stop="20261012223000 +0800">
+    <title lang="zh">地獄大狀 - 第6集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012223000 +0800" stop="20261012230000 +0800">
+    <title lang="zh">MIRROR ACE - 第1集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012230000 +0800" stop="20261012233000 +0800">
+    <title lang="zh">晚吹 - 怨女俱樂部 - 第75集 - 有咩病咁唔見得光?</title>
+    <desc lang="zh">運動健將長期發燒，繼而出現腦霧及短暫失明，多番求診後才證實患上紅斑狼瘡症。惡疾襲來，生活從此面臨巨變——接觸陽光或壓力過大，皆會長滿紅疹、口腔潰爛；一覺醒來，枕頭甚至滿佈鮮血。無限痛楚曾令她陷入絕境，幸得友人支持才得以走出鬼門關。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012233000 +0800" stop="20261012233500 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1470集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261012233500 +0800" stop="20261013003000 +0800">
+    <title lang="zh">日本第一的爛男人-我的假家人們 - 第9集</title>
+    <desc lang="zh">一平被大江戶區長長谷川要求協助制定重新開發計劃。然而，計劃重建的區域包括一平和他的家人居住的房子和購物區。正當一平被這突如其來的消息震驚不已時</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013003000 +0800" stop="20261013010000 +0800">
+    <title lang="zh">初戀Action! - 第12集 - 戀愛2選1</title>
+    <desc lang="zh">不少初戀都發生在學生時期，Winka 和初戀對象相約在放學後，結果對方的球隊卻要臨時加練。一邊是和戀人的約定，一邊是球隊的責任，面對兩難的局面，男嘉賓又會怎樣抉選呢？原來 Ansonbean 哄人都有一手！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013010000 +0800" stop="20261013013000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1654集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013013000 +0800" stop="20261013023000 +0800">
+    <title lang="zh">無用的謊言 - 第17集</title>
+    <desc lang="zh">道河厭倦了這種情況，決定不再等待，並要親自找到罪魁禍首，以洗清自己的罪名…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013023000 +0800" stop="20261013030000 +0800">
+    <title lang="zh">深宵新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013030000 +0800" stop="20261013040000 +0800">
+    <title lang="zh">冥冥之中 - 第25集</title>
+    <desc lang="zh">代理公司幕後終極死神「大長老」重臨香港，似是要親自接手「滅世計劃」。彭森與大長老正面交鋒，二人赤手空拳，近身肉搏，竟然打成平手。大長老開門見山，希望彭森能接替自己成為下一任大長老，條件就是幫助完成滅世。彭森欣然答應接任大長老之位，只不過是用他自己的方法……</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013040000 +0800" stop="20261013042500 +0800">
+    <title lang="zh">晚吹 - 怨女俱樂部 - 第75集 - 有咩病咁唔見得光?</title>
+    <desc lang="zh">運動健將長期發燒，繼而出現腦霧及短暫失明，多番求診後才證實患上紅斑狼瘡症。惡疾襲來，生活從此面臨巨變——接觸陽光或壓力過大，皆會長滿紅疹、口腔潰爛；一覺醒來，枕頭甚至滿佈鮮血。無限痛楚曾令她陷入絕境，幸得友人支持才得以走出鬼門關。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013042500 +0800" stop="20261013043000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1470集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013043000 +0800" stop="20261013050000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1654集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013050000 +0800" stop="20261013060000 +0800">
+    <title lang="zh">掌心 - 第22集</title>
+    <desc lang="zh">葉平安設局揭露海宜平真相，海宜平最終被揭露罪行，葉平安以智慧化解危機，聖上下令重查御史案。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013060000 +0800" stop="20261013090000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013090000 +0800" stop="20261013093000 +0800">
+    <title lang="zh">設計新態度 - 第67集 - 壁畫 (II)</title>
+    <desc lang="zh">畫作除了可以在平面呈現，又如何變成立體的作品，在家具上呈現？今集繼續聽聽藝術家們的分享。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013093000 +0800" stop="20261013110000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013110000 +0800" stop="20261013113000 +0800">
+    <title lang="zh">智富通 - 第600集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013113000 +0800" stop="20261013120000 +0800">
+    <title lang="zh">不一樣的家人 - 第9集 - 繼母</title>
+    <desc lang="zh">Zoe與繼母Minnie的關係，曾因學業壓力而出現裂痕，爭執不斷，甚至長時間冷戰！兩人如何從傷痛中慢慢拉近距離，再一次擁抱對方？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013120000 +0800" stop="20261013123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013123000 +0800" stop="20261013125500 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1655集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013125500 +0800" stop="20261013130000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1470集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013130000 +0800" stop="20261013133000 +0800">
+    <title lang="zh">文藝誌 - 第80集 - 速寫 (I)</title>
+    <desc lang="zh">速寫畫家怎樣輾轉加入文化館，又為大家帶來了什麼作品？今集一起聽聽他的分享。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013133000 +0800" stop="20261013140000 +0800">
+    <title lang="zh">730 玩返轉 - 第318集</title>
+    <desc lang="zh">《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013140000 +0800" stop="20261013150000 +0800">
+    <title lang="zh">好拍檔 - 第4集</title>
+    <desc lang="zh">宥利驚訝於恩京在得知智尚外遇後仍不想與他離婚…宥利終於開始獨自和客戶諮詢，並接下了她的第一宗案。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013150000 +0800" stop="20261013160000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013160000 +0800" stop="20261013163000 +0800">
+    <title lang="zh">小獸醫維達 - 第20集 - 甜密樹林下雪了 / 甜密樹林地滑滑</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013163000 +0800" stop="20261013170000 +0800">
+    <title lang="zh">史諾比上太空 - 第2集 - 火星 / 木衛二 / 金星</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013170000 +0800" stop="20261013173000 +0800">
+    <title lang="zh">熊出沒之小小世界 2 - 第16集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013173000 +0800" stop="20261013180000 +0800">
+    <title lang="zh">一周睇樓團 - 第300集</title>
+    <desc lang="zh">為大家搜羅香港最新地產資訊，包括新盤介紹、二手放盤，以及特色的家居設計。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013180000 +0800" stop="20261013183000 +0800">
+    <title lang="zh">6點新聞報道 (手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013183000 +0800" stop="20261013190000 +0800">
+    <title lang="zh">美女與純情男 - 第128集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013190000 +0800" stop="20261013193000 +0800">
+    <title lang="zh">7點新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013193000 +0800" stop="20261013200000 +0800">
+    <title lang="zh">730 玩返轉 - 第319集</title>
+    <desc lang="zh">《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013200000 +0800" stop="20261013203000 +0800">
+    <title lang="zh">煮題研習社 - 第10集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013203000 +0800" stop="20261013213000 +0800">
+    <title lang="zh">直樂VIURIETY The Choose Day 2.0 - 第7集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013213000 +0800" stop="20261013223000 +0800">
+    <title lang="zh">地獄大狀 - 第7集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013223000 +0800" stop="20261013230000 +0800">
+    <title lang="zh">MIRROR ACE - 第2集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013230000 +0800" stop="20261013233000 +0800">
+    <title lang="zh">晚吹 - 男人亂講嘢 - 第52集</title>
+    <desc lang="zh">節目介紹
+男人該如何面對覺醒（WOKE）的美好新世界？ 為紓緩廣大男士焦慮和不安，193、阿Thor、灘叔，每星期都會同你圍爐亂講一通，一齊笑著尋找當下世界觀、刷新固有價值觀、重塑男人三十、四十、五十路人生觀！唔係要話人知男人曾經有幾威，而係要居安思危、探討家下男人有幾閉翳！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013233000 +0800" stop="20261013233500 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1471集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261013233500 +0800" stop="20261014003000 +0800">
+    <title lang="zh">日本第一的爛男人-我的假家人們 - 第10集</title>
+    <desc lang="zh">一平以無黨派的身份參選大江戶區區長選舉，黑岩命令秘書調查一平的過去，想找出他的醜聞…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014003000 +0800" stop="20261014010000 +0800">
+    <title lang="zh">初戀Action! - 第13集 - 遠距離戀愛</title>
+    <desc lang="zh">如果可以不分離，誰又願意和愛人分開呢？但是兩個人的人生規劃卻又未必能緊緊黏在一起。Grace 和初戀對象展開了遠距離戀愛，卻因為沒有安全感，導致懷疑開始、爭吵不斷。為了挽回這段關係，男嘉賓又會使出什麼招數呢？</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014010000 +0800" stop="20261014013000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1655集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014013000 +0800" stop="20261014023000 +0800">
+    <title lang="zh">無用的謊言 - 第18集</title>
+    <desc lang="zh">道河懷疑嚴智的父親，她父親承認原本希望嚴智死後能索取保險金，但否認參與謀殺…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014023000 +0800" stop="20261014030000 +0800">
+    <title lang="zh">深宵新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014030000 +0800" stop="20261014040000 +0800">
+    <title lang="zh">冥冥之中 - 第26集</title>
+    <desc lang="zh">寶玲之死令彭森等人更覺大長老神通廣大，阻止滅世無望。同時間，慈善機構宣佈推行一個全民參與的慈善活動，為的就是讓全世界的人都成為死亡代理，參與執行黑信封任務。眾人深感無力，一切，似是大局已定……然而，彭森始終不願放棄，更不肯認輸，仍在盡最後的一絲努力，即使只能帶來一絲改變。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014040000 +0800" stop="20261014042500 +0800">
+    <title lang="zh">晚吹 - 男人亂講嘢 - 第52集</title>
+    <desc lang="zh">節目介紹
+男人該如何面對覺醒（WOKE）的美好新世界？ 為紓緩廣大男士焦慮和不安，193、阿Thor、灘叔，每星期都會同你圍爐亂講一通，一齊笑著尋找當下世界觀、刷新固有價值觀、重塑男人三十、四十、五十路人生觀！唔係要話人知男人曾經有幾威，而係要居安思危、探討家下男人有幾閉翳！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014042500 +0800" stop="20261014043000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1471集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014043000 +0800" stop="20261014050000 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1655集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014050000 +0800" stop="20261014060000 +0800">
+    <title lang="zh">掌心 - 第23集</title>
+    <desc lang="zh">葉平安作為人證上堂，揭露御史案內幕，海宜平認罪，御史案得以平反，但葉平安失去了查案的執念，一時間竟不知該如何繼續生活下去…</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014060000 +0800" stop="20261014090000 +0800">
+    <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014090000 +0800" stop="20261014093000 +0800">
+    <title lang="zh">識碳惜生活 - 第5集 - 貫徹理念的故事</title>
+    <desc lang="zh">怎樣由愛護動物到素食，再結合環境理念，讓我們一起聽聽Kay的故事。另外，Leo又如何因旅行的發現，而在香港開設可持續發展的概念店舖呢。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014093000 +0800" stop="20261014110000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014110000 +0800" stop="20261014113000 +0800">
+    <title lang="zh">智富通 - 第601集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014113000 +0800" stop="20261014120000 +0800">
+    <title lang="zh">不一樣的家人 - 第10集 - Zoe的感激</title>
+    <desc lang="zh">成為人母後的Zoe用另一角度體會Minnie當年對自己的用心良苦，也明白彼此的爭執中隱藏著深深的愛。為彌補過去的遺憾，Zoe特別準備驚喜給Minnie，表達心底最深的感激與歉意。原來，親情的力量，總能修補彼此生命中的裂縫。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014120000 +0800" stop="20261014123000 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014123000 +0800" stop="20261014125500 +0800">
+    <title lang="zh">CHILL CLUB 推介 - 第1656集</title>
+    <desc lang="zh">一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014125500 +0800" stop="20261014130000 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1471集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014130000 +0800" stop="20261014133000 +0800">
+    <title lang="zh">給香港的情書 貳 - 第13集 - 巨人染 - 張智晞 Josh、蕭芷澄 Siu</title>
+    <desc lang="zh">張智晞（Josh）和蕭芷澄（Siu）這對來自台港的藝術夫妻檔，自2014年以「巨人染」為名，融合傳統天然染色工藝與現代藝術。他們的作品富有空間感，曾在香港、台灣、日本及澳門展出。兩人原本從事表演及餐飲業，但因對藝術的熱愛決定轉型。他們的作品「願望之花」被青少年廣場收藏，並在全港最大染色個展中引起極大反響。Josh和Siu在過程中不僅追求自由與創新，還探索植物印染，體現對不同文化的理解與敬意。他們啟示一眾年輕創作人，勇於追尋夢想的人，終會找到理想的方向。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014133000 +0800" stop="20261014140000 +0800">
+    <title lang="zh">730 玩返轉 - 第319集</title>
+    <desc lang="zh">《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014140000 +0800" stop="20261014150000 +0800">
+    <title lang="zh">好拍檔 - 第5集</title>
+    <desc lang="zh">然而，客戶決定放棄訴訟。宥利決定辭去離婚部門的工作…恩京請宥利代表她與智尚離婚。恩京向莎拉傳了一封投訴信，令辦公室裡的每個人都知道她捲入了一件不光彩的事。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014150000 +0800" stop="20261014160000 +0800">
+    <title lang="zh">交易時段</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014160000 +0800" stop="20261014163000 +0800">
+    <title lang="zh">小獸醫維達 - 第21集 - 輕微絆倒的維達 / 甜蜜樹林打噴嚏日</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014163000 +0800" stop="20261014170000 +0800">
+    <title lang="zh">史諾比上太空 - 第3集 - 赫拉 / 系外行星 / 發現</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014170000 +0800" stop="20261014173000 +0800">
+    <title lang="zh">熊出沒之小小世界 2 - 第17集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014173000 +0800" stop="20261014180000 +0800">
+    <title lang="zh">雙線運動人生 - 第62集</title>
+    <desc lang="zh">《雙線運動人生》聚焦香港兼職運動員的故事。每集邀請一位從事普通職業、卻在閒暇投身運動的嘉賓，分享他們如何在繁忙的香港生活中平衡工作與熱情。他們用汗水與毅力詮釋「雙重身份」的精彩。節目呈現他們的起點、低谷與突破，探討時間管理、經濟壓力等挑戰，以及對夢想的執著。從日常訓練的堅持，到比賽中的難忘瞬間，觀眾將看到他們如何在快節奏的城市中為自己爭取一席之地。</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014180000 +0800" stop="20261014183000 +0800">
+    <title lang="zh">6點新聞報道 (手語新聞)</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014183000 +0800" stop="20261014190000 +0800">
+    <title lang="zh">美女與純情男 - 第129集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014190000 +0800" stop="20261014193000 +0800">
+    <title lang="zh">7點新聞報道</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014193000 +0800" stop="20261014200000 +0800">
+    <title lang="zh">730 玩返轉 - 第320集</title>
+    <desc lang="zh">《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014200000 +0800" stop="20261014203000 +0800">
+    <title lang="zh">煮題研習社 - 第11集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014203000 +0800" stop="20261014213000 +0800">
+    <title lang="zh">直樂VIURIETY 邊個瞓梳化？ - 第7集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014213000 +0800" stop="20261014223000 +0800">
+    <title lang="zh">地獄大狀 - 第8集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014223000 +0800" stop="20261014230000 +0800">
+    <title lang="zh">MIRROR ACE - 第3集</title>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014230000 +0800" stop="20261014233000 +0800">
+    <title lang="zh">晚吹 - 空肚講宵夜 - 第344集 - 麵包</title>
+    <desc lang="zh">麵包放題嚟啦！由漢堡包食到傳統麵包，兒時回憶返晒嚟！阿祖分享紐約之旅遇到海鮮價熱狗車比平時貴多2倍！Hailey旅遊想食新鮮出爐冬甩，可惜經過幾次都食唔到，最後帶住遺憾返港！</desc>
+  </programme>
+  <programme channel="ViuTV.hk" start="20261014233000 +0800" stop="20261014233500 +0800">
+    <title lang="zh">3 分鐘熱度 - 第1472集</title>
+    <desc lang="zh">娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007203000 +0800" stop="20261007213000 +0800">
+    <title lang="zh">直樂VIURIETY 邊個瞓梳化？ - 第6集 - 嘉賓: 梁愷傑 (李綺雯丈夫)、李綺雯</title>
+    <desc lang="zh">今集《邊個瞓梳化？》請來李綺雯與丈夫 Ocean。二人剛於五月結婚，身份除了是新婚夫婦，更是合作無間的生意夥伴，攜手經營健身室。他們的默契能否經得起節目考驗？節目尾聲的「家庭大審判」環節中，Ocean 更會親自上陣控告綺雯兩條罪名。</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007213000 +0800" stop="20261007223000 +0800">
+    <title lang="zh">地獄大狀 - 第3集 - 蔭蔭的計劃</title>
+    <desc lang="zh">蔭蔭想到辦法證明石松的遺願，同時再度遇上追殺她的兇手…</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007210000 +0800" stop="20261007220000 +0800">
+    <title lang="zh">地球災難誌 - 第4集 - Volcano</title>
+    <desc lang="zh">Violent Earth with Liev Schreiber explores the unbelievable science behind epic natural disasters. Featuring incredible footage and interviews with scientists, storm chasers, and survivors, this series examines our changing climate.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007220000 +0800" stop="20261007230000 +0800">
+    <title lang="zh">20/20時事雜誌 - 第477集 - Driven to Death (Part.1)</title>
+    <desc lang="zh">ABC News' acclaimed series </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007001500 +0800" stop="20261007013000 +0800">
+    <title lang="zh">農場蜜語 - 澳洲篇 - 第9集</title>
+    <desc lang="zh">Farmer Wants A Wife returns for a 13th series with five new farmers joining the search for true love. We follow their journeys as each pick five potential partners from thousands of hopefuls, before going through a series of solo and group dates on the farm – from a camping trip to a family get together and more. With a shocking twist midway through the series and major life choices to be made, there’s drama and romance like never before as this year’s farmers sow the seeds of love.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007013000 +0800" stop="20261007014500 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第351集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007014500 +0800" stop="20261007021000 +0800">
+    <title lang="zh">Jamie Oliver: 季節料理 - 第5集</title>
+    <desc lang="zh">Jamie takes us through the year, celebrating the gorgeous ingredients and what we can make with them as they come into season. He takes us on a delicious journey through the kitchen calendar, celebrating delicious, weird, wonderful, beautiful and wonky produce with inspiring recipes for when they’re at their best, helping us to eat well for ourselves and the planet.  This series is a celebration of sustainable, seasonal produce and how to cook it;  whether we’ve grown it ourselves or found it in a farmer’s market, greengrocer’s, or the supermarket.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007021000 +0800" stop="20261007090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007090000 +0800" stop="20261007091500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第21集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007091500 +0800" stop="20261007093000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第22集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007093000 +0800" stop="20261007100000 +0800">
+    <title lang="zh">Silly Sundays - 第25集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007100000 +0800" stop="20261007102500 +0800">
+    <title lang="zh">愛因斯坦大挑戰 - 第11集</title>
+    <desc lang="zh">The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007102500 +0800" stop="20261007104500 +0800">
+    <title lang="zh">愛因斯坦大挑戰 - 第12集</title>
+    <desc lang="zh">The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007104500 +0800" stop="20261007110000 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第350集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007110000 +0800" stop="20261007120000 +0800">
+    <title lang="zh">消失的古文明 - 第2集</title>
+    <desc lang="zh">Vanished History is an enthralling documentary series that uses an investigative approach to unlock some of the most enigmatic mysteries of all time. From Cleopatra’s secret crypt and Genghis Khan’s long-lost tomb, to ghost ships, abandoned cities, and missing treasures, it’s a cutting-edge deep dive into the unknown.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007120000 +0800" stop="20261007130000 +0800">
+    <title lang="zh">世界羽聯巡迴賽 2026 中國大師賽 - 第12集 - 男雙決賽</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007130000 +0800" stop="20261007133000 +0800">
+    <title lang="zh">NHK Newsline</title>
+    <desc lang="zh">NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007133000 +0800" stop="20261007140000 +0800">
+    <title lang="zh">科茲窩星級廚房 - 第1集</title>
+    <desc lang="zh">Prue whips up delicious food, welcomes guests, shares kitchen hacks and cooks alongside husband John. Prue celebrates UK food heroes and John explores local countryside crafts.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007140000 +0800" stop="20261007150000 +0800">
+    <title lang="zh">Case File 96: Most Likely to Murder - 第7集</title>
+    <desc lang="zh">Chronicling the chilling true crime stories of implausible young killers hiding in plain sight, Most Likely to Murder takes viewers to American high schools and campuses, revealing that—from straight-A students to the star quarterback—the cold-blooded killer is the person you’d least suspect.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007150000 +0800" stop="20261007153000 +0800">
+    <title lang="zh">Al Jazeera News Live</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007153000 +0800" stop="20261007160000 +0800">
+    <title lang="zh">探索塔斯之旅 - 第13集</title>
+    <desc lang="zh">Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover the hidden gems to ensure that the very best stories are no longer </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007160000 +0800" stop="20261007163000 +0800">
+    <title lang="zh">DW News</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007163000 +0800" stop="20261007164500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第23集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007164500 +0800" stop="20261007170000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第24集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007170000 +0800" stop="20261007173000 +0800">
+    <title lang="zh">Silly Sundays - 第26集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007173000 +0800" stop="20261007180000 +0800">
+    <title lang="zh">Klincus - 第21集</title>
+    <desc lang="zh">Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007180000 +0800" stop="20261007183000 +0800">
+    <title lang="zh" />
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007183000 +0800" stop="20261007190000 +0800">
+    <title lang="zh">Nature Cat S4 - 第9集</title>
+    <desc lang="zh">An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007190000 +0800" stop="20261007191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007191500 +0800" stop="20261007193000 +0800">
+    <title lang="zh">Isadora Moon - 第47集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007193000 +0800" stop="20261007200000 +0800">
+    <title lang="zh">孖住傾 • 孖住煮 - 第69集</title>
+    <desc lang="zh">Kate Alexander Daniels turns one meal into many—fresh, easy and delicious dishes!</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007200000 +0800" stop="20261007210000 +0800">
+    <title lang="zh">拼字王爭霸 - 第7集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007210000 +0800" stop="20261007220000 +0800">
+    <title lang="zh">地球災難誌 - 第4集 - Volcano</title>
+    <desc lang="zh">Violent Earth with Liev Schreiber explores the unbelievable science behind epic natural disasters. Featuring incredible footage and interviews with scientists, storm chasers, and survivors, this series examines our changing climate.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007220000 +0800" stop="20261007230000 +0800">
+    <title lang="zh">20/20時事雜誌 - 第477集 - Driven to Death (Part.1)</title>
+    <desc lang="zh">ABC News' acclaimed series </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007230000 +0800" stop="20261007231500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261007231500 +0800" stop="20261008005500 +0800">
+    <title lang="zh">America's Got Talent S19 - 第13集</title>
+    <desc lang="zh">A talent competition where an array of performers -- from singers and dancers, to comedians and novelty acts -- vie for a $1 million cash prize.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008005500 +0800" stop="20261008021000 +0800">
+    <title lang="zh">農場蜜語 - 澳洲篇 - 第10集</title>
+    <desc lang="zh">Farmer Wants A Wife returns for a 13th series with five new farmers joining the search for true love. We follow their journeys as each pick five potential partners from thousands of hopefuls, before going through a series of solo and group dates on the farm – from a camping trip to a family get together and more. With a shocking twist midway through the series and major life choices to be made, there’s drama and romance like never before as this year’s farmers sow the seeds of love.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008021000 +0800" stop="20261008090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008090000 +0800" stop="20261008091500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第23集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008091500 +0800" stop="20261008093000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第24集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008093000 +0800" stop="20261008100000 +0800">
+    <title lang="zh">Silly Sundays - 第26集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008100000 +0800" stop="20261008110000 +0800">
+    <title lang="zh">拼字王爭霸 - 第7集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008110000 +0800" stop="20261008120000 +0800">
+    <title lang="zh">地球災難誌 - 第4集 - Volcano</title>
+    <desc lang="zh">Violent Earth with Liev Schreiber explores the unbelievable science behind epic natural disasters. Featuring incredible footage and interviews with scientists, storm chasers, and survivors, this series examines our changing climate.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008120000 +0800" stop="20261008130000 +0800">
+    <title lang="zh">世界羽聯巡迴賽 2026 中國大師賽 - 第13集 - 女單決賽</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008130000 +0800" stop="20261008133000 +0800">
+    <title lang="zh">NHK Newsline</title>
+    <desc lang="zh">NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008133000 +0800" stop="20261008140000 +0800">
+    <title lang="zh">孖住傾 • 孖住煮 - 第69集</title>
+    <desc lang="zh">Kate Alexander Daniels turns one meal into many—fresh, easy and delicious dishes!</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008140000 +0800" stop="20261008150000 +0800">
+    <title lang="zh">20/20時事雜誌 - 第477集 - Driven to Death (Part.1)</title>
+    <desc lang="zh">ABC News' acclaimed series </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008150000 +0800" stop="20261008153000 +0800">
+    <title lang="zh">Al Jazeera News Live</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008153000 +0800" stop="20261008160000 +0800">
+    <title lang="zh">探索塔斯之旅 - 第14集</title>
+    <desc lang="zh">Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover the hidden gems to ensure that the very best stories are no longer </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008160000 +0800" stop="20261008163000 +0800">
+    <title lang="zh">DW News</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008163000 +0800" stop="20261008164500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第25集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008164500 +0800" stop="20261008170000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第26集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008170000 +0800" stop="20261008171500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第1集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008171500 +0800" stop="20261008173000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第2集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008173000 +0800" stop="20261008180000 +0800">
+    <title lang="zh">Klincus - 第22集</title>
+    <desc lang="zh">Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008180000 +0800" stop="20261008183000 +0800">
+    <title lang="zh" />
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008183000 +0800" stop="20261008190000 +0800">
+    <title lang="zh">Nature Cat S4 - 第10集</title>
+    <desc lang="zh">An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008190000 +0800" stop="20261008191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008191500 +0800" stop="20261008193000 +0800">
+    <title lang="zh">Isadora Moon - 第48集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008193000 +0800" stop="20261008200000 +0800">
+    <title lang="zh">孖住傾 • 孖住煮 - 第70集</title>
+    <desc lang="zh">Kate Alexander Daniels turns one meal into many—fresh, easy and delicious dishes!</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008200000 +0800" stop="20261008210000 +0800">
+    <title lang="zh">甜品鑑證科 - 第8集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008210000 +0800" stop="20261008230000 +0800">
+    <title lang="zh">潛龍轟天</title>
+    <desc lang="zh">When a turncoat CIA agent and his mercenaries seize a Marine battleship to obtain the nuclear warheads, the only person aboard that can save the ship's chef, who happens to be a former Navy SEAL.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008230000 +0800" stop="20261008231500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261008231500 +0800" stop="20261009001500 +0800">
+    <title lang="zh">America's Got Talent S19 - 第14集</title>
+    <desc lang="zh">A talent competition where an array of performers -- from singers and dancers, to comedians and novelty acts -- vie for a $1 million cash prize.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009001500 +0800" stop="20261009003000 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第350集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009003000 +0800" stop="20261009010000 +0800">
+    <title lang="zh">Donal私房菜 - 第2集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009010000 +0800" stop="20261009021000 +0800">
+    <title lang="zh">農場蜜語 - 澳洲篇 - 第11集</title>
+    <desc lang="zh">Farmer Wants A Wife returns for a 13th series with five new farmers joining the search for true love. We follow their journeys as each pick five potential partners from thousands of hopefuls, before going through a series of solo and group dates on the farm – from a camping trip to a family get together and more. With a shocking twist midway through the series and major life choices to be made, there’s drama and romance like never before as this year’s farmers sow the seeds of love.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009021000 +0800" stop="20261009090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009090000 +0800" stop="20261009091500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第25集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009091500 +0800" stop="20261009093000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第26集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009093000 +0800" stop="20261009094500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第1集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009094500 +0800" stop="20261009100000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第2集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009100000 +0800" stop="20261009110000 +0800">
+    <title lang="zh">甜品鑑證科 - 第8集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009110000 +0800" stop="20261009120000 +0800">
+    <title lang="zh">皇室檔案：喬治王子</title>
+    <desc lang="zh">The hopes of a nation resting on his shoulders, Prince George is destined for greatness. This unique young man represents both the future of the Royal Family and the entire institution of the monarchy. But how could anybody possibly learn to be the King… the most exclusive job in the world? In this documentary, we will uncover the secrets of his royal upbringing; how he is raised, his education, the Royal rituals he must learn, and how his modern upbringing is bringing the Royal Family kicking and screaming into the modern age.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009120000 +0800" stop="20261009130000 +0800">
+    <title lang="zh">英超故事26/27 - 第18集 - 文仙尼</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009130000 +0800" stop="20261009133000 +0800">
+    <title lang="zh">今週ATP 2026 - 第38集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009133000 +0800" stop="20261009140000 +0800">
+    <title lang="zh">孖住傾 • 孖住煮 - 第70集</title>
+    <desc lang="zh">Kate Alexander Daniels turns one meal into many—fresh, easy and delicious dishes!</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009140000 +0800" stop="20261009150000 +0800">
+    <title lang="zh">鄂圖曼帝國鐵道行 - 第3集</title>
+    <desc lang="zh">Professor Alice Roberts, will go on a journey into the heart of the Ottoman Empire’s illustrious past as she travels throughout Turkey and beyond via the Empire’s epic local railway routes, which will offer some wonderful views along the way…</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009150000 +0800" stop="20261009153000 +0800">
+    <title lang="zh">Al Jazeera News Live</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009153000 +0800" stop="20261009160000 +0800">
+    <title lang="zh">恩雨之聲 2026 - 第5集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009160000 +0800" stop="20261009163000 +0800">
+    <title lang="zh">DW News</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009163000 +0800" stop="20261009164500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第27集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009164500 +0800" stop="20261009170000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第28集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009170000 +0800" stop="20261009171500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第3集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009171500 +0800" stop="20261009173000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第4集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009173000 +0800" stop="20261009180000 +0800">
+    <title lang="zh">Klincus - 第23集</title>
+    <desc lang="zh">Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009180000 +0800" stop="20261009183000 +0800">
+    <title lang="zh" />
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009183000 +0800" stop="20261009190000 +0800">
+    <title lang="zh">Nature Cat S5</title>
+    <desc lang="zh">An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009190000 +0800" stop="20261009191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009191500 +0800" stop="20261009193000 +0800">
+    <title lang="zh">Isadora Moon - 第49集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009193000 +0800" stop="20261009200000 +0800">
+    <title lang="zh">英倫運河日誌 - 第6集</title>
+    <desc lang="zh">Join Robbie Cumming onboard the Naughty Lass as he explores the Oxford Canal, River Thames, and more, facing challenges, meeting fellow boaters, and uncovering history along the way.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009200000 +0800" stop="20261009223000 +0800">
+    <title lang="zh">NBA中國賽2026 - 侯斯頓火箭 對 達拉斯獨行俠</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009223000 +0800" stop="20261009233000 +0800">
+    <title lang="zh">家居拯救隊 - 第4集</title>
+    <desc lang="zh">Mark Wright and his Clean It Fix It team of DIY legend Tommy Walsh, expert cleaner Maxine Dwyer, creative carpenter Asher Edwards and decluttering supremo Karla Pryce visit viewers’ homes to solve practical problems in just two days, with their money saving tips and incredible transformations.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009233000 +0800" stop="20261009234500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261009234500 +0800" stop="20261010004000 +0800">
+    <title lang="zh">皇室檔案：喬治王子</title>
+    <desc lang="zh">The hopes of a nation resting on his shoulders, Prince George is destined for greatness. This unique young man represents both the future of the Royal Family and the entire institution of the monarchy. But how could anybody possibly learn to be the King… the most exclusive job in the world? In this documentary, we will uncover the secrets of his royal upbringing; how he is raised, his education, the Royal rituals he must learn, and how his modern upbringing is bringing the Royal Family kicking and screaming into the modern age.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010004000 +0800" stop="20261010013500 +0800">
+    <title lang="zh">鄂圖曼帝國鐵道行 - 第3集</title>
+    <desc lang="zh">Professor Alice Roberts, will go on a journey into the heart of the Ottoman Empire’s illustrious past as she travels throughout Turkey and beyond via the Empire’s epic local railway routes, which will offer some wonderful views along the way…</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010013500 +0800" stop="20261010023500 +0800">
+    <title lang="zh">叛者為王 - 澳洲篇 - 第3集</title>
+    <desc lang="zh">Welcome to a most, deliciously, dangerous game of lies, deception and betrayal. Do the Faithfuls have what it takes, to eliminate the Traitors? Or will the skulduggery of the Traitors see the Faithfuls eliminate one of their own.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010023500 +0800" stop="20261010090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010090000 +0800" stop="20261010091500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第27集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010091500 +0800" stop="20261010093000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第28集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010093000 +0800" stop="20261010094500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第3集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010094500 +0800" stop="20261010100000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第4集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010100000 +0800" stop="20261010110000 +0800">
+    <title lang="zh">英倫地鐵探知館 - 第6集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010110000 +0800" stop="20261010120000 +0800">
+    <title lang="zh">家居拯救隊 - 第4集</title>
+    <desc lang="zh">Mark Wright and his Clean It Fix It team of DIY legend Tommy Walsh, expert cleaner Maxine Dwyer, creative carpenter Asher Edwards and decluttering supremo Karla Pryce visit viewers’ homes to solve practical problems in just two days, with their money saving tips and incredible transformations.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010120000 +0800" stop="20261010123000 +0800">
+    <title lang="zh">Weekendpedia: Wild Coastal Canada - 第2集</title>
+    <desc lang="zh">Wild Coastal Canada is a show that sweeps the viewer deep into the rich natural world of our last great forests, stunning coastal treasures and rare species habitats exploring the secrets of each unique ecosystem thriving in Atlantic Canada in Nova Scotia.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010123000 +0800" stop="20261010124500 +0800">
+    <title lang="zh">Weekendpedia: Burps, Butts and Bones - 第3集</title>
+    <desc lang="zh">Meet Bones — a wisecracking medical skeleton who’s finally getting his big break as host of Burps, Butts &amp; Bones, the laugh-out-loud “bod-cast” where no body part is off limits! With help from his curious B Squad and real-life experts, he dives deep into the weirdest, wildest wonders of the human body.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010124500 +0800" stop="20261010130000 +0800">
+    <title lang="zh">Weekendpedia: Burps, Butts and Bones - 第4集</title>
+    <desc lang="zh">Meet Bones — a wisecracking medical skeleton who’s finally getting his big break as host of Burps, Butts &amp; Bones, the laugh-out-loud “bod-cast” where no body part is off limits! With help from his curious B Squad and real-life experts, he dives deep into the weirdest, wildest wonders of the human body.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010130000 +0800" stop="20261010150000 +0800">
+    <title lang="zh">NFL 美式足球賽 26/27 - 第34集 - 坦帕灣海盜 @ 達拉斯牛仔</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010150000 +0800" stop="20261010153000 +0800">
+    <title lang="zh">輕鬆煮一餐 - 第5集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010153000 +0800" stop="20261010160000 +0800">
+    <title lang="zh">英倫運河日誌 - 第6集</title>
+    <desc lang="zh">Join Robbie Cumming onboard the Naughty Lass as he explores the Oxford Canal, River Thames, and more, facing challenges, meeting fellow boaters, and uncovering history along the way.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010160000 +0800" stop="20261010161500 +0800">
+    <title lang="zh">Underdog and the Canine Defenders - 第15集</title>
+    <desc lang="zh">In the wonderful city of Capitol City, there are surprisingly more villains than in any other city in the world. Fortunately, Underdog and the Defenders will use all their superpowers to prevent the city from falling into the hands of these very nasty villains.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010161500 +0800" stop="20261010163000 +0800">
+    <title lang="zh">Underdog and the Canine Defenders - 第16集</title>
+    <desc lang="zh">In the wonderful city of Capitol City, there are surprisingly more villains than in any other city in the world. Fortunately, Underdog and the Defenders will use all their superpowers to prevent the city from falling into the hands of these very nasty villains.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010163000 +0800" stop="20261010164500 +0800">
+    <title lang="zh">Miffy and Friends - 第7集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010164500 +0800" stop="20261010170000 +0800">
+    <title lang="zh">Miffy and Friends - 第8集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010170000 +0800" stop="20261010173000 +0800">
+    <title lang="zh">The Game Catchers S2 - 第2集</title>
+    <desc lang="zh">The Game Catchers are a team of five friends on an interstellar journey to explore fantastic planets, with the aim of learning about and playing new games. The discovered games are collected into a database to make sure they are never lost.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010173000 +0800" stop="20261010174500 +0800">
+    <title lang="zh">Buddybot - 第48集</title>
+    <desc lang="zh">Chloe’s life changed when Buddybot, a hyper-enthusiastic robot from the future, arrived in her garden. Now, they’re on a mission to save the planet! But even though their hearts are in the right place, things don't always go as planned…</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010174500 +0800" stop="20261010180000 +0800">
+    <title lang="zh">Buddybot - 第49集</title>
+    <desc lang="zh">Chloe’s life changed when Buddybot, a hyper-enthusiastic robot from the future, arrived in her garden. Now, they’re on a mission to save the planet! But even though their hearts are in the right place, things don't always go as planned…</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010180000 +0800" stop="20261010183000 +0800">
+    <title lang="zh">Weekly Re-Viu - 第498集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010183000 +0800" stop="20261010190000 +0800">
+    <title lang="zh">愛爾蘭美味環島遊 - 第9集</title>
+    <desc lang="zh">Dublin-born celebrity chef Anna Haugh is passionate about Irish food. And after nearly 20 years in London, she’s heading home for The Big Irish Food Tour—a sweet-and-savoury exploration of the Emerald Isle’s unique culture and cuisine.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010190000 +0800" stop="20261010191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010191500 +0800" stop="20261010193000 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第352集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010193000 +0800" stop="20261010200000 +0800">
+    <title lang="zh">雲端對談 第六系列 - 第7集 - 嘉賓: 郭俊峯 (香港⼊境處處長)</title>
+    <desc lang="zh">郭俊峯(香港⼊境處處長)。自2023年起出任入境事務處處長至今。於1989年加入前人民入境事務處，任職助理入境事務主任。2009年晉升總入境事務主任，2013年晉升助理首席入境事務主任，2016年晉升首席入境事務主任。他於2020年晉升入境事務處助理處長，並於2022年晉升入境事務處副處長。</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010200000 +0800" stop="20261010210000 +0800">
+    <title lang="zh">空中浩劫 - 第7集</title>
+    <desc lang="zh">Every time a plane crashes, the world takes notice. And so do the experts whose job it is to figure out what happened. MAYDAY uncovers the truth behind the most legendary aviation disasters, and every episode features eyewitness accounts, captivating reenactments, state-of-the-art CGI, and interviews with the investigators who ultimately determined what went wrong.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010210000 +0800" stop="20261010220000 +0800">
+    <title lang="zh">地獄廚房 - 第14集</title>
+    <desc lang="zh">In season 22 of Hell’s Kitchen, eighteen diverse chefs have come from all over America to follow their dream to work for Chef Gordon Ramsey.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010220000 +0800" stop="20261010230000 +0800">
+    <title lang="zh">求愛島 - 美國篇 - 第1集</title>
+    <desc lang="zh">A real-time dating competition featuring a group of sexy singles living in a tropical villa who must try to win the $100K prize by coupling up.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010230000 +0800" stop="20261010231500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261010231500 +0800" stop="20261011001500 +0800">
+    <title lang="zh">夢想家居大改造 澳洲篇 - 第19集</title>
+    <desc lang="zh">Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011001500 +0800" stop="20261011011000 +0800">
+    <title lang="zh">尋找克莉絲蒂足跡 - 第1集</title>
+    <desc lang="zh">Alan Carr is on a literary journey of a lifetime to discover his favourite childhood author Agatha Christie and two of her most beloved characters, Miss Marple and Hercule Poirot.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011011000 +0800" stop="20261011014000 +0800">
+    <title lang="zh">Weekendpedia: Wild Coastal Canada - 第2集</title>
+    <desc lang="zh">Wild Coastal Canada is a show that sweeps the viewer deep into the rich natural world of our last great forests, stunning coastal treasures and rare species habitats exploring the secrets of each unique ecosystem thriving in Atlantic Canada in Nova Scotia.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011014000 +0800" stop="20261011015500 +0800">
+    <title lang="zh">Weekendpedia: Burps, Butts and Bones - 第3集</title>
+    <desc lang="zh">Meet Bones — a wisecracking medical skeleton who’s finally getting his big break as host of Burps, Butts &amp; Bones, the laugh-out-loud “bod-cast” where no body part is off limits! With help from his curious B Squad and real-life experts, he dives deep into the weirdest, wildest wonders of the human body.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011015500 +0800" stop="20261011021000 +0800">
+    <title lang="zh">Weekendpedia: Burps, Butts and Bones - 第4集</title>
+    <desc lang="zh">Meet Bones — a wisecracking medical skeleton who’s finally getting his big break as host of Burps, Butts &amp; Bones, the laugh-out-loud “bod-cast” where no body part is off limits! With help from his curious B Squad and real-life experts, he dives deep into the weirdest, wildest wonders of the human body.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011021000 +0800" stop="20261011090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011090000 +0800" stop="20261011093000 +0800">
+    <title lang="zh">花園廚房大比拼 - 第1集</title>
+    <desc lang="zh">Ainsley asks two chefs to join him in a beautiful kitchen garden for an al fresco cooking contest using its fresh summer produce.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011093000 +0800" stop="20261011100000 +0800">
+    <title lang="zh">輕鬆煮一餐 - 第5集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011100000 +0800" stop="20261011110000 +0800">
+    <title lang="zh">百萬歌詞記憶王 - 第9集</title>
+    <desc lang="zh">Niecy Nash hosts the all new version of the popular game show, challenging contestants’ musical memory, as they get one song closer to winning $1 million if they don’t forget the lyrics.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011110000 +0800" stop="20261011120000 +0800">
+    <title lang="zh">地獄廚房 - 第14集</title>
+    <desc lang="zh">In season 22 of Hell’s Kitchen, eighteen diverse chefs have come from all over America to follow their dream to work for Chef Gordon Ramsey.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011120000 +0800" stop="20261011130000 +0800">
+    <title lang="zh">Murder for My Man S3 - 第9集</title>
+    <desc lang="zh">Real women in real relationships that will do anything for their man.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011130000 +0800" stop="20261011140000 +0800">
+    <title lang="zh">世界羽聯巡迴賽 2026 中國大師賽 - 第14集 - 女雙決賽</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011140000 +0800" stop="20261011150000 +0800">
+    <title lang="zh">世界羽聯巡迴賽 2026 中國大師賽 - 第15集 - 混雙決賽</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011150000 +0800" stop="20261011153000 +0800">
+    <title lang="zh">Racing on the Edge Season 6 - 第5集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011153000 +0800" stop="20261011160000 +0800">
+    <title lang="zh">愛爾蘭美味環島遊 - 第9集</title>
+    <desc lang="zh">Dublin-born celebrity chef Anna Haugh is passionate about Irish food. And after nearly 20 years in London, she’s heading home for The Big Irish Food Tour—a sweet-and-savoury exploration of the Emerald Isle’s unique culture and cuisine.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011160000 +0800" stop="20261011161500 +0800">
+    <title lang="zh">Underdog and the Canine Defenders - 第17集</title>
+    <desc lang="zh">In the wonderful city of Capitol City, there are surprisingly more villains than in any other city in the world. Fortunately, Underdog and the Defenders will use all their superpowers to prevent the city from falling into the hands of these very nasty villains.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011161500 +0800" stop="20261011163000 +0800">
+    <title lang="zh">Underdog and the Canine Defenders - 第18集</title>
+    <desc lang="zh">In the wonderful city of Capitol City, there are surprisingly more villains than in any other city in the world. Fortunately, Underdog and the Defenders will use all their superpowers to prevent the city from falling into the hands of these very nasty villains.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011163000 +0800" stop="20261011164500 +0800">
+    <title lang="zh">Miffy and Friends - 第9集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011164500 +0800" stop="20261011170000 +0800">
+    <title lang="zh">Miffy and Friends - 第10集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011170000 +0800" stop="20261011173000 +0800">
+    <title lang="zh">The Game Catchers S2 - 第3集</title>
+    <desc lang="zh">The Game Catchers are a team of five friends on an interstellar journey to explore fantastic planets, with the aim of learning about and playing new games. The discovered games are collected into a database to make sure they are never lost.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011173000 +0800" stop="20261011174500 +0800">
+    <title lang="zh">Buddybot - 第50集</title>
+    <desc lang="zh">Chloe’s life changed when Buddybot, a hyper-enthusiastic robot from the future, arrived in her garden. Now, they’re on a mission to save the planet! But even though their hearts are in the right place, things don't always go as planned…</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011174500 +0800" stop="20261011180000 +0800">
+    <title lang="zh">Buddybot - 第51集</title>
+    <desc lang="zh">Chloe’s life changed when Buddybot, a hyper-enthusiastic robot from the future, arrived in her garden. Now, they’re on a mission to save the planet! But even though their hearts are in the right place, things don't always go as planned…</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011180000 +0800" stop="20261011190000 +0800">
+    <title lang="zh">超凡餅藝家 - 第2集</title>
+    <desc lang="zh">The Big Bake is a larger-than-life baking competition series with themed episodes. In each episode, three professional baking teams have five hours to design, bake and decorate a grand-scale cake creation based on a particular theme. These bakers need to think big and bold, blowing up their designs to gigantic proportions and thinking outside the (bakery) box. In the end, the most ambitious, eye-popping and delicious cake will go home with a $10,000 prize.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011190000 +0800" stop="20261011191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011191500 +0800" stop="20261011193000 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第353集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011193000 +0800" stop="20261011200000 +0800">
+    <title lang="zh">島嶼人情味 - 第5集</title>
+    <desc lang="zh">Join acclaimed Torres Strait Islander chef and cultural ambassador Nornie Bero in Island Echoes, a vibrant journey through the breathtaking landscapes and rich traditions of her homeland. Each episode explores the unique stories, flavours and histories of the Torres Strait Islands, showcasing the diverse cultures that thrive in this remote paradise.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011200000 +0800" stop="20261011210000 +0800">
+    <title lang="zh">歐洲鐵路深度遊 - 第3集</title>
+    <desc lang="zh">Michael Portillo embarks on a spectacular new railway journey through Uzbekistan, a country steeped in Silk Road history. Travelling on high-speed trains, bustling metro systems and bone-shaking suburban lines, he explores Uzbekistan’s diverse landscapes—from fertile plains to vast deserts. Touring through Belgium and Hungary and the Mediterranean islands of Corsica and Sardinia, he discovers how history has left its mark on their landscapes, culture and people.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011210000 +0800" stop="20261011230000 +0800">
+    <title lang="zh">馴龍記2</title>
+    <desc lang="zh">From the Academy Award® nominated film </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011230000 +0800" stop="20261011231500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261011231500 +0800" stop="20261012000000 +0800">
+    <title lang="zh">夢想家居大改造 澳洲篇 - 第20集</title>
+    <desc lang="zh">Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012000000 +0800" stop="20261012001500 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第352集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012001500 +0800" stop="20261012011500 +0800">
+    <title lang="zh">玩「串」大激鬥 - 第6集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012011500 +0800" stop="20261012021500 +0800">
+    <title lang="zh">超凡餅藝家 - 第2集</title>
+    <desc lang="zh">The Big Bake is a larger-than-life baking competition series with themed episodes. In each episode, three professional baking teams have five hours to design, bake and decorate a grand-scale cake creation based on a particular theme. These bakers need to think big and bold, blowing up their designs to gigantic proportions and thinking outside the (bakery) box. In the end, the most ambitious, eye-popping and delicious cake will go home with a $10,000 prize.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012021500 +0800" stop="20261012090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012090000 +0800" stop="20261012093000 +0800">
+    <title lang="zh">島嶼人情味 - 第5集</title>
+    <desc lang="zh">Join acclaimed Torres Strait Islander chef and cultural ambassador Nornie Bero in Island Echoes, a vibrant journey through the breathtaking landscapes and rich traditions of her homeland. Each episode explores the unique stories, flavours and histories of the Torres Strait Islands, showcasing the diverse cultures that thrive in this remote paradise.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012093000 +0800" stop="20261012100000 +0800">
+    <title lang="zh">哈比人食遍世界 - 第5集 - California Part 1</title>
+    <desc lang="zh">Best friends on-screen and off, Billy Boyd and Dominic Monaghan, famed for portraying the lovable and mischievous hobbits in The Lord of the Rings trilogy, are embarking on a quest to eat the world. They’ll be travelling the globe to gain new insights into different countries unique culinary cultures, trying local cuisines, and getting up to plenty of shenanigans.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012100000 +0800" stop="20261012110000 +0800">
+    <title lang="zh">玩「串」大激鬥 - 第6集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012110000 +0800" stop="20261012120000 +0800">
+    <title lang="zh">二戰逃生實錄 - 第5集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012120000 +0800" stop="20261012130000 +0800">
+    <title lang="zh">歐洲鐵路深度遊 - 第3集</title>
+    <desc lang="zh">Michael Portillo embarks on a spectacular new railway journey through Uzbekistan, a country steeped in Silk Road history. Travelling on high-speed trains, bustling metro systems and bone-shaking suburban lines, he explores Uzbekistan’s diverse landscapes—from fertile plains to vast deserts. Touring through Belgium and Hungary and the Mediterranean islands of Corsica and Sardinia, he discovers how history has left its mark on their landscapes, culture and people.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012130000 +0800" stop="20261012150000 +0800">
+    <title lang="zh">馴龍記2</title>
+    <desc lang="zh">From the Academy Award® nominated film </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012150000 +0800" stop="20261012153000 +0800">
+    <title lang="zh">Al Jazeera News Live</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012153000 +0800" stop="20261012160000 +0800">
+    <title lang="zh">Jamie Oliver: 季節料理 - 第6集</title>
+    <desc lang="zh">Jamie takes us through the year, celebrating the gorgeous ingredients and what we can make with them as they come into season. He takes us on a delicious journey through the kitchen calendar, celebrating delicious, weird, wonderful, beautiful and wonky produce with inspiring recipes for when they’re at their best, helping us to eat well for ourselves and the planet.  This series is a celebration of sustainable, seasonal produce and how to cook it;  whether we’ve grown it ourselves or found it in a farmer’s market, greengrocer’s, or the supermarket.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012160000 +0800" stop="20261012163000 +0800">
+    <title lang="zh">DW News</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012163000 +0800" stop="20261012164500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第29集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012164500 +0800" stop="20261012170000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第30集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012170000 +0800" stop="20261012171500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第5集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012171500 +0800" stop="20261012173000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第6集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012173000 +0800" stop="20261012180000 +0800">
+    <title lang="zh">Klincus - 第24集</title>
+    <desc lang="zh">Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012180000 +0800" stop="20261012183000 +0800">
+    <title lang="zh" />
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012183000 +0800" stop="20261012190000 +0800">
+    <title lang="zh">Nature Cat S5</title>
+    <desc lang="zh">An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012190000 +0800" stop="20261012191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012191500 +0800" stop="20261012193000 +0800">
+    <title lang="zh">Isadora Moon - 第50集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012193000 +0800" stop="20261012200000 +0800">
+    <title lang="zh">科茲窩星級廚房 - 第2集</title>
+    <desc lang="zh">Prue whips up delicious food, welcomes guests, shares kitchen hacks and cooks alongside husband John. Prue celebrates UK food heroes and John explores local countryside crafts.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012200000 +0800" stop="20261012210000 +0800">
+    <title lang="zh">解謎王挑戰賽 - 第20集</title>
+    <desc lang="zh">Ranvir Singh hosts the quiz where contestants take on the Riddlemaster in a bid to solve his riddles. Only one team can make it through to the final to face the iconic Riddle Run.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012210000 +0800" stop="20261012220000 +0800">
+    <title lang="zh">失落的阿美利堅 - 第1集</title>
+    <desc lang="zh">Abandoned Americana seeks to tell the hidden history of the United States through its forgotten buildings, from the foundation of the nation to the struggle for Civil Rights and untold 21st century stories. Exploring prisons on the Great Plains and dilapidated structures across the nation’s downtowns, we uncover the truth about what built and then destroyed these modern ruins.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012220000 +0800" stop="20261012230000 +0800">
+    <title lang="zh">Case File 96: Cold Case Files S4 - 第16集</title>
+    <desc lang="zh">There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012230000 +0800" stop="20261012231500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261012231500 +0800" stop="20261013000000 +0800">
+    <title lang="zh">潛行追蹤 澳洲篇 - 第4集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013000000 +0800" stop="20261013001500 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第353集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013001500 +0800" stop="20261013004500 +0800">
+    <title lang="zh">哈比人食遍世界 - 第5集 - California Part 1</title>
+    <desc lang="zh">Best friends on-screen and off, Billy Boyd and Dominic Monaghan, famed for portraying the lovable and mischievous hobbits in The Lord of the Rings trilogy, are embarking on a quest to eat the world. They’ll be travelling the globe to gain new insights into different countries unique culinary cultures, trying local cuisines, and getting up to plenty of shenanigans.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013004500 +0800" stop="20261013011500 +0800">
+    <title lang="zh">恩雨之聲 2026 - 第5集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013011500 +0800" stop="20261013015000 +0800">
+    <title lang="zh">「美」味家鄉菜 - 第5集</title>
+    <desc lang="zh">Chef Paula McIntyre embarks upon a food adventure in America to discover the ingredients and recipes which, thanks to the Scots-Irish, have ended up becoming part of America's diverse food culture.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013015000 +0800" stop="20261013022000 +0800">
+    <title lang="zh">Jamie Oliver: 季節料理 - 第6集</title>
+    <desc lang="zh">Jamie takes us through the year, celebrating the gorgeous ingredients and what we can make with them as they come into season. He takes us on a delicious journey through the kitchen calendar, celebrating delicious, weird, wonderful, beautiful and wonky produce with inspiring recipes for when they’re at their best, helping us to eat well for ourselves and the planet.  This series is a celebration of sustainable, seasonal produce and how to cook it;  whether we’ve grown it ourselves or found it in a farmer’s market, greengrocer’s, or the supermarket.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013022000 +0800" stop="20261013090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013090000 +0800" stop="20261013091500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第29集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013091500 +0800" stop="20261013093000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第30集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013093000 +0800" stop="20261013094500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第5集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013094500 +0800" stop="20261013100000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第6集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013100000 +0800" stop="20261013110000 +0800">
+    <title lang="zh">解謎王挑戰賽 - 第20集</title>
+    <desc lang="zh">Ranvir Singh hosts the quiz where contestants take on the Riddlemaster in a bid to solve his riddles. Only one team can make it through to the final to face the iconic Riddle Run.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013110000 +0800" stop="20261013120000 +0800">
+    <title lang="zh">失落的阿美利堅 - 第1集</title>
+    <desc lang="zh">Abandoned Americana seeks to tell the hidden history of the United States through its forgotten buildings, from the foundation of the nation to the struggle for Civil Rights and untold 21st century stories. Exploring prisons on the Great Plains and dilapidated structures across the nation’s downtowns, we uncover the truth about what built and then destroyed these modern ruins.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013120000 +0800" stop="20261013140000 +0800">
+    <title lang="zh">NFL 美式足球賽 26/27 - 第38集 - 巴爾的摩烏鴉 @ 阿特蘭大獵鷹</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013140000 +0800" stop="20261013150000 +0800">
+    <title lang="zh">Case File 96: Cold Case Files S4 - 第16集</title>
+    <desc lang="zh">There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013150000 +0800" stop="20261013153000 +0800">
+    <title lang="zh">Al Jazeera News Live</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013153000 +0800" stop="20261013160000 +0800">
+    <title lang="zh">Jamie Oliver: 季節料理 - 第7集</title>
+    <desc lang="zh">Jamie takes us through the year, celebrating the gorgeous ingredients and what we can make with them as they come into season. He takes us on a delicious journey through the kitchen calendar, celebrating delicious, weird, wonderful, beautiful and wonky produce with inspiring recipes for when they’re at their best, helping us to eat well for ourselves and the planet.  This series is a celebration of sustainable, seasonal produce and how to cook it;  whether we’ve grown it ourselves or found it in a farmer’s market, greengrocer’s, or the supermarket.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013160000 +0800" stop="20261013163000 +0800">
+    <title lang="zh">DW News</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013163000 +0800" stop="20261013164500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第31集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013164500 +0800" stop="20261013170000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第32集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013170000 +0800" stop="20261013171500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第7集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013171500 +0800" stop="20261013173000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第8集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013173000 +0800" stop="20261013180000 +0800">
+    <title lang="zh">Klincus - 第25集</title>
+    <desc lang="zh">Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013180000 +0800" stop="20261013183000 +0800">
+    <title lang="zh" />
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013183000 +0800" stop="20261013190000 +0800">
+    <title lang="zh">Nature Cat S5</title>
+    <desc lang="zh">An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013190000 +0800" stop="20261013191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013191500 +0800" stop="20261013193000 +0800">
+    <title lang="zh">Isadora Moon - 第41集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013193000 +0800" stop="20261013200000 +0800">
+    <title lang="zh">科茲窩星級廚房 - 第3集</title>
+    <desc lang="zh">Prue whips up delicious food, welcomes guests, shares kitchen hacks and cooks alongside husband John. Prue celebrates UK food heroes and John explores local countryside crafts.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013200000 +0800" stop="20261013202500 +0800">
+    <title lang="zh">愛因斯坦大挑戰 - 第13集</title>
+    <desc lang="zh">The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013202500 +0800" stop="20261013204500 +0800">
+    <title lang="zh">愛因斯坦大挑戰 - 第14集</title>
+    <desc lang="zh">The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013204500 +0800" stop="20261013210000 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第352集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013210000 +0800" stop="20261013220000 +0800">
+    <title lang="zh">消失的古文明 - 第3集</title>
+    <desc lang="zh">Vanished History is an enthralling documentary series that uses an investigative approach to unlock some of the most enigmatic mysteries of all time. From Cleopatra’s secret crypt and Genghis Khan’s long-lost tomb, to ghost ships, abandoned cities, and missing treasures, it’s a cutting-edge deep dive into the unknown.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013220000 +0800" stop="20261013230000 +0800">
+    <title lang="zh">Case File 96: Most Likely to Murder - 第8集</title>
+    <desc lang="zh">Chronicling the chilling true crime stories of implausible young killers hiding in plain sight, Most Likely to Murder takes viewers to American high schools and campuses, revealing that—from straight-A students to the star quarterback—the cold-blooded killer is the person you’d least suspect.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013230000 +0800" stop="20261013231500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261013231500 +0800" stop="20261014005500 +0800">
+    <title lang="zh">America's Got Talent S19 - 第15集</title>
+    <desc lang="zh">A talent competition where an array of performers -- from singers and dancers, to comedians and novelty acts -- vie for a $1 million cash prize.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014005500 +0800" stop="20261014021000 +0800">
+    <title lang="zh">農場蜜語 - 澳洲篇 - 第12集</title>
+    <desc lang="zh">Farmer Wants A Wife returns for a 13th series with five new farmers joining the search for true love. We follow their journeys as each pick five potential partners from thousands of hopefuls, before going through a series of solo and group dates on the farm – from a camping trip to a family get together and more. With a shocking twist midway through the series and major life choices to be made, there’s drama and romance like never before as this year’s farmers sow the seeds of love.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014021000 +0800" stop="20261014090000 +0800">
+    <title lang="zh">ViuTVsix Station Closing Slate</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014090000 +0800" stop="20261014091500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第31集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014091500 +0800" stop="20261014093000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第32集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014093000 +0800" stop="20261014094500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第7集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014094500 +0800" stop="20261014100000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第8集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014100000 +0800" stop="20261014102500 +0800">
+    <title lang="zh">愛因斯坦大挑戰 - 第13集</title>
+    <desc lang="zh">The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014102500 +0800" stop="20261014104500 +0800">
+    <title lang="zh">愛因斯坦大挑戰 - 第14集</title>
+    <desc lang="zh">The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014104500 +0800" stop="20261014110000 +0800">
+    <title lang="zh">荷里活娛樂快遞 - 第353集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014110000 +0800" stop="20261014120000 +0800">
+    <title lang="zh">消失的古文明 - 第3集</title>
+    <desc lang="zh">Vanished History is an enthralling documentary series that uses an investigative approach to unlock some of the most enigmatic mysteries of all time. From Cleopatra’s secret crypt and Genghis Khan’s long-lost tomb, to ghost ships, abandoned cities, and missing treasures, it’s a cutting-edge deep dive into the unknown.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014120000 +0800" stop="20261014130000 +0800">
+    <title lang="zh">英格蘭超級聯賽精華 - 第6集 - 第六週</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014130000 +0800" stop="20261014133000 +0800">
+    <title lang="zh">NHK Newsline</title>
+    <desc lang="zh">NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014133000 +0800" stop="20261014140000 +0800">
+    <title lang="zh">科茲窩星級廚房 - 第3集</title>
+    <desc lang="zh">Prue whips up delicious food, welcomes guests, shares kitchen hacks and cooks alongside husband John. Prue celebrates UK food heroes and John explores local countryside crafts.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014140000 +0800" stop="20261014150000 +0800">
+    <title lang="zh">Case File 96: Most Likely to Murder - 第8集</title>
+    <desc lang="zh">Chronicling the chilling true crime stories of implausible young killers hiding in plain sight, Most Likely to Murder takes viewers to American high schools and campuses, revealing that—from straight-A students to the star quarterback—the cold-blooded killer is the person you’d least suspect.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014150000 +0800" stop="20261014153000 +0800">
+    <title lang="zh">Al Jazeera News Live</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014153000 +0800" stop="20261014160000 +0800">
+    <title lang="zh">探索塔斯之旅 - 第15集</title>
+    <desc lang="zh">Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover the hidden gems to ensure that the very best stories are no longer </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014160000 +0800" stop="20261014163000 +0800">
+    <title lang="zh">DW News</title>
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014163000 +0800" stop="20261014164500 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第33集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014164500 +0800" stop="20261014170000 +0800">
+    <title lang="zh">Rosie's Rules S2 - 第34集</title>
+    <desc lang="zh">The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014170000 +0800" stop="20261014171500 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第9集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014171500 +0800" stop="20261014173000 +0800">
+    <title lang="zh">Kangaroo Beach S1 - 第10集</title>
+    <desc lang="zh">Four young animal friends, Pounce, Gemma, Neville and Frizzy, spend an action-packed summer at the spectacular Kangaroo Beach, training as junior cadets with their lifeguard heroes. When an emergency breaks out, the cadets step up to help keep the water safe.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014173000 +0800" stop="20261014180000 +0800">
+    <title lang="zh">Klincus - 第26集</title>
+    <desc lang="zh">Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014180000 +0800" stop="20261014183000 +0800">
+    <title lang="zh" />
+    <desc lang="zh">Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014183000 +0800" stop="20261014190000 +0800">
+    <title lang="zh">Nature Cat S5</title>
+    <desc lang="zh">An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014190000 +0800" stop="20261014191500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014191500 +0800" stop="20261014193000 +0800">
+    <title lang="zh">Isadora Moon - 第44集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014193000 +0800" stop="20261014200000 +0800">
+    <title lang="zh">愛麗斯美味共嘗 - 第1集</title>
+    <desc lang="zh">A Bite to Eat with Alice is a cooking show dedicated to creating delicious food. No matter your skill level, host Alice and her guest - who may not be able to cook toast - will inspire you to experiment in the kitchen.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014200000 +0800" stop="20261014210000 +0800">
+    <title lang="zh">拼字王爭霸 - 第8集</title>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014210000 +0800" stop="20261014220000 +0800">
+    <title lang="zh">地球災難誌 - 第5集 - Hurricane</title>
+    <desc lang="zh">Violent Earth with Liev Schreiber explores the unbelievable science behind epic natural disasters. Featuring incredible footage and interviews with scientists, storm chasers, and survivors, this series examines our changing climate.</desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014220000 +0800" stop="20261014230000 +0800">
+    <title lang="zh">20/20時事雜誌 - 第478集 - Driven to Death (Part.2)</title>
+    <desc lang="zh">ABC News' acclaimed series </desc>
+  </programme>
+  <programme channel="ViuTVsix.hk" start="20261014230000 +0800" stop="20261014231500 +0800">
+    <title lang="zh">ViuTV News</title>
+    <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+  </programme>
+</tv>
