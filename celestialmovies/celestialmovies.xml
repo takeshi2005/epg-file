@@ -1,0 +1,966 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="celestialmovies">
+  <channel id="CelestialMovies.hk.feed">
+    <display-name lang="en">Celestial Movies</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </channel>
+  <programme channel="CelestialMovies.hk.feed" start="20261017005000 +0800" stop="20261017022500 +0800">
+    <title lang="en">HK Lan Kwai Fong / 香港蘭桂坊</title>
+    <desc lang="en">Lee is the Production head of an advertising firm who tries to improve her team’s performance by competing with Creative head Chan in the day and clubbing at Lan Kwai Fong for ideas at night. Lee runs into her ex-boyfriend before a big commercial shoot and drowns her sorrows drinking at Lan Kwai Fong, but finally picks herself up with Chan’s help.</desc>
+    <credits>
+      <director>Ricky NG Kwok Shing</director>
+      <actor>William Hu</actor>
+      <actor>Kimmy Qi</actor>
+      <actor>Justin Cheung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017022500 +0800" stop="20261017044000 +0800">
+    <title lang="en">Moscow Mission / 莫斯科行動</title>
+    <desc lang="en">The story is based on a 1993 true event, the "China-Russia Train Robbery" where a gang of criminals commits a heist, stealing cash and goods from the cross border train. A Chinese police officer disguises as a businessman heads the operation to arrest the criminals, but uncovers a bigger conspiracy instead…</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Zhang Han Yu</actor>
+      <actor>Andy Lau</actor>
+      <actor>Huang Xuan</actor>
+      <actor>Janice Man</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017044000 +0800" stop="20261017065500 +0800">
+    <title lang="en">Way We Talk, The / 看我今天怎麼說</title>
+    <desc lang="en">This is a soul-searching story about three youths: Wolf, Sophie and Alan, each living with a different form of deafness. Through sign language, they cultivate a profound friendship and offer each other unwavering support. United by love and friendship, the trio embarks on a journey of self-discovery and resilience.</desc>
+    <credits>
+      <director>Adam Wong</director>
+      <actor>Neo Yau</actor>
+      <actor>Chung Suet Ying</actor>
+      <actor>Marco Ng</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017065500 +0800" stop="20261017085500 +0800">
+    <title lang="en">Untouchable / 逆鱗</title>
+    <desc lang="en">Zun Fei becomes the right-hand man to Macau tycoon Huang, whose hands are deep in both legal and illegal businesses. However, facing underworld violence, power struggles and moral dilemmas, Fei is torn between love and justice. Soon, he finds himself trapped in a deadly gamble set against him, with his life at stake.</desc>
+    <credits>
+      <director>Da Qing</director>
+      <actor>Shen Teng</actor>
+      <actor>Zhang Yu Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017085500 +0800" stop="20261017105000 +0800">
+    <title lang="en">I Want to be Rich / 做個有錢人</title>
+    <desc lang="en">Young Wah rises from a poverty-stricken background, carrying the heavy burden of caring for his gambling-addicted parents and younger siblings. Against all odds, his resilience and determination to provide a better life for his family eventually lead him to achieve significant success in real estate—a testament that perseverance pays off.</desc>
+    <credits>
+      <director>Ling Chi Man</director>
+      <actor>Louis Cheung</actor>
+      <actor>Law Kar Ying</actor>
+      <actor>Mimi Choo</actor>
+      <actor>Michell Lim</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017105000 +0800" stop="20261017125000 +0800">
+    <title lang="en">Victim(s) / 加害者、被害者</title>
+    <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
+    <credits>
+      <director>Layla Ji</director>
+      <actor>Huang Lu</actor>
+      <actor>Remon Lim</actor>
+      <actor>Fu Xian Jun</actor>
+      <actor>Xu An Zhi</actor>
+      <actor>Hon Kah Hoe</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017125000 +0800" stop="20261017144500 +0800">
+    <title lang="en">Hit N Fun / 臨時決鬥</title>
+    <desc lang="en">Former Muay Thai legend Zhong Lei trains pro fighters despite his gym's struggles. When ad executive Lin learns her boyfriend is cheating with a champion boxer, she challenges her rival to a match and undergoes brutal training under Zhong. Through the grueling process, Lin’s quest for revenge transforms into a journey of self-discovery.</desc>
+    <credits>
+      <director>Albert Mak</director>
+      <actor>Louis Koo</actor>
+      <actor>Gigi Leung</actor>
+      <actor>Louise Wong</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Tony Wu</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017144500 +0800" stop="20261017165500 +0800">
+    <title lang="en">Trending Topic / 熱搜</title>
+    <desc lang="en">Chen Miao, an online media editor-in-chief, wrote a popular article which has become a trending topic. This however, led indirectly to a girl’s suicide. After receiving a help request, she realises that there is more to the story than meets the eye. As public opinion sways on the case, a war to speak up for the weak has begun!</desc>
+    <credits>
+      <director>Xin Yu Kun</director>
+      <actor>Zhou Dong Yu</actor>
+      <actor>Song Yang</actor>
+      <actor>Yuan Hong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017165500 +0800" stop="20261017190000 +0800">
+    <title lang="en">I Did It My Way / 潛行</title>
+    <desc lang="en">As the secretive, complex world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and top-secret sting operation to bring down one of the most notorious drug lords in Asia.</desc>
+    <credits>
+      <director>Jason Kwan</director>
+      <actor>Andy Lau</actor>
+      <actor>Eddie Peng</actor>
+      <actor>Gordon Lam</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017190000 +0800" stop="20261017210000 +0800">
+    <title lang="en">Old Fox / 老狐狸</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <credits>
+      <director>Hsiao Ya Chuan</director>
+      <actor>Liu Kuan Ting</actor>
+      <actor>Bai Run Yin</actor>
+      <actor>Akio Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017210000 +0800" stop="20261017224500 +0800">
+    <title lang="en">Atonement / 阿龍</title>
+    <desc lang="en">Single father Ah Long lives a humble life with his beloved daughter, believing kindness will always be rewarded. However, when she is abducted during a trip to Thailand, his faith shatters. Desperate to find her, he marries a local Chinese woman to remain in the country and hunt down a human trafficking ring, becoming a blood-soaked avenger.</desc>
+    <credits>
+      <director>Ronald Cheng</director>
+      <director>Mark Wu</director>
+      <actor>Ronald Cheng</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Philip Keung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261017224500 +0800" stop="20261018005000 +0800">
+    <title lang="en">Back Home / 七月返歸</title>
+    <desc lang="en">Wing has been able to see ghosts since young. When his mother’s suicide attempt forces him to return to Hong Kong and the home he ran away from, he discovers that the horrific visions that once haunted him have become worse. Caught between the living and the dead, Wing must bring the truth to light to be free.</desc>
+    <credits>
+      <director>Nate Ki</director>
+      <actor>Anson Kong</actor>
+      <actor>Bai Ling</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018005000 +0800" stop="20261018022500 +0800">
+    <title lang="en">HK Lan Kwai Fong / 香港蘭桂坊</title>
+    <desc lang="en">Lee is the Production head of an advertising firm who tries to improve her team’s performance by competing with Creative head Chan in the day and clubbing at Lan Kwai Fong for ideas at night. Lee runs into her ex-boyfriend before a big commercial shoot and drowns her sorrows drinking at Lan Kwai Fong, but finally picks herself up with Chan’s help.</desc>
+    <credits>
+      <director>Ricky NG Kwok Shing</director>
+      <actor>William Hu</actor>
+      <actor>Kimmy Qi</actor>
+      <actor>Justin Cheung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018022500 +0800" stop="20261018044000 +0800">
+    <title lang="en">Moscow Mission / 莫斯科行動</title>
+    <desc lang="en">The story is based on a 1993 true event, the "China-Russia Train Robbery" where a gang of criminals commits a heist, stealing cash and goods from the cross border train. A Chinese police officer disguises as a businessman heads the operation to arrest the criminals, but uncovers a bigger conspiracy instead…</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Zhang Han Yu</actor>
+      <actor>Andy Lau</actor>
+      <actor>Huang Xuan</actor>
+      <actor>Janice Man</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018044000 +0800" stop="20261018065500 +0800">
+    <title lang="en">Way We Talk, The / 看我今天怎麼說</title>
+    <desc lang="en">This is a soul-searching story about three youths: Wolf, Sophie and Alan, each living with a different form of deafness. Through sign language, they cultivate a profound friendship and offer each other unwavering support. United by love and friendship, the trio embarks on a journey of self-discovery and resilience.</desc>
+    <credits>
+      <director>Adam Wong</director>
+      <actor>Neo Yau</actor>
+      <actor>Chung Suet Ying</actor>
+      <actor>Marco Ng</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018065500 +0800" stop="20261018085500 +0800">
+    <title lang="en">Untouchable / 逆鱗</title>
+    <desc lang="en">Zun Fei becomes the right-hand man to Macau tycoon Huang, whose hands are deep in both legal and illegal businesses. However, facing underworld violence, power struggles and moral dilemmas, Fei is torn between love and justice. Soon, he finds himself trapped in a deadly gamble set against him, with his life at stake.</desc>
+    <credits>
+      <director>Da Qing</director>
+      <actor>Shen Teng</actor>
+      <actor>Zhang Yu Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018085500 +0800" stop="20261018105000 +0800">
+    <title lang="en">I Want to be Rich / 做個有錢人</title>
+    <desc lang="en">Young Wah rises from a poverty-stricken background, carrying the heavy burden of caring for his gambling-addicted parents and younger siblings. Against all odds, his resilience and determination to provide a better life for his family eventually lead him to achieve significant success in real estate—a testament that perseverance pays off.</desc>
+    <credits>
+      <director>Ling Chi Man</director>
+      <actor>Louis Cheung</actor>
+      <actor>Law Kar Ying</actor>
+      <actor>Mimi Choo</actor>
+      <actor>Michell Lim</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018105000 +0800" stop="20261018125000 +0800">
+    <title lang="en">Victim(s) / 加害者、被害者</title>
+    <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
+    <credits>
+      <director>Layla Ji</director>
+      <actor>Huang Lu</actor>
+      <actor>Remon Lim</actor>
+      <actor>Fu Xian Jun</actor>
+      <actor>Xu An Zhi</actor>
+      <actor>Hon Kah Hoe</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018125000 +0800" stop="20261018144500 +0800">
+    <title lang="en">Hit N Fun / 臨時決鬥</title>
+    <desc lang="en">Former Muay Thai legend Zhong Lei trains pro fighters despite his gym's struggles. When ad executive Lin learns her boyfriend is cheating with a champion boxer, she challenges her rival to a match and undergoes brutal training under Zhong. Through the grueling process, Lin’s quest for revenge transforms into a journey of self-discovery.</desc>
+    <credits>
+      <director>Albert Mak</director>
+      <actor>Louis Koo</actor>
+      <actor>Gigi Leung</actor>
+      <actor>Louise Wong</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Tony Wu</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018144500 +0800" stop="20261018165500 +0800">
+    <title lang="en">Trending Topic / 熱搜</title>
+    <desc lang="en">Chen Miao, an online media editor-in-chief, wrote a popular article which has become a trending topic. This however, led indirectly to a girl’s suicide. After receiving a help request, she realises that there is more to the story than meets the eye. As public opinion sways on the case, a war to speak up for the weak has begun!</desc>
+    <credits>
+      <director>Xin Yu Kun</director>
+      <actor>Zhou Dong Yu</actor>
+      <actor>Song Yang</actor>
+      <actor>Yuan Hong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018165500 +0800" stop="20261018190000 +0800">
+    <title lang="en">I Did It My Way / 潛行</title>
+    <desc lang="en">As the secretive, complex world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and top-secret sting operation to bring down one of the most notorious drug lords in Asia.</desc>
+    <credits>
+      <director>Jason Kwan</director>
+      <actor>Andy Lau</actor>
+      <actor>Eddie Peng</actor>
+      <actor>Gordon Lam</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018190000 +0800" stop="20261018210000 +0800">
+    <title lang="en">Old Fox / 老狐狸</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <credits>
+      <director>Hsiao Ya Chuan</director>
+      <actor>Liu Kuan Ting</actor>
+      <actor>Bai Run Yin</actor>
+      <actor>Akio Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018210000 +0800" stop="20261018224500 +0800">
+    <title lang="en">Atonement / 阿龍</title>
+    <desc lang="en">Single father Ah Long lives a humble life with his beloved daughter, believing kindness will always be rewarded. However, when she is abducted during a trip to Thailand, his faith shatters. Desperate to find her, he marries a local Chinese woman to remain in the country and hunt down a human trafficking ring, becoming a blood-soaked avenger.</desc>
+    <credits>
+      <director>Ronald Cheng</director>
+      <director>Mark Wu</director>
+      <actor>Ronald Cheng</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Philip Keung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261018224500 +0800" stop="20261019005000 +0800">
+    <title lang="en">Back Home / 七月返歸</title>
+    <desc lang="en">Wing has been able to see ghosts since young. When his mother’s suicide attempt forces him to return to Hong Kong and the home he ran away from, he discovers that the horrific visions that once haunted him have become worse. Caught between the living and the dead, Wing must bring the truth to light to be free.</desc>
+    <credits>
+      <director>Nate Ki</director>
+      <actor>Anson Kong</actor>
+      <actor>Bai Ling</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019005000 +0800" stop="20261019022500 +0800">
+    <title lang="en">HK Lan Kwai Fong / 香港蘭桂坊</title>
+    <desc lang="en">Lee is the Production head of an advertising firm who tries to improve her team’s performance by competing with Creative head Chan in the day and clubbing at Lan Kwai Fong for ideas at night. Lee runs into her ex-boyfriend before a big commercial shoot and drowns her sorrows drinking at Lan Kwai Fong, but finally picks herself up with Chan’s help.</desc>
+    <credits>
+      <director>Ricky NG Kwok Shing</director>
+      <actor>William Hu</actor>
+      <actor>Kimmy Qi</actor>
+      <actor>Justin Cheung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019022500 +0800" stop="20261019044000 +0800">
+    <title lang="en">Moscow Mission / 莫斯科行動</title>
+    <desc lang="en">The story is based on a 1993 true event, the "China-Russia Train Robbery" where a gang of criminals commits a heist, stealing cash and goods from the cross border train. A Chinese police officer disguises as a businessman heads the operation to arrest the criminals, but uncovers a bigger conspiracy instead…</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Zhang Han Yu</actor>
+      <actor>Andy Lau</actor>
+      <actor>Huang Xuan</actor>
+      <actor>Janice Man</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019044000 +0800" stop="20261019065500 +0800">
+    <title lang="en">Way We Talk, The / 看我今天怎麼說</title>
+    <desc lang="en">This is a soul-searching story about three youths: Wolf, Sophie and Alan, each living with a different form of deafness. Through sign language, they cultivate a profound friendship and offer each other unwavering support. United by love and friendship, the trio embarks on a journey of self-discovery and resilience.</desc>
+    <credits>
+      <director>Adam Wong</director>
+      <actor>Neo Yau</actor>
+      <actor>Chung Suet Ying</actor>
+      <actor>Marco Ng</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019065500 +0800" stop="20261019085500 +0800">
+    <title lang="en">Untouchable / 逆鱗</title>
+    <desc lang="en">Zun Fei becomes the right-hand man to Macau tycoon Huang, whose hands are deep in both legal and illegal businesses. However, facing underworld violence, power struggles and moral dilemmas, Fei is torn between love and justice. Soon, he finds himself trapped in a deadly gamble set against him, with his life at stake.</desc>
+    <credits>
+      <director>Da Qing</director>
+      <actor>Shen Teng</actor>
+      <actor>Zhang Yu Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019085500 +0800" stop="20261019105000 +0800">
+    <title lang="en">I Want to be Rich / 做個有錢人</title>
+    <desc lang="en">Young Wah rises from a poverty-stricken background, carrying the heavy burden of caring for his gambling-addicted parents and younger siblings. Against all odds, his resilience and determination to provide a better life for his family eventually lead him to achieve significant success in real estate—a testament that perseverance pays off.</desc>
+    <credits>
+      <director>Ling Chi Man</director>
+      <actor>Louis Cheung</actor>
+      <actor>Law Kar Ying</actor>
+      <actor>Mimi Choo</actor>
+      <actor>Michell Lim</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019105000 +0800" stop="20261019125000 +0800">
+    <title lang="en">Victim(s) / 加害者、被害者</title>
+    <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
+    <credits>
+      <director>Layla Ji</director>
+      <actor>Huang Lu</actor>
+      <actor>Remon Lim</actor>
+      <actor>Fu Xian Jun</actor>
+      <actor>Xu An Zhi</actor>
+      <actor>Hon Kah Hoe</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019125000 +0800" stop="20261019144500 +0800">
+    <title lang="en">Hit N Fun / 臨時決鬥</title>
+    <desc lang="en">Former Muay Thai legend Zhong Lei trains pro fighters despite his gym's struggles. When ad executive Lin learns her boyfriend is cheating with a champion boxer, she challenges her rival to a match and undergoes brutal training under Zhong. Through the grueling process, Lin’s quest for revenge transforms into a journey of self-discovery.</desc>
+    <credits>
+      <director>Albert Mak</director>
+      <actor>Louis Koo</actor>
+      <actor>Gigi Leung</actor>
+      <actor>Louise Wong</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Tony Wu</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019144500 +0800" stop="20261019165500 +0800">
+    <title lang="en">Trending Topic / 熱搜</title>
+    <desc lang="en">Chen Miao, an online media editor-in-chief, wrote a popular article which has become a trending topic. This however, led indirectly to a girl’s suicide. After receiving a help request, she realises that there is more to the story than meets the eye. As public opinion sways on the case, a war to speak up for the weak has begun!</desc>
+    <credits>
+      <director>Xin Yu Kun</director>
+      <actor>Zhou Dong Yu</actor>
+      <actor>Song Yang</actor>
+      <actor>Yuan Hong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019165500 +0800" stop="20261019190000 +0800">
+    <title lang="en">I Did It My Way / 潛行</title>
+    <desc lang="en">As the secretive, complex world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and top-secret sting operation to bring down one of the most notorious drug lords in Asia.</desc>
+    <credits>
+      <director>Jason Kwan</director>
+      <actor>Andy Lau</actor>
+      <actor>Eddie Peng</actor>
+      <actor>Gordon Lam</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019190000 +0800" stop="20261019210000 +0800">
+    <title lang="en">Old Fox / 老狐狸</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <credits>
+      <director>Hsiao Ya Chuan</director>
+      <actor>Liu Kuan Ting</actor>
+      <actor>Bai Run Yin</actor>
+      <actor>Akio Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019210000 +0800" stop="20261019224500 +0800">
+    <title lang="en">Atonement / 阿龍</title>
+    <desc lang="en">Single father Ah Long lives a humble life with his beloved daughter, believing kindness will always be rewarded. However, when she is abducted during a trip to Thailand, his faith shatters. Desperate to find her, he marries a local Chinese woman to remain in the country and hunt down a human trafficking ring, becoming a blood-soaked avenger.</desc>
+    <credits>
+      <director>Ronald Cheng</director>
+      <director>Mark Wu</director>
+      <actor>Ronald Cheng</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Philip Keung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261019224500 +0800" stop="20261020005000 +0800">
+    <title lang="en">Back Home / 七月返歸</title>
+    <desc lang="en">Wing has been able to see ghosts since young. When his mother’s suicide attempt forces him to return to Hong Kong and the home he ran away from, he discovers that the horrific visions that once haunted him have become worse. Caught between the living and the dead, Wing must bring the truth to light to be free.</desc>
+    <credits>
+      <director>Nate Ki</director>
+      <actor>Anson Kong</actor>
+      <actor>Bai Ling</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020005000 +0800" stop="20261020022500 +0800">
+    <title lang="en">HK Lan Kwai Fong / 香港蘭桂坊</title>
+    <desc lang="en">Lee is the Production head of an advertising firm who tries to improve her team’s performance by competing with Creative head Chan in the day and clubbing at Lan Kwai Fong for ideas at night. Lee runs into her ex-boyfriend before a big commercial shoot and drowns her sorrows drinking at Lan Kwai Fong, but finally picks herself up with Chan’s help.</desc>
+    <credits>
+      <director>Ricky NG Kwok Shing</director>
+      <actor>William Hu</actor>
+      <actor>Kimmy Qi</actor>
+      <actor>Justin Cheung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020022500 +0800" stop="20261020044000 +0800">
+    <title lang="en">Moscow Mission / 莫斯科行動</title>
+    <desc lang="en">The story is based on a 1993 true event, the "China-Russia Train Robbery" where a gang of criminals commits a heist, stealing cash and goods from the cross border train. A Chinese police officer disguises as a businessman heads the operation to arrest the criminals, but uncovers a bigger conspiracy instead…</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Zhang Han Yu</actor>
+      <actor>Andy Lau</actor>
+      <actor>Huang Xuan</actor>
+      <actor>Janice Man</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020044000 +0800" stop="20261020065500 +0800">
+    <title lang="en">Way We Talk, The / 看我今天怎麼說</title>
+    <desc lang="en">This is a soul-searching story about three youths: Wolf, Sophie and Alan, each living with a different form of deafness. Through sign language, they cultivate a profound friendship and offer each other unwavering support. United by love and friendship, the trio embarks on a journey of self-discovery and resilience.</desc>
+    <credits>
+      <director>Adam Wong</director>
+      <actor>Neo Yau</actor>
+      <actor>Chung Suet Ying</actor>
+      <actor>Marco Ng</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020065500 +0800" stop="20261020085500 +0800">
+    <title lang="en">Untouchable / 逆鱗</title>
+    <desc lang="en">Zun Fei becomes the right-hand man to Macau tycoon Huang, whose hands are deep in both legal and illegal businesses. However, facing underworld violence, power struggles and moral dilemmas, Fei is torn between love and justice. Soon, he finds himself trapped in a deadly gamble set against him, with his life at stake.</desc>
+    <credits>
+      <director>Da Qing</director>
+      <actor>Shen Teng</actor>
+      <actor>Zhang Yu Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020085500 +0800" stop="20261020105000 +0800">
+    <title lang="en">I Want to be Rich / 做個有錢人</title>
+    <desc lang="en">Young Wah rises from a poverty-stricken background, carrying the heavy burden of caring for his gambling-addicted parents and younger siblings. Against all odds, his resilience and determination to provide a better life for his family eventually lead him to achieve significant success in real estate—a testament that perseverance pays off.</desc>
+    <credits>
+      <director>Ling Chi Man</director>
+      <actor>Louis Cheung</actor>
+      <actor>Law Kar Ying</actor>
+      <actor>Mimi Choo</actor>
+      <actor>Michell Lim</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020105000 +0800" stop="20261020125000 +0800">
+    <title lang="en">Victim(s) / 加害者、被害者</title>
+    <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
+    <credits>
+      <director>Layla Ji</director>
+      <actor>Huang Lu</actor>
+      <actor>Remon Lim</actor>
+      <actor>Fu Xian Jun</actor>
+      <actor>Xu An Zhi</actor>
+      <actor>Hon Kah Hoe</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020125000 +0800" stop="20261020144500 +0800">
+    <title lang="en">Hit N Fun / 臨時決鬥</title>
+    <desc lang="en">Former Muay Thai legend Zhong Lei trains pro fighters despite his gym's struggles. When ad executive Lin learns her boyfriend is cheating with a champion boxer, she challenges her rival to a match and undergoes brutal training under Zhong. Through the grueling process, Lin’s quest for revenge transforms into a journey of self-discovery.</desc>
+    <credits>
+      <director>Albert Mak</director>
+      <actor>Louis Koo</actor>
+      <actor>Gigi Leung</actor>
+      <actor>Louise Wong</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Tony Wu</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020144500 +0800" stop="20261020165500 +0800">
+    <title lang="en">Trending Topic / 熱搜</title>
+    <desc lang="en">Chen Miao, an online media editor-in-chief, wrote a popular article which has become a trending topic. This however, led indirectly to a girl’s suicide. After receiving a help request, she realises that there is more to the story than meets the eye. As public opinion sways on the case, a war to speak up for the weak has begun!</desc>
+    <credits>
+      <director>Xin Yu Kun</director>
+      <actor>Zhou Dong Yu</actor>
+      <actor>Song Yang</actor>
+      <actor>Yuan Hong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020165500 +0800" stop="20261020190000 +0800">
+    <title lang="en">I Did It My Way / 潛行</title>
+    <desc lang="en">As the secretive, complex world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and top-secret sting operation to bring down one of the most notorious drug lords in Asia.</desc>
+    <credits>
+      <director>Jason Kwan</director>
+      <actor>Andy Lau</actor>
+      <actor>Eddie Peng</actor>
+      <actor>Gordon Lam</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020190000 +0800" stop="20261020210000 +0800">
+    <title lang="en">Old Fox / 老狐狸</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <credits>
+      <director>Hsiao Ya Chuan</director>
+      <actor>Liu Kuan Ting</actor>
+      <actor>Bai Run Yin</actor>
+      <actor>Akio Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020210000 +0800" stop="20261020224500 +0800">
+    <title lang="en">Atonement / 阿龍</title>
+    <desc lang="en">Single father Ah Long lives a humble life with his beloved daughter, believing kindness will always be rewarded. However, when she is abducted during a trip to Thailand, his faith shatters. Desperate to find her, he marries a local Chinese woman to remain in the country and hunt down a human trafficking ring, becoming a blood-soaked avenger.</desc>
+    <credits>
+      <director>Ronald Cheng</director>
+      <director>Mark Wu</director>
+      <actor>Ronald Cheng</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Philip Keung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261020224500 +0800" stop="20261021005000 +0800">
+    <title lang="en">Back Home / 七月返歸</title>
+    <desc lang="en">Wing has been able to see ghosts since young. When his mother’s suicide attempt forces him to return to Hong Kong and the home he ran away from, he discovers that the horrific visions that once haunted him have become worse. Caught between the living and the dead, Wing must bring the truth to light to be free.</desc>
+    <credits>
+      <director>Nate Ki</director>
+      <actor>Anson Kong</actor>
+      <actor>Bai Ling</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021005000 +0800" stop="20261021022500 +0800">
+    <title lang="en">HK Lan Kwai Fong / 香港蘭桂坊</title>
+    <desc lang="en">Lee is the Production head of an advertising firm who tries to improve her team’s performance by competing with Creative head Chan in the day and clubbing at Lan Kwai Fong for ideas at night. Lee runs into her ex-boyfriend before a big commercial shoot and drowns her sorrows drinking at Lan Kwai Fong, but finally picks herself up with Chan’s help.</desc>
+    <credits>
+      <director>Ricky NG Kwok Shing</director>
+      <actor>William Hu</actor>
+      <actor>Kimmy Qi</actor>
+      <actor>Justin Cheung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021022500 +0800" stop="20261021044000 +0800">
+    <title lang="en">Moscow Mission / 莫斯科行動</title>
+    <desc lang="en">The story is based on a 1993 true event, the "China-Russia Train Robbery" where a gang of criminals commits a heist, stealing cash and goods from the cross border train. A Chinese police officer disguises as a businessman heads the operation to arrest the criminals, but uncovers a bigger conspiracy instead…</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Zhang Han Yu</actor>
+      <actor>Andy Lau</actor>
+      <actor>Huang Xuan</actor>
+      <actor>Janice Man</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021044000 +0800" stop="20261021065500 +0800">
+    <title lang="en">Way We Talk, The / 看我今天怎麼說</title>
+    <desc lang="en">This is a soul-searching story about three youths: Wolf, Sophie and Alan, each living with a different form of deafness. Through sign language, they cultivate a profound friendship and offer each other unwavering support. United by love and friendship, the trio embarks on a journey of self-discovery and resilience.</desc>
+    <credits>
+      <director>Adam Wong</director>
+      <actor>Neo Yau</actor>
+      <actor>Chung Suet Ying</actor>
+      <actor>Marco Ng</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021065500 +0800" stop="20261021085500 +0800">
+    <title lang="en">Untouchable / 逆鱗</title>
+    <desc lang="en">Zun Fei becomes the right-hand man to Macau tycoon Huang, whose hands are deep in both legal and illegal businesses. However, facing underworld violence, power struggles and moral dilemmas, Fei is torn between love and justice. Soon, he finds himself trapped in a deadly gamble set against him, with his life at stake.</desc>
+    <credits>
+      <director>Da Qing</director>
+      <actor>Shen Teng</actor>
+      <actor>Zhang Yu Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021085500 +0800" stop="20261021105000 +0800">
+    <title lang="en">I Want to be Rich / 做個有錢人</title>
+    <desc lang="en">Young Wah rises from a poverty-stricken background, carrying the heavy burden of caring for his gambling-addicted parents and younger siblings. Against all odds, his resilience and determination to provide a better life for his family eventually lead him to achieve significant success in real estate—a testament that perseverance pays off.</desc>
+    <credits>
+      <director>Ling Chi Man</director>
+      <actor>Louis Cheung</actor>
+      <actor>Law Kar Ying</actor>
+      <actor>Mimi Choo</actor>
+      <actor>Michell Lim</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021105000 +0800" stop="20261021125000 +0800">
+    <title lang="en">Victim(s) / 加害者、被害者</title>
+    <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
+    <credits>
+      <director>Layla Ji</director>
+      <actor>Huang Lu</actor>
+      <actor>Remon Lim</actor>
+      <actor>Fu Xian Jun</actor>
+      <actor>Xu An Zhi</actor>
+      <actor>Hon Kah Hoe</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021125000 +0800" stop="20261021144500 +0800">
+    <title lang="en">Hit N Fun / 臨時決鬥</title>
+    <desc lang="en">Former Muay Thai legend Zhong Lei trains pro fighters despite his gym's struggles. When ad executive Lin learns her boyfriend is cheating with a champion boxer, she challenges her rival to a match and undergoes brutal training under Zhong. Through the grueling process, Lin’s quest for revenge transforms into a journey of self-discovery.</desc>
+    <credits>
+      <director>Albert Mak</director>
+      <actor>Louis Koo</actor>
+      <actor>Gigi Leung</actor>
+      <actor>Louise Wong</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Tony Wu</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021144500 +0800" stop="20261021165500 +0800">
+    <title lang="en">Trending Topic / 熱搜</title>
+    <desc lang="en">Chen Miao, an online media editor-in-chief, wrote a popular article which has become a trending topic. This however, led indirectly to a girl’s suicide. After receiving a help request, she realises that there is more to the story than meets the eye. As public opinion sways on the case, a war to speak up for the weak has begun!</desc>
+    <credits>
+      <director>Xin Yu Kun</director>
+      <actor>Zhou Dong Yu</actor>
+      <actor>Song Yang</actor>
+      <actor>Yuan Hong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021165500 +0800" stop="20261021190000 +0800">
+    <title lang="en">I Did It My Way / 潛行</title>
+    <desc lang="en">As the secretive, complex world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and top-secret sting operation to bring down one of the most notorious drug lords in Asia.</desc>
+    <credits>
+      <director>Jason Kwan</director>
+      <actor>Andy Lau</actor>
+      <actor>Eddie Peng</actor>
+      <actor>Gordon Lam</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021190000 +0800" stop="20261021210000 +0800">
+    <title lang="en">Old Fox / 老狐狸</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <credits>
+      <director>Hsiao Ya Chuan</director>
+      <actor>Liu Kuan Ting</actor>
+      <actor>Bai Run Yin</actor>
+      <actor>Akio Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021210000 +0800" stop="20261021224500 +0800">
+    <title lang="en">Atonement / 阿龍</title>
+    <desc lang="en">Single father Ah Long lives a humble life with his beloved daughter, believing kindness will always be rewarded. However, when she is abducted during a trip to Thailand, his faith shatters. Desperate to find her, he marries a local Chinese woman to remain in the country and hunt down a human trafficking ring, becoming a blood-soaked avenger.</desc>
+    <credits>
+      <director>Ronald Cheng</director>
+      <director>Mark Wu</director>
+      <actor>Ronald Cheng</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Philip Keung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261021224500 +0800" stop="20261022005000 +0800">
+    <title lang="en">Back Home / 七月返歸</title>
+    <desc lang="en">Wing has been able to see ghosts since young. When his mother’s suicide attempt forces him to return to Hong Kong and the home he ran away from, he discovers that the horrific visions that once haunted him have become worse. Caught between the living and the dead, Wing must bring the truth to light to be free.</desc>
+    <credits>
+      <director>Nate Ki</director>
+      <actor>Anson Kong</actor>
+      <actor>Bai Ling</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022005000 +0800" stop="20261022022500 +0800">
+    <title lang="en">HK Lan Kwai Fong / 香港蘭桂坊</title>
+    <desc lang="en">Lee is the Production head of an advertising firm who tries to improve her team’s performance by competing with Creative head Chan in the day and clubbing at Lan Kwai Fong for ideas at night. Lee runs into her ex-boyfriend before a big commercial shoot and drowns her sorrows drinking at Lan Kwai Fong, but finally picks herself up with Chan’s help.</desc>
+    <credits>
+      <director>Ricky NG Kwok Shing</director>
+      <actor>William Hu</actor>
+      <actor>Kimmy Qi</actor>
+      <actor>Justin Cheung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022022500 +0800" stop="20261022044000 +0800">
+    <title lang="en">Moscow Mission / 莫斯科行動</title>
+    <desc lang="en">The story is based on a 1993 true event, the "China-Russia Train Robbery" where a gang of criminals commits a heist, stealing cash and goods from the cross border train. A Chinese police officer disguises as a businessman heads the operation to arrest the criminals, but uncovers a bigger conspiracy instead…</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Zhang Han Yu</actor>
+      <actor>Andy Lau</actor>
+      <actor>Huang Xuan</actor>
+      <actor>Janice Man</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022044000 +0800" stop="20261022065500 +0800">
+    <title lang="en">Way We Talk, The / 看我今天怎麼說</title>
+    <desc lang="en">This is a soul-searching story about three youths: Wolf, Sophie and Alan, each living with a different form of deafness. Through sign language, they cultivate a profound friendship and offer each other unwavering support. United by love and friendship, the trio embarks on a journey of self-discovery and resilience.</desc>
+    <credits>
+      <director>Adam Wong</director>
+      <actor>Neo Yau</actor>
+      <actor>Chung Suet Ying</actor>
+      <actor>Marco Ng</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022065500 +0800" stop="20261022085500 +0800">
+    <title lang="en">Untouchable / 逆鱗</title>
+    <desc lang="en">Zun Fei becomes the right-hand man to Macau tycoon Huang, whose hands are deep in both legal and illegal businesses. However, facing underworld violence, power struggles and moral dilemmas, Fei is torn between love and justice. Soon, he finds himself trapped in a deadly gamble set against him, with his life at stake.</desc>
+    <credits>
+      <director>Da Qing</director>
+      <actor>Shen Teng</actor>
+      <actor>Zhang Yu Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022085500 +0800" stop="20261022105000 +0800">
+    <title lang="en">I Want to be Rich / 做個有錢人</title>
+    <desc lang="en">Young Wah rises from a poverty-stricken background, carrying the heavy burden of caring for his gambling-addicted parents and younger siblings. Against all odds, his resilience and determination to provide a better life for his family eventually lead him to achieve significant success in real estate—a testament that perseverance pays off.</desc>
+    <credits>
+      <director>Ling Chi Man</director>
+      <actor>Louis Cheung</actor>
+      <actor>Law Kar Ying</actor>
+      <actor>Mimi Choo</actor>
+      <actor>Michell Lim</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022105000 +0800" stop="20261022125000 +0800">
+    <title lang="en">Victim(s) / 加害者、被害者</title>
+    <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
+    <credits>
+      <director>Layla Ji</director>
+      <actor>Huang Lu</actor>
+      <actor>Remon Lim</actor>
+      <actor>Fu Xian Jun</actor>
+      <actor>Xu An Zhi</actor>
+      <actor>Hon Kah Hoe</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022125000 +0800" stop="20261022144500 +0800">
+    <title lang="en">Hit N Fun / 臨時決鬥</title>
+    <desc lang="en">Former Muay Thai legend Zhong Lei trains pro fighters despite his gym's struggles. When ad executive Lin learns her boyfriend is cheating with a champion boxer, she challenges her rival to a match and undergoes brutal training under Zhong. Through the grueling process, Lin’s quest for revenge transforms into a journey of self-discovery.</desc>
+    <credits>
+      <director>Albert Mak</director>
+      <actor>Louis Koo</actor>
+      <actor>Gigi Leung</actor>
+      <actor>Louise Wong</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Tony Wu</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022144500 +0800" stop="20261022165500 +0800">
+    <title lang="en">Trending Topic / 熱搜</title>
+    <desc lang="en">Chen Miao, an online media editor-in-chief, wrote a popular article which has become a trending topic. This however, led indirectly to a girl’s suicide. After receiving a help request, she realises that there is more to the story than meets the eye. As public opinion sways on the case, a war to speak up for the weak has begun!</desc>
+    <credits>
+      <director>Xin Yu Kun</director>
+      <actor>Zhou Dong Yu</actor>
+      <actor>Song Yang</actor>
+      <actor>Yuan Hong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022165500 +0800" stop="20261022190000 +0800">
+    <title lang="en">I Did It My Way / 潛行</title>
+    <desc lang="en">As the secretive, complex world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and top-secret sting operation to bring down one of the most notorious drug lords in Asia.</desc>
+    <credits>
+      <director>Jason Kwan</director>
+      <actor>Andy Lau</actor>
+      <actor>Eddie Peng</actor>
+      <actor>Gordon Lam</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022190000 +0800" stop="20261022210000 +0800">
+    <title lang="en">Old Fox / 老狐狸</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <credits>
+      <director>Hsiao Ya Chuan</director>
+      <actor>Liu Kuan Ting</actor>
+      <actor>Bai Run Yin</actor>
+      <actor>Akio Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022210000 +0800" stop="20261022224500 +0800">
+    <title lang="en">Atonement / 阿龍</title>
+    <desc lang="en">Single father Ah Long lives a humble life with his beloved daughter, believing kindness will always be rewarded. However, when she is abducted during a trip to Thailand, his faith shatters. Desperate to find her, he marries a local Chinese woman to remain in the country and hunt down a human trafficking ring, becoming a blood-soaked avenger.</desc>
+    <credits>
+      <director>Ronald Cheng</director>
+      <director>Mark Wu</director>
+      <actor>Ronald Cheng</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Philip Keung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261022224500 +0800" stop="20261023005000 +0800">
+    <title lang="en">Back Home / 七月返歸</title>
+    <desc lang="en">Wing has been able to see ghosts since young. When his mother’s suicide attempt forces him to return to Hong Kong and the home he ran away from, he discovers that the horrific visions that once haunted him have become worse. Caught between the living and the dead, Wing must bring the truth to light to be free.</desc>
+    <credits>
+      <director>Nate Ki</director>
+      <actor>Anson Kong</actor>
+      <actor>Bai Ling</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023005000 +0800" stop="20261023022500 +0800">
+    <title lang="en">HK Lan Kwai Fong / 香港蘭桂坊</title>
+    <desc lang="en">Lee is the Production head of an advertising firm who tries to improve her team’s performance by competing with Creative head Chan in the day and clubbing at Lan Kwai Fong for ideas at night. Lee runs into her ex-boyfriend before a big commercial shoot and drowns her sorrows drinking at Lan Kwai Fong, but finally picks herself up with Chan’s help.</desc>
+    <credits>
+      <director>Ricky NG Kwok Shing</director>
+      <actor>William Hu</actor>
+      <actor>Kimmy Qi</actor>
+      <actor>Justin Cheung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023022500 +0800" stop="20261023044000 +0800">
+    <title lang="en">Moscow Mission / 莫斯科行動</title>
+    <desc lang="en">The story is based on a 1993 true event, the "China-Russia Train Robbery" where a gang of criminals commits a heist, stealing cash and goods from the cross border train. A Chinese police officer disguises as a businessman heads the operation to arrest the criminals, but uncovers a bigger conspiracy instead…</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Zhang Han Yu</actor>
+      <actor>Andy Lau</actor>
+      <actor>Huang Xuan</actor>
+      <actor>Janice Man</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023044000 +0800" stop="20261023065500 +0800">
+    <title lang="en">Way We Talk, The / 看我今天怎麼說</title>
+    <desc lang="en">This is a soul-searching story about three youths: Wolf, Sophie and Alan, each living with a different form of deafness. Through sign language, they cultivate a profound friendship and offer each other unwavering support. United by love and friendship, the trio embarks on a journey of self-discovery and resilience.</desc>
+    <credits>
+      <director>Adam Wong</director>
+      <actor>Neo Yau</actor>
+      <actor>Chung Suet Ying</actor>
+      <actor>Marco Ng</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023065500 +0800" stop="20261023085500 +0800">
+    <title lang="en">Untouchable / 逆鱗</title>
+    <desc lang="en">Zun Fei becomes the right-hand man to Macau tycoon Huang, whose hands are deep in both legal and illegal businesses. However, facing underworld violence, power struggles and moral dilemmas, Fei is torn between love and justice. Soon, he finds himself trapped in a deadly gamble set against him, with his life at stake.</desc>
+    <credits>
+      <director>Da Qing</director>
+      <actor>Shen Teng</actor>
+      <actor>Zhang Yu Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023085500 +0800" stop="20261023105000 +0800">
+    <title lang="en">I Want to be Rich / 做個有錢人</title>
+    <desc lang="en">Young Wah rises from a poverty-stricken background, carrying the heavy burden of caring for his gambling-addicted parents and younger siblings. Against all odds, his resilience and determination to provide a better life for his family eventually lead him to achieve significant success in real estate—a testament that perseverance pays off.</desc>
+    <credits>
+      <director>Ling Chi Man</director>
+      <actor>Louis Cheung</actor>
+      <actor>Law Kar Ying</actor>
+      <actor>Mimi Choo</actor>
+      <actor>Michell Lim</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023105000 +0800" stop="20261023125000 +0800">
+    <title lang="en">Victim(s) / 加害者、被害者</title>
+    <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
+    <credits>
+      <director>Layla Ji</director>
+      <actor>Huang Lu</actor>
+      <actor>Remon Lim</actor>
+      <actor>Fu Xian Jun</actor>
+      <actor>Xu An Zhi</actor>
+      <actor>Hon Kah Hoe</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023125000 +0800" stop="20261023144500 +0800">
+    <title lang="en">Hit N Fun / 臨時決鬥</title>
+    <desc lang="en">Former Muay Thai legend Zhong Lei trains pro fighters despite his gym's struggles. When ad executive Lin learns her boyfriend is cheating with a champion boxer, she challenges her rival to a match and undergoes brutal training under Zhong. Through the grueling process, Lin’s quest for revenge transforms into a journey of self-discovery.</desc>
+    <credits>
+      <director>Albert Mak</director>
+      <actor>Louis Koo</actor>
+      <actor>Gigi Leung</actor>
+      <actor>Louise Wong</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Tony Wu</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023144500 +0800" stop="20261023165500 +0800">
+    <title lang="en">Trending Topic / 熱搜</title>
+    <desc lang="en">Chen Miao, an online media editor-in-chief, wrote a popular article which has become a trending topic. This however, led indirectly to a girl’s suicide. After receiving a help request, she realises that there is more to the story than meets the eye. As public opinion sways on the case, a war to speak up for the weak has begun!</desc>
+    <credits>
+      <director>Xin Yu Kun</director>
+      <actor>Zhou Dong Yu</actor>
+      <actor>Song Yang</actor>
+      <actor>Yuan Hong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023165500 +0800" stop="20261023190000 +0800">
+    <title lang="en">I Did It My Way / 潛行</title>
+    <desc lang="en">As the secretive, complex world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and top-secret sting operation to bring down one of the most notorious drug lords in Asia.</desc>
+    <credits>
+      <director>Jason Kwan</director>
+      <actor>Andy Lau</actor>
+      <actor>Eddie Peng</actor>
+      <actor>Gordon Lam</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023190000 +0800" stop="20261023210000 +0800">
+    <title lang="en">Old Fox / 老狐狸</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <credits>
+      <director>Hsiao Ya Chuan</director>
+      <actor>Liu Kuan Ting</actor>
+      <actor>Bai Run Yin</actor>
+      <actor>Akio Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023210000 +0800" stop="20261023224500 +0800">
+    <title lang="en">Atonement / 阿龍</title>
+    <desc lang="en">Single father Ah Long lives a humble life with his beloved daughter, believing kindness will always be rewarded. However, when she is abducted during a trip to Thailand, his faith shatters. Desperate to find her, he marries a local Chinese woman to remain in the country and hunt down a human trafficking ring, becoming a blood-soaked avenger.</desc>
+    <credits>
+      <director>Ronald Cheng</director>
+      <director>Mark Wu</director>
+      <actor>Ronald Cheng</actor>
+      <actor>Chrissie Chau</actor>
+      <actor>Philip Keung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+  <programme channel="CelestialMovies.hk.feed" start="20261023224500 +0800" stop="20261024004500 +0800">
+    <title lang="en">Back Home / 七月返歸</title>
+    <desc lang="en">Wing has been able to see ghosts since young. When his mother’s suicide attempt forces him to return to Hong Kong and the home he ran away from, he discovers that the horrific visions that once haunted him have become worse. Caught between the living and the dead, Wing must bring the truth to light to be free.</desc>
+    <credits>
+      <director>Nate Ki</director>
+      <actor>Anson Kong</actor>
+      <actor>Bai Ling</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
+  </programme>
+</tv>
