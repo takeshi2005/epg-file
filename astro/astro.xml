@@ -456,18 +456,6 @@
     <display-name lang="en">GOLF PLUS</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/AstroGolf_2025.png" />
   </channel>
-  <programme channel="Astro30.my" start="20261017153500 +0800" stop="20261017154000 +0800">
-    <title lang="en">Yang Berani Bermimpi</title>
-    <desc lang="en">Ikuti kisah Hael, dari pentas AF kepada nama besar industri muzik yang bersinar menerusi Astro.</desc>
-  </programme>
-  <programme channel="Astro30.my" start="20261017154000 +0800" stop="20261017155500 +0800">
-    <title lang="en">Kisah Bawah Tanah Ep5</title>
-    <desc lang="en">An animated series that follows Zack and Sam, two undead skeletons who work at a supermarket in the underground world.</desc>
-  </programme>
-  <programme channel="Astro30.my" start="20261017155500 +0800" stop="20261017160000 +0800">
-    <title lang="en">Yang Sanggup Berjuang</title>
-    <desc lang="en">Karamjit Singh "The Flying Sikh" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
-  </programme>
   <programme channel="Astro30.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Oh My English! Ep16</title>
     <desc lang="en">Di SMK Ayer Dalam, 'Kelas 3 Merah' terkenal sebagai kelas yang mempunyai berbagai kerenah. Pelajar-pelajarnya nakal, suka buat bising. Subjek yang mereka paling tidak gemar ialah Bahasa Inggeris.</desc>
@@ -518,10 +506,6 @@
     <date>2024</date>
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KSZQV.jpg" />
-  </programme>
-  <programme channel="Astro30.my" start="20261018001000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Siti Ep1</title>
-    <desc lang="en">Rancangan bual bicara yang pertama menampilkan Dato' Siti Nurhaliza sebagai pengacara dan penyampai dalam sebuah rancangan yang penuh hiburan dan inspirasi ini.</desc>
   </programme>
   <programme channel="Astro30.my" start="20261017220000 +0800" stop="20261018001000 +0800">
     <title lang="en">The Last Dance / 破地狱</title>
@@ -1787,14 +1771,6 @@
     <title lang="en">Maharaja Lawak Mega 2013 Ep13</title>
     <desc lang="en">Maharaja Lawak Mega kembali dalam musim ke-3 dengan penyertaan para pelawak terbaik di rantau ini yang merangkumi tiga negara - Malaysia, Singapura dan Indonesia. Rancangan ini dikendalikan oleh pengacara</desc>
   </programme>
-  <programme channel="TV1.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Innovation Nation Ep2</title>
-    <desc lang="en">Program majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
-  </programme>
-  <programme channel="TV1.my" start="20261017160000 +0800" stop="20261017160500 +0800">
-    <title lang="en">(L) Berita Semasa</title>
-    <desc lang="en">Berita terkini yang memaparkan isu-isu semasa dalam dan luar negara.</desc>
-  </programme>
   <programme channel="TV1.my" start="20261017160500 +0800" stop="20261017163000 +0800">
     <title lang="en">Pastikan Sahih</title>
     <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan menafikan berita-berita palsu yang viral di media sosial.</desc>
@@ -1846,10 +1822,6 @@
   <programme channel="TV1.my" start="20261017230000 +0800" stop="20261018000000 +0800">
     <title lang="en">Diari Rawat</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
-  </programme>
-  <programme channel="TV1.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">(L) Berita Tengah Malam</title>
-    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
   <programme channel="TV1.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">(L) Berita Tengah Malam</title>
@@ -2715,10 +2687,6 @@
     <title lang="en">Innovation Nation Ep1</title>
     <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
   </programme>
-  <programme channel="TV2.my" start="20261017150000 +0800" stop="20261017160000 +0800">
-    <title lang="en">(L) Vasantham</title>
-    <desc lang="en">Program bual bicara berbahasa Tamil secara langsung yang membincangkan isu-isu semasa tanah air.</desc>
-  </programme>
   <programme channel="TV2.my" start="20261017160000 +0800" stop="20261017173000 +0800">
     <title lang="en">Buddy Into the Wild Ep21</title>
     <desc lang="en">Rancangan candawara yang dibintangi oleh penghibur Ahn Jung-hwan dan Boom yang terkandas bersama di sebuah pulau terpencil dan melakukan pelbagai tugasan untuk ikhtiar hidup.</desc>
@@ -3478,14 +3446,6 @@
   <programme channel="TV2.my" start="20261023231500 +0800" stop="20261024000000 +0800">
     <title lang="en">Chicago Med Ep13</title>
     <desc lang="en">Seorang kanak-kanak dengan lebam misteri di tangannya membawa April, Dr. Choi dan Dr. Charles menyiasat kemungkinan penderaan. Dr. Manning pula mencurigai seorang ibu yang tidak menunjukkan emosi</desc>
-  </programme>
-  <programme channel="Astro.Ria.my" start="20261017150000 +0800" stop="20261017155400 +0800">
-    <title lang="en">MegaDrama: Sumpahan Mencintai Ep17</title>
-    <desc lang="en">Dihantui rahsia silam, Akiera pulang ke kampung dan berdepan dengan tuduhan. Pertemuannya dengan lelaki yang membencinya menguji hati mereka, hingga kebencian bertukar menjadi cinta yang tulus.</desc>
-  </programme>
-  <programme channel="Astro.Ria.my" start="20261017155400 +0800" stop="20261017160400 +0800">
-    <title lang="en">Borneo Rising: Kapsul Ep18</title>
-    <desc lang="en">Ikuti perkembangan peserta Borneo Rising musim ini membuat persiapan dan latihan menjelang konsert mingguan.</desc>
   </programme>
   <programme channel="Astro.Ria.my" start="20261017160400 +0800" stop="20261017165800 +0800">
     <title lang="en">MegaDrama: Sumpahan Mencintai Ep18</title>
@@ -4342,18 +4302,6 @@
   <programme channel="Astro.Ria.my" start="20261023234000 +0800" stop="20261024002500 +0800">
     <title lang="en">MeleTOP Ep52</title>
     <desc lang="en">Rancangan hiburan yang padat dengan segala yang 'trendy' lagi sensasi, dari pentas hiburan tempatan dan antarabangsa. Dihoskan oleh NABIL AHMAD dan rakan pengacaranya pastinya kelakar dan 'meletop'!</desc>
-  </programme>
-  <programme channel="Astro.Prima.my" start="20261017150000 +0800" stop="20261017155900 +0800">
-    <title lang="en">Yak Yak Yey</title>
-    <desc lang="en">Episod kali ini menampilkan barisan pelakon utama Bell Ngasri, Elly Mazlein, Ain Edruce, Danial Zaini, serta selebriti jemputan antaranya Roy Azman, Sathiya, Sharifah Shahirah, Ajai &amp; ramai lagi.</desc>
-  </programme>
-  <programme channel="Astro.Prima.my" start="20261017155900 +0800" stop="20261017160000 +0800">
-    <title lang="en">Cer Borak SeeNI</title>
-    <desc lang="en">Cer Borak SeeNI S2</desc>
-  </programme>
-  <programme channel="Astro.Prima.my" start="20261017160000 +0800" stop="20261017160600 +0800">
-    <title lang="en">SME Great Helper Bisnes Level Up Capsule</title>
-    <desc lang="en">Kapsul ringkas penuh tip dan panduan praktikal untuk membantu usahawan SME mengembangkan serta memperkukuhkan perniagaan mereka.</desc>
   </programme>
   <programme channel="Astro.Prima.my" start="20261017160600 +0800" stop="20261017170000 +0800">
     <title lang="en">Travelawak: Projek Bapak Bapak Ep1</title>
@@ -5423,10 +5371,6 @@
     <title lang="en">Borak SeeNI Ep170</title>
     <desc lang="en">Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
   </programme>
-  <programme channel="Astro.Oasis.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Duo Syamsul Ep1</title>
-    <desc lang="en">Pakar motivasi Syamsul Amri yang dikenali dengan Syamsul Debat dan selebriti Shamsul Azhar atau Shamsul Ghau Ghau membicarakan isu-isu terkini masyarakat Islam Malaysia secara santai dan harmoni</desc>
-  </programme>
   <programme channel="Astro.Oasis.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Indahnya Iman</title>
     <desc lang="en">Azan, zikir &amp; bacaan Al Quran</desc>
@@ -5482,10 +5426,6 @@
   <programme channel="Astro.Oasis.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Ayat Riwayat Ep3</title>
     <desc lang="en">Dokumentari mengenai sejarah para nabi dan rasul.</desc>
-  </programme>
-  <programme channel="Astro.Oasis.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">MyQURANTIME 2.0 Ep1315</title>
-    <desc lang="en">Program ini membawa pendekatan untuk baca, faham, amal dan hafal ayat-ayat Quran bermula daripada halaman 1 hingga 604.</desc>
   </programme>
   <programme channel="Astro.Oasis.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">MyQURANTIME 2.0 Ep1315</title>
@@ -7095,10 +7035,6 @@
     <title lang="en">KUDRAT 1968: High Council Ep3</title>
     <desc lang="en">Abbas, yang diabaikan oleh ayahnya Ungku Deramat, memasuki KUDRAT dan berdepan dengan dunia yang mengagungkan darjat. Abbas harus pilih: untuk pertahankan legasi, atau menjatuhkannya.</desc>
   </programme>
-  <programme channel="Astro.Rania.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Barakallah Ep16</title>
-    <desc lang="en">Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
-  </programme>
   <programme channel="Astro.Rania.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">Cinta Setelah Cinta Ep328</title>
     <desc lang="en">Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
@@ -7134,10 +7070,6 @@
   <programme channel="Astro.Rania.my" start="20261017230000 +0800" stop="20261018000000 +0800">
     <title lang="en">Cinta Setelah Cinta Ep329</title>
     <desc lang="en">Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-  </programme>
-  <programme channel="Astro.Rania.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Jejak Misteri Ep6</title>
-    <desc lang="en">A television program that raises about historical buildings and sites, which have not only kept many historical stories, but also left mystical stories.</desc>
   </programme>
   <programme channel="Astro.Rania.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">Jejak Misteri Ep6</title>
@@ -8535,10 +8467,6 @@
     <title lang="en">Karnaval SCTV 2025</title>
     <desc lang="en">Every year, Karnaval SCTV 2025 features a different theme! This event showcases the most exciting music performances by many of the country's top musicians and celebrities.</desc>
   </programme>
-  <programme channel="TVALHIJRAH.my" start="20261017150000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Drama Mistik Bilik Mayat</title>
-    <desc lang="en">Drama bersiri ini mengangkat pelbagai kisah yang meneroka tema kematian, pengurusan jenazah dan keinsafan.</desc>
-  </programme>
   <programme channel="TVALHIJRAH.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Panggilan Agung Asar</title>
     <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
@@ -8594,10 +8522,6 @@
   <programme channel="TVALHIJRAH.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Assalamualaikum Ustazah</title>
     <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-  </programme>
-  <programme channel="TVALHIJRAH.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Reflections</title>
-    <desc lang="en">Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
   </programme>
   <programme channel="TVALHIJRAH.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Reflections</title>
@@ -9370,10 +9294,6 @@
   <programme channel="TVALHIJRAH.my" start="20261023233000 +0800" stop="20261024000000 +0800">
     <title lang="en">Assalamualaikum Ustaz</title>
     <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-  </programme>
-  <programme channel="COLORS.my" start="20261017140000 +0800" stop="20261017160000 +0800">
-    <title lang="en">The Great Shamsuddin Family</title>
-    <desc lang="en">An author struggles to meet a critical writing deadline while dealing with intense domestic chaos. Later, an unexpected family crisis forces her to manage the emergency alongside her work.</desc>
   </programme>
   <programme channel="COLORS.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Noyontara</title>
@@ -10231,10 +10151,6 @@
     <title lang="en">Encounter Shankar</title>
     <desc lang="en">An encounter specialist is transferred as CI to a village which is ruled by a local gangster.</desc>
   </programme>
-  <programme channel="ZeeCinema.my" start="20261018000000 +0800" stop="20261018030000 +0800">
-    <title lang="en">Encounter Shankar</title>
-    <desc lang="en">An encounter specialist is transferred as CI to a village which is ruled by a local gangster.</desc>
-  </programme>
   <programme channel="ZeeCinema.my" start="20261018030000 +0800" stop="20261018060000 +0800">
     <title lang="en">Badal</title>
     <desc lang="en">Badal witnesses his family being massacred during a riot in his village. He is raised by a terrorist and soon sets out to exact revenge on the police officer responsible for his family's murder.</desc>
@@ -10423,14 +10339,6 @@
     <title lang="en">God Tussi Great Ho</title>
     <desc lang="en">A TV anchor keeps on blaming God for his unsuccessful life. God appears and he is given the God's Power for 10 days just to see how he manages to keep everyone happy.</desc>
   </programme>
-  <programme channel="Aniplus.my" start="20261017151000 +0800" stop="20261017154000 +0800">
-    <title lang="en">The Great Jahy Will Not Be Defeated! Ep19</title>
-    <desc lang="en">The Great Jahy and Druj face off with the mysterious light. Later, the Demon King and Kyoko join the fight.</desc>
-  </programme>
-  <programme channel="Aniplus.my" start="20261017154000 +0800" stop="20261017161000 +0800">
-    <title lang="en">The Great Jahy Will Not Be Defeated! Ep20</title>
-    <desc lang="en">The Great Jahy enjoys a festival with Kokoro, but Saurva has not given up on her goals!</desc>
-  </programme>
   <programme channel="Aniplus.my" start="20261017161000 +0800" stop="20261017164000 +0800">
     <title lang="en">Secrets of the Silent Witch Ep4</title>
     <desc lang="en">Detecting irregular mana by the boy's dorm, Ryn and Monica find Cyril losing control of his mana. Monica figures out the culprit behind it as the secret of the student council is revealed...</desc>
@@ -10494,10 +10402,6 @@
   <programme channel="Aniplus.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">Full Clearing Another World Under a Goddess With Zero Believers Ep1</title>
     <desc lang="en">Makoto and his classmates are transported to another world, but he is the only weak one. Pairing up with a forgotten goddess, Noah, Makoto aims for the top using unorthodox methods, hardcore mode!</desc>
-  </programme>
-  <programme channel="Aniplus.my" start="20261018001000 +0800" stop="20261018004000 +0800">
-    <title lang="en">Magical Explorer Ep3</title>
-    <desc lang="en">Reborn in a dating sim as a comic-relief side character with unexpected hidden powers, Kousuke, armed with extensive knowledge of the game, seeks a happy ending with the heroines he admires.</desc>
   </programme>
   <programme channel="Aniplus.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">Full Clearing Another World Under a Goddess With Zero Believers Ep1</title>
@@ -11691,10 +11595,6 @@
     <title lang="en">The Cold Sato-san Is Only Sweet to Me Ep3</title>
     <desc lang="en">Koharu Sato is known as the 'cold school beauty.' At his family's cafe, Sota discovers an unexpectedly endearing side to Sato. On top of that, it turns out the two have a mutual crush on each other!?</desc>
   </programme>
-  <programme channel="Pokemon.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Pokemon: The Johto Journeys</title>
-    <desc lang="en">The third season of the Pokemon anime and follows Ash Ketchum as he travels through the Johto region with his friends Misty and Brock.</desc>
-  </programme>
   <programme channel="Pokemon.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Pokemon: The Johto Journeys</title>
     <desc lang="en">The third season of the Pokemon anime and follows Ash Ketchum as he travels through the Johto region with his friends Misty and Brock.</desc>
@@ -11756,10 +11656,6 @@
     <desc lang="en">The third season of the Pokemon anime and follows Ash Ketchum as he travels through the Johto region with his friends Misty and Brock.</desc>
   </programme>
   <programme channel="Pokemon.my" start="20261017233000 +0800" stop="20261018000000 +0800">
-    <title lang="en">Pokemon: The Johto Journeys</title>
-    <desc lang="en">The third season of the Pokemon anime and follows Ash Ketchum as he travels through the Johto region with his friends Misty and Brock.</desc>
-  </programme>
-  <programme channel="Pokemon.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Pokemon: The Johto Journeys</title>
     <desc lang="en">The third season of the Pokemon anime and follows Ash Ketchum as he travels through the Johto region with his friends Misty and Brock.</desc>
   </programme>
@@ -12915,18 +12811,6 @@
     <title lang="en">Pokemon: The Johto Journeys</title>
     <desc lang="en">The third season of the Pokemon anime and follows Ash Ketchum as he travels through the Johto region with his friends Misty and Brock.</desc>
   </programme>
-  <programme channel="TVS.my" start="20261017150500 +0800" stop="20261017160000 +0800">
-    <title lang="en">Anggun Ep5</title>
-    <desc lang="en">ANGGUN is a magazine to showcase trending topics surrounding women related to fashion, women empowerment, their involvements and achievements.</desc>
-  </programme>
-  <programme channel="TVS.my" start="20261017160000 +0800" stop="20261017160500 +0800">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-  </programme>
-  <programme channel="TVS.my" start="20261017160500 +0800" stop="20261017161500 +0800">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-  </programme>
   <programme channel="TVS.my" start="20261017161500 +0800" stop="20261017163000 +0800">
     <title lang="en">Borneo From Above Ep16</title>
     <desc lang="en">To promote and highlighting development of Sarawak</desc>
@@ -12986,10 +12870,6 @@
   <programme channel="TVS.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Makan Lokal Ep3</title>
     <desc lang="en">Makan Lokal adalah rancangan di mana hos, Jaslin Puasa, menjelajah dan merasai pelbagai hidangan tempatan Malaysia, sambil meneroka budaya dan tradisi di sebalik setiap makanan.</desc>
-  </programme>
-  <programme channel="TVS.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Anggun Mikayla Ep7</title>
-    <desc lang="en">Born out of wedlock,a beautiful young lady,Mikayla works as a makeup artist who struggles to be acknowledged by her biological mom.She chose to embark on a new journey finding self-worth deserving love.</desc>
   </programme>
   <programme channel="TVS.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">Anggun Mikayla Ep7</title>
@@ -14175,10 +14055,6 @@
     <title lang="en">The Cube Ep11</title>
     <desc lang="en">The challenges appear to be simple - but games become fraught with extraordinary pressure and tension when played inside The Cube</desc>
   </programme>
-  <programme channel="TVOKEY.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Hobipedia (Ulangan)</title>
-    <desc lang="en">Hobipedia merupakan seseorang yang dilakukan pada masa lapang namun dapat menghasilkan pendapatan.</desc>
-  </programme>
   <programme channel="TVOKEY.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">A Day in Uniform (Ulangan)</title>
     <desc lang="en">Rancangan majalah kerjaya.</desc>
@@ -14242,10 +14118,6 @@
   <programme channel="TVOKEY.my" start="20261017230000 +0800" stop="20261018000000 +0800">
     <title lang="en">Boboiboy the Movie</title>
     <desc lang="en">Rakan Robot Boboiboy, Ochobot telah diculik oleh oleh sekumpulan Pemburu Sfera untuk mencari Klambot, sebuah Sfera Kuasa purba dan berkuasa.</desc>
-  </programme>
-  <programme channel="TVOKEY.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Robozuna</title>
-    <desc lang="en">Mengisahkan tentang Ariston, seorang budak yatim piatu yang berani dengan ciptaannya, Mangle. </desc>
   </programme>
   <programme channel="TVOKEY.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Robozuna</title>
@@ -15338,10 +15210,6 @@
   <programme channel="Astro.Vaanavil.my" start="20261017220000 +0800" stop="20261018001500 +0800">
     <title lang="en">Rajakali Amman</title>
     <desc lang="en">Meena, her brother Gopal and their pet snake, Madan, look after Goddess Durga after she is ousted from her own temple. Her blessings flourish their lives till the day Meena ends up marrying Ramesh.</desc>
-  </programme>
-  <programme channel="Astro.Vaanavil.my" start="20261018001500 +0800" stop="20261018010000 +0800">
-    <title lang="en">Isai Gaananggal</title>
-    <desc lang="en">Back to back melodious songs.</desc>
   </programme>
   <programme channel="Astro.Vaanavil.my" start="20261017220000 +0800" stop="20261018001500 +0800">
     <title lang="en">Rajakali Amman</title>
@@ -17467,10 +17335,6 @@
     <title lang="en">Puthu Vasantham</title>
     <desc lang="en">Selvi aspires to get married into a family with a lot of members. Will her aspiration become true?</desc>
   </programme>
-  <programme channel="SUNTV.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Puthu Vasantham</title>
-    <desc lang="en">Selvi aspires to get married into a family with a lot of members. Will her aspiration become true?</desc>
-  </programme>
   <programme channel="SUNTV.my" start="20261018003000 +0800" stop="20261018063000 +0800">
     <title lang="en">Song Sequence</title>
     <desc lang="en">Stay tuned to the non stop music sequences.</desc>
@@ -19203,14 +19067,6 @@
     <title lang="en">Oru Pada Comedy</title>
     <desc lang="en">This program plays comedy tracks from popular Tamil movie.</desc>
   </programme>
-  <programme channel="SunNews.my" start="20261017151000 +0800" stop="20261017154000 +0800">
-    <title lang="en">12 Mani Seithigal</title>
-    <desc lang="en">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
-  </programme>
-  <programme channel="SunNews.my" start="20261017154000 +0800" stop="20261017161000 +0800">
-    <title lang="en">1 Mani Seithigal</title>
-    <desc lang="en">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
-  </programme>
   <programme channel="SunNews.my" start="20261017161000 +0800" stop="20261017164000 +0800">
     <title lang="en">100/100 Speed News</title>
     <desc lang="en">The host provides a brief update on the day's major stories, which range from politics and business to sports and entertainment.</desc>
@@ -19274,10 +19130,6 @@
   <programme channel="SunNews.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">9 Mani Seithigal</title>
     <desc lang="en">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
-  </programme>
-  <programme channel="SunNews.my" start="20261018001000 +0800" stop="20261018004000 +0800">
-    <title lang="en">FIR- Kutramum Pinnaniyum</title>
-    <desc lang="en">The show FIR explores the background of the crime.</desc>
   </programme>
   <programme channel="SunNews.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">9 Mani Seithigal</title>
@@ -21131,10 +20983,6 @@
     <title lang="en">Thulluvatho Isai</title>
     <desc lang="en">Take a stroll down memory lane with the super-hit songs from the past decades.</desc>
   </programme>
-  <programme channel="STARVIJAY.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Kanmani Anbudan Ep636</title>
-    <desc lang="en">Kanmani and Vennila are thick friends despite being from different backgrounds. What happens when Anbu falls for Vennila while Kanmani develops feelings for him too?</desc>
-  </programme>
   <programme channel="STARVIJAY.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Thendrale Mella Pesu Ep404</title>
     <desc lang="en">This drama follows the journey of a bold young woman who shies away from the idea of marriage due to haunting past experiences. Her life takes an unexpected turn when a local thug enters her world.</desc>
@@ -21178,10 +21026,6 @@
   <programme channel="STARVIJAY.my" start="20261017230000 +0800" stop="20261018000000 +0800">
     <title lang="en">Bigg Boss Tamil</title>
     <desc lang="en">Hosted by actor Vijay Sethupathi, Bigg Boss Tamil S10 promises an exciting and entertaining journey filled with emotions, conflicts, drama and thrilling moments.</desc>
-  </programme>
-  <programme channel="STARVIJAY.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Onna Irukka Kaththukkanum</title>
-    <desc lang="en">Kandhasamy, is an orthodox patriarch running a traditional vegetarian mess alongside his close-knit family. Their conservative lives are turned upside down by Indira, a progressive and independent woman.</desc>
   </programme>
   <programme channel="STARVIJAY.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Onna Irukka Kaththukkanum</title>
@@ -22007,10 +21851,6 @@
     <title lang="en">Adhe Kangal</title>
     <desc lang="en">When the evil eye of a supernatural entity falls on a perfectly happy family, their lives change forever.</desc>
   </programme>
-  <programme channel="COLORSTAMIL.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Adhe Kangal</title>
-    <desc lang="en">When the evil eye of a supernatural entity falls on a perfectly happy family, their lives change forever.</desc>
-  </programme>
   <programme channel="COLORSTAMIL.my" start="20261018003000 +0800" stop="20261018033000 +0800">
     <title lang="en">Trigger</title>
     <desc lang="en">An undercover police officer locks horns with a gangster after his adopted niece is kidnapped. Later he learns how the kidnappings of children are connected to his father, a former policeman.</desc>
@@ -22582,10 +22422,6 @@
   <programme channel="ZEETAMIL.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Samanthi Ep1133</title>
     <desc lang="en">The Story revolves around Maha, a young widow, and Aadhi, who received a heart transplant from Maha's deceased husband. Will Maha re-discover the love and rebuild the lives once more with Aadhi?</desc>
-  </programme>
-  <programme channel="ZEETAMIL.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Varisu Ep400</title>
-    <desc lang="en">The story follows a village girl who marries a wealthy but toxic man. Influenced by her supportive mother-in-law, she learns to assert herself.</desc>
   </programme>
   <programme channel="ZEETAMIL.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Varisu Ep400</title>
@@ -23603,10 +23439,6 @@
     <title lang="en">Dark</title>
     <desc lang="en">A young graphic designer moves into a house with a dark past and soon finds himself trapped in a terrifying supernatural nightmare following a shocking crime. Starring Ajay Karthi.</desc>
   </programme>
-  <programme channel="Astro.Thangathirai.my" start="20261018000000 +0800" stop="20261018020000 +0800">
-    <title lang="en">Dark</title>
-    <desc lang="en">A young graphic designer moves into a house with a dark past and soon finds himself trapped in a terrifying supernatural nightmare following a shocking crime. Starring Ajay Karthi.</desc>
-  </programme>
   <programme channel="Astro.Thangathirai.my" start="20261018020000 +0800" stop="20261018023000 +0800">
     <title lang="en">2 IN 1</title>
     <desc lang="en">A musical show that features songs from Kollywood movies.</desc>
@@ -24203,18 +24035,6 @@
     <title lang="en">Hit List</title>
     <desc lang="en">Tune in to this entertaining show for the film songs and music reviews.</desc>
   </programme>
-  <programme channel="iQIYI.my" start="20261017121000 +0800" stop="20261017160000 +0800">
-    <title lang="en">The Rap Of China 2026 / 说唱巅峰对决2026 Tập 5</title>
-    <desc lang="en">Yan Hao Xiang and Boss Shady join the judging panel, with Du Hai Tao as MC. 12 veteran rappers face 18 rising talents in fierce challenges, battling for a place in the Hall of Fame.</desc>
-    <credits>
-      <actor>Boss Shady</actor>
-      <actor>Du Hai Tao</actor>
-      <actor>Yan Hao Xiang</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Variety Show</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYDRF.jpg" />
-  </programme>
   <programme channel="iQIYI.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">The Silent Honor / 沉默的荣耀 Tập 7</title>
     <desc lang="en">Based on a true story, it follows Wu Shi, who was sent to Taiwan as Deputy Minister of National Defense to secretly deliver intelligence, and Zhu Feng, who left her family to serve as a courier.</desc>
@@ -24276,19 +24096,6 @@
     <date>2025</date>
     <category lang="en">Action</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWOUZ.jpg" />
-  </programme>
-  <programme channel="iQIYI.my" start="20261018000500 +0800" stop="20261018014000 +0800">
-    <title lang="en">The Secret Book Of Oolong In New Oolong Academy / 乌龙新院之乌龙秘笈</title>
-    <desc lang="en">Huai Qiu, a senior uncle from the New Oolong Academy, is determined to master the most powerful martial arts technique and will stop at nothing to seize the secret book of Oolong.</desc>
-    <credits>
-      <director>Lan Xin</director>
-      <actor>Du Yu Ming</actor>
-      <actor>Han Cong Cong</actor>
-      <actor>Li Bing Lei</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVQJN.jpg" />
   </programme>
   <programme channel="iQIYI.my" start="20261017222000 +0800" stop="20261018000500 +0800">
     <title lang="en">The Extraordinary Alien / 了不起的外星人</title>
@@ -26698,17 +26505,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000526X989887.jpg" />
   </programme>
-  <programme channel="TVBCLASSIC.my" start="20261018001000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Triumph in the Skies II / 冲上云霄II Tập 2</title>
-    <desc lang="en">Season 2 returns with more exciting adventures involving the cabin crew, beginning with Captain Samuel Tong as he starts afresh at a new airline company.</desc>
-    <credits>
-      <actor>Fala Chen</actor>
-      <actor>Francis Ng</actor>
-      <actor>Julian Cheung</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000526X998976.jpg" />
-  </programme>
   <programme channel="TVBCLASSIC.my" start="20261017231500 +0800" stop="20261018001000 +0800">
     <title lang="en">As Time Goes by / 好日子 Tập 14</title>
     <desc lang="en">Reunited after thirty years, three childhood friends are forced to address a long-buried incident that once changed their lives.</desc>
@@ -28942,16 +28738,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000526X1000505.jpg" />
   </programme>
-  <programme channel="Astro.AEC.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Axian's Local Eats / 再一碗人情味 Tập 5</title>
-    <desc lang="en">Experience the true brilliance of Malaysia's culinary soul. Just as Putu Piring is brought to life by steam, Hainanese chicken rice balls have transcended ethnic lines.</desc>
-    <credits>
-      <actor>Jason Yeoh</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Food</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYATK.jpg" />
-  </programme>
   <programme channel="Astro.AEC.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">Old Taste Detective / 古早味侦探 Tập 9</title>
     <desc lang="en">Delicacies change over time and may differ from the original version. Join the host as he attempts to reproduce the authentic, original delicacies with the guidance of a local chef.</desc>
@@ -29083,10 +28869,6 @@
     <date>2026</date>
     <category lang="en">Reality Show</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQAP.jpg" />
-  </programme>
-  <programme channel="Astro.AEC.my" start="20261018002600 +0800" stop="20261018003000 +0800">
-    <title lang="en">Yang Sudi Tinggal</title>
-    <desc lang="en">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
   </programme>
   <programme channel="Astro.AEC.my" start="20261017230000 +0800" stop="20261018002600 +0800">
     <title lang="en">Astro Star Quest 2026 - The Next Wave / Astro 新秀 崛起吧！2026 - The Next Wave Tập 1</title>
@@ -34404,39 +34186,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVVFW.jpg" />
   </programme>
-  <programme channel="TVB.Jade.my" start="20261017144000 +0800" stop="20261017154000 +0800">
-    <title lang="en">A Date With Goddess / 女神配对计划 Tập 6</title>
-    <desc lang="en">Bob Lam plays matchmaker for five beauties Roxanne Ho, Juliana Kwok, Amber Chan, Kanis Yu and Mandy Yuen! Brave suitors face sweet dating challenges to win their hearts. Who will find love?</desc>
-    <credits>
-      <actor>Amber Chan</actor>
-      <actor>Bob Lam</actor>
-      <actor>Roxanne Ho</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000249X987930.jpg" />
-  </programme>
-  <programme channel="TVB.Jade.my" start="20261017154000 +0800" stop="20261017161000 +0800">
-    <title lang="en">Neighborhood Treasures / 千奇百趣特工队 Tập 6</title>
-    <desc lang="en">Hosts Sammy Leung and Kitty Yuen are back in a new season! See celebrity guests racing to answer questions linked to funny video clips from Japan and Taiwan.</desc>
-    <credits>
-      <actor>Kitty Yuen</actor>
-      <actor>Sammy Leung</actor>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ivp.jpg" />
-  </programme>
-  <programme channel="TVB.Jade.my" start="20261017161000 +0800" stop="20261017161300 +0800">
-    <title lang="en">Yes, Boss / 社畜求生101 Tập 39</title>
-    <desc lang="en">TVB's original AI micro-animation follows undercover cats Ah Sing and Ah Fa navigating office life. Voiced by Kalok Chow, the duo sparks laugh with relatable workplace chaos.</desc>
-    <credits>
-      <director>Chan Wai Chun</director>
-      <actor>Kalok Chow</actor>
-      <actor>Ken Wong</actor>
-      <actor>Yan Wong</actor>
-    </credits>
-    <category lang="en">Anime</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000249X972168.jpg" />
-  </programme>
   <programme channel="TVB.Jade.my" start="20261017161300 +0800" stop="20261017182500 +0800">
     <title lang="en">Only Fools Fall in Love / 呆佬拜寿</title>
     <desc lang="en">Fuk is a rich man who loses his memory during an accident but finds out the meaning of life and true love as a poor man.</desc>
@@ -34535,12 +34284,6 @@
     </credits>
     <category lang="en">Entertainment</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000249X718706.jpg" />
-  </programme>
-  <programme channel="TVB.Jade.my" start="20261018001000 +0800" stop="20261018004000 +0800">
-    <title lang="en">News Magazine 2026 / 新闻透视 Tập 42</title>
-    <desc lang="en">Find out what's 'hot' and 'happening' in Hong Kong and China via this coverage of its cultural, educational, social and political issues.</desc>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ivp.jpg" />
   </programme>
   <programme channel="TVB.Jade.my" start="20261017234300 +0800" stop="20261018001000 +0800">
     <title lang="en">ChatSAT / 周六聊Teen谷 Tập 41</title>
@@ -36734,18 +36477,6 @@
     <desc lang="en">Daily breaking news on Hong Kong and beyond.</desc>
     <category lang="en">Current Affairs</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000249X417006.jpg" />
-  </programme>
-  <programme channel="Astro.On.Demand.my" start="20261017153000 +0800" stop="20261017161500 +0800">
-    <title lang="en">This City Never Sleeps / 璀璨之城 Tập 5</title>
-    <desc lang="en">Two brothers battle for control over their family's business empire. Hao In marries his sister-in-law's former friend to exploit her resentment and bring down the couple. Hao Kuan fights back.</desc>
-    <credits>
-      <actor>Chilam Cheung</actor>
-      <actor>Ron Ng</actor>
-      <actor>Samantha Ko</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZDQY.jpg" />
   </programme>
   <programme channel="Astro.On.Demand.my" start="20261017161500 +0800" stop="20261017162000 +0800">
     <title lang="en">Yang Sudi Tinggal</title>
@@ -39266,12 +38997,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZDSA.jpg" />
   </programme>
-  <programme channel="CTIASIA.my" start="20261017153300 +0800" stop="20261017160300 +0800">
-    <title lang="en">Cross-Strait New Horizons / 两岸新视界</title>
-    <desc lang="en">Explores key cross-strait developments in economy, culture, technology, and society.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000525X982436.jpg" />
-  </programme>
   <programme channel="CTIASIA.my" start="20261017160300 +0800" stop="20261017170300 +0800">
     <title lang="en">Star Power / 娱乐大明星</title>
     <desc lang="en">Join the host for an inside look at the personal lives of Taiwan's entertainment stars-beyond the spotlight and behind the scenes.</desc>
@@ -39319,12 +39044,6 @@
     <desc lang="en">Invited top-tier experts to explore the possibilities of permanent peace across the Taiwan Strait and to analyze the collective anxiety within the younger generation.</desc>
     <category lang="en">Talk Show</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000525X779007.jpg" />
-  </programme>
-  <programme channel="CTIASIA.my" start="20261018000300 +0800" stop="20261018010300 +0800">
-    <title lang="en">CTI News / 中天新闻</title>
-    <desc lang="en">Watch CTI news bulletin for Taiwan's breaking news and current affairs.</desc>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000525X552406.jpg" />
   </programme>
   <programme channel="CTIASIA.my" start="20261017230300 +0800" stop="20261018000300 +0800">
     <title lang="en">CTI Talk Online Forum / CTI Talk网路论坛</title>
@@ -40256,12 +39975,6 @@
     <category lang="en">General</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000525X552410.jpg" />
   </programme>
-  <programme channel="TVBE-NEWS.my" start="20261017150000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Entertainment News / 娱乐新闻报道</title>
-    <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg" />
-  </programme>
   <programme channel="TVBE-NEWS.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">Entertainment News / 娱乐新闻报道</title>
     <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
@@ -40305,12 +40018,6 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg" />
   </programme>
   <programme channel="TVBE-NEWS.my" start="20261017230000 +0800" stop="20261018000000 +0800">
-    <title lang="en">Entertainment News / 娱乐新闻报道</title>
-    <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg" />
-  </programme>
-  <programme channel="TVBE-NEWS.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">Entertainment News / 娱乐新闻报道</title>
     <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
     <category lang="en">Entertainment</category>
@@ -41180,17 +40887,6 @@
     <category lang="en">Entertainment</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg" />
   </programme>
-  <programme channel="TVBXINGHE.my" start="20261017151000 +0800" stop="20261017161000 +0800">
-    <title lang="en">Sweetness in the Salt / 碧血盐枭 Tập 15</title>
-    <desc lang="en">A salt smuggler's daughter is torn between two men - an official with the power to destroy her entire family, and a salt merchant's son with a tragic secret.</desc>
-    <credits>
-      <actor>Raymond Wong</actor>
-      <actor>Steven Ma</actor>
-      <actor>Tavia Yeung</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000022X339214.jpg" />
-  </programme>
   <programme channel="TVBXINGHE.my" start="20261017161000 +0800" stop="20261017171000 +0800">
     <title lang="en">Officer Geomancer / 八卦神探 Tập 17</title>
     <desc lang="en">Sit Tan-Yan is a geomancer, while his superior, Che Kwai-Fei, is a criminal psychologist. Yet, together, they make a crimebusting duo to reckon with.</desc>
@@ -41279,17 +40975,6 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000249X426348.jpg" />
-  </programme>
-  <programme channel="TVBXINGHE.my" start="20261018001000 +0800" stop="20261018011000 +0800">
-    <title lang="en">Life After Death / 那些我爱过的人 Tập 4</title>
-    <desc lang="en">A car accident affects two families, taking a wife and a husband. As the spouses left behind stumble, they learn lessons about grief, cherish those they love - and move forward.</desc>
-    <credits>
-      <actor>Frankie Lam</actor>
-      <actor>Priscilla Wong</actor>
-      <actor>Shiga Lin</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000249X460076.jpg" />
   </programme>
   <programme channel="TVBXINGHE.my" start="20261017231000 +0800" stop="20261018001000 +0800">
     <title lang="en">The Dripping Sauce / 大酱园 Tập 20</title>
@@ -42965,16 +42650,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000396X994853.jpg" />
   </programme>
-  <programme channel="TVBSASIA.my" start="20261017140300 +0800" stop="20261017160300 +0800">
-    <title lang="en">Genius Go Go Go / 天才冲冲冲</title>
-    <desc lang="en">Hosted by Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
-    <credits>
-      <actor>Hsu Nai-Lin</actor>
-      <actor>Sam Tseng</actor>
-    </credits>
-    <category lang="en">General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000224X80958.jpg" />
-  </programme>
   <programme channel="TVBSASIA.my" start="20261017160300 +0800" stop="20261017170300 +0800">
     <title lang="en">Chop Chop Show / 11点热吵店</title>
     <desc lang="en">The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
@@ -43038,16 +42713,6 @@
     </credits>
     <category lang="en">Food</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000398X966904.jpg" />
-  </programme>
-  <programme channel="TVBSASIA.my" start="20261018000300 +0800" stop="20261018020300 +0800">
-    <title lang="en">Genius Go Go Go / 天才冲冲冲</title>
-    <desc lang="en">Hosted by Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
-    <credits>
-      <actor>Hsu Nai-Lin</actor>
-      <actor>Sam Tseng</actor>
-    </credits>
-    <category lang="en">General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000224X80958.jpg" />
   </programme>
   <programme channel="TVBSASIA.my" start="20261017230300 +0800" stop="20261018000300 +0800">
     <title lang="en">Super Taste:Family on the Road / 食尚玩家:我们这一家</title>
@@ -45238,18 +44903,6 @@
     <category lang="en">Comedy</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000203X92185.jpg" />
   </programme>
-  <programme channel="Phoenix.Chinese.Channel.my" start="20261017150200 +0800" stop="20261017155900 +0800">
-    <title lang="en">News on the Hour / 凤凰正点播报</title>
-    <desc lang="en">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X26124.jpg" />
-  </programme>
-  <programme channel="Phoenix.Chinese.Channel.my" start="20261017155900 +0800" stop="20261017160300 +0800">
-    <title lang="en">Phoenix Weather Forecast / 凤凰气象站</title>
-    <desc lang="en">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <category lang="en">Weather Report</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X131646.jpg" />
-  </programme>
   <programme channel="Phoenix.Chinese.Channel.my" start="20261017160300 +0800" stop="20261017163300 +0800">
     <title lang="en">Top View / 空间观策</title>
     <desc lang="en">This weekly commentary program focuses on different hotspots using satellite maps as examples to analyze the strategies of various countries in depth.</desc>
@@ -45345,12 +44998,6 @@
     <desc lang="en">News Talk is packed with subjective, authoritative and unique facts, treating the viewer to a detailed, incisive and informative news feature.</desc>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1221X26132.jpg" />
-  </programme>
-  <programme channel="Phoenix.Chinese.Channel.my" start="20261018000300 +0800" stop="20261018003100 +0800">
-    <title lang="en">Phoenix Intercontinental Express / 凤凰洲际快车</title>
-    <desc lang="en">Phoenix Intercontinental Express is current affairs program that brings news around the world.</desc>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X780090.jpg" />
   </programme>
   <programme channel="Phoenix.Chinese.Channel.my" start="20261017233300 +0800" stop="20261018000300 +0800">
     <title lang="en">News Talk / 新闻今日谈</title>
@@ -47124,18 +46771,6 @@
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1221X26132.jpg" />
   </programme>
-  <programme channel="PHOENIXNEWS.my" start="20261017150300 +0800" stop="20261017155900 +0800">
-    <title lang="en">News on the Hour / 凤凰正点播报</title>
-    <desc lang="en">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1221X315244.jpg" />
-  </programme>
-  <programme channel="PHOENIXNEWS.my" start="20261017155900 +0800" stop="20261017160300 +0800">
-    <title lang="en">Phoenix Weather Forecast / 凤凰气象站</title>
-    <desc lang="en">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <category lang="en">Weather Report</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X131646.jpg" />
-  </programme>
   <programme channel="PHOENIXNEWS.my" start="20261017160300 +0800" stop="20261017163000 +0800">
     <title lang="en">News on the Hour / 凤凰正点播报</title>
     <desc lang="en">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
@@ -47267,12 +46902,6 @@
     <desc lang="en">This programme interviews political figures, exploring ways to narrow social differences, provide direction and create new opportunities for Hong Kong development.</desc>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X35584.jpg" />
-  </programme>
-  <programme channel="PHOENIXNEWS.my" start="20261018000300 +0800" stop="20261018003000 +0800">
-    <title lang="en">Phoenix Intercontinental Express / 凤凰洲际快车</title>
-    <desc lang="en">Phoenix Intercontinental Express is current affairs program that brings news around the world.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X780090.jpg" />
   </programme>
   <programme channel="PHOENIXNEWS.my" start="20261017233200 +0800" stop="20261018000300 +0800">
     <title lang="en">Hong Kong Perspectives / 香港新视点</title>
@@ -49699,18 +49328,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTVGZ.jpg" />
   </programme>
-  <programme channel="HUAHEEDAI.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Formosa Sebiro / 宝岛西米乐 Tập 11</title>
-    <desc lang="en">Set in the 1950s and 1960s, this heartfelt drama centers on a female tailor, depicting how she had to overcome challenges to become a top tailor in the male-dominated industry.</desc>
-    <credits>
-      <actor>Venus Huang</actor>
-      <actor>Yin Jau Der</actor>
-      <actor>Yu An Shun</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTVGZ.jpg" />
-  </programme>
   <programme channel="HUAHEEDAI.my" start="20261018010000 +0800" stop="20261018020000 +0800">
     <title lang="en">Formosa Sebiro / 宝岛西米乐 Tập 12</title>
     <desc lang="en">Set in the 1950s and 1960s, this heartfelt drama centers on a female tailor, depicting how she had to overcome challenges to become a top tailor in the male-dominated industry.</desc>
@@ -51139,12 +50756,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXVNS.jpg" />
   </programme>
-  <programme channel="CCTV4.my" start="20261017150300 +0800" stop="20261017154800 +0800">
-    <title lang="en">Dawn of the Orient / 电视剧：破晓东方 Tập 1</title>
-    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X805342.jpg" />
-  </programme>
   <programme channel="CCTV4.my" start="20261017154800 +0800" stop="20261017163300 +0800">
     <title lang="en">Dawn of the Orient / 电视剧：破晓东方 Tập 2</title>
     <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
@@ -51240,12 +50851,6 @@
     <desc lang="en">This program details the China Government's policy of one country.</desc>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X24663.jpg" />
-  </programme>
-  <programme channel="CCTV4.my" start="20261018000300 +0800" stop="20261018004800 +0800">
-    <title lang="en">Because of Love / 电视剧：今生有你 Tập 9</title>
-    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X685517.jpg" />
   </programme>
   <programme channel="CCTV4.my" start="20261017233300 +0800" stop="20261018000300 +0800">
     <title lang="en">Across the Strait / 海峡两岸</title>
@@ -52825,18 +52430,6 @@
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X685517.jpg" />
   </programme>
-  <programme channel="MangoTV.my" start="20261017150000 +0800" stop="20261017155700 +0800">
-    <title lang="en">China / 中国 第一季 Tập 3</title>
-    <desc lang="en">A major humanistic and historical documentary series that explores Chinese civilization from the Spring and Autumn period to the prosperous Tang dynasty. </desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMCU.jpg" />
-  </programme>
-  <programme channel="MangoTV.my" start="20261017155700 +0800" stop="20261017160000 +0800">
-    <title lang="en">Astro Star Quest 2026 - The Next Wave [Theme Song] / Astro 新秀 崛起吧!  2026 - The Next Wave 【主题曲】</title>
-    <desc lang="en">20 young stars come together for the official theme song of Astro Star Quest 2026 - The Next Wave.  Composed by Gaston Pong, this track showcases their journey and the next wave of music.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZLEB.jpg" />
-  </programme>
   <programme channel="MangoTV.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">Unforgettable Love / 贺先生的恋恋不忘 Tập 14</title>
     <desc lang="en">The drama follows He Qiaoyan, CEO of He Group, and child psychologist Qin Yiyue as their unexpected encounter grows into a heartwarming journey from acquaintance to love.</desc>
@@ -52903,13 +52496,6 @@
     <desc lang="en">20 young stars come together for the official theme song of Astro Star Quest 2026 - The Next Wave.  Composed by Gaston Pong, this track showcases their journey and the next wave of music.</desc>
     <category lang="en">Music</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZLEB.jpg" />
-  </programme>
-  <programme channel="MangoTV.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Unforgettable Love / 贺先生的恋恋不忘 Tập 10</title>
-    <desc lang="en">The drama follows He Qiaoyan, CEO of He Group, and child psychologist Qin Yiyue as their unexpected encounter grows into a heartwarming journey from acquaintance to love.</desc>
-    <date>2025</date>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYJLC.jpg" />
   </programme>
   <programme channel="MangoTV.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">Unforgettable Love / 贺先生的恋恋不忘 Tập 10</title>
@@ -53898,15 +53484,6 @@
     <category lang="en">Documentary</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMCS.jpg" />
   </programme>
-  <programme channel="UPandaTV.my" start="20261017150000 +0800" stop="20261017160000 +0800">
-    <title lang="en">China Enterpriser / 中国创业者 Tập 4</title>
-    <desc lang="en">Through diverse personal journeys, this documentary captures the energy, aspirations, and transformation of contemporary China.</desc>
-    <credits>
-      <director>Li Zhigang</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQRF.jpg" />
-  </programme>
   <programme channel="UPandaTV.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">Traditional Chinese Medicine · Walking with the Times / 中医•与时代同行 Tập 5</title>
     <desc lang="en">Themed on the modernization of TCM, the documentary focuses on revealing the opportunities and challenges faced by TCM in contemporary times. Through documenting the work and life of TCM practitioners and other relevant personnel, it showcases the history and status quo of TCM and conveys reflection and outlook on the modernization of TCM and its future development. </desc>
@@ -53975,15 +53552,6 @@
     </credits>
     <category lang="en">Documentary</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQQV.jpg" />
-  </programme>
-  <programme channel="UPandaTV.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Traditional Chinese Medicine · Walking with the Times / 中医•与时代同行 Tập 6</title>
-    <desc lang="en">Themed on the modernization of TCM, the documentary focuses on revealing the opportunities and challenges faced by TCM in contemporary times. Through documenting the work and life of TCM practitioners and other relevant personnel, it showcases the history and status quo of TCM and conveys reflection and outlook on the modernization of TCM and its future development. </desc>
-    <credits>
-      <director>Cheng Mingfei</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQQW.jpg" />
   </programme>
   <programme channel="UPandaTV.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">Traditional Chinese Medicine · Walking with the Times / 中医•与时代同行 Tập 6</title>
@@ -56056,10 +55624,6 @@
     <title lang="en">The Sixth Sense Ep8</title>
     <desc lang="en">Yoo Jae-suk and celebrity hosts return for a second season! They will visit the hottest places or people in Korea and use their 'sixth sense' to identify the fake place or people set up by the crew.</desc>
   </programme>
-  <programme channel="AstroDaebak.my" start="20261018000000 +0800" stop="20261018014500 +0800">
-    <title lang="en">The Sixth Sense Ep8</title>
-    <desc lang="en">Yoo Jae-suk and celebrity hosts return for a second season! They will visit the hottest places or people in Korea and use their 'sixth sense' to identify the fake place or people set up by the crew.</desc>
-  </programme>
   <programme channel="AstroDaebak.my" start="20261018014500 +0800" stop="20261018031500 +0800">
     <title lang="en">Youn's Kitchen Ep6</title>
     <desc lang="en">Celebrity chefs run a Korean restaurant abroad, serving authentic dishes while navigating cultural differences, unexpected challenges, and heartwarming customer interactions.</desc>
@@ -56463,10 +56027,6 @@
   <programme channel="AstroDaebak.my" start="20261023223000 +0800" stop="20261024001500 +0800">
     <title lang="en">The Sixth Sense Ep9</title>
     <desc lang="en">Yoo Jae-suk and celebrity hosts return for a second season! They will visit the hottest places or people in Korea and use their 'sixth sense' to identify the fake place or people set up by the crew.</desc>
-  </programme>
-  <programme channel="tvN.my" start="20261017135000 +0800" stop="20261017154000 +0800">
-    <title lang="en">3 Meals a Day : Light Ep7</title>
-    <desc lang="en">&lt;3 Meals A Day&gt; returns on its 10th anniversary. Cha Seung-won and Yoo Hae-jin will experience a self-sufficient village life again and enjoy simple yet fulfilling meals with surprise guests.</desc>
   </programme>
   <programme channel="tvN.my" start="20261017154000 +0800" stop="20261017172500 +0800">
     <title lang="en">GBRB: Joy Pops Laugh Pops Ep1</title>
@@ -56971,10 +56531,6 @@
   <programme channel="K-Plus.my" start="20261017231000 +0800" stop="20261018002500 +0800">
     <title lang="en">Dive Into You Ep7</title>
     <desc lang="en">The story of a top actress who goes back into the past to save the life of her first love.</desc>
-  </programme>
-  <programme channel="K-Plus.my" start="20261018002500 +0800" stop="20261018014000 +0800">
-    <title lang="en">Show Champion Ep613</title>
-    <desc lang="en">Hosted by various guest MCs, Show Champion featured the most popular hits in Korea and the upcoming super rookies in the K-Pop music scene</desc>
   </programme>
   <programme channel="K-Plus.my" start="20261017231000 +0800" stop="20261018002500 +0800">
     <title lang="en">Dive Into You Ep7</title>
@@ -57796,10 +57352,6 @@
     <title lang="en">Gone Baby Gone</title>
     <desc lang="en">Two private investigators search for a missing girl, uncovering moral dilemmas that test their beliefs.</desc>
   </programme>
-  <programme channel="BOO.my" start="20261017143000 +0800" stop="20261017161500 +0800">
-    <title lang="en">44 Hari Bangkitnya Pocong</title>
-    <desc lang="en">Selepas kematian Maimun, beberapa kejadian aneh telah berlaku dan seluruh penduduk kampung di ganggu oleh pocong.</desc>
-  </programme>
   <programme channel="BOO.my" start="20261017161500 +0800" stop="20261017180000 +0800">
     <title lang="en">King of Prison 1</title>
     <desc lang="en">Man-hee, imprisoned for accidentally getting caught up with a violent crime, shares a cell with the king of the prison.</desc>
@@ -57819,10 +57371,6 @@
   <programme channel="BOO.my" start="20261017223000 +0800" stop="20261018001500 +0800">
     <title lang="en">Telunjuk Iblis</title>
     <desc lang="en">Amalan ilmu hitam menyebabkan Mastura diusir dari kampung, lantas dia membuat perjanjian dengan iblis bagi membalas dendam.</desc>
-  </programme>
-  <programme channel="BOO.my" start="20261018001500 +0800" stop="20261018020000 +0800">
-    <title lang="en">Jangan Takut, Kalau Kau Takut, Aku Pun..</title>
-    <desc lang="en">The delinquents make the journey to KL after being thrown out of their homes. They hitched a ride with a girl named Malaika, starting a road trip filled with horror stories to last a lifetime.</desc>
   </programme>
   <programme channel="BOO.my" start="20261017223000 +0800" stop="20261018001500 +0800">
     <title lang="en">Telunjuk Iblis</title>
@@ -58632,10 +58180,6 @@
     <title lang="en">Countdown</title>
     <desc lang="en">A nurse downloads an app that predicts death dates and learns she has only three days left. As a mysterious presence stalks her, she races against time to find a way to survive.</desc>
   </programme>
-  <programme channel="AstroFAMTime.my" start="20261017150500 +0800" stop="20261017161600 +0800">
-    <title lang="en">Miguel Wants to Fight</title>
-    <desc lang="en">A coming of age comedy about a 17-year-old in who asks his three best friends to help him get in his first fight ever before he moves to a new city.</desc>
-  </programme>
   <programme channel="AstroFAMTime.my" start="20261017161600 +0800" stop="20261017181500 +0800">
     <title lang="en">Water for Elephants</title>
     <desc lang="en">Jacob meets Marlena, a beautiful circus performer. Their shared compassion for a special elephant Rosie leads to love, but Marlena's cruel husband stands in their way.</desc>
@@ -58659,10 +58203,6 @@
   <programme channel="AstroFAMTime.my" start="20261017223700 +0800" stop="20261018001500 +0800">
     <title lang="en">The Hunchback of Notre Dame</title>
     <desc lang="en">A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.</desc>
-  </programme>
-  <programme channel="AstroFAMTime.my" start="20261018001500 +0800" stop="20261018014500 +0800">
-    <title lang="en">THE GOURMET DETECTIVE</title>
-    <desc lang="en">A culinary expert with crime-solving skills pairs up with a female detective to figure out how a guest at a distinguished dinner party died.</desc>
   </programme>
   <programme channel="AstroFAMTime.my" start="20261017223700 +0800" stop="20261018001500 +0800">
     <title lang="en">The Hunchback of Notre Dame</title>
@@ -59540,10 +59080,6 @@
     <title lang="en">The Fate of the Furious</title>
     <desc lang="en">When a mysterious woman seduces Dominic Toretto into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before.</desc>
   </programme>
-  <programme channel="RockAction.my" start="20261017135500 +0800" stop="20261017155000 +0800">
-    <title lang="en">They Call Me Trinity</title>
-    <desc lang="en">A lazy but lightning-fast gunslinger joins his outlaw brother, posing as a sheriff, to defend peaceful Mormon farmers from a greedy cattle baron.</desc>
-  </programme>
   <programme channel="RockAction.my" start="20261017155000 +0800" stop="20261017180000 +0800">
     <title lang="en">The Hunger Games: Mockingjay Part 2</title>
     <desc lang="en">With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown.</desc>
@@ -59891,10 +59427,6 @@
   <programme channel="RockAction.my" start="20261023234000 +0800" stop="20261024013500 +0800">
     <title lang="en">47 Ronin</title>
     <desc lang="en">Keanu Reeves stars in 47 Ronin, an epic fantasy where an outcast joins samurai on a quest for vengeance and honor against a ruthless overlord in ancient Japan.</desc>
-  </programme>
-  <programme channel="RockXStream.my" start="20261017150500 +0800" stop="20261017160000 +0800">
-    <title lang="en">The Spiderwick Chronicles Ep7</title>
-    <desc lang="en">Mulgarath holds Jared captive in Meskwaki, determined to find the location of the dragon page. Jared has met his match in the ogre, falling victim to his manipulation.</desc>
   </programme>
   <programme channel="RockXStream.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Tower of God Ep25</title>
@@ -60452,10 +59984,6 @@
     <title lang="en">The Spiderwick Chronicles Ep1</title>
     <desc lang="en">When his family moves into the mysterious Spiderwick Estate, Jared suspects they're not alone. Meanwhile, the ogre Mulgarath takes a new form and enacts his malevolent plan.</desc>
   </programme>
-  <programme channel="tvNMovies.my" start="20261017141000 +0800" stop="20261017161500 +0800">
-    <title lang="en">The Swindlers</title>
-    <desc lang="en">Though each has their own motives, unlikely individuals from different sides of the law allies together to achieve a common goal - trapping the world's most legendary con man.</desc>
-  </programme>
   <programme channel="tvNMovies.my" start="20261017161500 +0800" stop="20261017181500 +0800">
     <title lang="en">Men of Plastic</title>
     <desc lang="en">A natural-born networker spot potential for business when he met a top plastic surgeon by chance. Together, they decided to open a whole new era of Apgujeong.</desc>
@@ -60792,14 +60320,6 @@
     <title lang="en">Love My Scent</title>
     <desc lang="en">After wearing a perfume he receives from a stranger, Chang-Soo earns the ability to attract every woman in the world. Ara begins to sense the scent of Chang-Soo and falls in love with him.</desc>
   </programme>
-  <programme channel="Astro.Awani.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
-  </programme>
-  <programme channel="Astro.Awani.my" start="20261017160000 +0800" stop="20261017160100 +0800">
-    <title lang="en">AWANI Ringkas</title>
-    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
-  </programme>
   <programme channel="Astro.Awani.my" start="20261017160100 +0800" stop="20261017163000 +0800">
     <title lang="en">(L) Buletin Awani</title>
     <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
@@ -60883,10 +60403,6 @@
   <programme channel="Astro.Awani.my" start="20261017234500 +0800" stop="20261018000000 +0800">
     <title lang="en">AWANI Borneo</title>
     <desc lang="en">Laporan berita ringkas, padat komprehensif dari Kepulauan Borneo.</desc>
-  </programme>
-  <programme channel="Astro.Awani.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">(L) Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
   </programme>
   <programme channel="Astro.Awani.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">(L) Buletin Awani</title>
@@ -62252,14 +61768,6 @@
     <title lang="en">AWANI Borneo</title>
     <desc lang="en">Laporan berita ringkas, padat komprehensif dari Kepulauan Borneo.</desc>
   </programme>
-  <programme channel="BernamaTV.my" start="20261017153000 +0800" stop="20261017154500 +0800">
-    <title lang="en">Apa Kata Tetamu</title>
-    <desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton.</desc>
-  </programme>
-  <programme channel="BernamaTV.my" start="20261017154500 +0800" stop="20261017160000 +0800">
-    <title lang="en">Sukan+ 360</title>
-    <desc lang="en">Rangkuman seminggu berita sukan seantero dunia. Merangkumi keputusan, aksi, isu semasa dan kontroversi sukan luar negara.</desc>
-  </programme>
   <programme channel="BernamaTV.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">(L) Bernama Global</title>
     <desc lang="en">Laporan berita antarabangsa terpilih yang disiarakan secara langsung setiap hari.</desc>
@@ -62319,10 +61827,6 @@
   <programme channel="BernamaTV.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Tamil News</title>
     <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
-  </programme>
-  <programme channel="BernamaTV.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
   </programme>
   <programme channel="BernamaTV.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">Ruang Bicara</title>
@@ -63348,10 +62852,6 @@
     <title lang="en">Tamil News</title>
     <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
   </programme>
-  <programme channel="CGTN.my" start="20261017153300 +0800" stop="20261017160300 +0800">
-    <title lang="en">Sports Scene Ep386</title>
-    <desc lang="en">Sports Scene examines the changes in China's domestic leagues, as the country undergoes an incredible economic transformation. Also, go behind the scenes and get closer to the top athletes in China.</desc>
-  </programme>
   <programme channel="CGTN.my" start="20261017160300 +0800" stop="20261017163300 +0800">
     <title lang="en">The World Today Ep414</title>
     <desc lang="en">Catch up live coverage, in-depth reporting, expert analysis and sustained coverage as The World Today keeps viewers up-to-date with all the world's top stories as they happen.</desc>
@@ -63415,10 +62915,6 @@
   <programme channel="CGTN.my" start="20261017233300 +0800" stop="20261018000300 +0800">
     <title lang="en">Inheritors Ep198</title>
     <desc lang="en">Hosted by long-term expatriates in China with a unique understanding of the country's culture, the show introduces people who are dedicating their lives to its legacy, protection and future.</desc>
-  </programme>
-  <programme channel="CGTN.my" start="20261018000300 +0800" stop="20261018003300 +0800">
-    <title lang="en">The World Today Ep421</title>
-    <desc lang="en">Catch up live coverage, in-depth reporting, expert analysis and sustained coverage as The World Today keeps viewers up-to-date with all the world's top stories as they happen.</desc>
   </programme>
   <programme channel="CGTN.my" start="20261017233300 +0800" stop="20261018000300 +0800">
     <title lang="en">Inheritors Ep198</title>
@@ -64528,14 +64024,6 @@
     <title lang="en">The Vibe Ep995</title>
     <desc lang="en">Focusing on trends and cultural topics moving China and the world, the host presents delivers a lighthearted review and in-depth analysis that also gives viewers a bigger picture.</desc>
   </programme>
-  <programme channel="BeritaRTM.my" start="20261017150500 +0800" stop="20261017160000 +0800">
-    <title lang="en">Vasantham</title>
-    <desc lang="en">Sebuah program bicarawara yang membincangkan mengenai isu semasa berkaitan komuniti India tempatan.</desc>
-  </programme>
-  <programme channel="BeritaRTM.my" start="20261017160000 +0800" stop="20261017160500 +0800">
-    <title lang="en">Berita Semasa</title>
-    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
-  </programme>
   <programme channel="BeritaRTM.my" start="20261017160500 +0800" stop="20261017163000 +0800">
     <title lang="en">Pastikan Sahih</title>
     <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
@@ -64595,10 +64083,6 @@
   <programme channel="BeritaRTM.my" start="20261017230000 +0800" stop="20261018000000 +0800">
     <title lang="en">Who Control Your Money Ep6</title>
     <desc lang="en">Jaswinder Maan speaks with experts in economics, finance and business about investing, funding retirement beyond 60 and how trade wars affect us.</desc>
-  </programme>
-  <programme channel="BeritaRTM.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Gastronomic Trail of Asia Ep2</title>
-    <desc lang="en">Membawa penonton merasai keenakan dan mempelajari resepi masakan disamping meneroka pelbagai budaya, etnik dan destinasi baru.</desc>
   </programme>
   <programme channel="BeritaRTM.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Gastronomic Trail of Asia Ep2</title>
@@ -65612,10 +65096,6 @@
     <title lang="en">Who Control Your Money Ep5</title>
     <desc lang="en">Jaswinder Maan speaks with experts in economics, finance and business about investing, funding retirement beyond 60 and how trade wars affect us.</desc>
   </programme>
-  <programme channel="CNN.my" start="20261017153200 +0800" stop="20261017160200 +0800">
-    <title lang="en">Intelligent Future</title>
-    <desc lang="en">Hosted by Becky Anderson in Abu Dhabi, this interview series dives headfirst into the cutting-edge world of AI and transformative technologies.</desc>
-  </programme>
   <programme channel="CNN.my" start="20261017160200 +0800" stop="20261017163200 +0800">
     <title lang="en">CNN Newsroom</title>
     <desc lang="en">Live context and clarity to the day's top stories from around the world.</desc>
@@ -65659,10 +65139,6 @@
   <programme channel="CNN.my" start="20261017230200 +0800" stop="20261018000200 +0800">
     <title lang="en">The Amanpour Hour</title>
     <desc lang="en">Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
-  </programme>
-  <programme channel="CNN.my" start="20261018000200 +0800" stop="20261018003200 +0800">
-    <title lang="en">World Sport</title>
-    <desc lang="en">Daily sports show features major stories and issues making news in the world of sports.</desc>
   </programme>
   <programme channel="CNN.my" start="20261017230200 +0800" stop="20261018000200 +0800">
     <title lang="en">The Amanpour Hour</title>
@@ -66460,10 +65936,6 @@
     <title lang="en">One World</title>
     <desc lang="en">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
   </programme>
-  <programme channel="BBCNews.my" start="20261017153200 +0800" stop="20261017160200 +0800">
-    <title lang="en">Clive Myrie's African Adventure: Cape Town</title>
-    <desc lang="en">Clive lends a hand at a penguin rehab centre, jams with up-and-coming jazz talent Q Ntshinka and learns the art of Cape Malay cooking in the city's colourful Bo-Kaap district.</desc>
-  </programme>
   <programme channel="BBCNews.my" start="20261017160200 +0800" stop="20261017173200 +0800">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -66519,10 +65991,6 @@
   <programme channel="BBCNews.my" start="20261017233200 +0800" stop="20261018000200 +0800">
     <title lang="en">The Climate Question: Can China Build Its Way Out of Climate Change?</title>
     <desc lang="en">Huge construction projects are transforming China, including dams, solar power farms and a vast high-speed rail network. But will an engineering-first approach help Beijing deal with climate change?</desc>
-  </programme>
-  <programme channel="BBCNews.my" start="20261018000200 +0800" stop="20261018010200 +0800">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
   </programme>
   <programme channel="BBCNews.my" start="20261017233200 +0800" stop="20261018000200 +0800">
     <title lang="en">The Climate Question: Can China Build Its Way Out of Climate Change?</title>
@@ -67824,10 +67292,6 @@
     <title lang="en">The Travel Show</title>
     <desc lang="en">Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
   </programme>
-  <programme channel="ALJAZEERA.my" start="20261017150200 +0800" stop="20261017160200 +0800">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
   <programme channel="ALJAZEERA.my" start="20261017160200 +0800" stop="20261017163200 +0800">
     <title lang="en">News</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
@@ -67875,10 +67339,6 @@
   <programme channel="ALJAZEERA.my" start="20261017230200 +0800" stop="20261018000200 +0800">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme channel="ALJAZEERA.my" start="20261018000200 +0800" stop="20261018003200 +0800">
-    <title lang="en">News</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ALJAZEERA.my" start="20261017230200 +0800" stop="20261018000200 +0800">
     <title lang="en">Newshour</title>
@@ -68792,10 +68252,6 @@
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme channel="CNA.my" start="20261017153200 +0800" stop="20261017160400 +0800">
-    <title lang="en">Salt of the Earth</title>
-    <desc lang="en">This episode follows modern Japanese salt maker, Namikoshi, who creates salt for chefs, dishes and places, guided by the tides and the moon.</desc>
-  </programme>
   <programme channel="CNA.my" start="20261017160400 +0800" stop="20261017170200 +0800">
     <title lang="en">Restless: Biohacking Better Health</title>
     <desc lang="en">Three ambitious young Singaporeans confront the toll of pushing themselves too hard, using health data and small lifestyle changes to find more energy without giving up their goals.</desc>
@@ -68843,10 +68299,6 @@
   <programme channel="CNA.my" start="20261017230500 +0800" stop="20261018000500 +0800">
     <title lang="en">Power to the People</title>
     <desc lang="en">In India's Thar Desert, solar farms power the nation, while communities in Bikaner adapt as land use and daily life shift around them.</desc>
-  </programme>
-  <programme channel="CNA.my" start="20261018000500 +0800" stop="20261018003200 +0800">
-    <title lang="en">CNA Correspondent</title>
-    <desc lang="en">They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
   </programme>
   <programme channel="CNA.my" start="20261017230500 +0800" stop="20261018000500 +0800">
     <title lang="en">Power to the People</title>
@@ -69484,10 +68936,6 @@
     <title lang="en">Singapore Hour</title>
     <desc lang="en">Paddle Singapore's eastern seas, brave the ghosts of Changi, discover Queenstown's car vending tower and Michelin eats, meet a visionary dry cleaner, and explore the new Oceanarium's deep blue wonder.</desc>
   </programme>
-  <programme channel="CNBC.my" start="20261017153200 +0800" stop="20261017160200 +0800">
-    <title lang="en">Michelin Le Mans Cup</title>
-    <desc lang="en">Over the years, the Michelin Le Mans Cup has become the main series for amateur drivers looking for an introduction to Endurance racing.</desc>
-  </programme>
   <programme channel="CNBC.my" start="20261017160200 +0800" stop="20261017170200 +0800">
     <title lang="en">Late Night With Seth Meyers 2026</title>
     <desc lang="en">Seth Meyers with guests.</desc>
@@ -69531,10 +68979,6 @@
   <programme channel="CNBC.my" start="20261017230200 +0800" stop="20261018000200 +0800">
     <title lang="en">American Greed</title>
     <desc lang="en">How does superstar disability lawyer Eric C. Conn offer guaranteed client wins? He cheats, scoring a massive Social Security fraud, then vanishes.</desc>
-  </programme>
-  <programme channel="CNBC.my" start="20261018000200 +0800" stop="20261018010200 +0800">
-    <title lang="en">Late Night With Seth Meyers 2026</title>
-    <desc lang="en">Seth Meyers with guests.</desc>
   </programme>
   <programme channel="CNBC.my" start="20261017230200 +0800" stop="20261018000200 +0800">
     <title lang="en">American Greed</title>
@@ -70460,10 +69904,6 @@
     <title lang="en">Squawk on the Street</title>
     <desc lang="en">Headquartered live on the floor of the New York Stock Exchange, 'Squawk On The Street' tracks the action of every stock and gives you access to the treasury, currency and commodity action in real time.</desc>
   </programme>
-  <programme channel="Bloomberg.TV.my" start="20261017150300 +0800" stop="20261017160300 +0800">
-    <title lang="en">Bloomberg Wall Street Week</title>
-    <desc lang="en">A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-  </programme>
   <programme channel="Bloomberg.TV.my" start="20261017160300 +0800" stop="20261017163300 +0800">
     <title lang="en">Bloomberg Primer</title>
     <desc lang="en">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
@@ -70499,10 +69939,6 @@
   <programme channel="Bloomberg.TV.my" start="20261017233300 +0800" stop="20261018000300 +0800">
     <title lang="en">The David Rubenstein Show</title>
     <desc lang="en">Ana Botin, Santander Executive Chair. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-  </programme>
-  <programme channel="Bloomberg.TV.my" start="20261018000300 +0800" stop="20261018003300 +0800">
-    <title lang="en">The Deal With Alex Rodriguez and Jason Kelly</title>
-    <desc lang="en">The Deal with Alex Rodriguez and Jason Kelly showcases intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more.</desc>
   </programme>
   <programme channel="Bloomberg.TV.my" start="20261017233300 +0800" stop="20261018000300 +0800">
     <title lang="en">The David Rubenstein Show</title>
@@ -71060,10 +70496,6 @@
     <title lang="en">Bloomberg Tech</title>
     <desc lang="en">The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
   </programme>
-  <programme channel="ABCAUSTRALIA.my" start="20261017153200 +0800" stop="20261017160200 +0800">
-    <title lang="en">The World This Week</title>
-    <desc lang="en">Girish Sawlani presents the week's best international stories from an Australian perspective, as seen by ABC News reporters posted in Europe, North America, the Middle East and the Pacific.</desc>
-  </programme>
   <programme channel="ABCAUSTRALIA.my" start="20261017160200 +0800" stop="20261017163300 +0800">
     <title lang="en">ABC National News</title>
     <desc lang="en">There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters.</desc>
@@ -71115,10 +70547,6 @@
   <programme channel="ABCAUSTRALIA.my" start="20261017233300 +0800" stop="20261018000200 +0800">
     <title lang="en">Stuff the British Stole</title>
     <desc lang="en">When King Charles III has his Coronation, will he sit on a potent and sacred symbol of the Scottish people? Marc Fennell investigates a wild Scottish heist to steal back an object.</desc>
-  </programme>
-  <programme channel="ABCAUSTRALIA.my" start="20261018000200 +0800" stop="20261018013400 +0800">
-    <title lang="en">Corners of the Earth: Kamchatka</title>
-    <desc lang="en">Filmmakers and surfers voyage to Russia's Kamchatka peninsula. Utilizing helicopters and snowmobiles they explore remote volcanic coastline in pursuit of undiscovered waves along icy shores.</desc>
   </programme>
   <programme channel="ABCAUSTRALIA.my" start="20261017233300 +0800" stop="20261018000200 +0800">
     <title lang="en">Stuff the British Stole</title>
@@ -71844,10 +71272,6 @@
     <title lang="en">Alone Australia</title>
     <desc lang="en">A triumphant catch starves of the hunger of one survivalist, but as the adrenaline of the adventure fades, can the others pivot their strategies to bring in food?</desc>
   </programme>
-  <programme channel="DW.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Developments and trends in research: From space travel to environmental conservation, from genetic engineering to medical innovations, Tomorrow Today has the scoop on science.</desc>
-  </programme>
   <programme channel="DW.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">DocFilm</title>
     <desc lang="en">From their lecture halls to the International Court of Justice. Law students from the South Pacific have joined island nations to demand greater climate accountability from industrialized countries.</desc>
@@ -71923,14 +71347,6 @@
   <programme channel="DW.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Euromaxx</title>
     <desc lang="en">Europe in all its facets: the countries and cultures, the everyday and the exceptional, the gossip and the glamour.</desc>
-  </programme>
-  <programme channel="DW.my" start="20261018000000 +0800" stop="20261018001500 +0800">
-    <title lang="en">DW News</title>
-    <desc lang="en">News, information and analysis of German and European topics.</desc>
-  </programme>
-  <programme channel="DW.my" start="20261018001500 +0800" stop="20261018003000 +0800">
-    <title lang="en">Sports Life</title>
-    <desc lang="en">Football has become a big business where it's all about winning titles, and at the end of the day, making cash. Sports Life investigates the clubs that strive to be about more than just football.</desc>
   </programme>
   <programme channel="DW.my" start="20261018000000 +0800" stop="20261018001500 +0800">
     <title lang="en">DW News</title>
@@ -73256,10 +72672,6 @@
     <title lang="en">DocFilm</title>
     <desc lang="en">For more than 40 years, German churches have been offering refugees church asylum. But this is not a legal right. And the practice is increasingly being called into question by German authorities.</desc>
   </programme>
-  <programme channel="FRANCE24.my" start="20261017153000 +0800" stop="20261017161500 +0800">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
   <programme channel="FRANCE24.my" start="20261017161500 +0800" stop="20261017163000 +0800">
     <title lang="en">Access Asia</title>
     <desc lang="en">A week of political and social events across the Asian continent : exclusive reports, features and analysis.</desc>
@@ -73403,14 +72815,6 @@
   <programme channel="FRANCE24.my" start="20261017234500 +0800" stop="20261018000000 +0800">
     <title lang="en">Tete a Tete</title>
     <desc lang="en">An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="FRANCE24.my" start="20261018000000 +0800" stop="20261018001500 +0800">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="FRANCE24.my" start="20261018001500 +0800" stop="20261018003000 +0800">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">Prime time interview of the day goes beyond the headlines: join us as news-making guests from around the globe go in depth on the stories that matter.</desc>
   </programme>
   <programme channel="FRANCE24.my" start="20261018000000 +0800" stop="20261018001500 +0800">
     <title lang="en">News</title>
@@ -76672,10 +76076,6 @@
     <title lang="en">Ghost Adventures Ep12</title>
     <desc lang="en">Zak and the crew investigate the site of a deadly 1922 mine fire in Jackson, California.</desc>
   </programme>
-  <programme channel="DISCOVERY.my" start="20261018001300 +0800" stop="20261018010800 +0800">
-    <title lang="en">The Curious Case Of... Ep4</title>
-    <desc lang="en">A facialist's harassment nightmare erupts into accusations, betrayal, and an alleged murder-for-hire plot where every player's story contradicts.</desc>
-  </programme>
   <programme channel="DISCOVERY.my" start="20261017231800 +0800" stop="20261018001300 +0800">
     <title lang="en">Ghost Adventures Ep12</title>
     <desc lang="en">Zak and the crew investigate the site of a deadly 1922 mine fire in Jackson, California.</desc>
@@ -77368,10 +76768,6 @@
     <title lang="en">Port Control: Spain Ep7</title>
     <desc lang="en">A look at the daily challenges of the hard-working men and women in charge of the operations at some of the busiest harbors in Spain.</desc>
   </programme>
-  <programme channel="DISCOVERYASIA.my" start="20261017151500 +0800" stop="20261017160500 +0800">
-    <title lang="en">Power to the People Ep3</title>
-    <desc lang="en">Aralvaimozhi, a town in Tamil Nadu, India, thrives because wind farms provide jobs.</desc>
-  </programme>
   <programme channel="DISCOVERYASIA.my" start="20261017160500 +0800" stop="20261017165500 +0800">
     <title lang="en">Power to the People Ep4</title>
     <desc lang="en">Indonesia is shifting coal plants to co-firing biomass for bioenergy, but activists and some remote communities are resisting this move due to concerns about deforestation.</desc>
@@ -77419,10 +76815,6 @@
   <programme channel="DISCOVERYASIA.my" start="20261017233700 +0800" stop="20261018002700 +0800">
     <title lang="en">Bill Bailey: Vietnam Adventure Ep1</title>
     <desc lang="en">Comedian Bill Bailey finds himself in a basket-shaped boat facing the seas of change that have shaped the country since the end of the Vietnam War.</desc>
-  </programme>
-  <programme channel="DISCOVERYASIA.my" start="20261018002700 +0800" stop="20261018005200 +0800">
-    <title lang="en">Next Stop Ep11</title>
-    <desc lang="en">The documentary series offers a quick plunge into different cities and regions around the world.</desc>
   </programme>
   <programme channel="DISCOVERYASIA.my" start="20261017233700 +0800" stop="20261018002700 +0800">
     <title lang="en">Bill Bailey: Vietnam Adventure Ep1</title>
@@ -78243,10 +77635,6 @@
   <programme channel="DISCOVERYASIA.my" start="20261023233500 +0800" stop="20261024002500 +0800">
     <title lang="en">Turbulence How Safe Is Your Flight</title>
     <desc lang="en">A dramatic minute by minute analysis of flight SQ321 that examines the science of turbulence and asks why it happens, exploring its causes, effects, and implications.</desc>
-  </programme>
-  <programme channel="BBCEarth.my" start="20261017145000 +0800" stop="20261017154000 +0800">
-    <title lang="en">Portillo's Andalucia Ep6</title>
-    <desc lang="en">Michael finishes his Andalucian odyssey in the capital Sevilla and Carmona.</desc>
   </programme>
   <programme channel="BBCEarth.my" start="20261017154000 +0800" stop="20261017163000 +0800">
     <title lang="en">Where the Wild Men Are With Ben Fogle Ep16</title>
@@ -79644,14 +79032,6 @@
     <title lang="en">Holy Marvels With Dennis Quaid Ep19</title>
     <desc lang="en">For centuries, powerful artefacts have sparked wars, inspired legends, and shaped empires. From divine weapons to sacred relics-these are the incredible stories of the world's most mighty marvels.</desc>
   </programme>
-  <programme channel="CGTNDocumentary.my" start="20261017151000 +0800" stop="20261017154000 +0800">
-    <title lang="en">The Journey of Innovation Ep6</title>
-    <desc lang="en">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-  </programme>
-  <programme channel="CGTNDocumentary.my" start="20261017154000 +0800" stop="20261017161000 +0800">
-    <title lang="en">Pixel Collage</title>
-    <desc lang="en">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-  </programme>
   <programme channel="CGTNDocumentary.my" start="20261017161000 +0800" stop="20261017171000 +0800">
     <title lang="en">Beyond Yasukuni</title>
     <desc lang="en">Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental affecting lives nationwide.</desc>
@@ -79699,10 +79079,6 @@
   <programme channel="CGTNDocumentary.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">China IRL - Beijing Riverside</title>
     <desc lang="en">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-  </programme>
-  <programme channel="CGTNDocumentary.my" start="20261018001000 +0800" stop="20261018011000 +0800">
-    <title lang="en">Breaking Through Ep4</title>
-    <desc lang="en">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
   </programme>
   <programme channel="CGTNDocumentary.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">China IRL - Beijing Riverside</title>
@@ -80544,18 +79920,6 @@
     <title lang="en">The Magic of Lingqu Canal Ep3</title>
     <desc lang="en">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
   </programme>
-  <programme channel="TUTORTV.my" start="20261017153000 +0800" stop="20261017154000 +0800">
-    <title lang="en">SPM Pro+ Sejarah Ep15</title>
-    <desc lang="en">Jom kita ulang kaji subjek Sejarah KSSM topik 'Kesan kemerdekaan kepada negara kita' SPM bersama Sir Syahmi, yang akan menghuraikan analisis soalan KBAT, teknik menjawab &amp; Tip Pro+. Ace SPM Like A Pro!</desc>
-  </programme>
-  <programme channel="TUTORTV.my" start="20261017154000 +0800" stop="20261017155000 +0800">
-    <title lang="en">SPM Pro+ Sejarah Ep16</title>
-    <desc lang="en">Jom kita ulang kaji subjek Sejarah KSSM topik 'Ciri-ciri negara berdaulat' SPM bersama Sir Syahmi, tutor pakar yang akan menghuraikan analisis soalan KBAT, teknik menjawab &amp; Tip Pro+. Ace SPM Like A Pro!</desc>
-  </programme>
-  <programme channel="TUTORTV.my" start="20261017155000 +0800" stop="20261017160000 +0800">
-    <title lang="en">SPM Pro+ Sejarah Ep17</title>
-    <desc lang="en">Jom kita ulang kaji subjek Sejarah KSSM topik 'Sejarah penggubalan Perlembagaan Persekutuan' SPM bersama Sir Syahmi, yang akan menghuraikan analisis soalan KBAT, teknik menjawab &amp; Tip Pro+.</desc>
-  </programme>
   <programme channel="TUTORTV.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">TVP@TTV Sejarah Tingkatan 3 Ep5</title>
     <desc lang="en">Rancangan ini mengisahkan bahawa Sarawak dan Sabah telah mempunyai sistem pemerintahan yang sistematik sebelum kedatangan kuasa Barat yang dilaksanakan bagi menjamin kelangsungan kehidupan masyarakat.</desc>
@@ -80667,14 +80031,6 @@
   <programme channel="TUTORTV.my" start="20261017235000 +0800" stop="20261018000000 +0800">
     <title lang="en">Misi Studi SPM Sains Ep1</title>
     <desc lang="en">Every episode covers different subjects and each topic may have different needs, hence there will be different segments/pop-up info.</desc>
-  </programme>
-  <programme channel="TUTORTV.my" start="20261018000000 +0800" stop="20261018001500 +0800">
-    <title lang="en">Kisah Omar &amp; Hana Ep1</title>
-    <desc lang="en">Jom sertai Omar dan Hana bersama keluarga dan rakan-rakan mempelajari nilai islam melalui kisah-kisah berdurasi 11 minit.</desc>
-  </programme>
-  <programme channel="TUTORTV.my" start="20261018001500 +0800" stop="20261018003000 +0800">
-    <title lang="en">Kisah Omar &amp; Hana Ep2</title>
-    <desc lang="en">Jom sertai Omar dan Hana bersama keluarga dan rakan-rakan mempelajari nilai islam melalui kisah-kisah berdurasi 11 minit.</desc>
   </programme>
   <programme channel="TUTORTV.my" start="20261018000000 +0800" stop="20261018001500 +0800">
     <title lang="en">Kisah Omar &amp; Hana Ep1</title>
@@ -82936,10 +82292,6 @@
     <title lang="en">Misi Studi SPM Matematik Ep6</title>
     <desc lang="en">Every episode covers different subjects and each topic may have different needs, hence there will be different segments/pop-up info.</desc>
   </programme>
-  <programme channel="Astro.Ceria.my" start="20261017153000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Tsurupika Hagemaru Ep20</title>
-    <desc lang="en">Hagemaru merupakan anak tunggal keluarga Hageta yang kedekut dan sering mencari jalan untuk berjimat-cermat dalam pembelanjaan.</desc>
-  </programme>
   <programme channel="Astro.Ceria.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Beyblade X Ep101</title>
     <desc lang="en">A young boy who aims to be a professional Beyblade player. He aims to get to X Tower, where professional Beyblade players gather</desc>
@@ -83019,10 +82371,6 @@
   <programme channel="Astro.Ceria.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">BoBoiBoy Galaxy GENTAR Ep2</title>
     <desc lang="en">Seorang adiwira yang menerima Kuasa Elemental dari sebuah Power Sphera bernama Ochobot. BoBoiBoy boleh mengawal 7 Kuasa Elemental yang berbeza dan menggunakannya untuk kebaikan.</desc>
-  </programme>
-  <programme channel="Astro.Ceria.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Dongeng Rantau Asia Ep25</title>
-    <desc lang="en">Kisah Ipo si kerdil nakal yang suka mengganggu orang kampung dengan sihir angin. Sikapnya berubah setelah bertemu pari-pari tanaman bernama Engkantada.</desc>
   </programme>
   <programme channel="Astro.Ceria.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Dongeng Rantau Asia Ep25</title>
@@ -86120,14 +85468,6 @@
     <title lang="en">BoBoiBoy Galaxy GENTAR Ep3</title>
     <desc lang="en">Seorang adiwira yang menerima Kuasa Elemental dari sebuah Power Sphera bernama Ochobot. BoBoiBoy boleh mengawal 7 Kuasa Elemental yang berbeza dan menggunakannya untuk kebaikan.</desc>
   </programme>
-  <programme channel="CARTOONNTWK.my" start="20261017144800 +0800" stop="20261017154800 +0800">
-    <title lang="en">Mr Bean: the Animated Series Ep71</title>
-    <desc lang="en">Bean tries to stop his favourite tree from being cut down.</desc>
-  </programme>
-  <programme channel="CARTOONNTWK.my" start="20261017154800 +0800" stop="20261017161800 +0800">
-    <title lang="en">The Amazing World of Gumball Ep22</title>
-    <desc lang="en">When Gumball and Darwin get their first cell phone, they foolishly give out their number to super-intense Ocho.</desc>
-  </programme>
   <programme channel="CARTOONNTWK.my" start="20261017161800 +0800" stop="20261017171800 +0800">
     <title lang="en">Unikitty Ep57</title>
     <desc lang="en">Unikitty's installed Bad Vibe detectors in the castle.</desc>
@@ -86179,10 +85519,6 @@
   <programme channel="CARTOONNTWK.my" start="20261017231800 +0800" stop="20261018000300 +0800">
     <title lang="en">Steven Universe Ep118</title>
     <desc lang="en">The Gems try to pull of a heist.</desc>
-  </programme>
-  <programme channel="CARTOONNTWK.my" start="20261018000300 +0800" stop="20261018010300 +0800">
-    <title lang="en">Regular Show Ep7</title>
-    <desc lang="en">Rigby is tired of losing at punchies</desc>
   </programme>
   <programme channel="CARTOONNTWK.my" start="20261017231800 +0800" stop="20261018000300 +0800">
     <title lang="en">Steven Universe Ep118</title>
@@ -86992,14 +86328,6 @@
     <title lang="en">Steven Universe Ep121</title>
     <desc lang="en">Connie helps look after Beach City while Steven is busy.</desc>
   </programme>
-  <programme channel="NICKELODEON.my" start="20261017153000 +0800" stop="20261017155500 +0800">
-    <title lang="en">SpongeBob SquarePants Ep183</title>
-    <desc lang="en">SpongeBob finds a nasty sea urchin living in the Krusty Krab, and tries everything to force it out. // After getting his groceries stolen, Squidward convinces SpongeBob and Sandy to teach him karate.</desc>
-  </programme>
-  <programme channel="NICKELODEON.my" start="20261017155500 +0800" stop="20261017161500 +0800">
-    <title lang="en">The Patrick Star Show Ep402</title>
-    <desc lang="en">GrandPat competes for Granny Tentacles' love on a dating game show. // The Ice Cream Man and Ice Cream King team up to capture a mysterious ice cream eating beast.</desc>
-  </programme>
   <programme channel="NICKELODEON.my" start="20261017161500 +0800" stop="20261017164000 +0800">
     <title lang="en">The Marsupilamis Ep101</title>
     <desc lang="en">Jade tries to help too many people and ends up causing chaos in the process! // The Twins ask the Marsupilamis to wait for an important parcel, but they miss it, so try and retrieve it from the depot.</desc>
@@ -87083,14 +86411,6 @@
   <programme channel="NICKELODEON.my" start="20261017235000 +0800" stop="20261018000000 +0800">
     <title lang="en">The Marsupilamis Ep114</title>
     <desc lang="en">The Marsupilamis are helping people, and Callie wants to find out who the 'Amazing Coat Man' hero is.</desc>
-  </programme>
-  <programme channel="NICKELODEON.my" start="20261018000000 +0800" stop="20261018001500 +0800">
-    <title lang="en">The Loud House Ep911</title>
-    <desc lang="en">To avoid his responsibilities, Lincoln uses Lisa's hologram device to make it appear like he's doing all of his tasks.</desc>
-  </programme>
-  <programme channel="NICKELODEON.my" start="20261018001500 +0800" stop="20261018004000 +0800">
-    <title lang="en">The Loud House Ep105</title>
-    <desc lang="en">Lincoln has to get to school on time but getting his sisters out the door proves to be the biggest obstacle of all. // Lincoln is the deciding vote on going to the beach or the amusement park for their...</desc>
   </programme>
   <programme channel="NICKELODEON.my" start="20261018000000 +0800" stop="20261018001500 +0800">
     <title lang="en">The Loud House Ep911</title>
@@ -88668,14 +87988,6 @@
     <title lang="en">The Marsupilamis Ep117</title>
     <desc lang="en">Mica believes that Marcel is interested in astronomy so befriends him!</desc>
   </programme>
-  <programme channel="NICKJR.my" start="20261017153500 +0800" stop="20261017155500 +0800">
-    <title lang="en">Blue's Clues &amp; You Ep102</title>
-    <desc lang="en">It's Blue's birthday! We're playing Blue's Clues to figure out what present Blue wants for her birthday. While we look for Clues, we help Josh get ready for the party by observing patterns and take a trip...</desc>
-  </programme>
-  <programme channel="NICKJR.my" start="20261017155500 +0800" stop="20261017161500 +0800">
-    <title lang="en">BARBAPAPA - One Big Happy Family! Ep214</title>
-    <desc lang="en">On a trip to Paris, the Barbapapa family will discover the most incredible museum: the Louvre! // Barbalala has decided to respect all the rules of the day of opposites.</desc>
-  </programme>
   <programme channel="NICKJR.my" start="20261017161500 +0800" stop="20261017164000 +0800">
     <title lang="en">BARBAPAPA - One Big Happy Family! Ep109</title>
     <desc lang="en">Barbamama wants the barbababies to tidy their bedrooms. They're hiding to escape the drudgery.</desc>
@@ -88795,14 +88107,6 @@
   <programme channel="NICKJR.my" start="20261017234500 +0800" stop="20261018000000 +0800">
     <title lang="en">BARBAPAPA - One Big Happy Family! Ep109</title>
     <desc lang="en">Barbamama wants the barbababies to tidy their bedrooms. They're hiding to escape the drudgery.</desc>
-  </programme>
-  <programme channel="NICKJR.my" start="20261018000000 +0800" stop="20261018002000 +0800">
-    <title lang="en">Rubble &amp; Crew Ep113</title>
-    <desc lang="en">After uncovering dinosaur bones, the pups decide to build a dinosaur museum! // When Omar the Mail Carrier breaks his foot, it's up to the pups to make sure he can still deliver the mail by building...</desc>
-  </programme>
-  <programme channel="NICKJR.my" start="20261018002000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Rubble &amp; Crew Ep301</title>
-    <desc lang="en">Lily's mermaid-themed birthday party is called off when it starts to rain. Time for a construction solution!</desc>
   </programme>
   <programme channel="NICKJR.my" start="20261018000000 +0800" stop="20261018002000 +0800">
     <title lang="en">Rubble &amp; Crew Ep113</title>
@@ -90700,10 +90004,6 @@
     <title lang="en">BARBAPAPA - One Big Happy Family! Ep112</title>
     <desc lang="en">The Barbababies have a sleepover in the living room. Fearing the monsters in the closet, they set up wacky traps to catch them.</desc>
   </programme>
-  <programme channel="MoonbugKids.my" start="20261017152600 +0800" stop="20261017155800 +0800">
-    <title lang="en">Little Angel</title>
-    <desc lang="en">Sing with Baby John! Meet a squirrel, bake hot cross buns, and visit Old MacDonald's farm with the family.</desc>
-  </programme>
   <programme channel="MoonbugKids.my" start="20261017155800 +0800" stop="20261017162300 +0800">
     <title lang="en">The Melon Patch</title>
     <desc lang="en">Ms. Appleberry and the teachers model how to care for your body when you don't feel well.</desc>
@@ -91912,10 +91212,6 @@
     <title lang="en">Little Baby Bum: Lullabies</title>
     <desc lang="en">Little Baby Bum is here to help you fall to sleep; with soothing, relaxing animated lullabies</desc>
   </programme>
-  <programme channel="Blippi&amp;Friends.my" start="20261017153600 +0800" stop="20261017155800 +0800">
-    <title lang="en">Oddbods</title>
-    <desc lang="en">Things are getting wild! Bubbles is shrunk to the size of a bee and Jeff turns into a feral wild thing!</desc>
-  </programme>
   <programme channel="Blippi&amp;Friends.my" start="20261017155800 +0800" stop="20261017162000 +0800">
     <title lang="en">Oddbods</title>
     <desc lang="en">Things are getting wild! Bubbles is shrunk to the size of a bee and Jeff turns into a feral wild thing!</desc>
@@ -92001,14 +91297,6 @@
     <desc lang="en">Things are getting wild! Bubbles is shrunk to the size of a bee and Jeff turns into a feral wild thing!</desc>
   </programme>
   <programme channel="Blippi&amp;Friends.my" start="20261017234300 +0800" stop="20261018000600 +0800">
-    <title lang="en">Oddbods</title>
-    <desc lang="en">Things are getting wild! Bubbles is shrunk to the size of a bee and Jeff turns into a feral wild thing!</desc>
-  </programme>
-  <programme channel="Blippi&amp;Friends.my" start="20261018000600 +0800" stop="20261018002700 +0800">
-    <title lang="en">Oddbods</title>
-    <desc lang="en">Things are getting wild! Bubbles is shrunk to the size of a bee and Jeff turns into a feral wild thing!</desc>
-  </programme>
-  <programme channel="Blippi&amp;Friends.my" start="20261018002700 +0800" stop="20261018005000 +0800">
     <title lang="en">Oddbods</title>
     <desc lang="en">Things are getting wild! Bubbles is shrunk to the size of a bee and Jeff turns into a feral wild thing!</desc>
   </programme>
@@ -93324,10 +92612,6 @@
     <title lang="en">Blippi's Top 10</title>
     <desc lang="en">Blippi counts down his TOP 10 INDOOR PLAYGROUND episodes!</desc>
   </programme>
-  <programme channel="AXN.my" start="20261017152000 +0800" stop="20261017161500 +0800">
-    <title lang="en">HUDSON &amp; REX Ep7</title>
-    <desc lang="en">When Sarah and Rex are kidnapped, the rest of the team tracks a criminal mastermind from their past before he uses Rex to take his revenge.</desc>
-  </programme>
   <programme channel="AXN.my" start="20261017161500 +0800" stop="20261017171000 +0800">
     <title lang="en">HUDSON &amp; REX Ep8</title>
     <desc lang="en">Rex turns bird-dog to investigate a group of birdwatchers after one of their own is murdered during a tour.</desc>
@@ -94028,10 +93312,6 @@
     <title lang="en">S.W.A.T. Ep2</title>
     <desc lang="en">Inspired by the television series and the feature film, S.W.A.T. stars Shemar Moore as a locally born and raised S.W.A.T. sergeant newly tasked to run a specialized tactical unit.</desc>
   </programme>
-  <programme channel="HITSNOW.my" start="20261017151000 +0800" stop="20261017161000 +0800">
-    <title lang="en">The Hand That Robbed the Cradle Ep3</title>
-    <desc lang="en">It was the kidnapping that shocked America and now, 26-year-old Delimar gives exclusive access to her own highly personal investigation into what really happened, exposing who knew more than they said.</desc>
-  </programme>
   <programme channel="HITSNOW.my" start="20261017161000 +0800" stop="20261017171000 +0800">
     <title lang="en">MasterChef S16: Global Gauntlet Ep18</title>
     <desc lang="en">The MasterChef finale continues as finalists present dishes inspired by their Global Gauntlet journeys, showcasing their skills in a final bid to impress the judges.</desc>
@@ -94067,10 +93347,6 @@
   <programme channel="HITSNOW.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">Ghosts Ep11</title>
     <desc lang="en">Sam and the ghosts face The Others, a new group of spirits from one ghost's past. Meanwhile, Trevor tries to deal with a demanding Patience, who seeks a committed relationship.</desc>
-  </programme>
-  <programme channel="HITSNOW.my" start="20261018001000 +0800" stop="20261018011000 +0800">
-    <title lang="en">Celebrity Family Feud Ep2</title>
-    <desc lang="en">Steve Harvey hosts a new season of Celebrity Family Feud, where famous faces and their families go head-to-head.</desc>
   </programme>
   <programme channel="HITSNOW.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">Ghosts Ep11</title>
@@ -94703,10 +93979,6 @@
   <programme channel="HITSNOW.my" start="20261023234000 +0800" stop="20261024001000 +0800">
     <title lang="en">Entertainment Tonight Ep11769</title>
     <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
-  </programme>
-  <programme channel="Lifetime.my" start="20261017143500 +0800" stop="20261017154000 +0800">
-    <title lang="en">MasterChef Australia Ep9</title>
-    <desc lang="en">In a high-stakes elimination challenge, contestants are tasked with reinventing the judges' quick carb recipes into unique, elevated dishes in a 36-minute cook.</desc>
   </programme>
   <programme channel="Lifetime.my" start="20261017154000 +0800" stop="20261017164000 +0800">
     <title lang="en">MasterChef Australia Ep10</title>
@@ -95374,10 +94646,6 @@
   </programme>
   <programme channel="HITS.my" start="20261017233500 +0800" stop="20261018000500 +0800">
     <title lang="en">The Twilight Zone Ep3</title>
-    <desc lang="en">Characters find themselves abruptly trapped in a mysterious 'fifth dimension' - ranging from alien invasions,time travel, and dystopian futures to telepathy,supernatural objects,and encounters with death.</desc>
-  </programme>
-  <programme channel="HITS.my" start="20261018000500 +0800" stop="20261018003500 +0800">
-    <title lang="en">The Twilight Zone Ep4</title>
     <desc lang="en">Characters find themselves abruptly trapped in a mysterious 'fifth dimension' - ranging from alien invasions,time travel, and dystopian futures to telepathy,supernatural objects,and encounters with death.</desc>
   </programme>
   <programme channel="HITS.my" start="20261017233500 +0800" stop="20261018000500 +0800">
@@ -97016,14 +96284,6 @@
     <title lang="en">Renovation Impossible Ep8</title>
     <desc lang="en">Russell helps an expecting couple give an old childhood home new life. His team plans a more open and functional floor plan the family can enjoy.</desc>
   </programme>
-  <programme channel="AFN.my" start="20261017151500 +0800" stop="20261017154000 +0800">
-    <title lang="en">Cooking With Choi Ep2</title>
-    <desc lang="en">Esther Choi makes some favourite Korean classics - Korean barbecue of LA Kalbi with ssamjang and and a hot pot: bulgogi mushroom jeongol.</desc>
-  </programme>
-  <programme channel="AFN.my" start="20261017154000 +0800" stop="20261017161000 +0800">
-    <title lang="en">Secrets of the Curry Kitchen Ep2</title>
-    <desc lang="en">Chef Asma Khan enjoys timeless Indian classics, from a delicious dal and jhal farezi to tangy aloo gobi matter and historic 1st Class Railway Curry.</desc>
-  </programme>
   <programme channel="AFN.my" start="20261017161000 +0800" stop="20261017164000 +0800">
     <title lang="en">Everyday Gourmet Ep83</title>
     <desc lang="en">It's all about veggies in today's Everyday Gourmet. Justine makes a vegetarian twist on the classic butter chicken.</desc>
@@ -97075,10 +96335,6 @@
   <programme channel="AFN.my" start="20261017231000 +0800" stop="20261018001000 +0800">
     <title lang="en">A Sweet Taste of Art Ep5</title>
     <desc lang="en">Be it traditional Chinese pastries, snacks from Japanese occupation period, the rich history and culture can be found in the exquisite presentation.</desc>
-  </programme>
-  <programme channel="AFN.my" start="20261018001000 +0800" stop="20261018003500 +0800">
-    <title lang="en">Cooking With Choi Ep2</title>
-    <desc lang="en">Esther Choi makes some favourite Korean classics - Korean barbecue of LA Kalbi with ssamjang and and a hot pot: bulgogi mushroom jeongol.</desc>
   </programme>
   <programme channel="AFN.my" start="20261017231000 +0800" stop="20261018001000 +0800">
     <title lang="en">A Sweet Taste of Art Ep5</title>
@@ -98100,10 +97356,6 @@
     <title lang="en">Kampung Foodsteps Heritage Ep6</title>
     <desc lang="en">Darren joins MY DJ, Jack Lim's trip to Ipoh. They visit Malaysia's last tin dredge and learn how to make Heong Peah.</desc>
   </programme>
-  <programme channel="CI.my" start="20261017151000 +0800" stop="20261017160500 +0800">
-    <title lang="en">Ozark Law Ep9</title>
-    <desc lang="en">100,000 roaring motorcycles roll into the Lake of the Ozarks region for the seminal event of the season, and the Lake Ozark and Osage Beach Police Departments must team up with the State Troopers.</desc>
-  </programme>
   <programme channel="CI.my" start="20261017160500 +0800" stop="20261017170000 +0800">
     <title lang="en">Murder at the Motel Ep1</title>
     <desc lang="en">July 1, 2021, Falls Township, Pennsylvania. Falls Township Police are dispatched to the New Falls Motel after receiving a call about an unresponsive female.</desc>
@@ -98147,10 +97399,6 @@
   <programme channel="CI.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">My Ghost Story Asia Ep1</title>
     <desc lang="en">A family tries to exorcise their home from disturbances. Next, popular Malaysian teen idol Aedy Ashraf shares his encounter with the unseen at a hotel room.</desc>
-  </programme>
-  <programme channel="CI.my" start="20261018001000 +0800" stop="20261018004000 +0800">
-    <title lang="en">My Ghost Story Asia Ep2</title>
-    <desc lang="en">A TV crew filming at the site of a high-profile murder encounters something strange. Next, a famous TV host gets spooked while filming at a haunted bridge.</desc>
   </programme>
   <programme channel="CI.my" start="20261017234000 +0800" stop="20261018001000 +0800">
     <title lang="en">My Ghost Story Asia Ep1</title>
@@ -98871,14 +98119,6 @@
   <programme channel="CI.my" start="20261023234000 +0800" stop="20261024003000 +0800">
     <title lang="en">Murder at the Motel Ep2</title>
     <desc lang="en">May 13, 2020, Reno, Nevada. Officers from the Reno Police Department are dispatched to the La Quinta Inn after several motel guests report hearing gunshots in the middle of the night.</desc>
-  </programme>
-  <programme channel="HGTV.my" start="20261017152500 +0800" stop="20261017155000 +0800">
-    <title lang="en">House Hunters International Ep12</title>
-    <desc lang="en">A Colorado couple and their two sons chase their dream of relocating to Granada, Spain. They must decide between space and a central location.</desc>
-  </programme>
-  <programme channel="HGTV.my" start="20261017155000 +0800" stop="20261017161500 +0800">
-    <title lang="en">Flip or Flop Ep12</title>
-    <desc lang="en">Tarek and Christina head out of their comfort zone to flip a house in the red hot market of Covina, California.</desc>
   </programme>
   <programme channel="HGTV.my" start="20261017161500 +0800" stop="20261017164000 +0800">
     <title lang="en">House Hunters International Ep4</title>
@@ -99944,10 +99184,6 @@
     <title lang="en">House Hunters Renovation Ep10</title>
     <desc lang="en">A couple hunt for a historic home to renovate on the North Shore of Boston. When they find a home with the charm they want, they face some surprises.</desc>
   </programme>
-  <programme channel="Astro.Arena.my" start="20261017153000 +0800" stop="20261017155700 +0800">
-    <title lang="en">Sorotan BWF Terbuka Denmark 2026</title>
-    <desc lang="en">Sorotan perlawanan tumpuan BWF Terbuka Denmark 2026.</desc>
-  </programme>
   <programme channel="Astro.Arena.my" start="20261017155700 +0800" stop="20261017170000 +0800">
     <title lang="en">Nadi Meledak</title>
     <desc lang="en">Nadi Meledak: Perbincangan Topik Tumpuan Mingguan dan Tetamu Jemputan</desc>
@@ -99975,10 +99211,6 @@
   <programme channel="Astro.Arena.my" start="20261017230000 +0800" stop="20261018000000 +0800">
     <title lang="en">(L) Nadi Weekend</title>
     <desc lang="en">(Langsung) Rancangan berita sukan hari minggu yang juga membawakan dari sudut berbeza sukan tempatan dan antarabangsa.</desc>
-  </programme>
-  <programme channel="Astro.Arena.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">PM bersama AM 2026</title>
-    <desc lang="en">Analisis terperinci melibatkan Azlan Mubin bersama jurulatih dan pemain yang terlibat dengan aksi CelcomDigi STL 2026.</desc>
   </programme>
   <programme channel="Astro.Arena.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">PM bersama AM 2026</title>
@@ -101280,10 +100512,6 @@
     <title lang="en">Sorotan MSL 2025/26: KRW lwn KUC</title>
     <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Kelantan Red Warrior FC lwn Kuching City FC.</desc>
   </programme>
-  <programme channel="ARENABOLA2.my" start="20261017140000 +0800" stop="20261017160400 +0800">
-    <title lang="en">MSL 2025/26: PEN lwn SEL</title>
-    <desc lang="en">Liga Super 2025/26 perlawanan ke-64: Penang lwn Selangor dari Stadium Bandaraya, George Town, Pulau Pinang.</desc>
-  </programme>
   <programme channel="ARENABOLA2.my" start="20261017160400 +0800" stop="20261017180000 +0800">
     <title lang="en">AFC Champions League Two 2026/27: Phnom Penh lwn Kuching City</title>
     <desc lang="en">AFC Champions League Two 2026/27: Phnom Penh Crown FC lwn Kuching City FC dari Stadium Nasional Morodok Techo, Phnom Penh, Kemboja.</desc>
@@ -101319,10 +100547,6 @@
   <programme channel="ARENABOLA2.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Sorotan MSL 2025/26: MEL lwn DPMM</title>
     <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Melaka lwn DPMM.</desc>
-  </programme>
-  <programme channel="ARENABOLA2.my" start="20261018000000 +0800" stop="20261018003000 +0800">
-    <title lang="en">Botak Terjah Stadium</title>
-    <desc lang="en">Kalau Abang Botak bagi mic, jangan lari! Botak Terjah Stadium membawakan perkembangan Liga Malaysia 2025/26 dari perspektif peminat-peminat bola sepak negara.</desc>
   </programme>
   <programme channel="ARENABOLA2.my" start="20261018000000 +0800" stop="20261018003000 +0800">
     <title lang="en">Botak Terjah Stadium</title>
@@ -101808,14 +101032,6 @@
     <title lang="en">Sorotan MSL 2025/26: KRW lwn SEL</title>
     <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Kelantan Red Warrior FC lwn Selangor FC.</desc>
   </programme>
-  <programme channel="Astro.Sukan.Plus.my" start="20261017142500 +0800" stop="20261017154500 +0800">
-    <title lang="en">Malaysia in Action Ep43</title>
-    <desc lang="en">Menyingkap kembali pencapaian atlet Malaysia sepanjang Sukan Asia ke-20 yang berlangsung Aichi ,Nagoya, Jepun.</desc>
-  </programme>
-  <programme channel="Astro.Sukan.Plus.my" start="20261017154500 +0800" stop="20261017160000 +0800">
-    <title lang="en">Kapsul Rtm Sports</title>
-    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
-  </programme>
   <programme channel="Astro.Sukan.Plus.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">Evolusi Juara Ep8</title>
     <desc lang="en">Menjejaki kisah peralihan generasi atlet daripada bakat muda yang dicungkil sehinggalah mereka menjadi 'juara' di pentas antarabangsa.</desc>
@@ -101851,14 +101067,6 @@
   <programme channel="Astro.Sukan.Plus.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">Ekstrem Adrenalin Ep4</title>
     <desc lang="en">Rancangan yang memaparkan tentang pelbagai aksi sukan dan aktiviti ekstrem penuh bertenaga.</desc>
-  </programme>
-  <programme channel="Astro.Sukan.Plus.my" start="20261018000000 +0800" stop="20261018001500 +0800">
-    <title lang="en">Kapsul Rtm Sports</title>
-    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
-  </programme>
-  <programme channel="Astro.Sukan.Plus.my" start="20261018001500 +0800" stop="20261018003000 +0800">
-    <title lang="en">Padu Fizikal Ep11</title>
-    <desc lang="en">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
   </programme>
   <programme channel="Astro.Sukan.Plus.my" start="20261018000000 +0800" stop="20261018001500 +0800">
     <title lang="en">Kapsul Rtm Sports</title>
@@ -102848,14 +102056,6 @@
     <title lang="en">Bintang Muda Takraw Ep13</title>
     <desc lang="en">Bintang Muda Takraw ialah sebuah rancangan realiti sukan yang memfokuskan kepada pencarian, pengasahan, dan pertandingan bakat-bakat muda dalam sukan sepak takraw di peringkat sekolah di seluruh Malaysia</desc>
   </programme>
-  <programme channel="AstroGrandstand.my" start="20261017144500 +0800" stop="20261017154500 +0800">
-    <title lang="en">MotoGP 2026: Indonesia Highlights</title>
-    <desc lang="en">Highlights of MotoGP 2026: Indonesia, Round 17 Pertamina Grand Prix of Indonesia, from Pertamina Mandalika International Circuit, Indonesia.</desc>
-  </programme>
-  <programme channel="AstroGrandstand.my" start="20261017154500 +0800" stop="20261017161500 +0800">
-    <title lang="en">UFC Connected: Mauricio Ruffy</title>
-    <desc lang="en">Mauricio Ruffy details the unexplainable phenomenon that led him to two miracles. We go behind the scenes for Gable Stevenson's highly anticipated UFC debut.</desc>
-  </programme>
   <programme channel="AstroGrandstand.my" start="20261017161500 +0800" stop="20261017182500 +0800">
     <title lang="en">AFC Elite: Al Sadd vs Al Hilal</title>
     <desc lang="en">AFC Champions League Elite 2026/27: MD2: Al Sadd SC vs Al Hilal SFC, from Jassim Bin Hamad Stadium, Doha, Qatar.</desc>
@@ -102879,14 +102079,6 @@
   <programme channel="AstroGrandstand.my" start="20261017215000 +0800" stop="20261018000000 +0800">
     <title lang="en">(L) PL: Brentford vs Liverpool</title>
     <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Brentford vs Liverpool, from Gtech Community Stadium.</desc>
-  </programme>
-  <programme channel="AstroGrandstand.my" start="20261018000000 +0800" stop="20261018002000 +0800">
-    <title lang="en">PL Preview 2026/27: Week 7</title>
-    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
-  </programme>
-  <programme channel="AstroGrandstand.my" start="20261018002000 +0800" stop="20261018023000 +0800">
-    <title lang="en">(L) PL: Newcastle vs Aston Villa</title>
-    <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Newcastle United vs Aston Villa, from St. James' Park.</desc>
   </programme>
   <programme channel="AstroGrandstand.my" start="20261018000000 +0800" stop="20261018002000 +0800">
     <title lang="en">PL Preview 2026/27: Week 7</title>
@@ -103227,14 +102419,6 @@
   <programme channel="AstroPremierLeague.my" start="20261017215000 +0800" stop="20261018000000 +0800">
     <title lang="en">(L) PL: Brentford vs Liverpool</title>
     <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Brentford vs Liverpool, from Gtech Community Stadium.</desc>
-  </programme>
-  <programme channel="AstroPremierLeague.my" start="20261018000000 +0800" stop="20261018002000 +0800">
-    <title lang="en">Match HL 2026/27: WK6: LIV vs MCI</title>
-    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="AstroPremierLeague.my" start="20261018002000 +0800" stop="20261018023000 +0800">
-    <title lang="en">(L) PL: Newcastle vs Aston Villa</title>
-    <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Newcastle United vs Aston Villa, from St. James' Park.</desc>
   </programme>
   <programme channel="AstroPremierLeague.my" start="20261018000000 +0800" stop="20261018002000 +0800">
     <title lang="en">Match HL 2026/27: WK6: LIV vs MCI</title>
@@ -103620,10 +102804,6 @@
     <title lang="en">PL: Leeds vs Man Utd</title>
     <desc lang="en">Premier League 2026/27: Match Week 7: Leeds United vs Manchester United, from Elland Road.</desc>
   </programme>
-  <programme channel="AstroPremierLeague2.my" start="20261017150000 +0800" stop="20261017160000 +0800">
-    <title lang="en">Team Talks</title>
-    <desc lang="en">Our studio team tackle all the major talking points, and we hear from the headlines acts as the players and the managers have their say ahead of the action.</desc>
-  </programme>
   <programme channel="AstroPremierLeague2.my" start="20261017160000 +0800" stop="20261017163000 +0800">
     <title lang="en">The Big Interview: Ep9</title>
     <desc lang="en">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
@@ -103647,10 +102827,6 @@
   <programme channel="AstroPremierLeague2.my" start="20261017215000 +0800" stop="20261018000000 +0800">
     <title lang="en">(L) PL: Man City vs Ipswich</title>
     <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Manchester City vs Ipswich Town, from Etihad Stadium, Manchester, England.Premier League Season 2026-27</desc>
-  </programme>
-  <programme channel="AstroPremierLeague2.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">PLTV: PL Review 2026/27 (21/9)</title>
-    <desc lang="en">A comprehensive recap of each match week, delivered within hours of the final fixture of the round.</desc>
   </programme>
   <programme channel="AstroPremierLeague2.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">PLTV: PL Review 2026/27 (21/9)</title>
@@ -104484,10 +103660,6 @@
     <title lang="en">(L) PL: Fulham vs Hull City</title>
     <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Fulham vs Hull City, from Craven Cottage, London, England.</desc>
   </programme>
-  <programme channel="AstroPremierLeague3.my" start="20261018001500 +0800" stop="20261018060000 +0800">
-    <title lang="en">Astro Premier League 3</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 7: Bournemouth vs Sunderland at 2100hrs.</desc>
-  </programme>
   <programme channel="AstroPremierLeague3.my" start="20261017215000 +0800" stop="20261018001500 +0800">
     <title lang="en">(L) PL: Fulham vs Hull City</title>
     <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Fulham vs Hull City, from Craven Cottage, London, England.</desc>
@@ -104531,10 +103703,6 @@
   <programme channel="AstroPremierLeague3.my" start="20261023180000 +0800" stop="20261024000000 +0800">
     <title lang="en">Astro Premier League 3</title>
     <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 8: Coventry City vs Fulham at 2200hrs.</desc>
-  </programme>
-  <programme channel="AstroFootball.my" start="20261017140000 +0800" stop="20261017160000 +0800">
-    <title lang="en">AFC Elite: Daejeon vs Kyoto</title>
-    <desc lang="en">AFC Champions League Elite 2026/27: MD1: Daejeon Hanacitizen vs Kyoto Sanga FC, from Daejeon World Cup Stadium, Daejeon, South Korea.</desc>
   </programme>
   <programme channel="AstroFootball.my" start="20261017160000 +0800" stop="20261017180000 +0800">
     <title lang="en">AFC Elite: Al Ain vs Al Nassr</title>
@@ -105716,10 +104884,6 @@
     <title lang="en">(L) LaLiga : Villarreal Vs Elche</title>
     <desc lang="en">LIVE: LaLiga 2026/27 : Villarreal vs Elche</desc>
   </programme>
-  <programme channel="beINSPORTS.my" start="20261018002500 +0800" stop="20261018024000 +0800">
-    <title lang="en">(L) LaLiga : Real Betis Vs Barcelona</title>
-    <desc lang="en">LIVE: LaLiga 2026/27 : Real Betis vs Barcelona</desc>
-  </programme>
   <programme channel="beINSPORTS.my" start="20261017221000 +0800" stop="20261018002500 +0800">
     <title lang="en">(L) LaLiga : Villarreal Vs Elche</title>
     <desc lang="en">LIVE: LaLiga 2026/27 : Villarreal vs Elche</desc>
@@ -106216,14 +105380,6 @@
     <title lang="en">LaLiga : Villarreal Vs Elche</title>
     <desc lang="en">LaLiga 2026/27 : Villarreal vs Elche</desc>
   </programme>
-  <programme channel="beINSPORTS2.my" start="20261017144000 +0800" stop="20261017160000 +0800">
-    <title lang="en">(L) FIA World Endurance Championship Practice (2026)</title>
-    <desc lang="en">LIVE: FIA World Endurance Championship Practice 2026 : 6 Hours of Barcelona: LMGT3, ESP</desc>
-  </programme>
-  <programme channel="beINSPORTS2.my" start="20261017160000 +0800" stop="20261017161000 +0800">
-    <title lang="en">Premier Padel Match Highlights (2026)</title>
-    <desc lang="en">Premier Padel Match Highlights 2026 : Paris Major Women</desc>
-  </programme>
   <programme channel="beINSPORTS2.my" start="20261017161000 +0800" stop="20261017164000 +0800">
     <title lang="en">La Vuelta Highlights (2026)</title>
     <desc lang="en">La Vuelta Highlights 2026 : Weekly Highlights 3</desc>
@@ -106660,10 +105816,6 @@
     <title lang="en">(D) UECL : Ajax Vs Atalanta - MD2</title>
     <desc lang="en">UEFA Conference League 2026/27 : Ajax vs Atalanta - MD2</desc>
   </programme>
-  <programme channel="bEINSPORTS3.my" start="20261017141000 +0800" stop="20261017160000 +0800">
-    <title lang="en">UCL : Arsenal Vs Lille - MD2</title>
-    <desc lang="en">UEFA Champions League 2026/27: Arsenal vs Lille - MD2</desc>
-  </programme>
   <programme channel="bEINSPORTS3.my" start="20261017160000 +0800" stop="20261017170000 +0800">
     <title lang="en">UEFA Europa/Conference League Highlights 2026/27</title>
     <desc lang="en">UEFA Europa/Conference League Highlights 2026/27: UEL MD2/UECL MD1</desc>
@@ -106691,18 +105843,6 @@
   <programme channel="bEINSPORTS3.my" start="20261017233000 +0800" stop="20261018000000 +0800">
     <title lang="en">UCL MAGAZINE SHOW</title>
     <desc lang="en">UEFA Champions League Magazine Show 2026/27: MD2 Review and MD3 Preview</desc>
-  </programme>
-  <programme channel="bEINSPORTS3.my" start="20261018000000 +0800" stop="20261018001000 +0800">
-    <title lang="en">Bundesliga Club Classic Archive: Dortmund Vs Augsburg - 2022/23</title>
-    <desc lang="en">Bundesliga Club Classic Archive: Dortmund vs Augsburg - 2022/23</desc>
-  </programme>
-  <programme channel="bEINSPORTS3.my" start="20261018001000 +0800" stop="20261018002000 +0800">
-    <title lang="en">Bundesliga Club Classic Archive: Bayern Vs Dortmund - 2022/23</title>
-    <desc lang="en">Bundesliga Club Classic Archive: Bayern vs Dortmund - 2022/23</desc>
-  </programme>
-  <programme channel="bEINSPORTS3.my" start="20261018002000 +0800" stop="20261018022500 +0800">
-    <title lang="en">(L) Bundesliga : Bayern Vs Leipzig</title>
-    <desc lang="en">LIVE: Bundesliga 2026/27: Bayern vs Leipzig</desc>
   </programme>
   <programme channel="bEINSPORTS3.my" start="20261018000000 +0800" stop="20261018001000 +0800">
     <title lang="en">Bundesliga Club Classic Archive: Dortmund Vs Augsburg - 2022/23</title>
@@ -107628,10 +106768,6 @@
     <title lang="en">Serie a Women 2026/27</title>
     <desc lang="en">Serie A Women is the highest league of women's football in Italy. Watch Juventus v Como 1907.</desc>
   </programme>
-  <programme channel="AstroGolf.my" start="20261017110000 +0800" stop="20261017160000 +0800">
-    <title lang="en">(L) Buick LPGA Shanghai 2026 Day 3</title>
-    <desc lang="en">LIVE: Buick LPGA Shanghai 2026 tournament at Sheshan International Golf Club in the Songjiang District of Shanghai, China.</desc>
-  </programme>
   <programme channel="AstroGolf.my" start="20261017160000 +0800" stop="20261017193000 +0800">
     <title lang="en">(L) DP World India Championship Day 3</title>
     <desc lang="en">LIVE: DP World India Championship 2026 tournament at Delhi Golf Club, New Delhi, India.</desc>
@@ -107651,10 +106787,6 @@
   <programme channel="AstroGolf.my" start="20261017233500 +0800" stop="20261018000000 +0800">
     <title lang="en">HotelPlanner Tour Series Hls</title>
     <desc lang="en">The Challenge Tour, currently titled as the HotelPlanner Tour for sponsorship reasons, the second-tier men's professional golf tour in Europe.</desc>
-  </programme>
-  <programme channel="AstroGolf.my" start="20261018000000 +0800" stop="20261018010000 +0800">
-    <title lang="en">Jefferson Lehigh Valley Classic Hls</title>
-    <desc lang="en">PGA Tour Champions: Jefferson Lehigh Valley Classic 2026 tournament highlights from Lehigh Country Club - Allentown, Pennsylvania.</desc>
   </programme>
   <programme channel="AstroGolf.my" start="20261018000000 +0800" stop="20261018010000 +0800">
     <title lang="en">Jefferson Lehigh Valley Classic Hls</title>
@@ -108712,10 +107844,6 @@
     <title lang="en">(L) Champions Cup : Stormers V Bristol</title>
     <desc lang="en">LIVE: Coverage of the Investec Champions Cup as the DHL Stormers welcome Bristol Bears to DHL Stadium for this Pool 3 clash.</desc>
   </programme>
-  <programme channel="PremierSports.my" start="20261018002000 +0800" stop="20261018024500 +0800">
-    <title lang="en">(L) Champions Cup : Connacht V Saracens</title>
-    <desc lang="en">LIVE: Coverage of the Investec Champions Cup as Connacht and Saracens meet in this Pool 2 battle at Dexcom Stadium.</desc>
-  </programme>
   <programme channel="PremierSports.my" start="20261017220500 +0800" stop="20261018002000 +0800">
     <title lang="en">(L) Champions Cup : Stormers V Bristol</title>
     <desc lang="en">LIVE: Coverage of the Investec Champions Cup as the DHL Stormers welcome Bristol Bears to DHL Stadium for this Pool 3 clash.</desc>
@@ -109199,10 +108327,6 @@
   <programme channel="PremierSports.my" start="20261023232200 +0800" stop="20261024011200 +0800">
     <title lang="en">Women's RLWC 2026: Samoa V Wales</title>
     <desc lang="en">The seventh edition of the Women's Rugby League World Cup is co-hosted by Australia New Zealand and Papua New Guinea.</desc>
-  </programme>
-  <programme channel="GOLFPLUS.my" start="20261017120000 +0800" stop="20261017160000 +0800">
-    <title lang="en">(L) SJM Macao Open 2026 Day 3</title>
-    <desc lang="en">LIVE: SJM Macao Open 2026 tournament from Macau Golf and Country Club, Macau, China.</desc>
   </programme>
   <programme channel="GOLFPLUS.my" start="20261017160000 +0800" stop="20261017220000 +0800">
     <title lang="en">SJM Macao Open 2026</title>
