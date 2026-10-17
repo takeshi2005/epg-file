@@ -3288,4 +3288,2574 @@
     </credits>
     <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
   </programme>
+  <channel id="Kix.hk.feed">
+    <display-name lang="en">KIX</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </channel>
+  <programme channel="Kix.hk.feed" start="20261017004000 +0800" stop="20261017021000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017021000 +0800" stop="20261017034000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017034000 +0800" stop="20261017050000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017050000 +0800" stop="20261017070500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017070500 +0800" stop="20261017084000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017084000 +0800" stop="20261017101000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017101000 +0800" stop="20261017114000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017114000 +0800" stop="20261017130000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017130000 +0800" stop="20261017150500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017150500 +0800" stop="20261017164000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017164000 +0800" stop="20261017181000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017181000 +0800" stop="20261017194000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017194000 +0800" stop="20261017210000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017210000 +0800" stop="20261017224500 +0800">
+    <title lang="en">The Fight Machine</title>
+    <credits>
+      <director>Andrew Thomas Hunt</director>
+      <actor>Greg Hovanessian</actor>
+      <actor>Dempsey Bryk</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261017224500 +0800" stop="20261018004000 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018004000 +0800" stop="20261018021000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018021000 +0800" stop="20261018034000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018034000 +0800" stop="20261018050000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018050000 +0800" stop="20261018070500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018070500 +0800" stop="20261018084000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018084000 +0800" stop="20261018101000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018101000 +0800" stop="20261018114000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018114000 +0800" stop="20261018130000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018130000 +0800" stop="20261018150500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018150500 +0800" stop="20261018164000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018164000 +0800" stop="20261018181000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018181000 +0800" stop="20261018194000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018194000 +0800" stop="20261018210000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018210000 +0800" stop="20261018224500 +0800">
+    <title lang="en">The Fight Machine</title>
+    <credits>
+      <director>Andrew Thomas Hunt</director>
+      <actor>Greg Hovanessian</actor>
+      <actor>Dempsey Bryk</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261018224500 +0800" stop="20261019004000 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019004000 +0800" stop="20261019021000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019021000 +0800" stop="20261019034000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019034000 +0800" stop="20261019050000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019050000 +0800" stop="20261019070500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019070500 +0800" stop="20261019084000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019084000 +0800" stop="20261019101000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019101000 +0800" stop="20261019114000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019114000 +0800" stop="20261019130000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019130000 +0800" stop="20261019150500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019150500 +0800" stop="20261019164000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019164000 +0800" stop="20261019181000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019181000 +0800" stop="20261019194000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019194000 +0800" stop="20261019210000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019210000 +0800" stop="20261019224500 +0800">
+    <title lang="en">The Fight Machine</title>
+    <credits>
+      <director>Andrew Thomas Hunt</director>
+      <actor>Greg Hovanessian</actor>
+      <actor>Dempsey Bryk</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261019224500 +0800" stop="20261020004000 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020004000 +0800" stop="20261020021000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020021000 +0800" stop="20261020034000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020034000 +0800" stop="20261020050000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020050000 +0800" stop="20261020070500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020070500 +0800" stop="20261020084000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020084000 +0800" stop="20261020101000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020101000 +0800" stop="20261020114000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020114000 +0800" stop="20261020130000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020130000 +0800" stop="20261020150500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020150500 +0800" stop="20261020164000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020164000 +0800" stop="20261020181000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020181000 +0800" stop="20261020194000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020194000 +0800" stop="20261020210000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020210000 +0800" stop="20261020224500 +0800">
+    <title lang="en">The Fight Machine</title>
+    <credits>
+      <director>Andrew Thomas Hunt</director>
+      <actor>Greg Hovanessian</actor>
+      <actor>Dempsey Bryk</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261020224500 +0800" stop="20261021004000 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021004000 +0800" stop="20261021021000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021021000 +0800" stop="20261021034000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021034000 +0800" stop="20261021050000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021050000 +0800" stop="20261021070500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021070500 +0800" stop="20261021084000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021084000 +0800" stop="20261021101000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021101000 +0800" stop="20261021114000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021114000 +0800" stop="20261021130000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021130000 +0800" stop="20261021150500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021150500 +0800" stop="20261021164000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021164000 +0800" stop="20261021181000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021181000 +0800" stop="20261021194000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021194000 +0800" stop="20261021210000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021210000 +0800" stop="20261021224500 +0800">
+    <title lang="en">The Fight Machine</title>
+    <credits>
+      <director>Andrew Thomas Hunt</director>
+      <actor>Greg Hovanessian</actor>
+      <actor>Dempsey Bryk</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261021224500 +0800" stop="20261022004000 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022004000 +0800" stop="20261022021000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022021000 +0800" stop="20261022034000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022034000 +0800" stop="20261022050000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022050000 +0800" stop="20261022070500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022070500 +0800" stop="20261022084000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022084000 +0800" stop="20261022101000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022101000 +0800" stop="20261022114000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022114000 +0800" stop="20261022130000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022130000 +0800" stop="20261022150500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022150500 +0800" stop="20261022164000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022164000 +0800" stop="20261022181000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022181000 +0800" stop="20261022194000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022194000 +0800" stop="20261022210000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022210000 +0800" stop="20261022224500 +0800">
+    <title lang="en">The Fight Machine</title>
+    <credits>
+      <director>Andrew Thomas Hunt</director>
+      <actor>Greg Hovanessian</actor>
+      <actor>Dempsey Bryk</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261022224500 +0800" stop="20261023004000 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023004000 +0800" stop="20261023021000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023021000 +0800" stop="20261023034000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023034000 +0800" stop="20261023050000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023050000 +0800" stop="20261023070500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023070500 +0800" stop="20261023084000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023084000 +0800" stop="20261023101000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023101000 +0800" stop="20261023114000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023114000 +0800" stop="20261023130000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023130000 +0800" stop="20261023150500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023150500 +0800" stop="20261023164000 +0800">
+    <title lang="en">Fierce Cop</title>
+    <desc lang="en">To save his son who has been kidnapped by human traffickers, a police officer teams up with a mysterious lady to crack the crime syndicate and rescue his son.</desc>
+    <credits>
+      <director>Chan Tai Lee</director>
+      <actor>Richie Jen</actor>
+      <actor>Sebrina Chen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023164000 +0800" stop="20261023181000 +0800">
+    <title lang="en">A Good Deal</title>
+    <credits>
+      <director>Marlon Ladd</director>
+      <actor>Marlon Ladd</actor>
+      <actor>Patrict Byas</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023181000 +0800" stop="20261023194000 +0800">
+    <title lang="en">VR Fighter</title>
+    <desc lang="en">Bodyguard Long Wei becomes a VR fighter with a newly invented armour from a technology firm. When some armed men break into the firm, a fierce battle has just begun...</desc>
+    <credits>
+      <director>Tang Qiao Jia</director>
+      <actor>Louis Fan</actor>
+      <actor>Jiang Yi Yi</actor>
+      <actor>Wang Zhi Peng</actor>
+      <actor>Song Zi Qiao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023194000 +0800" stop="20261023210000 +0800">
+    <title lang="en">Dragon Master: Dragon Spell</title>
+    <credits>
+      <director>Dai Xi Fan</director>
+      <actor>Benny Chan</actor>
+      <actor>Jiang Meng Xuan</actor>
+      <actor>Sheng Ying Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023210000 +0800" stop="20261023224500 +0800">
+    <title lang="en">The Fight Machine</title>
+    <credits>
+      <director>Andrew Thomas Hunt</director>
+      <actor>Greg Hovanessian</actor>
+      <actor>Dempsey Bryk</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <programme channel="Kix.hk.feed" start="20261023224500 +0800" stop="20261024004500 +0800">
+    <title lang="en">Iron Squad W</title>
+    <credits>
+      <director>Seo Hye Seung</director>
+      <actor>Kim Sung Joo</actor>
+      <actor>Kim Hee Chul</actor>
+      <actor>Kim Dong Hyun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </programme>
+  <channel id="ThrillTV.hk.feed">
+    <display-name lang="en">Thrill</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </channel>
+  <programme channel="ThrillTV.hk.feed" start="20261017000500 +0800" stop="20261017013000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017013000 +0800" stop="20261017023000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017023000 +0800" stop="20261017040500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017040500 +0800" stop="20261017050000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017050000 +0800" stop="20261017063000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017063000 +0800" stop="20261017080500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017080500 +0800" stop="20261017093000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017093000 +0800" stop="20261017103000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017103000 +0800" stop="20261017120500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017120500 +0800" stop="20261017130000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017130000 +0800" stop="20261017143000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017143000 +0800" stop="20261017160500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017160500 +0800" stop="20261017173000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017173000 +0800" stop="20261017183000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017183000 +0800" stop="20261017200500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017200500 +0800" stop="20261017210000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017210000 +0800" stop="20261017223500 +0800">
+    <title lang="en">The Getaway</title>
+    <desc lang="en">Three KOLs embark on a live-streaming trip to a remote island. However, they are deceived by a mysterious old woman who traps them, intending to find brides for her disabled grandsons. As they realise they have been captured, they must race against time to escape this nightmare island.</desc>
+    <credits>
+      <director>Chan Cheuk Yin</director>
+      <actor>Kabby Hui</actor>
+      <actor>Kim Yomi</actor>
+      <actor>Joyin Choi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261017223500 +0800" stop="20261018000500 +0800">
+    <title lang="en">Evie</title>
+    <desc lang="en">When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+    <credits>
+      <director>Dominic Brunt</director>
+      <director>Jamie Lundry</director>
+      <actor>Holli Dempsey</actor>
+      <actor>Jay Taylor</actor>
+      <actor>Michael Smiley</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018000500 +0800" stop="20261018013000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018013000 +0800" stop="20261018023000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018023000 +0800" stop="20261018040500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018040500 +0800" stop="20261018050000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018050000 +0800" stop="20261018063000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018063000 +0800" stop="20261018080500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018080500 +0800" stop="20261018093000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018093000 +0800" stop="20261018103000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018103000 +0800" stop="20261018120500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018120500 +0800" stop="20261018130000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018130000 +0800" stop="20261018143000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018143000 +0800" stop="20261018160500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018160500 +0800" stop="20261018173000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018173000 +0800" stop="20261018183000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018183000 +0800" stop="20261018200500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018200500 +0800" stop="20261018210000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018210000 +0800" stop="20261018223500 +0800">
+    <title lang="en">The Getaway</title>
+    <desc lang="en">Three KOLs embark on a live-streaming trip to a remote island. However, they are deceived by a mysterious old woman who traps them, intending to find brides for her disabled grandsons. As they realise they have been captured, they must race against time to escape this nightmare island.</desc>
+    <credits>
+      <director>Chan Cheuk Yin</director>
+      <actor>Kabby Hui</actor>
+      <actor>Kim Yomi</actor>
+      <actor>Joyin Choi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261018223500 +0800" stop="20261019000500 +0800">
+    <title lang="en">Evie</title>
+    <desc lang="en">When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+    <credits>
+      <director>Dominic Brunt</director>
+      <director>Jamie Lundry</director>
+      <actor>Holli Dempsey</actor>
+      <actor>Jay Taylor</actor>
+      <actor>Michael Smiley</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019000500 +0800" stop="20261019013000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019013000 +0800" stop="20261019023000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019023000 +0800" stop="20261019040500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019040500 +0800" stop="20261019050000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019050000 +0800" stop="20261019063000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019063000 +0800" stop="20261019080500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019080500 +0800" stop="20261019093000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019093000 +0800" stop="20261019103000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019103000 +0800" stop="20261019120500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019120500 +0800" stop="20261019130000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019130000 +0800" stop="20261019143000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019143000 +0800" stop="20261019160500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019160500 +0800" stop="20261019173000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019173000 +0800" stop="20261019183000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019183000 +0800" stop="20261019200500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019200500 +0800" stop="20261019210000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019210000 +0800" stop="20261019223500 +0800">
+    <title lang="en">The Getaway</title>
+    <desc lang="en">Three KOLs embark on a live-streaming trip to a remote island. However, they are deceived by a mysterious old woman who traps them, intending to find brides for her disabled grandsons. As they realise they have been captured, they must race against time to escape this nightmare island.</desc>
+    <credits>
+      <director>Chan Cheuk Yin</director>
+      <actor>Kabby Hui</actor>
+      <actor>Kim Yomi</actor>
+      <actor>Joyin Choi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261019223500 +0800" stop="20261020000500 +0800">
+    <title lang="en">Evie</title>
+    <desc lang="en">When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+    <credits>
+      <director>Dominic Brunt</director>
+      <director>Jamie Lundry</director>
+      <actor>Holli Dempsey</actor>
+      <actor>Jay Taylor</actor>
+      <actor>Michael Smiley</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020000500 +0800" stop="20261020013000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020013000 +0800" stop="20261020023000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020023000 +0800" stop="20261020040500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020040500 +0800" stop="20261020050000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020050000 +0800" stop="20261020063000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020063000 +0800" stop="20261020080500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020080500 +0800" stop="20261020093000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020093000 +0800" stop="20261020103000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020103000 +0800" stop="20261020120500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020120500 +0800" stop="20261020130000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020130000 +0800" stop="20261020143000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020143000 +0800" stop="20261020160500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020160500 +0800" stop="20261020173000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020173000 +0800" stop="20261020183000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020183000 +0800" stop="20261020200500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020200500 +0800" stop="20261020210000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020210000 +0800" stop="20261020223500 +0800">
+    <title lang="en">The Getaway</title>
+    <desc lang="en">Three KOLs embark on a live-streaming trip to a remote island. However, they are deceived by a mysterious old woman who traps them, intending to find brides for her disabled grandsons. As they realise they have been captured, they must race against time to escape this nightmare island.</desc>
+    <credits>
+      <director>Chan Cheuk Yin</director>
+      <actor>Kabby Hui</actor>
+      <actor>Kim Yomi</actor>
+      <actor>Joyin Choi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261020223500 +0800" stop="20261021000500 +0800">
+    <title lang="en">Evie</title>
+    <desc lang="en">When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+    <credits>
+      <director>Dominic Brunt</director>
+      <director>Jamie Lundry</director>
+      <actor>Holli Dempsey</actor>
+      <actor>Jay Taylor</actor>
+      <actor>Michael Smiley</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021000500 +0800" stop="20261021013000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021013000 +0800" stop="20261021023000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021023000 +0800" stop="20261021040500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021040500 +0800" stop="20261021050000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021050000 +0800" stop="20261021063000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021063000 +0800" stop="20261021080500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021080500 +0800" stop="20261021093000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021093000 +0800" stop="20261021103000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021103000 +0800" stop="20261021120500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021120500 +0800" stop="20261021130000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021130000 +0800" stop="20261021143000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021143000 +0800" stop="20261021160500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021160500 +0800" stop="20261021173000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021173000 +0800" stop="20261021183000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021183000 +0800" stop="20261021200500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021200500 +0800" stop="20261021210000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021210000 +0800" stop="20261021223500 +0800">
+    <title lang="en">The Getaway</title>
+    <desc lang="en">Three KOLs embark on a live-streaming trip to a remote island. However, they are deceived by a mysterious old woman who traps them, intending to find brides for her disabled grandsons. As they realise they have been captured, they must race against time to escape this nightmare island.</desc>
+    <credits>
+      <director>Chan Cheuk Yin</director>
+      <actor>Kabby Hui</actor>
+      <actor>Kim Yomi</actor>
+      <actor>Joyin Choi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261021223500 +0800" stop="20261022000500 +0800">
+    <title lang="en">Evie</title>
+    <desc lang="en">When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+    <credits>
+      <director>Dominic Brunt</director>
+      <director>Jamie Lundry</director>
+      <actor>Holli Dempsey</actor>
+      <actor>Jay Taylor</actor>
+      <actor>Michael Smiley</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022000500 +0800" stop="20261022013000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022013000 +0800" stop="20261022023000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022023000 +0800" stop="20261022040500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022040500 +0800" stop="20261022050000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022050000 +0800" stop="20261022063000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022063000 +0800" stop="20261022080500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022080500 +0800" stop="20261022093000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022093000 +0800" stop="20261022103000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022103000 +0800" stop="20261022120500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022120500 +0800" stop="20261022130000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022130000 +0800" stop="20261022143000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022143000 +0800" stop="20261022160500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022160500 +0800" stop="20261022173000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022173000 +0800" stop="20261022183000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022183000 +0800" stop="20261022200500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022200500 +0800" stop="20261022210000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022210000 +0800" stop="20261022223500 +0800">
+    <title lang="en">The Getaway</title>
+    <desc lang="en">Three KOLs embark on a live-streaming trip to a remote island. However, they are deceived by a mysterious old woman who traps them, intending to find brides for her disabled grandsons. As they realise they have been captured, they must race against time to escape this nightmare island.</desc>
+    <credits>
+      <director>Chan Cheuk Yin</director>
+      <actor>Kabby Hui</actor>
+      <actor>Kim Yomi</actor>
+      <actor>Joyin Choi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261022223500 +0800" stop="20261023000500 +0800">
+    <title lang="en">Evie</title>
+    <desc lang="en">When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+    <credits>
+      <director>Dominic Brunt</director>
+      <director>Jamie Lundry</director>
+      <actor>Holli Dempsey</actor>
+      <actor>Jay Taylor</actor>
+      <actor>Michael Smiley</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023000500 +0800" stop="20261023013000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023013000 +0800" stop="20261023023000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023023000 +0800" stop="20261023040500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023040500 +0800" stop="20261023050000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023050000 +0800" stop="20261023063000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023063000 +0800" stop="20261023080500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023080500 +0800" stop="20261023093000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023093000 +0800" stop="20261023103000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023103000 +0800" stop="20261023120500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023120500 +0800" stop="20261023130000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023130000 +0800" stop="20261023143000 +0800">
+    <title lang="en">Room For Rent</title>
+    <desc lang="en">Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+    <credits>
+      <director>Tommy Stovall</director>
+      <actor>Lyn Shaye</actor>
+      <actor>Oliver Rayon</actor>
+      <actor>Valeska Miller</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023143000 +0800" stop="20261023160500 +0800">
+    <title lang="en">Ghost Wedding</title>
+    <desc lang="en">Photographer Zhi Cheng is entangled with a "woman in red", leading to the deaths of his relatives one by one. When the girl he likes, Si Tong, also dies mysteriously, Zhi Cheng vows to find out the truth but ends up revealing the secret of a "ghost marriage"...</desc>
+    <credits>
+      <director>Tony Leung Hung Wah</director>
+      <actor>Carlos Chan</actor>
+      <actor>Rose Chan</actor>
+      <actor>Ava Liu</actor>
+      <actor>Helen Law</actor>
+      <actor>Cheung Tat Ming</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023160500 +0800" stop="20261023173000 +0800">
+    <title lang="en">Behave</title>
+    <desc lang="en">Following the death of their friend, a group of young adults travels to a villa on the outskirts of London that contains a deep mystery. As unsettling events escalate during their luxurious stay, they must unravel the villa’s dark secrets.</desc>
+    <credits>
+      <director>Francesco Gabriele</director>
+      <actor>Christian Vit</actor>
+      <actor>Gabriel Constantin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023173000 +0800" stop="20261023183000 +0800">
+    <title lang="en">Sinister - Girlfriend</title>
+    <desc lang="en">Bullied by his coworkers, the lonely Ah Zhen turns to the internet in search of his ideal girl. However, when Mina, the woman of his dreams, suddenly enters his life, a series of unexpected events begins to unfold.</desc>
+    <credits>
+      <director>Adrian Teh</director>
+      <director>One Bear</director>
+      <actor>Daniel Cheah</actor>
+      <actor>Veny Liew</actor>
+      <actor>Julie Chew</actor>
+      <actor>Eric Chen</actor>
+      <actor>Mandy Chen</actor>
+      <actor>Edmund Seow</actor>
+      <actor>Windz Neom</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023183000 +0800" stop="20261023200500 +0800">
+    <title lang="en">Mulu Nakru</title>
+    <desc lang="en">After moving into a house with her boyfriend, Gun, architect May learns of her stepmother’s mysterious death. When May takes in her stepsister Noon, the girl begins showing signs of possession, while May suffers disturbing visions and insomnia. As dark secrets emerge, spiritual masters uncover an ancient black-magic curse hidden within the house.</desc>
+    <credits>
+      <director>Sueb Boonsong Nakphoo</director>
+      <actor>Kwan Usamanee Vaithayanon</actor>
+      <actor>Topz Nathanon Narathanyawirun</actor>
+      <actor>Tong Archariya Sritha</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023200500 +0800" stop="20261023210000 +0800">
+    <title lang="en">3AM - The Driver</title>
+    <desc lang="en">A taxi driver who is constantly judging others by his own standards, also reads into their every move and sets out to help ‘victims’ in his own way. When a woman he likes seems to be bullied by her son, he goes about setting things right for her, even resorting to turning himself into a cold-blooded serial killer…</desc>
+    <credits>
+      <director>Yong Choon Lin</director>
+      <actor>Coby Chong</actor>
+      <actor>Thor Yin Wei</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023210000 +0800" stop="20261023223500 +0800">
+    <title lang="en">The Getaway</title>
+    <desc lang="en">Three KOLs embark on a live-streaming trip to a remote island. However, they are deceived by a mysterious old woman who traps them, intending to find brides for her disabled grandsons. As they realise they have been captured, they must race against time to escape this nightmare island.</desc>
+    <credits>
+      <director>Chan Cheuk Yin</director>
+      <actor>Kabby Hui</actor>
+      <actor>Kim Yomi</actor>
+      <actor>Joyin Choi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
+  <programme channel="ThrillTV.hk.feed" start="20261023223500 +0800" stop="20261024003500 +0800">
+    <title lang="en">Evie</title>
+    <desc lang="en">When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+    <credits>
+      <director>Dominic Brunt</director>
+      <director>Jamie Lundry</director>
+      <actor>Holli Dempsey</actor>
+      <actor>Jay Taylor</actor>
+      <actor>Michael Smiley</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </programme>
 </tv>
