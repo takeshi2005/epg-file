@@ -24,6 +24,14 @@
     <display-name lang="en">CNA</display-name>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/logo/5714413/97072" />
   </channel>
+  <channel id="AsianParaGamesCH01.sg">
+    <display-name lang="en">Asian Para Games CH01</display-name>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/logo/17001074/840096" />
+  </channel>
+  <channel id="AsianParaGamesCH02.sg">
+    <display-name lang="en">Asian Para Games CH02</display-name>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/logo/17001110/840094" />
+  </channel>
   <channel id="SPLCH01.sg">
     <display-name lang="en">SPL CH01</display-name>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/logo/4566208/98200" />
@@ -7365,6 +7373,306 @@
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16985226/90633119-2077-4c37-b369-6783b7531850" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261017000000 +0800" stop="20261018000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 18th October, Sunday 5.00pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 - Opening Ceremony</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001003/a314a143-cf3e-4f30-92dd-3c33694567f4" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261018000000 +0800" stop="20261018170000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 18th October, Sunday 5.00pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 - Opening Ceremony</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001437/6c65f698-3811-44d2-bff7-482e65798aff" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261018000000 +0800" stop="20261018170000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 18th October, Sunday 5.00pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 - Opening Ceremony</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001437/6c65f698-3811-44d2-bff7-482e65798aff" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261018170000 +0800" stop="20261018191500 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 - Opening Ceremony</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 - Opening Ceremony</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001441/2da4dce0-9b56-4a20-b8f2-10d1a7f795f0" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261018191500 +0800" stop="20261019000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001445/fee5f2d5-ca86-421d-8787-78b6df281c9a" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261019000000 +0800" stop="20261019085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001449/e887accc-7264-40ad-be34-9f1c0e6e2d26" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261019000000 +0800" stop="20261019085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001449/e887accc-7264-40ad-be34-9f1c0e6e2d26" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261019085500 +0800" stop="20261019110000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001457/5955a1eb-eb17-4df4-8b60-2b5d711f1c0c" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261019110000 +0800" stop="20261019155500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 3.55pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001461/e8e6f916-9a29-4b4f-a81e-1076deab1554" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261019155500 +0800" stop="20261019210000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001465/5d118ef6-a2c4-48cf-8c9f-475da45ca133" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261019210000 +0800" stop="20261020000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 20th October, Tuesday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001453/d2bce7c0-a702-4c92-8a13-96acea0656c8" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261020000000 +0800" stop="20261020085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 20th October, Tuesday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001469/d703cc82-2c37-47d9-bf8f-fad4a922ba7d" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261020000000 +0800" stop="20261020085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 20th October, Tuesday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001469/d703cc82-2c37-47d9-bf8f-fad4a922ba7d" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261020085500 +0800" stop="20261020110000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001477/379d5028-d42b-4903-aa9e-27bc3c46c4a0" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261020110000 +0800" stop="20261020155500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 20th October, Tuesday 03.55pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001481/1068c868-6660-4065-b768-ff8e0be8e348" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261020155500 +0800" stop="20261020210000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001473/17b12b4e-15f7-4d3a-a497-99e07635f41d" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261020210000 +0800" stop="20261021000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 21st October, Wednesday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001485/14d75043-5773-4a66-ada4-e1b7663f4a4a" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261021000000 +0800" stop="20261021085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 21st October, Wednesday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001489/860f66bb-1e74-429e-aa94-441201b2a68a" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261021000000 +0800" stop="20261021085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 21st October, Wednesday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001489/860f66bb-1e74-429e-aa94-441201b2a68a" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261021085500 +0800" stop="20261021110000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001493/07ae7628-0a29-4ae5-b914-890eba674e3a" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261021110000 +0800" stop="20261021155500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 21st October, Wednesday 3.55pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001505/db428a04-5b30-41ee-b5d5-1a91895e2ff9" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261021155500 +0800" stop="20261021210000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001497/0eb7a608-2b2b-4626-8ace-b9c48d0b73c2" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261021210000 +0800" stop="20261022000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 22nd October, Thursday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001501/8f1b544f-3fee-400d-aebc-61e6bc58952e" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261022000000 +0800" stop="20261022085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 22nd October, Thursday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001509/4689b2be-526a-4315-930b-7a90f6fb1ad5" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261022000000 +0800" stop="20261022085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 22nd October, Thursday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001509/4689b2be-526a-4315-930b-7a90f6fb1ad5" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261022085500 +0800" stop="20261022110000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001525/d4eaecc4-a5ab-4a13-a51d-83e5165f32ff" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261022110000 +0800" stop="20261022155500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 22nd October, Thursday 3.55pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001521/8cf51cea-4dae-4e29-adff-e9560b33d267" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261022155500 +0800" stop="20261022210000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001517/0711e851-e2e5-4f43-bae3-dc6c07831039" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261022210000 +0800" stop="20261023000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 23rd October, Friday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001513/f0c7303e-9473-47d9-a915-4efcbeb978a5" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261023000000 +0800" stop="20261023085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 23rd October, Friday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001529/fa54b9dd-67cc-4487-935e-2f0b09fda904" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261023000000 +0800" stop="20261023085500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 23rd October, Friday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001529/fa54b9dd-67cc-4487-935e-2f0b09fda904" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261023085500 +0800" stop="20261023110000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001537/3fb1bddc-8b26-45b6-b656-8da3e342669f" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261023110000 +0800" stop="20261023155500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 23rd October, Friday 3.55pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001533/f737f821-de05-421e-8940-97c16e328a6e" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261023155500 +0800" stop="20261023210000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001541/56150ef6-f007-42c3-80c4-18a4e71d5d71" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261023210000 +0800" stop="20261024000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now.</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001545/3142b799-2edc-4226-a8af-507b57ce58dc" />
+  </programme>
+  <programme channel="AsianParaGamesCH01.sg" start="20261024000000 +0800" stop="20261025000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now.</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001549/9edb4711-ef83-4c74-8a66-e519ca785174" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261017000000 +0800" stop="20261018000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17000995/ed4a037c-1bd8-46da-a2bf-9e92533362e2" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261018000000 +0800" stop="20261019000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001361/df169f7c-755d-42b7-aceb-f911fd85a908" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261018000000 +0800" stop="20261019000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001361/df169f7c-755d-42b7-aceb-f911fd85a908" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261019000000 +0800" stop="20261019075500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001365/e16a9dc7-536e-47e1-a45b-b751fca6e14a" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261019000000 +0800" stop="20261019075500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 19th October, Monday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001365/e16a9dc7-536e-47e1-a45b-b751fca6e14a" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261019075500 +0800" stop="20261019190000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001369/04b96658-ab76-4ff8-904e-e1b296b05297" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261019190000 +0800" stop="20261020000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 20th October, Tuesday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds &amp; Round of 16</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001373/4ccb87d0-44b9-4f1c-85ca-442e99995484" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261020000000 +0800" stop="20261020075500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 20th October, Tuesday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds &amp; Round of 16</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001377/2f3a78cb-266b-4f79-9906-8eac584f836b" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261020000000 +0800" stop="20261020075500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 20th October, Tuesday 7.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds &amp; Round of 16</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001377/2f3a78cb-266b-4f79-9906-8eac584f836b" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261020075500 +0800" stop="20261020190000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds &amp; Round of 16</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Badminton - Men's Singles Preliminary Rounds &amp; Round of 16</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001381/45266e0f-cfd6-4265-b9dc-6af0c77b4ae3" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261020190000 +0800" stop="20261021000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 21st October, Wednesday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Men's &amp; Women's Individual Semi-finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001385/5ac6b9e1-6b9e-4f1d-8bfa-6b681c1ef3c2" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261021000000 +0800" stop="20261021082500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 21st October, Wednesday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Men's &amp; Women's Individual Semi-finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001389/b11c3956-54d3-4594-8d14-d9dcaeca79d4" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261021000000 +0800" stop="20261021082500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 21st October, Wednesday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Men's &amp; Women's Individual Semi-finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001389/b11c3956-54d3-4594-8d14-d9dcaeca79d4" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261021082500 +0800" stop="20261021190000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Men's &amp; Women's Individual Semi-finals</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Men's &amp; Women's Individual Semi-finals</desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001397/2e9f3619-0f43-46b4-bd2b-0d850f7bb8b8" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261021190000 +0800" stop="20261022000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 22nd October, Thursday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001393/dd89d959-f942-4021-850a-dfbb4dfd2819" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261022000000 +0800" stop="20261022082500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 22nd October, Thursday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001401/a4e96a21-0e7f-499e-a010-0b52ee25ea74" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261022000000 +0800" stop="20261022082500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 22nd October, Thursday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001401/a4e96a21-0e7f-499e-a010-0b52ee25ea74" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261022082500 +0800" stop="20261022190000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001409/c2d42ef3-8df5-44b6-b307-f454972e5d64" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261022190000 +0800" stop="20261023000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 23rd October, Thursday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001405/cb1ec188-7708-451c-a766-053013feac6a" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261023000000 +0800" stop="20261023082500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 23rd October, Thursday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001413/da800ad0-73f0-4e3c-9399-19bf00d4bd67" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261023000000 +0800" stop="20261023082500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 23rd October, Thursday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001413/da800ad0-73f0-4e3c-9399-19bf00d4bd67" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261023082500 +0800" stop="20261023190000 +0800">
+    <title lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia</title>
+    <desc lang="en">(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001421/16ba3a28-3f2b-4874-a196-684973870b36" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261023190000 +0800" stop="20261024000000 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 24th October, Saturday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001417/1d240d3c-3c00-49af-ac1d-cf82b2ecc8c3" />
+  </programme>
+  <programme channel="AsianParaGamesCH02.sg" start="20261024000000 +0800" stop="20261024082500 +0800">
+    <title lang="en">No Programme available now.</title>
+    <desc lang="en">No Programme available now. Next Broadcast on 24th October, Saturday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia </desc>
+    <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/17001425/8d9ef41e-ebf4-4bce-bdf7-a2290b79f5ca" />
   </programme>
   <programme channel="SPLCH01.sg" start="20261017000000 +0800" stop="20261017192000 +0800">
     <title lang="en">No Programme available now. Next Broadcast on 17th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -53873,7 +54181,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261017143000 +0800" stop="20261017150000 +0800">
     <title lang="en">African Voices - Ramzi Yamusah</title>
-    <desc lang="en">Ghanaian hospitality entrepreneur Ramzi Yamusah is exporting a modern vision of African culture and hospitality to the world.</desc>
+    <desc lang="en">Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894123/f8ece444-d438-433c-bc2e-877e1253c986" />
   </programme>
   <programme channel="CNN.sg" start="20261017150000 +0800" stop="20261017153000 +0800">
@@ -53883,7 +54191,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261017153000 +0800" stop="20261017160000 +0800">
     <title lang="en">Intelligent Future - Abu Dhabi's Intelligent Health</title>
-    <desc lang="en">How Abu Dhabi is trying to build the world's first intelligent health systems to move healthcare from a reactive model to one that can predict risk.</desc>
+    <desc lang="en">Hosted by Becky Anderson in Abu Dhabi, this interview series dives headfirst into the cutting-edge world of AI and transformative technologies.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894147/18315571-bcaf-4284-b689-617c2d490192" />
   </programme>
   <programme channel="CNN.sg" start="20261017160000 +0800" stop="20261017163000 +0800">
@@ -53893,7 +54201,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261017163000 +0800" stop="20261017170000 +0800">
     <title lang="en">CNN Creators - Thursday, October 15, 2026 1130am ET</title>
-    <desc lang="en">The Creators discuss what it’s like hanging out with AI-generated versions of their favorite athletes.</desc>
+    <desc lang="en">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894151/53bb3293-a6be-4274-a0ca-625cc77637ef" />
   </programme>
   <programme channel="CNN.sg" start="20261017170000 +0800" stop="20261017180000 +0800">
@@ -53903,12 +54211,12 @@
   </programme>
   <programme channel="CNN.sg" start="20261017180000 +0800" stop="20261017183000 +0800">
     <title lang="en">African Voices - Ramzi Yamusah</title>
-    <desc lang="en">Ghanaian hospitality entrepreneur Ramzi Yamusah is exporting a modern vision of African culture and hospitality to the world.</desc>
+    <desc lang="en">Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894167/c9bcfcf8-58d5-402c-8abf-c7753752d23d" />
   </programme>
   <programme channel="CNN.sg" start="20261017183000 +0800" stop="20261017190000 +0800">
     <title lang="en">Quest's World of Wonder - Naples, Italy</title>
-    <desc lang="en">In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep.</desc>
+    <desc lang="en">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894171/da1c3b34-a75c-4199-a3a7-29118c526985" />
   </programme>
   <programme channel="CNN.sg" start="20261017190000 +0800" stop="20261017200000 +0800">
@@ -53928,12 +54236,12 @@
   </programme>
   <programme channel="CNN.sg" start="20261017220000 +0800" stop="20261017223000 +0800">
     <title lang="en">CNN Creators - Thursday, October 15, 2026 1130am ET</title>
-    <desc lang="en">The Creators discuss what it’s like hanging out with AI-generated versions of their favorite athletes.</desc>
+    <desc lang="en">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894099/c57ace98-454a-4bfb-853b-9f3c7f669b2b" />
   </programme>
   <programme channel="CNN.sg" start="20261017223000 +0800" stop="20261017230000 +0800">
     <title lang="en">Inside Africa - The Faces of South African Fiction</title>
-    <desc lang="en">South African fiction is finding new ways to tell the country’s stories.</desc>
+    <desc lang="en">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894103/19eed96e-b303-46df-b701-ffb101f9dfed" />
   </programme>
   <programme channel="CNN.sg" start="20261017230000 +0800" stop="20261018000000 +0800">
@@ -53953,7 +54261,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261018003000 +0800" stop="20261018010000 +0800">
     <title lang="en">Intelligent Future - Abu Dhabi's Intelligent Health</title>
-    <desc lang="en">How Abu Dhabi is trying to build the world's first intelligent health systems to move healthcare from a reactive model to one that can predict risk.</desc>
+    <desc lang="en">Hosted by Becky Anderson in Abu Dhabi, this interview series dives headfirst into the cutting-edge world of AI and transformative technologies.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894335/08817e69-52e0-4585-9327-d67f14aa128a" />
   </programme>
   <programme channel="CNN.sg" start="20261018010000 +0800" stop="20261018020000 +0800">
@@ -53968,17 +54276,17 @@
   </programme>
   <programme channel="CNN.sg" start="20261018030000 +0800" stop="20261018031500 +0800">
     <title lang="en">Marketplace Europe - The UK's Energy Industry</title>
-    <desc lang="en">Octopus Energy has gone from startup to unicorn to the UK's largest energy supplier. CEO Jackson talks about how they've achieved their meteoric rise.</desc>
+    <desc lang="en">Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894211/947bc3f5-96fa-4214-a1cd-6b8843d2416d" />
   </programme>
   <programme channel="CNN.sg" start="20261018031500 +0800" stop="20261018033000 +0800">
     <title lang="en">Marketplace Asia - ANA; Huajiang Grand Canyon Bridge</title>
-    <desc lang="en">We speak to the CEO of All Nippon Airways about how the conflict in the Middle East is impacting airlines in Asia, and we head to the mountainous southwest of China to see how mega bridges are impacting the region's economy and development.</desc>
+    <desc lang="en">Marketplace Asia covers the macro business trends impacting the region.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894271/10edd1b7-fc19-4786-8653-c5669168b237" />
   </programme>
   <programme channel="CNN.sg" start="20261018033000 +0800" stop="20261018040000 +0800">
     <title lang="en">Quest's World of Wonder - Naples, Italy</title>
-    <desc lang="en">In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep.</desc>
+    <desc lang="en">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894339/3aec6954-652d-4237-a764-0ed799724678" />
   </programme>
   <programme channel="CNN.sg" start="20261018040000 +0800" stop="20261018050000 +0800">
@@ -53993,7 +54301,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261018053000 +0800" stop="20261018060000 +0800">
     <title lang="en">CNN Creators - Thursday, October 15, 2026 1130am ET</title>
-    <desc lang="en">The Creators discuss what it’s like hanging out with AI-generated versions of their favorite athletes.</desc>
+    <desc lang="en">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894239/9ef006da-e715-4de1-ba69-b6038fd6c40e" />
   </programme>
   <programme channel="CNN.sg" start="20261018060000 +0800" stop="20261018070000 +0800">
@@ -54008,7 +54316,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261018080000 +0800" stop="20261018090000 +0800">
     <title lang="en">The Whole Story With Anderson Cooper - MAGA Ever After?</title>
-    <desc lang="en">Donie O’Sullivan examines how, a decade after MAGA remade the right, President Trump’s second term has tested the movement’s faithful.</desc>
+    <desc lang="en">Anderson Cooper hosts a deeply reported series that goes behind the headlines and into the heart of the most important stories of our time.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16966773/8ed61d3a-fe5a-4058-b208-6978e95047e9" />
   </programme>
   <programme channel="CNN.sg" start="20261018090000 +0800" stop="20261018093000 +0800">
@@ -54018,32 +54326,32 @@
   </programme>
   <programme channel="CNN.sg" start="20261018093000 +0800" stop="20261018100000 +0800">
     <title lang="en">Quest's World of Wonder - Naples, Italy</title>
-    <desc lang="en">In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep.</desc>
+    <desc lang="en">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894279/0367e0f9-e110-4b92-a82a-93f4d260c42b" />
   </programme>
   <programme channel="CNN.sg" start="20261018100000 +0800" stop="20261018103000 +0800">
     <title lang="en">Inside Africa - The Faces of South African Fiction</title>
-    <desc lang="en">South African fiction is finding new ways to tell the country’s stories.</desc>
+    <desc lang="en">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894315/0fc9c6e6-7013-4b1a-9fd7-be6c6c744a74" />
   </programme>
   <programme channel="CNN.sg" start="20261018103000 +0800" stop="20261018110000 +0800">
     <title lang="en">African Voices - Ramzi Yamusah</title>
-    <desc lang="en">Ghanaian hospitality entrepreneur Ramzi Yamusah is exporting a modern vision of African culture and hospitality to the world.</desc>
+    <desc lang="en">Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894347/37a0965a-fd5d-4c67-a3f9-4c592d37fb5c" />
   </programme>
   <programme channel="CNN.sg" start="20261018110000 +0800" stop="20261018113000 +0800">
     <title lang="en">Intelligent Future - Abu Dhabi's Intelligent Health</title>
-    <desc lang="en">How Abu Dhabi is trying to build the world's first intelligent health systems to move healthcare from a reactive model to one that can predict risk.</desc>
+    <desc lang="en">Hosted by Becky Anderson in Abu Dhabi, this interview series dives headfirst into the cutting-edge world of AI and transformative technologies.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894319/ea2c46ea-e86a-4a8d-ae5c-1c354bf8816c" />
   </programme>
   <programme channel="CNN.sg" start="20261018113000 +0800" stop="20261018114500 +0800">
     <title lang="en">Marketplace Europe - The UK's Energy Industry</title>
-    <desc lang="en">Octopus Energy has gone from startup to unicorn to the UK's largest energy supplier. CEO Jackson talks about how they've achieved their meteoric rise.</desc>
+    <desc lang="en">Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894247/f90c7761-10f8-4bb6-9efa-398e70d26da9" />
   </programme>
   <programme channel="CNN.sg" start="20261018114500 +0800" stop="20261018120000 +0800">
     <title lang="en">Marketplace Asia - ANA; Huajiang Grand Canyon Bridge</title>
-    <desc lang="en">We speak to the CEO of All Nippon Airways about how the conflict in the Middle East is impacting airlines in Asia, and we head to the mountainous southwest of China to see how mega bridges are impacting the region's economy and development.</desc>
+    <desc lang="en">Marketplace Asia covers the macro business trends impacting the region.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894215/b00e15d3-ffe0-4790-8c9d-011091e88bcf" />
   </programme>
   <programme channel="CNN.sg" start="20261018120000 +0800" stop="20261018123000 +0800">
@@ -54063,7 +54371,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261018133000 +0800" stop="20261018140000 +0800">
     <title lang="en">Inside Africa - The Faces of South African Fiction</title>
-    <desc lang="en">South African fiction is finding new ways to tell the country’s stories.</desc>
+    <desc lang="en">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894323/6e9f9b4f-c273-4eee-ad99-797532029b9b" />
   </programme>
   <programme channel="CNN.sg" start="20261018140000 +0800" stop="20261018143000 +0800">
@@ -54073,12 +54381,12 @@
   </programme>
   <programme channel="CNN.sg" start="20261018143000 +0800" stop="20261018144500 +0800">
     <title lang="en">Marketplace Europe - The UK's Energy Industry</title>
-    <desc lang="en">Octopus Energy has gone from startup to unicorn to the UK's largest energy supplier. CEO Jackson talks about how they've achieved their meteoric rise.</desc>
+    <desc lang="en">Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894351/3f4f0762-72a9-4933-b7d5-28eede7de18f" />
   </programme>
   <programme channel="CNN.sg" start="20261018144500 +0800" stop="20261018150000 +0800">
     <title lang="en">Marketplace Asia - ANA; Huajiang Grand Canyon Bridge</title>
-    <desc lang="en">We speak to the CEO of All Nippon Airways about how the conflict in the Middle East is impacting airlines in Asia, and we head to the mountainous southwest of China to see how mega bridges are impacting the region's economy and development.</desc>
+    <desc lang="en">Marketplace Asia covers the macro business trends impacting the region.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894287/2eac993c-c32a-475b-ac4d-8eedaf306455" />
   </programme>
   <programme channel="CNN.sg" start="20261018150000 +0800" stop="20261018153000 +0800">
@@ -54088,7 +54396,7 @@
   </programme>
   <programme channel="CNN.sg" start="20261018153000 +0800" stop="20261018160000 +0800">
     <title lang="en">Quest's World of Wonder - Naples, Italy</title>
-    <desc lang="en">In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep.</desc>
+    <desc lang="en">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894299/7d62ec9f-aaca-4cdf-812e-f0ca09dc1f98" />
   </programme>
   <programme channel="CNN.sg" start="20261018160000 +0800" stop="20261018170000 +0800">
@@ -54103,12 +54411,12 @@
   </programme>
   <programme channel="CNN.sg" start="20261018180000 +0800" stop="20261018183000 +0800">
     <title lang="en">Intelligent Future - Abu Dhabi's Intelligent Health</title>
-    <desc lang="en">How Abu Dhabi is trying to build the world's first intelligent health systems to move healthcare from a reactive model to one that can predict risk.</desc>
+    <desc lang="en">Hosted by Becky Anderson in Abu Dhabi, this interview series dives headfirst into the cutting-edge world of AI and transformative technologies.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894331/8035ff30-c723-4b50-a3bf-e897ebc48e8f" />
   </programme>
   <programme channel="CNN.sg" start="20261018183000 +0800" stop="20261018190000 +0800">
     <title lang="en">Inside Africa - The Faces of South African Fiction</title>
-    <desc lang="en">South African fiction is finding new ways to tell the country’s stories.</desc>
+    <desc lang="en">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16894223/cedfccca-c36f-4815-aa46-0d847364dd71" />
   </programme>
   <programme channel="CNN.sg" start="20261018190000 +0800" stop="20261018200000 +0800">
@@ -97432,7 +97740,7 @@
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16896320/eabe161a-06ab-4969-8291-7e8d23e62fc5" />
   </programme>
   <programme channel="SPOTV2.sg" start="20261018080000 +0800" stop="20261018110000 +0800">
-    <title lang="en">MLB 2026 Postseason: AL Championship Series Game 5 Cleveland Guardians vs Tampa Bay Rays</title>
+    <title lang="en">MLB 2026 Postseason: AL Championship Series Game 4 Cleveland Guardians vs Tampa Bay Rays</title>
     <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <icon src="https://img-proxy-l64m.onrender.com/mewatch/schedule/16982196/f7f97dec-6d56-48e7-a486-df794a8cf709" />
   </programme>
