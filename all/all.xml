@@ -776,10 +776,6 @@
     <title lang="th">BWF DENMARK OPEN 2026 # 056:SF10</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/105/20261017/20261017_230000.jpg" />
   </programme>
-  <programme channel="9MCOT.th" start="20261017190000 +0700" stop="20261017204000 +0700">
-    <title lang="th">9 ข่าวค่ำ</title>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c09/20261017/20261017_190000.jpg" />
-  </programme>
   <programme channel="9MCOT.th" start="20261017204000 +0700" stop="20261017210000 +0700">
     <title lang="th">เรื่องง่ายใกล้ตัว</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c09/20261017/20261017_204000.jpg" />
@@ -904,10 +900,6 @@
     <title lang="th">ม.กีฬา (Rerun)</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t514/20261017/20261017_233000.jpg" />
   </programme>
-  <programme channel="NEWS1.th" start="20261017203000 +0700" stop="20261017204500 +0700">
-    <title lang="th">ข่าวพระราชสำนัก</title>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t522/20261017/20261017_203000.jpg" />
-  </programme>
   <programme channel="NEWS1.th" start="20261017204500 +0700" stop="20261017214500 +0700">
     <title lang="th">ตัวจี๊ด ปรี๊ดข่าว</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t522/20261017/20261017_204500.jpg" />
@@ -929,10 +921,6 @@
     <title lang="th">The Accountant</title>
     <desc lang="th">After a math savant takes on a new criminal client, government agents close in, and the body count starts to rise.</desc>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/176/20261017/20261017_220000.jpg" />
-  </programme>
-  <programme channel="TrueLittleMonkReality.th" start="20261017193500 +0700" stop="20261017204000 +0700">
-    <title lang="th">สามเณรปลูกปัญญาธรรม รวมตอน ตอน 2</title>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/107/20261017/20261017_193500.jpg" />
   </programme>
   <programme channel="TrueLittleMonkReality.th" start="20261017204000 +0700" stop="20261017214500 +0700">
     <title lang="th">สามเณรปลูกปัญญาธรรม รวมตอน ตอน 2</title>
@@ -1137,10 +1125,6 @@
     <title lang="th">Tokyo Revengers 2.2: Bloody Halloween -</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t500/20261017/20261017_235500.jpg" />
   </programme>
-  <programme channel="beINSPORTS3.th" start="20261017183500 +0700" stop="20261017204500 +0700">
-    <title lang="th">WOMEN'S SUPER LEAGUE 2026/27 # ARSENAL V</title>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/215/20261017/20261017_183500.jpg" />
-  </programme>
   <programme channel="beINSPORTS3.th" start="20261017204500 +0700" stop="20261017205700 +0700">
     <title lang="th">MUTV: TOP 20 GOALS # TOP 20 PAUL SCHOLES</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/215/20261017/20261017_204500.jpg" />
@@ -1157,9 +1141,45 @@
     <title lang="th">GT WORLD CHALLENGE EUROPE 2026 # PORTIMA</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/215/20261017/20261017_231500.jpg" />
   </programme>
-  <programme channel="TPTV.th" start="20261017201500 +0700" stop="20261017204500 +0700">
-    <title lang="th">ข้อซักถาม</title>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d31/20261017/20261017_201500.jpg" />
+  <programme channel="TrueSports4.th" start="20261017183000 +0700" stop="20261017210500 +0700">
+    <title lang="th">LIVE: CHAMPIONS CUP : SALE V GLASGOW WAR</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/062/20261017/20261017_183000.jpg" />
+  </programme>
+  <programme channel="TrueSports4.th" start="20261017210500 +0700" stop="20261017232000 +0700">
+    <title lang="th">LIVE: CHAMPIONS CUP : STORMERS V BRISTOL</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/062/20261017/20261017_210500.jpg" />
+  </programme>
+  <programme channel="TrueSports4.th" start="20261017232000 +0700" stop="20261018014500 +0700">
+    <title lang="th">LIVE: CHAMPIONS CUP : CONNACHT V SARACEN</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/062/20261017/20261017_232000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017203000 +0700" stop="20261017210000 +0700">
+    <title lang="th">EP.19 | Attack on Titan Season 3</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_203000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017210000 +0700" stop="20261017213000 +0700">
+    <title lang="th">EP.01 | An Archdemon's Dilemma How to Love Your Elf Bride</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_210000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017213000 +0700" stop="20261017220000 +0700">
+    <title lang="th">EP.02 | An Archdemon's Dilemma How to Love Your Elf Bride</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_213000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017220000 +0700" stop="20261017223000 +0700">
+    <title lang="th">EP.02 | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017223000 +0700" stop="20261017230000 +0700">
+    <title lang="th">EP.01 | Full Clearing Another World under a Goddess with Zero Believers</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">EP.03 | Magical Explorer</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">EP.04 | Magical Explorer</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_233000.jpg" />
   </programme>
   <programme channel="TPTV.th" start="20261017204500 +0700" stop="20261017214500 +0700">
     <title lang="th">สภาวาที</title>
@@ -1196,9 +1216,29 @@
     <desc lang="th">An enigmatic former genius who runs a quiet chicken restaurant - but acts as a master negotiator to solve neighborhood conflicts.</desc>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/081/20261017/20261017_223500.jpg" />
   </programme>
-  <programme channel="AFReality.th" start="20261017201621 +0700" stop="20261017203757 +0700">
-    <title lang="th">True AF2026 Daily Highlight</title>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t533/20261017/20261017_201600.jpg" />
+  <programme channel="FoodiezChannel.th" start="20261017203000 +0700" stop="20261017210000 +0700">
+    <title lang="th">Marcus Wareing at Christmas EP.4</title>
+    <desc lang="th">Marcus Wareing shows us simple and inspiring festive tips and recipes, so we will all know how to create a wonderful spread this Christmas.</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/060/20261017/20261017_203000.jpg" />
+  </programme>
+  <programme channel="FoodiezChannel.th" start="20261017210000 +0700" stop="20261017220000 +0700">
+    <title lang="th">Hell's Kitchen USA S22 EP.8</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/060/20261017/20261017_210000.jpg" />
+  </programme>
+  <programme channel="FoodiezChannel.th" start="20261017220000 +0700" stop="20261017223500 +0700">
+    <title lang="th">Wonder Food EP.1</title>
+    <desc lang="th">Discover a world of flavors through unique ingredients and innovative dishes, uncovering the fascinating stories that fuel your appetite.</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/060/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="FoodiezChannel.th" start="20261017223500 +0700" stop="20261017231000 +0700">
+    <title lang="th">Wonder Food EP.2</title>
+    <desc lang="th">Discover a world of flavors through unique ingredients and innovative dishes, uncovering the fascinating stories that fuel your appetite.</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/060/20261017/20261017_223500.jpg" />
+  </programme>
+  <programme channel="FoodiezChannel.th" start="20261017231000 +0700" stop="20261018000000 +0700">
+    <title lang="th">PS Gold EP.10</title>
+    <desc lang="th">A variety show featuring local stars, local restaurants, and local chain stores in Nagoya Japan.</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/060/20261017/20261017_231000.jpg" />
   </programme>
   <programme channel="AFReality.th" start="20261017203757 +0700" stop="20261017205759 +0700">
     <title lang="th">True AF2026 Daily Highlight</title>
@@ -1279,11 +1319,6 @@
     <desc lang="th">Embark on a journey along the Vltava River, exploring its captivating landscapes and the diverse wildlife that thrives along its majestic banks.</desc>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/058/20261017/20261017_230000.jpg" />
   </programme>
-  <programme channel="TrueSparkPlay.th" start="20261017202000 +0700" stop="20261017204000 +0700">
-    <title lang="th">Turbozaurs EP.32</title>
-    <desc lang="th">These are the adventures of Turbozaur's squad - adventurers who solve any difficulties, troubles that kids may face in their everyday life.</desc>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/007/20261017/20261017_202000.jpg" />
-  </programme>
   <programme channel="TrueSparkPlay.th" start="20261017204000 +0700" stop="20261017211000 +0700">
     <title lang="th">Detective Conan the Series EP.28</title>
     <desc lang="th">Conan, an elementary school boy, solves mysteries and crimes through reasoning and logic, with the help of friends and nifty gadgets.</desc>
@@ -1351,6 +1386,16 @@
   <programme channel="TrueExploreSci.th" start="20261017230000 +0700" stop="20261018000000 +0700">
     <title lang="th">Colossal Machines S2 EP.2</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/061/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="TrueFilm2.th" start="20261017200000 +0700" stop="20261017221000 +0700">
+    <title lang="th">The Killing of a Sacred Deer</title>
+    <desc lang="th">A surgeon's carefully curated life edges toward disaster when a troubled teenager with mysterious motives begins to impose himself on his family.</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/221/20261017/20261017_200000.jpg" />
+  </programme>
+  <programme channel="TrueFilm2.th" start="20261017221000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Chips</title>
+    <desc lang="th">In LA, a rookie teams with a seasoned CHP officer, uncovering his secret as an undercover Fed probing a heist involving corrupt cops.</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/221/20261017/20261017_221000.jpg" />
   </programme>
   <programme channel="TrueX-Zyte.th" start="20261017200000 +0700" stop="20261017213000 +0700">
     <title lang="th">ALL OR NOTHING [TRUE X-ZYTE] EP.3</title>
@@ -1442,6 +1487,18 @@
     <title lang="th">3 Meals a Day : Light EP.7</title>
     <desc lang="th">Cha Seung-won and Yoo Hae-jin reunite in the countryside, cooking three daily meals with local ingredients alongside celebrity guests.</desc>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t537/20261017/20261017_221500.jpg" />
+  </programme>
+  <programme channel="TrueSports5.th" start="20261017203000 +0700" stop="20261017220000 +0700">
+    <title lang="th">THE GLOBAL FIGHT 2026 # 207</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/056/20261017/20261017_203000.jpg" />
+  </programme>
+  <programme channel="TrueSports5.th" start="20261017220000 +0700" stop="20261017233000 +0700">
+    <title lang="th">KIATPECHT SUPER FIGHT 2026 # 041</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/056/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueSports5.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">UFC ULTIMATE KNOCKOUTS : BEST OF 2022</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/056/20261017/20261017_233000.jpg" />
   </programme>
   <programme channel="RockXStream.th" start="20261017200000 +0700" stop="20261017214500 +0700">
     <title lang="th">THE KINGDOM</title>
@@ -1575,26 +1632,6 @@
     <title lang="th">BEIN SPORT 6</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/216/20261017/20261017_220000.jpg" />
   </programme>
-  <programme channel="iQIYI.th" start="20261017203500 +0700" stop="20261017210000 +0700">
-    <title lang="th">Blazing Elegance EP.22</title>
-    <desc lang="th">A teacher fakes her death to escape a possessive warlord. Years later, she returns to reclaim her life.</desc>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t536/20261017/20261017_203500.jpg" />
-  </programme>
-  <programme channel="iQIYI.th" start="20261017210000 +0700" stop="20261017220000 +0700">
-    <title lang="th">Deep Lurk EP.35</title>
-    <desc lang="th">During the Sino-Japanese war, a young man hunts his father's killer, leading him into a web of spies and double agents.</desc>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t536/20261017/20261017_210000.jpg" />
-  </programme>
-  <programme channel="iQIYI.th" start="20261017220000 +0700" stop="20261017230000 +0700">
-    <title lang="th">Detective Chinatown EP.3</title>
-    <desc lang="th">Top detectives solve bizarre and complex crimes across various cities in Asia using wit and logic.</desc>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t536/20261017/20261017_220000.jpg" />
-  </programme>
-  <programme channel="iQIYI.th" start="20261017230000 +0700" stop="20261018000000 +0700">
-    <title lang="th">Dark Night and Dawn EP.7</title>
-    <desc lang="th">In the 1950s, a young cop and a Communist agent team up to take down Chiang Kai-shek's spies in a high-stakes battle of wits.</desc>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t536/20261017/20261017_230000.jpg" />
-  </programme>
   <programme channel="ArirangTV.th" start="20261017200000 +0700" stop="20261017210000 +0700">
     <title lang="th">Performarts Reload</title>
     <desc lang="th">We explore the arts and culture and expanding the realm of art as well as suggesting new possibilities of Korean.</desc>
@@ -1661,6 +1698,18 @@
   <programme channel="GolfPlus.th" start="20261017210000 +0700" stop="20261018000000 +0700">
     <title lang="th">2026 KLPGA TOUR ICEBERG GOLF . SEOUL SHI</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t542/20261017/20261017_210000.jpg" />
+  </programme>
+  <programme channel="ช่องทดสอบออกอากาศที่2.th" start="20261017203000 +0700" stop="20261017230500 +0700">
+    <title lang="th">ถ่ายทอดสด Premier League 2026/27</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tmp005/20261017/20261017_203000.jpg" />
+  </programme>
+  <programme channel="ช่องทดสอบออกอากาศที่2.th" start="20261017230500 +0700" stop="20261017233500 +0700">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tmp005/20261017/20261017_230500.jpg" />
+  </programme>
+  <programme channel="ช่องทดสอบออกอากาศที่2.th" start="20261017233500 +0700" stop="20261018000000 +0700">
+    <title lang="th">เทปบันทึกภาพการแข่งขันกีฬา</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tmp005/20261017/20261017_233500.jpg" />
   </programme>
   <programme channel="TrueBallThai2.th" start="20261017200000 +0700" stop="20261017220000 +0700">
     <title lang="th">TRUE BALL THAI 2</title>
@@ -1765,10 +1814,6 @@
   <programme channel="beINSPORTS10.th" start="20261017220000 +0700" stop="20261018000000 +0700">
     <title lang="th">BEIN SPORT 10</title>
     <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev024/20261017/20261017_220000.jpg" />
-  </programme>
-  <programme channel="NHKWorldPremium.th" start="20261017200000 +0700" stop="20261017204300 +0700">
-    <title lang="th">SATURDAY DRAMA "REMINISCENCE" EP. 3</title>
-    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/210/20261017/20261017_200000.jpg" />
   </programme>
   <programme channel="NHKWorldPremium.th" start="20261017204300 +0700" stop="20261017205500 +0700">
     <title lang="th">Mini Program EP.1</title>
