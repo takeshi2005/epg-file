@@ -2094,4 +2094,1198 @@
     </credits>
     <icon src="http://console.celestialtiger.com/images/upload/334eac27e9bb208307eb60da0e2ce49972a4558e.png" />
   </programme>
+  <channel id="PopC.hk.feed">
+    <display-name lang="en">PopC-TV</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </channel>
+  <programme channel="PopC.hk.feed" start="20261017013000 +0800" stop="20261017025000 +0800">
+    <title lang="en">Eye for an Eye / 目中無人</title>
+    <desc lang="en">Talents are found everywhere in the Tang dynasty, including Blind man Cheng. He meets a barmaid Ni Yan, who has lost her family and gotten abused, and they become friends. This entangles Cheng into a big triad conflict, and as he starts his journey of revenge, his true identity is also revealed.</desc>
+    <credits>
+      <director>Yang Bing Jia</director>
+      <actor>Miu Tse</actor>
+      <actor>Gao Wei Man</actor>
+      <actor>Xiang Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017025000 +0800" stop="20261017041500 +0800">
+    <title lang="en">Master of Maoshan / 茅山大師</title>
+    <desc lang="en">In a town ravaged by the "vampire virus", four Maoshan disciples including Yun Ling are tasked with finding the cure. However, they are entrapped by the schemes of the mastermind, which caused discord amongst them. When the town is besieged by a spider demon, the four disciples have to overcome their conflicts and unite to save the people.</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Peng Yu Si</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017041500 +0800" stop="20261017053500 +0800">
+    <title lang="en">The Sea Monster / 大海怪</title>
+    <desc lang="en">To stop the Japanese pirates and find his missing friend, the Ming dynasty Marine Officer Lin Xiao joins the Marine General to embark on a treasure hunt. On the way, they encounter a mysterious sea monster as well as the pirates. Lin must join forces with the marine team to battle against them and accomplish their mission.</desc>
+    <credits>
+      <director>Chen Si Ming</director>
+      <director>Liu Wa</director>
+      <actor>Ci Sha</actor>
+      <actor>Ye Zi Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017053500 +0800" stop="20261017071500 +0800">
+    <title lang="en">Giant Fish / 大魚</title>
+    <desc lang="en">A fisherman Zi Hao lives in a small seaside town and earns a living on the water. One day, he finds himself enchanted by a mysterious woman Xiao Yi, and they fall in love. However, a strange man appears and uncovers the true identity of Xiao Yi as a mermaid one day. Can Zi Hao face the truth and can Xiao Yi keep the secret of the mermaid tribe?</desc>
+    <credits>
+      <director>Yin Yue</director>
+      <actor>Fu Meng Ni</actor>
+      <actor>Mei Yang</actor>
+      <actor>Tik Lung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017071500 +0800" stop="20261017083500 +0800">
+    <title lang="en">Ghost Sniper / 幽靈狙擊手</title>
+    <desc lang="en">Lin Shen leads the insurance company’s ghost team to save a scientist. During the mission, they discover a child trapped in a cage but are ambushed on their way to the rescue. As Yu Wei writes the final paragraph of his novel “Ghost Sniper”, he is shot in the head. It is not until he wakes up that Yu Wei realises he has become his novel’s character!</desc>
+    <credits>
+      <director>Jiang Jing Zhong</director>
+      <director>Wang Wen Bo</director>
+      <actor>Zou Zhao Long</actor>
+      <actor>Xu Shen Dong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017083500 +0800" stop="20261017095500 +0800">
+    <title lang="en">Brother Wolf / 臥狼行動</title>
+    <desc lang="en">Recruited from prison for an undercover mission, convict Da Fei returns to the criminal underworld to investigate his former sworn brother, who stole a cartel drug shipment. However, when ruthless mercenaries kidnap his mother, Da Fei joins forces with border police in a desperate battle for justice and redemption.</desc>
+    <credits>
+      <director>Liu Shang</director>
+      <actor>Zhou Hao Dong</actor>
+      <actor>Ao Shun Wen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017095500 +0800" stop="20261017112500 +0800">
+    <title lang="en">The Conqueror / 降魔大師</title>
+    <desc lang="en">Wu Jing Zi seeks help from demon hunters to cast away the evil spirits in town. Saved by demon hunter Meng Zhu, Ah Shi falls in love with her and becomes her disciple. They journey to Yu Zhan Cave to kill the Pig Demon with other hunters. In the end, Ah Shi sacrifices himself to let the hunters fight their way out, but the result is unexpected...</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Shi Zi Chen</actor>
+      <actor>Zhou Jing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017112500 +0800" stop="20261017124500 +0800">
+    <title lang="en">Anti Racing Action / 反飆車行動</title>
+    <desc lang="en">The Hong Kong Police and the triads are irreconcilable opponents. Inspector Cheng leads the anti street car racing team and Jiang is the leader of the street car racing gang. While the police investigates an underground street car race, they uncover the 15-year grudge between Cheng and Jiang, and discover a hidden triad group.</desc>
+    <credits>
+      <director>Hou Chu Feng</director>
+      <actor>Michael Tse</actor>
+      <actor>Le Tang Ji Er</actor>
+      <actor>Zhang Jing Chun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017124500 +0800" stop="20261017141000 +0800">
+    <title lang="en">Coffin Mountain Ancient Tomb / 棺山古墓</title>
+    <desc lang="en">Zhang Sanye joins his junior He Lao Dao on a quest to a fabled tomb said to hold treasures and the secrets of immortality. However, as the tomb is about to open, warlord Luo Man Zi suddenly appears, and it turns out to be a plot set up by both Luo and He for Zhang. A thrilling journey into the tomb has just begun!</desc>
+    <credits>
+      <director>Xiang Qiu Liang</director>
+      <director>Xiang He Sheng</director>
+      <actor>Yuan Biao</actor>
+      <actor>Wu Hao</actor>
+      <actor>Wang Yun Han</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017141000 +0800" stop="20261017154000 +0800">
+    <title lang="en">Feng Qi Luo Yang / 風起洛陽之陰陽界</title>
+    <desc lang="en">In Zhou dynasty, two girls living in two ends of the Luo He River come from diverse backgrounds - one is a captain's daughter and another is a common swindler - and they encounter a series of mysterious events in Luo Yang City. Both team up to investigate a series of bizarre cases, to uphold justice and to maintain order amidst a social upheaval.</desc>
+    <credits>
+      <director>Dai Yi Lin</director>
+      <actor>Nan Sheng</actor>
+      <actor>Zhang Jia Hang</actor>
+      <actor>Zhang Chun Zhong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017154000 +0800" stop="20261017170000 +0800">
+    <title lang="en">Di Renjie Secret Soldier Borrows / 狄仁傑之幽兵借路</title>
+    <desc lang="en">Detective Di Ren Jie is assigned by Empress Wu to investigate the massacre of Minister Hu's family. In the process, he uncovers Hu's involvement in a criminal case and encounters spooky incidents, as well as rumours of vengeful killing by hell guards. Di delves into the heart of the perplexing mystery, unravelling the truth behind it.</desc>
+    <credits>
+      <director>Fang Ying Hua</director>
+      <actor>Du Yi Heng</actor>
+      <actor>Li Ruo Xi</actor>
+      <actor>Zhu Xin Yuan</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017170000 +0800" stop="20261017181500 +0800">
+    <title lang="en">Shark Evil / 食人鯊</title>
+    <desc lang="en">A big white shark is enraged following a shark hunt by the poachers, who are then killed by it. Fueled by anger, the shark turns to attack four friends who are celebrating their graduation on a yacht. A life-and-death struggle between the four friends and the big white shark has just begun!</desc>
+    <credits>
+      <director>Chen Huan Xiang</director>
+      <actor>Chen Xin Zhe</actor>
+      <actor>Vana</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017181500 +0800" stop="20261017193500 +0800">
+    <title lang="en">Journey to the East / 東遊</title>
+    <desc lang="en">Han Miao is one of the eight immortals living in a desert. Dragon Maiden, who helms the East Ocean, loses her memory and becomes a fish demon. When she encounters her destined lover, Han Miao, they quickly fall in love. With help from a guru, they set out for Dragon Gate where Dragon Maiden can resume her identity and locate the water source.</desc>
+    <credits>
+      <director>Dong Wei</director>
+      <actor>Zhang Yuan</actor>
+      <actor>Li Qin Yao</actor>
+      <actor>Law Kar Ying</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017193500 +0800" stop="20261017210000 +0800">
+    <title lang="en">My Dear Bodyguard / 落魄保鑣之危機疑雲</title>
+    <desc lang="en">Former elite security guard Han Bin vanishes after a failed escort mission and wallows in self pity. His partner encourages Han to be his former self by escorting an actress to Southeast Asia to film a show. On the way, Han successfully deals with threats to the actress' life, but realizes in the end that he is the one the evil gang has targeted!</desc>
+    <credits>
+      <director>Xu An</director>
+      <actor>Xu Dong Dong</actor>
+      <actor>Terence Yin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017210000 +0800" stop="20261017224500 +0800">
+    <title lang="en">Fast Forward / 快進者</title>
+    <desc lang="en">Gao, an ambulance driver, aspires to be a car racer. He meets top race car engineer Bao during a car racing dispute, which sets him on a path towards his dream. Gao faces the dilemma of leading a stable life or pursuing his passion, but finally decides to embrace his dream and live life to the fullest with the support of his close friend.</desc>
+    <credits>
+      <director>Li Jian Feng</director>
+      <actor>Zhang Rui Han</actor>
+      <actor>Shi Shi</actor>
+      <actor>Jia Bing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261017224500 +0800" stop="20261018013000 +0800">
+    <title lang="en">Fist of Legend / 精武陳真</title>
+    <desc lang="en">When Chen Zhen travels to Japan to learn industrial technology, he teams up with martial artist She Zi Li, and accepts a duel challenge from the Japanese military officials to uphold the Chinese dignity. In a battle of Chinese kung fu master agianst the Japanese samurai, Chen showcases the unique finesse of Chinese kung fu.</desc>
+    <credits>
+      <director>Liu Chun</director>
+      <actor>Xu Ming Hu</actor>
+      <actor>Xia Di Ya</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018013000 +0800" stop="20261018025000 +0800">
+    <title lang="en">Eye for an Eye / 目中無人</title>
+    <desc lang="en">Talents are found everywhere in the Tang dynasty, including Blind man Cheng. He meets a barmaid Ni Yan, who has lost her family and gotten abused, and they become friends. This entangles Cheng into a big triad conflict, and as he starts his journey of revenge, his true identity is also revealed.</desc>
+    <credits>
+      <director>Yang Bing Jia</director>
+      <actor>Miu Tse</actor>
+      <actor>Gao Wei Man</actor>
+      <actor>Xiang Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018025000 +0800" stop="20261018041500 +0800">
+    <title lang="en">Master of Maoshan / 茅山大師</title>
+    <desc lang="en">In a town ravaged by the "vampire virus", four Maoshan disciples including Yun Ling are tasked with finding the cure. However, they are entrapped by the schemes of the mastermind, which caused discord amongst them. When the town is besieged by a spider demon, the four disciples have to overcome their conflicts and unite to save the people.</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Peng Yu Si</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018041500 +0800" stop="20261018053500 +0800">
+    <title lang="en">The Sea Monster / 大海怪</title>
+    <desc lang="en">To stop the Japanese pirates and find his missing friend, the Ming dynasty Marine Officer Lin Xiao joins the Marine General to embark on a treasure hunt. On the way, they encounter a mysterious sea monster as well as the pirates. Lin must join forces with the marine team to battle against them and accomplish their mission.</desc>
+    <credits>
+      <director>Chen Si Ming</director>
+      <director>Liu Wa</director>
+      <actor>Ci Sha</actor>
+      <actor>Ye Zi Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018053500 +0800" stop="20261018071500 +0800">
+    <title lang="en">Giant Fish / 大魚</title>
+    <desc lang="en">A fisherman Zi Hao lives in a small seaside town and earns a living on the water. One day, he finds himself enchanted by a mysterious woman Xiao Yi, and they fall in love. However, a strange man appears and uncovers the true identity of Xiao Yi as a mermaid one day. Can Zi Hao face the truth and can Xiao Yi keep the secret of the mermaid tribe?</desc>
+    <credits>
+      <director>Yin Yue</director>
+      <actor>Fu Meng Ni</actor>
+      <actor>Mei Yang</actor>
+      <actor>Tik Lung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018071500 +0800" stop="20261018083500 +0800">
+    <title lang="en">Ghost Sniper / 幽靈狙擊手</title>
+    <desc lang="en">Lin Shen leads the insurance company’s ghost team to save a scientist. During the mission, they discover a child trapped in a cage but are ambushed on their way to the rescue. As Yu Wei writes the final paragraph of his novel “Ghost Sniper”, he is shot in the head. It is not until he wakes up that Yu Wei realises he has become his novel’s character!</desc>
+    <credits>
+      <director>Jiang Jing Zhong</director>
+      <director>Wang Wen Bo</director>
+      <actor>Zou Zhao Long</actor>
+      <actor>Xu Shen Dong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018083500 +0800" stop="20261018095500 +0800">
+    <title lang="en">Brother Wolf / 臥狼行動</title>
+    <desc lang="en">Recruited from prison for an undercover mission, convict Da Fei returns to the criminal underworld to investigate his former sworn brother, who stole a cartel drug shipment. However, when ruthless mercenaries kidnap his mother, Da Fei joins forces with border police in a desperate battle for justice and redemption.</desc>
+    <credits>
+      <director>Liu Shang</director>
+      <actor>Zhou Hao Dong</actor>
+      <actor>Ao Shun Wen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018095500 +0800" stop="20261018112500 +0800">
+    <title lang="en">The Conqueror / 降魔大師</title>
+    <desc lang="en">Wu Jing Zi seeks help from demon hunters to cast away the evil spirits in town. Saved by demon hunter Meng Zhu, Ah Shi falls in love with her and becomes her disciple. They journey to Yu Zhan Cave to kill the Pig Demon with other hunters. In the end, Ah Shi sacrifices himself to let the hunters fight their way out, but the result is unexpected...</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Shi Zi Chen</actor>
+      <actor>Zhou Jing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018112500 +0800" stop="20261018124500 +0800">
+    <title lang="en">Anti Racing Action / 反飆車行動</title>
+    <desc lang="en">The Hong Kong Police and the triads are irreconcilable opponents. Inspector Cheng leads the anti street car racing team and Jiang is the leader of the street car racing gang. While the police investigates an underground street car race, they uncover the 15-year grudge between Cheng and Jiang, and discover a hidden triad group.</desc>
+    <credits>
+      <director>Hou Chu Feng</director>
+      <actor>Michael Tse</actor>
+      <actor>Le Tang Ji Er</actor>
+      <actor>Zhang Jing Chun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018124500 +0800" stop="20261018141000 +0800">
+    <title lang="en">Coffin Mountain Ancient Tomb / 棺山古墓</title>
+    <desc lang="en">Zhang Sanye joins his junior He Lao Dao on a quest to a fabled tomb said to hold treasures and the secrets of immortality. However, as the tomb is about to open, warlord Luo Man Zi suddenly appears, and it turns out to be a plot set up by both Luo and He for Zhang. A thrilling journey into the tomb has just begun!</desc>
+    <credits>
+      <director>Xiang Qiu Liang</director>
+      <director>Xiang He Sheng</director>
+      <actor>Yuan Biao</actor>
+      <actor>Wu Hao</actor>
+      <actor>Wang Yun Han</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018141000 +0800" stop="20261018154000 +0800">
+    <title lang="en">Feng Qi Luo Yang / 風起洛陽之陰陽界</title>
+    <desc lang="en">In Zhou dynasty, two girls living in two ends of the Luo He River come from diverse backgrounds - one is a captain's daughter and another is a common swindler - and they encounter a series of mysterious events in Luo Yang City. Both team up to investigate a series of bizarre cases, to uphold justice and to maintain order amidst a social upheaval.</desc>
+    <credits>
+      <director>Dai Yi Lin</director>
+      <actor>Nan Sheng</actor>
+      <actor>Zhang Jia Hang</actor>
+      <actor>Zhang Chun Zhong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018154000 +0800" stop="20261018170000 +0800">
+    <title lang="en">Di Renjie Secret Soldier Borrows / 狄仁傑之幽兵借路</title>
+    <desc lang="en">Detective Di Ren Jie is assigned by Empress Wu to investigate the massacre of Minister Hu's family. In the process, he uncovers Hu's involvement in a criminal case and encounters spooky incidents, as well as rumours of vengeful killing by hell guards. Di delves into the heart of the perplexing mystery, unravelling the truth behind it.</desc>
+    <credits>
+      <director>Fang Ying Hua</director>
+      <actor>Du Yi Heng</actor>
+      <actor>Li Ruo Xi</actor>
+      <actor>Zhu Xin Yuan</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018170000 +0800" stop="20261018181500 +0800">
+    <title lang="en">Shark Evil / 食人鯊</title>
+    <desc lang="en">A big white shark is enraged following a shark hunt by the poachers, who are then killed by it. Fueled by anger, the shark turns to attack four friends who are celebrating their graduation on a yacht. A life-and-death struggle between the four friends and the big white shark has just begun!</desc>
+    <credits>
+      <director>Chen Huan Xiang</director>
+      <actor>Chen Xin Zhe</actor>
+      <actor>Vana</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018181500 +0800" stop="20261018193500 +0800">
+    <title lang="en">Journey to the East / 東遊</title>
+    <desc lang="en">Han Miao is one of the eight immortals living in a desert. Dragon Maiden, who helms the East Ocean, loses her memory and becomes a fish demon. When she encounters her destined lover, Han Miao, they quickly fall in love. With help from a guru, they set out for Dragon Gate where Dragon Maiden can resume her identity and locate the water source.</desc>
+    <credits>
+      <director>Dong Wei</director>
+      <actor>Zhang Yuan</actor>
+      <actor>Li Qin Yao</actor>
+      <actor>Law Kar Ying</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018193500 +0800" stop="20261018210000 +0800">
+    <title lang="en">My Dear Bodyguard / 落魄保鑣之危機疑雲</title>
+    <desc lang="en">Former elite security guard Han Bin vanishes after a failed escort mission and wallows in self pity. His partner encourages Han to be his former self by escorting an actress to Southeast Asia to film a show. On the way, Han successfully deals with threats to the actress' life, but realizes in the end that he is the one the evil gang has targeted!</desc>
+    <credits>
+      <director>Xu An</director>
+      <actor>Xu Dong Dong</actor>
+      <actor>Terence Yin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018210000 +0800" stop="20261018224500 +0800">
+    <title lang="en">Fast Forward / 快進者</title>
+    <desc lang="en">Gao, an ambulance driver, aspires to be a car racer. He meets top race car engineer Bao during a car racing dispute, which sets him on a path towards his dream. Gao faces the dilemma of leading a stable life or pursuing his passion, but finally decides to embrace his dream and live life to the fullest with the support of his close friend.</desc>
+    <credits>
+      <director>Li Jian Feng</director>
+      <actor>Zhang Rui Han</actor>
+      <actor>Shi Shi</actor>
+      <actor>Jia Bing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261018224500 +0800" stop="20261019013000 +0800">
+    <title lang="en">Fist of Legend / 精武陳真</title>
+    <desc lang="en">When Chen Zhen travels to Japan to learn industrial technology, he teams up with martial artist She Zi Li, and accepts a duel challenge from the Japanese military officials to uphold the Chinese dignity. In a battle of Chinese kung fu master agianst the Japanese samurai, Chen showcases the unique finesse of Chinese kung fu.</desc>
+    <credits>
+      <director>Liu Chun</director>
+      <actor>Xu Ming Hu</actor>
+      <actor>Xia Di Ya</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019013000 +0800" stop="20261019025000 +0800">
+    <title lang="en">Eye for an Eye / 目中無人</title>
+    <desc lang="en">Talents are found everywhere in the Tang dynasty, including Blind man Cheng. He meets a barmaid Ni Yan, who has lost her family and gotten abused, and they become friends. This entangles Cheng into a big triad conflict, and as he starts his journey of revenge, his true identity is also revealed.</desc>
+    <credits>
+      <director>Yang Bing Jia</director>
+      <actor>Miu Tse</actor>
+      <actor>Gao Wei Man</actor>
+      <actor>Xiang Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019025000 +0800" stop="20261019041500 +0800">
+    <title lang="en">Master of Maoshan / 茅山大師</title>
+    <desc lang="en">In a town ravaged by the "vampire virus", four Maoshan disciples including Yun Ling are tasked with finding the cure. However, they are entrapped by the schemes of the mastermind, which caused discord amongst them. When the town is besieged by a spider demon, the four disciples have to overcome their conflicts and unite to save the people.</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Peng Yu Si</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019041500 +0800" stop="20261019053500 +0800">
+    <title lang="en">The Sea Monster / 大海怪</title>
+    <desc lang="en">To stop the Japanese pirates and find his missing friend, the Ming dynasty Marine Officer Lin Xiao joins the Marine General to embark on a treasure hunt. On the way, they encounter a mysterious sea monster as well as the pirates. Lin must join forces with the marine team to battle against them and accomplish their mission.</desc>
+    <credits>
+      <director>Chen Si Ming</director>
+      <director>Liu Wa</director>
+      <actor>Ci Sha</actor>
+      <actor>Ye Zi Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019053500 +0800" stop="20261019071500 +0800">
+    <title lang="en">Giant Fish / 大魚</title>
+    <desc lang="en">A fisherman Zi Hao lives in a small seaside town and earns a living on the water. One day, he finds himself enchanted by a mysterious woman Xiao Yi, and they fall in love. However, a strange man appears and uncovers the true identity of Xiao Yi as a mermaid one day. Can Zi Hao face the truth and can Xiao Yi keep the secret of the mermaid tribe?</desc>
+    <credits>
+      <director>Yin Yue</director>
+      <actor>Fu Meng Ni</actor>
+      <actor>Mei Yang</actor>
+      <actor>Tik Lung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019071500 +0800" stop="20261019083500 +0800">
+    <title lang="en">Ghost Sniper / 幽靈狙擊手</title>
+    <desc lang="en">Lin Shen leads the insurance company’s ghost team to save a scientist. During the mission, they discover a child trapped in a cage but are ambushed on their way to the rescue. As Yu Wei writes the final paragraph of his novel “Ghost Sniper”, he is shot in the head. It is not until he wakes up that Yu Wei realises he has become his novel’s character!</desc>
+    <credits>
+      <director>Jiang Jing Zhong</director>
+      <director>Wang Wen Bo</director>
+      <actor>Zou Zhao Long</actor>
+      <actor>Xu Shen Dong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019083500 +0800" stop="20261019095500 +0800">
+    <title lang="en">Brother Wolf / 臥狼行動</title>
+    <desc lang="en">Recruited from prison for an undercover mission, convict Da Fei returns to the criminal underworld to investigate his former sworn brother, who stole a cartel drug shipment. However, when ruthless mercenaries kidnap his mother, Da Fei joins forces with border police in a desperate battle for justice and redemption.</desc>
+    <credits>
+      <director>Liu Shang</director>
+      <actor>Zhou Hao Dong</actor>
+      <actor>Ao Shun Wen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019095500 +0800" stop="20261019112500 +0800">
+    <title lang="en">The Conqueror / 降魔大師</title>
+    <desc lang="en">Wu Jing Zi seeks help from demon hunters to cast away the evil spirits in town. Saved by demon hunter Meng Zhu, Ah Shi falls in love with her and becomes her disciple. They journey to Yu Zhan Cave to kill the Pig Demon with other hunters. In the end, Ah Shi sacrifices himself to let the hunters fight their way out, but the result is unexpected...</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Shi Zi Chen</actor>
+      <actor>Zhou Jing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019112500 +0800" stop="20261019124500 +0800">
+    <title lang="en">Anti Racing Action / 反飆車行動</title>
+    <desc lang="en">The Hong Kong Police and the triads are irreconcilable opponents. Inspector Cheng leads the anti street car racing team and Jiang is the leader of the street car racing gang. While the police investigates an underground street car race, they uncover the 15-year grudge between Cheng and Jiang, and discover a hidden triad group.</desc>
+    <credits>
+      <director>Hou Chu Feng</director>
+      <actor>Michael Tse</actor>
+      <actor>Le Tang Ji Er</actor>
+      <actor>Zhang Jing Chun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019124500 +0800" stop="20261019141000 +0800">
+    <title lang="en">Coffin Mountain Ancient Tomb / 棺山古墓</title>
+    <desc lang="en">Zhang Sanye joins his junior He Lao Dao on a quest to a fabled tomb said to hold treasures and the secrets of immortality. However, as the tomb is about to open, warlord Luo Man Zi suddenly appears, and it turns out to be a plot set up by both Luo and He for Zhang. A thrilling journey into the tomb has just begun!</desc>
+    <credits>
+      <director>Xiang Qiu Liang</director>
+      <director>Xiang He Sheng</director>
+      <actor>Yuan Biao</actor>
+      <actor>Wu Hao</actor>
+      <actor>Wang Yun Han</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019141000 +0800" stop="20261019154000 +0800">
+    <title lang="en">Feng Qi Luo Yang / 風起洛陽之陰陽界</title>
+    <desc lang="en">In Zhou dynasty, two girls living in two ends of the Luo He River come from diverse backgrounds - one is a captain's daughter and another is a common swindler - and they encounter a series of mysterious events in Luo Yang City. Both team up to investigate a series of bizarre cases, to uphold justice and to maintain order amidst a social upheaval.</desc>
+    <credits>
+      <director>Dai Yi Lin</director>
+      <actor>Nan Sheng</actor>
+      <actor>Zhang Jia Hang</actor>
+      <actor>Zhang Chun Zhong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019154000 +0800" stop="20261019170000 +0800">
+    <title lang="en">Di Renjie Secret Soldier Borrows / 狄仁傑之幽兵借路</title>
+    <desc lang="en">Detective Di Ren Jie is assigned by Empress Wu to investigate the massacre of Minister Hu's family. In the process, he uncovers Hu's involvement in a criminal case and encounters spooky incidents, as well as rumours of vengeful killing by hell guards. Di delves into the heart of the perplexing mystery, unravelling the truth behind it.</desc>
+    <credits>
+      <director>Fang Ying Hua</director>
+      <actor>Du Yi Heng</actor>
+      <actor>Li Ruo Xi</actor>
+      <actor>Zhu Xin Yuan</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019170000 +0800" stop="20261019181500 +0800">
+    <title lang="en">Shark Evil / 食人鯊</title>
+    <desc lang="en">A big white shark is enraged following a shark hunt by the poachers, who are then killed by it. Fueled by anger, the shark turns to attack four friends who are celebrating their graduation on a yacht. A life-and-death struggle between the four friends and the big white shark has just begun!</desc>
+    <credits>
+      <director>Chen Huan Xiang</director>
+      <actor>Chen Xin Zhe</actor>
+      <actor>Vana</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019181500 +0800" stop="20261019193500 +0800">
+    <title lang="en">Journey to the East / 東遊</title>
+    <desc lang="en">Han Miao is one of the eight immortals living in a desert. Dragon Maiden, who helms the East Ocean, loses her memory and becomes a fish demon. When she encounters her destined lover, Han Miao, they quickly fall in love. With help from a guru, they set out for Dragon Gate where Dragon Maiden can resume her identity and locate the water source.</desc>
+    <credits>
+      <director>Dong Wei</director>
+      <actor>Zhang Yuan</actor>
+      <actor>Li Qin Yao</actor>
+      <actor>Law Kar Ying</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019193500 +0800" stop="20261019210000 +0800">
+    <title lang="en">My Dear Bodyguard / 落魄保鑣之危機疑雲</title>
+    <desc lang="en">Former elite security guard Han Bin vanishes after a failed escort mission and wallows in self pity. His partner encourages Han to be his former self by escorting an actress to Southeast Asia to film a show. On the way, Han successfully deals with threats to the actress' life, but realizes in the end that he is the one the evil gang has targeted!</desc>
+    <credits>
+      <director>Xu An</director>
+      <actor>Xu Dong Dong</actor>
+      <actor>Terence Yin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019210000 +0800" stop="20261019224500 +0800">
+    <title lang="en">Fast Forward / 快進者</title>
+    <desc lang="en">Gao, an ambulance driver, aspires to be a car racer. He meets top race car engineer Bao during a car racing dispute, which sets him on a path towards his dream. Gao faces the dilemma of leading a stable life or pursuing his passion, but finally decides to embrace his dream and live life to the fullest with the support of his close friend.</desc>
+    <credits>
+      <director>Li Jian Feng</director>
+      <actor>Zhang Rui Han</actor>
+      <actor>Shi Shi</actor>
+      <actor>Jia Bing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261019224500 +0800" stop="20261020013000 +0800">
+    <title lang="en">Fist of Legend / 精武陳真</title>
+    <desc lang="en">When Chen Zhen travels to Japan to learn industrial technology, he teams up with martial artist She Zi Li, and accepts a duel challenge from the Japanese military officials to uphold the Chinese dignity. In a battle of Chinese kung fu master agianst the Japanese samurai, Chen showcases the unique finesse of Chinese kung fu.</desc>
+    <credits>
+      <director>Liu Chun</director>
+      <actor>Xu Ming Hu</actor>
+      <actor>Xia Di Ya</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020013000 +0800" stop="20261020025000 +0800">
+    <title lang="en">Eye for an Eye / 目中無人</title>
+    <desc lang="en">Talents are found everywhere in the Tang dynasty, including Blind man Cheng. He meets a barmaid Ni Yan, who has lost her family and gotten abused, and they become friends. This entangles Cheng into a big triad conflict, and as he starts his journey of revenge, his true identity is also revealed.</desc>
+    <credits>
+      <director>Yang Bing Jia</director>
+      <actor>Miu Tse</actor>
+      <actor>Gao Wei Man</actor>
+      <actor>Xiang Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020025000 +0800" stop="20261020041500 +0800">
+    <title lang="en">Master of Maoshan / 茅山大師</title>
+    <desc lang="en">In a town ravaged by the "vampire virus", four Maoshan disciples including Yun Ling are tasked with finding the cure. However, they are entrapped by the schemes of the mastermind, which caused discord amongst them. When the town is besieged by a spider demon, the four disciples have to overcome their conflicts and unite to save the people.</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Peng Yu Si</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020041500 +0800" stop="20261020053500 +0800">
+    <title lang="en">The Sea Monster / 大海怪</title>
+    <desc lang="en">To stop the Japanese pirates and find his missing friend, the Ming dynasty Marine Officer Lin Xiao joins the Marine General to embark on a treasure hunt. On the way, they encounter a mysterious sea monster as well as the pirates. Lin must join forces with the marine team to battle against them and accomplish their mission.</desc>
+    <credits>
+      <director>Chen Si Ming</director>
+      <director>Liu Wa</director>
+      <actor>Ci Sha</actor>
+      <actor>Ye Zi Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020053500 +0800" stop="20261020071500 +0800">
+    <title lang="en">Giant Fish / 大魚</title>
+    <desc lang="en">A fisherman Zi Hao lives in a small seaside town and earns a living on the water. One day, he finds himself enchanted by a mysterious woman Xiao Yi, and they fall in love. However, a strange man appears and uncovers the true identity of Xiao Yi as a mermaid one day. Can Zi Hao face the truth and can Xiao Yi keep the secret of the mermaid tribe?</desc>
+    <credits>
+      <director>Yin Yue</director>
+      <actor>Fu Meng Ni</actor>
+      <actor>Mei Yang</actor>
+      <actor>Tik Lung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020071500 +0800" stop="20261020083500 +0800">
+    <title lang="en">Ghost Sniper / 幽靈狙擊手</title>
+    <desc lang="en">Lin Shen leads the insurance company’s ghost team to save a scientist. During the mission, they discover a child trapped in a cage but are ambushed on their way to the rescue. As Yu Wei writes the final paragraph of his novel “Ghost Sniper”, he is shot in the head. It is not until he wakes up that Yu Wei realises he has become his novel’s character!</desc>
+    <credits>
+      <director>Jiang Jing Zhong</director>
+      <director>Wang Wen Bo</director>
+      <actor>Zou Zhao Long</actor>
+      <actor>Xu Shen Dong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020083500 +0800" stop="20261020095500 +0800">
+    <title lang="en">Brother Wolf / 臥狼行動</title>
+    <desc lang="en">Recruited from prison for an undercover mission, convict Da Fei returns to the criminal underworld to investigate his former sworn brother, who stole a cartel drug shipment. However, when ruthless mercenaries kidnap his mother, Da Fei joins forces with border police in a desperate battle for justice and redemption.</desc>
+    <credits>
+      <director>Liu Shang</director>
+      <actor>Zhou Hao Dong</actor>
+      <actor>Ao Shun Wen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020095500 +0800" stop="20261020112500 +0800">
+    <title lang="en">The Conqueror / 降魔大師</title>
+    <desc lang="en">Wu Jing Zi seeks help from demon hunters to cast away the evil spirits in town. Saved by demon hunter Meng Zhu, Ah Shi falls in love with her and becomes her disciple. They journey to Yu Zhan Cave to kill the Pig Demon with other hunters. In the end, Ah Shi sacrifices himself to let the hunters fight their way out, but the result is unexpected...</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Shi Zi Chen</actor>
+      <actor>Zhou Jing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020112500 +0800" stop="20261020124500 +0800">
+    <title lang="en">Anti Racing Action / 反飆車行動</title>
+    <desc lang="en">The Hong Kong Police and the triads are irreconcilable opponents. Inspector Cheng leads the anti street car racing team and Jiang is the leader of the street car racing gang. While the police investigates an underground street car race, they uncover the 15-year grudge between Cheng and Jiang, and discover a hidden triad group.</desc>
+    <credits>
+      <director>Hou Chu Feng</director>
+      <actor>Michael Tse</actor>
+      <actor>Le Tang Ji Er</actor>
+      <actor>Zhang Jing Chun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020124500 +0800" stop="20261020141000 +0800">
+    <title lang="en">Coffin Mountain Ancient Tomb / 棺山古墓</title>
+    <desc lang="en">Zhang Sanye joins his junior He Lao Dao on a quest to a fabled tomb said to hold treasures and the secrets of immortality. However, as the tomb is about to open, warlord Luo Man Zi suddenly appears, and it turns out to be a plot set up by both Luo and He for Zhang. A thrilling journey into the tomb has just begun!</desc>
+    <credits>
+      <director>Xiang Qiu Liang</director>
+      <director>Xiang He Sheng</director>
+      <actor>Yuan Biao</actor>
+      <actor>Wu Hao</actor>
+      <actor>Wang Yun Han</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020141000 +0800" stop="20261020154000 +0800">
+    <title lang="en">Feng Qi Luo Yang / 風起洛陽之陰陽界</title>
+    <desc lang="en">In Zhou dynasty, two girls living in two ends of the Luo He River come from diverse backgrounds - one is a captain's daughter and another is a common swindler - and they encounter a series of mysterious events in Luo Yang City. Both team up to investigate a series of bizarre cases, to uphold justice and to maintain order amidst a social upheaval.</desc>
+    <credits>
+      <director>Dai Yi Lin</director>
+      <actor>Nan Sheng</actor>
+      <actor>Zhang Jia Hang</actor>
+      <actor>Zhang Chun Zhong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020154000 +0800" stop="20261020170000 +0800">
+    <title lang="en">Di Renjie Secret Soldier Borrows / 狄仁傑之幽兵借路</title>
+    <desc lang="en">Detective Di Ren Jie is assigned by Empress Wu to investigate the massacre of Minister Hu's family. In the process, he uncovers Hu's involvement in a criminal case and encounters spooky incidents, as well as rumours of vengeful killing by hell guards. Di delves into the heart of the perplexing mystery, unravelling the truth behind it.</desc>
+    <credits>
+      <director>Fang Ying Hua</director>
+      <actor>Du Yi Heng</actor>
+      <actor>Li Ruo Xi</actor>
+      <actor>Zhu Xin Yuan</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020170000 +0800" stop="20261020181500 +0800">
+    <title lang="en">Shark Evil / 食人鯊</title>
+    <desc lang="en">A big white shark is enraged following a shark hunt by the poachers, who are then killed by it. Fueled by anger, the shark turns to attack four friends who are celebrating their graduation on a yacht. A life-and-death struggle between the four friends and the big white shark has just begun!</desc>
+    <credits>
+      <director>Chen Huan Xiang</director>
+      <actor>Chen Xin Zhe</actor>
+      <actor>Vana</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020181500 +0800" stop="20261020193500 +0800">
+    <title lang="en">Journey to the East / 東遊</title>
+    <desc lang="en">Han Miao is one of the eight immortals living in a desert. Dragon Maiden, who helms the East Ocean, loses her memory and becomes a fish demon. When she encounters her destined lover, Han Miao, they quickly fall in love. With help from a guru, they set out for Dragon Gate where Dragon Maiden can resume her identity and locate the water source.</desc>
+    <credits>
+      <director>Dong Wei</director>
+      <actor>Zhang Yuan</actor>
+      <actor>Li Qin Yao</actor>
+      <actor>Law Kar Ying</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020193500 +0800" stop="20261020210000 +0800">
+    <title lang="en">My Dear Bodyguard / 落魄保鑣之危機疑雲</title>
+    <desc lang="en">Former elite security guard Han Bin vanishes after a failed escort mission and wallows in self pity. His partner encourages Han to be his former self by escorting an actress to Southeast Asia to film a show. On the way, Han successfully deals with threats to the actress' life, but realizes in the end that he is the one the evil gang has targeted!</desc>
+    <credits>
+      <director>Xu An</director>
+      <actor>Xu Dong Dong</actor>
+      <actor>Terence Yin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020210000 +0800" stop="20261020224500 +0800">
+    <title lang="en">Fast Forward / 快進者</title>
+    <desc lang="en">Gao, an ambulance driver, aspires to be a car racer. He meets top race car engineer Bao during a car racing dispute, which sets him on a path towards his dream. Gao faces the dilemma of leading a stable life or pursuing his passion, but finally decides to embrace his dream and live life to the fullest with the support of his close friend.</desc>
+    <credits>
+      <director>Li Jian Feng</director>
+      <actor>Zhang Rui Han</actor>
+      <actor>Shi Shi</actor>
+      <actor>Jia Bing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261020224500 +0800" stop="20261021013000 +0800">
+    <title lang="en">Fist of Legend / 精武陳真</title>
+    <desc lang="en">When Chen Zhen travels to Japan to learn industrial technology, he teams up with martial artist She Zi Li, and accepts a duel challenge from the Japanese military officials to uphold the Chinese dignity. In a battle of Chinese kung fu master agianst the Japanese samurai, Chen showcases the unique finesse of Chinese kung fu.</desc>
+    <credits>
+      <director>Liu Chun</director>
+      <actor>Xu Ming Hu</actor>
+      <actor>Xia Di Ya</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021013000 +0800" stop="20261021025000 +0800">
+    <title lang="en">Eye for an Eye / 目中無人</title>
+    <desc lang="en">Talents are found everywhere in the Tang dynasty, including Blind man Cheng. He meets a barmaid Ni Yan, who has lost her family and gotten abused, and they become friends. This entangles Cheng into a big triad conflict, and as he starts his journey of revenge, his true identity is also revealed.</desc>
+    <credits>
+      <director>Yang Bing Jia</director>
+      <actor>Miu Tse</actor>
+      <actor>Gao Wei Man</actor>
+      <actor>Xiang Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021025000 +0800" stop="20261021041500 +0800">
+    <title lang="en">Master of Maoshan / 茅山大師</title>
+    <desc lang="en">In a town ravaged by the "vampire virus", four Maoshan disciples including Yun Ling are tasked with finding the cure. However, they are entrapped by the schemes of the mastermind, which caused discord amongst them. When the town is besieged by a spider demon, the four disciples have to overcome their conflicts and unite to save the people.</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Peng Yu Si</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021041500 +0800" stop="20261021053500 +0800">
+    <title lang="en">The Sea Monster / 大海怪</title>
+    <desc lang="en">To stop the Japanese pirates and find his missing friend, the Ming dynasty Marine Officer Lin Xiao joins the Marine General to embark on a treasure hunt. On the way, they encounter a mysterious sea monster as well as the pirates. Lin must join forces with the marine team to battle against them and accomplish their mission.</desc>
+    <credits>
+      <director>Chen Si Ming</director>
+      <director>Liu Wa</director>
+      <actor>Ci Sha</actor>
+      <actor>Ye Zi Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021053500 +0800" stop="20261021071500 +0800">
+    <title lang="en">Giant Fish / 大魚</title>
+    <desc lang="en">A fisherman Zi Hao lives in a small seaside town and earns a living on the water. One day, he finds himself enchanted by a mysterious woman Xiao Yi, and they fall in love. However, a strange man appears and uncovers the true identity of Xiao Yi as a mermaid one day. Can Zi Hao face the truth and can Xiao Yi keep the secret of the mermaid tribe?</desc>
+    <credits>
+      <director>Yin Yue</director>
+      <actor>Fu Meng Ni</actor>
+      <actor>Mei Yang</actor>
+      <actor>Tik Lung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021071500 +0800" stop="20261021083500 +0800">
+    <title lang="en">Ghost Sniper / 幽靈狙擊手</title>
+    <desc lang="en">Lin Shen leads the insurance company’s ghost team to save a scientist. During the mission, they discover a child trapped in a cage but are ambushed on their way to the rescue. As Yu Wei writes the final paragraph of his novel “Ghost Sniper”, he is shot in the head. It is not until he wakes up that Yu Wei realises he has become his novel’s character!</desc>
+    <credits>
+      <director>Jiang Jing Zhong</director>
+      <director>Wang Wen Bo</director>
+      <actor>Zou Zhao Long</actor>
+      <actor>Xu Shen Dong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021083500 +0800" stop="20261021095500 +0800">
+    <title lang="en">Brother Wolf / 臥狼行動</title>
+    <desc lang="en">Recruited from prison for an undercover mission, convict Da Fei returns to the criminal underworld to investigate his former sworn brother, who stole a cartel drug shipment. However, when ruthless mercenaries kidnap his mother, Da Fei joins forces with border police in a desperate battle for justice and redemption.</desc>
+    <credits>
+      <director>Liu Shang</director>
+      <actor>Zhou Hao Dong</actor>
+      <actor>Ao Shun Wen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021095500 +0800" stop="20261021112500 +0800">
+    <title lang="en">The Conqueror / 降魔大師</title>
+    <desc lang="en">Wu Jing Zi seeks help from demon hunters to cast away the evil spirits in town. Saved by demon hunter Meng Zhu, Ah Shi falls in love with her and becomes her disciple. They journey to Yu Zhan Cave to kill the Pig Demon with other hunters. In the end, Ah Shi sacrifices himself to let the hunters fight their way out, but the result is unexpected...</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Shi Zi Chen</actor>
+      <actor>Zhou Jing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021112500 +0800" stop="20261021124500 +0800">
+    <title lang="en">Anti Racing Action / 反飆車行動</title>
+    <desc lang="en">The Hong Kong Police and the triads are irreconcilable opponents. Inspector Cheng leads the anti street car racing team and Jiang is the leader of the street car racing gang. While the police investigates an underground street car race, they uncover the 15-year grudge between Cheng and Jiang, and discover a hidden triad group.</desc>
+    <credits>
+      <director>Hou Chu Feng</director>
+      <actor>Michael Tse</actor>
+      <actor>Le Tang Ji Er</actor>
+      <actor>Zhang Jing Chun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021124500 +0800" stop="20261021141000 +0800">
+    <title lang="en">Coffin Mountain Ancient Tomb / 棺山古墓</title>
+    <desc lang="en">Zhang Sanye joins his junior He Lao Dao on a quest to a fabled tomb said to hold treasures and the secrets of immortality. However, as the tomb is about to open, warlord Luo Man Zi suddenly appears, and it turns out to be a plot set up by both Luo and He for Zhang. A thrilling journey into the tomb has just begun!</desc>
+    <credits>
+      <director>Xiang Qiu Liang</director>
+      <director>Xiang He Sheng</director>
+      <actor>Yuan Biao</actor>
+      <actor>Wu Hao</actor>
+      <actor>Wang Yun Han</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021141000 +0800" stop="20261021154000 +0800">
+    <title lang="en">Feng Qi Luo Yang / 風起洛陽之陰陽界</title>
+    <desc lang="en">In Zhou dynasty, two girls living in two ends of the Luo He River come from diverse backgrounds - one is a captain's daughter and another is a common swindler - and they encounter a series of mysterious events in Luo Yang City. Both team up to investigate a series of bizarre cases, to uphold justice and to maintain order amidst a social upheaval.</desc>
+    <credits>
+      <director>Dai Yi Lin</director>
+      <actor>Nan Sheng</actor>
+      <actor>Zhang Jia Hang</actor>
+      <actor>Zhang Chun Zhong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021154000 +0800" stop="20261021170000 +0800">
+    <title lang="en">Di Renjie Secret Soldier Borrows / 狄仁傑之幽兵借路</title>
+    <desc lang="en">Detective Di Ren Jie is assigned by Empress Wu to investigate the massacre of Minister Hu's family. In the process, he uncovers Hu's involvement in a criminal case and encounters spooky incidents, as well as rumours of vengeful killing by hell guards. Di delves into the heart of the perplexing mystery, unravelling the truth behind it.</desc>
+    <credits>
+      <director>Fang Ying Hua</director>
+      <actor>Du Yi Heng</actor>
+      <actor>Li Ruo Xi</actor>
+      <actor>Zhu Xin Yuan</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021170000 +0800" stop="20261021181500 +0800">
+    <title lang="en">Shark Evil / 食人鯊</title>
+    <desc lang="en">A big white shark is enraged following a shark hunt by the poachers, who are then killed by it. Fueled by anger, the shark turns to attack four friends who are celebrating their graduation on a yacht. A life-and-death struggle between the four friends and the big white shark has just begun!</desc>
+    <credits>
+      <director>Chen Huan Xiang</director>
+      <actor>Chen Xin Zhe</actor>
+      <actor>Vana</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021181500 +0800" stop="20261021193500 +0800">
+    <title lang="en">Journey to the East / 東遊</title>
+    <desc lang="en">Han Miao is one of the eight immortals living in a desert. Dragon Maiden, who helms the East Ocean, loses her memory and becomes a fish demon. When she encounters her destined lover, Han Miao, they quickly fall in love. With help from a guru, they set out for Dragon Gate where Dragon Maiden can resume her identity and locate the water source.</desc>
+    <credits>
+      <director>Dong Wei</director>
+      <actor>Zhang Yuan</actor>
+      <actor>Li Qin Yao</actor>
+      <actor>Law Kar Ying</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021193500 +0800" stop="20261021210000 +0800">
+    <title lang="en">My Dear Bodyguard / 落魄保鑣之危機疑雲</title>
+    <desc lang="en">Former elite security guard Han Bin vanishes after a failed escort mission and wallows in self pity. His partner encourages Han to be his former self by escorting an actress to Southeast Asia to film a show. On the way, Han successfully deals with threats to the actress' life, but realizes in the end that he is the one the evil gang has targeted!</desc>
+    <credits>
+      <director>Xu An</director>
+      <actor>Xu Dong Dong</actor>
+      <actor>Terence Yin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021210000 +0800" stop="20261021224500 +0800">
+    <title lang="en">Fast Forward / 快進者</title>
+    <desc lang="en">Gao, an ambulance driver, aspires to be a car racer. He meets top race car engineer Bao during a car racing dispute, which sets him on a path towards his dream. Gao faces the dilemma of leading a stable life or pursuing his passion, but finally decides to embrace his dream and live life to the fullest with the support of his close friend.</desc>
+    <credits>
+      <director>Li Jian Feng</director>
+      <actor>Zhang Rui Han</actor>
+      <actor>Shi Shi</actor>
+      <actor>Jia Bing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261021224500 +0800" stop="20261022013000 +0800">
+    <title lang="en">Fist of Legend / 精武陳真</title>
+    <desc lang="en">When Chen Zhen travels to Japan to learn industrial technology, he teams up with martial artist She Zi Li, and accepts a duel challenge from the Japanese military officials to uphold the Chinese dignity. In a battle of Chinese kung fu master agianst the Japanese samurai, Chen showcases the unique finesse of Chinese kung fu.</desc>
+    <credits>
+      <director>Liu Chun</director>
+      <actor>Xu Ming Hu</actor>
+      <actor>Xia Di Ya</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022013000 +0800" stop="20261022025000 +0800">
+    <title lang="en">Eye for an Eye / 目中無人</title>
+    <desc lang="en">Talents are found everywhere in the Tang dynasty, including Blind man Cheng. He meets a barmaid Ni Yan, who has lost her family and gotten abused, and they become friends. This entangles Cheng into a big triad conflict, and as he starts his journey of revenge, his true identity is also revealed.</desc>
+    <credits>
+      <director>Yang Bing Jia</director>
+      <actor>Miu Tse</actor>
+      <actor>Gao Wei Man</actor>
+      <actor>Xiang Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022025000 +0800" stop="20261022041500 +0800">
+    <title lang="en">Master of Maoshan / 茅山大師</title>
+    <desc lang="en">In a town ravaged by the "vampire virus", four Maoshan disciples including Yun Ling are tasked with finding the cure. However, they are entrapped by the schemes of the mastermind, which caused discord amongst them. When the town is besieged by a spider demon, the four disciples have to overcome their conflicts and unite to save the people.</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Peng Yu Si</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022041500 +0800" stop="20261022053500 +0800">
+    <title lang="en">The Sea Monster / 大海怪</title>
+    <desc lang="en">To stop the Japanese pirates and find his missing friend, the Ming dynasty Marine Officer Lin Xiao joins the Marine General to embark on a treasure hunt. On the way, they encounter a mysterious sea monster as well as the pirates. Lin must join forces with the marine team to battle against them and accomplish their mission.</desc>
+    <credits>
+      <director>Chen Si Ming</director>
+      <director>Liu Wa</director>
+      <actor>Ci Sha</actor>
+      <actor>Ye Zi Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022053500 +0800" stop="20261022071500 +0800">
+    <title lang="en">Giant Fish / 大魚</title>
+    <desc lang="en">A fisherman Zi Hao lives in a small seaside town and earns a living on the water. One day, he finds himself enchanted by a mysterious woman Xiao Yi, and they fall in love. However, a strange man appears and uncovers the true identity of Xiao Yi as a mermaid one day. Can Zi Hao face the truth and can Xiao Yi keep the secret of the mermaid tribe?</desc>
+    <credits>
+      <director>Yin Yue</director>
+      <actor>Fu Meng Ni</actor>
+      <actor>Mei Yang</actor>
+      <actor>Tik Lung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022071500 +0800" stop="20261022083500 +0800">
+    <title lang="en">Ghost Sniper / 幽靈狙擊手</title>
+    <desc lang="en">Lin Shen leads the insurance company’s ghost team to save a scientist. During the mission, they discover a child trapped in a cage but are ambushed on their way to the rescue. As Yu Wei writes the final paragraph of his novel “Ghost Sniper”, he is shot in the head. It is not until he wakes up that Yu Wei realises he has become his novel’s character!</desc>
+    <credits>
+      <director>Jiang Jing Zhong</director>
+      <director>Wang Wen Bo</director>
+      <actor>Zou Zhao Long</actor>
+      <actor>Xu Shen Dong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022083500 +0800" stop="20261022095500 +0800">
+    <title lang="en">Brother Wolf / 臥狼行動</title>
+    <desc lang="en">Recruited from prison for an undercover mission, convict Da Fei returns to the criminal underworld to investigate his former sworn brother, who stole a cartel drug shipment. However, when ruthless mercenaries kidnap his mother, Da Fei joins forces with border police in a desperate battle for justice and redemption.</desc>
+    <credits>
+      <director>Liu Shang</director>
+      <actor>Zhou Hao Dong</actor>
+      <actor>Ao Shun Wen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022095500 +0800" stop="20261022112500 +0800">
+    <title lang="en">The Conqueror / 降魔大師</title>
+    <desc lang="en">Wu Jing Zi seeks help from demon hunters to cast away the evil spirits in town. Saved by demon hunter Meng Zhu, Ah Shi falls in love with her and becomes her disciple. They journey to Yu Zhan Cave to kill the Pig Demon with other hunters. In the end, Ah Shi sacrifices himself to let the hunters fight their way out, but the result is unexpected...</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Shi Zi Chen</actor>
+      <actor>Zhou Jing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022112500 +0800" stop="20261022124500 +0800">
+    <title lang="en">Anti Racing Action / 反飆車行動</title>
+    <desc lang="en">The Hong Kong Police and the triads are irreconcilable opponents. Inspector Cheng leads the anti street car racing team and Jiang is the leader of the street car racing gang. While the police investigates an underground street car race, they uncover the 15-year grudge between Cheng and Jiang, and discover a hidden triad group.</desc>
+    <credits>
+      <director>Hou Chu Feng</director>
+      <actor>Michael Tse</actor>
+      <actor>Le Tang Ji Er</actor>
+      <actor>Zhang Jing Chun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022124500 +0800" stop="20261022141000 +0800">
+    <title lang="en">Coffin Mountain Ancient Tomb / 棺山古墓</title>
+    <desc lang="en">Zhang Sanye joins his junior He Lao Dao on a quest to a fabled tomb said to hold treasures and the secrets of immortality. However, as the tomb is about to open, warlord Luo Man Zi suddenly appears, and it turns out to be a plot set up by both Luo and He for Zhang. A thrilling journey into the tomb has just begun!</desc>
+    <credits>
+      <director>Xiang Qiu Liang</director>
+      <director>Xiang He Sheng</director>
+      <actor>Yuan Biao</actor>
+      <actor>Wu Hao</actor>
+      <actor>Wang Yun Han</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022141000 +0800" stop="20261022154000 +0800">
+    <title lang="en">Feng Qi Luo Yang / 風起洛陽之陰陽界</title>
+    <desc lang="en">In Zhou dynasty, two girls living in two ends of the Luo He River come from diverse backgrounds - one is a captain's daughter and another is a common swindler - and they encounter a series of mysterious events in Luo Yang City. Both team up to investigate a series of bizarre cases, to uphold justice and to maintain order amidst a social upheaval.</desc>
+    <credits>
+      <director>Dai Yi Lin</director>
+      <actor>Nan Sheng</actor>
+      <actor>Zhang Jia Hang</actor>
+      <actor>Zhang Chun Zhong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022154000 +0800" stop="20261022170000 +0800">
+    <title lang="en">Di Renjie Secret Soldier Borrows / 狄仁傑之幽兵借路</title>
+    <desc lang="en">Detective Di Ren Jie is assigned by Empress Wu to investigate the massacre of Minister Hu's family. In the process, he uncovers Hu's involvement in a criminal case and encounters spooky incidents, as well as rumours of vengeful killing by hell guards. Di delves into the heart of the perplexing mystery, unravelling the truth behind it.</desc>
+    <credits>
+      <director>Fang Ying Hua</director>
+      <actor>Du Yi Heng</actor>
+      <actor>Li Ruo Xi</actor>
+      <actor>Zhu Xin Yuan</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022170000 +0800" stop="20261022181500 +0800">
+    <title lang="en">Shark Evil / 食人鯊</title>
+    <desc lang="en">A big white shark is enraged following a shark hunt by the poachers, who are then killed by it. Fueled by anger, the shark turns to attack four friends who are celebrating their graduation on a yacht. A life-and-death struggle between the four friends and the big white shark has just begun!</desc>
+    <credits>
+      <director>Chen Huan Xiang</director>
+      <actor>Chen Xin Zhe</actor>
+      <actor>Vana</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022181500 +0800" stop="20261022193500 +0800">
+    <title lang="en">Journey to the East / 東遊</title>
+    <desc lang="en">Han Miao is one of the eight immortals living in a desert. Dragon Maiden, who helms the East Ocean, loses her memory and becomes a fish demon. When she encounters her destined lover, Han Miao, they quickly fall in love. With help from a guru, they set out for Dragon Gate where Dragon Maiden can resume her identity and locate the water source.</desc>
+    <credits>
+      <director>Dong Wei</director>
+      <actor>Zhang Yuan</actor>
+      <actor>Li Qin Yao</actor>
+      <actor>Law Kar Ying</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022193500 +0800" stop="20261022210000 +0800">
+    <title lang="en">My Dear Bodyguard / 落魄保鑣之危機疑雲</title>
+    <desc lang="en">Former elite security guard Han Bin vanishes after a failed escort mission and wallows in self pity. His partner encourages Han to be his former self by escorting an actress to Southeast Asia to film a show. On the way, Han successfully deals with threats to the actress' life, but realizes in the end that he is the one the evil gang has targeted!</desc>
+    <credits>
+      <director>Xu An</director>
+      <actor>Xu Dong Dong</actor>
+      <actor>Terence Yin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022210000 +0800" stop="20261022224500 +0800">
+    <title lang="en">Fast Forward / 快進者</title>
+    <desc lang="en">Gao, an ambulance driver, aspires to be a car racer. He meets top race car engineer Bao during a car racing dispute, which sets him on a path towards his dream. Gao faces the dilemma of leading a stable life or pursuing his passion, but finally decides to embrace his dream and live life to the fullest with the support of his close friend.</desc>
+    <credits>
+      <director>Li Jian Feng</director>
+      <actor>Zhang Rui Han</actor>
+      <actor>Shi Shi</actor>
+      <actor>Jia Bing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261022224500 +0800" stop="20261023013000 +0800">
+    <title lang="en">Fist of Legend / 精武陳真</title>
+    <desc lang="en">When Chen Zhen travels to Japan to learn industrial technology, he teams up with martial artist She Zi Li, and accepts a duel challenge from the Japanese military officials to uphold the Chinese dignity. In a battle of Chinese kung fu master agianst the Japanese samurai, Chen showcases the unique finesse of Chinese kung fu.</desc>
+    <credits>
+      <director>Liu Chun</director>
+      <actor>Xu Ming Hu</actor>
+      <actor>Xia Di Ya</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023013000 +0800" stop="20261023025000 +0800">
+    <title lang="en">Eye for an Eye / 目中無人</title>
+    <desc lang="en">Talents are found everywhere in the Tang dynasty, including Blind man Cheng. He meets a barmaid Ni Yan, who has lost her family and gotten abused, and they become friends. This entangles Cheng into a big triad conflict, and as he starts his journey of revenge, his true identity is also revealed.</desc>
+    <credits>
+      <director>Yang Bing Jia</director>
+      <actor>Miu Tse</actor>
+      <actor>Gao Wei Man</actor>
+      <actor>Xiang Hao</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023025000 +0800" stop="20261023041500 +0800">
+    <title lang="en">Master of Maoshan / 茅山大師</title>
+    <desc lang="en">In a town ravaged by the "vampire virus", four Maoshan disciples including Yun Ling are tasked with finding the cure. However, they are entrapped by the schemes of the mastermind, which caused discord amongst them. When the town is besieged by a spider demon, the four disciples have to overcome their conflicts and unite to save the people.</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Peng Yu Si</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023041500 +0800" stop="20261023053500 +0800">
+    <title lang="en">The Sea Monster / 大海怪</title>
+    <desc lang="en">To stop the Japanese pirates and find his missing friend, the Ming dynasty Marine Officer Lin Xiao joins the Marine General to embark on a treasure hunt. On the way, they encounter a mysterious sea monster as well as the pirates. Lin must join forces with the marine team to battle against them and accomplish their mission.</desc>
+    <credits>
+      <director>Chen Si Ming</director>
+      <director>Liu Wa</director>
+      <actor>Ci Sha</actor>
+      <actor>Ye Zi Qi</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023053500 +0800" stop="20261023071500 +0800">
+    <title lang="en">Giant Fish / 大魚</title>
+    <desc lang="en">A fisherman Zi Hao lives in a small seaside town and earns a living on the water. One day, he finds himself enchanted by a mysterious woman Xiao Yi, and they fall in love. However, a strange man appears and uncovers the true identity of Xiao Yi as a mermaid one day. Can Zi Hao face the truth and can Xiao Yi keep the secret of the mermaid tribe?</desc>
+    <credits>
+      <director>Yin Yue</director>
+      <actor>Fu Meng Ni</actor>
+      <actor>Mei Yang</actor>
+      <actor>Tik Lung</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023071500 +0800" stop="20261023083500 +0800">
+    <title lang="en">Ghost Sniper / 幽靈狙擊手</title>
+    <desc lang="en">Lin Shen leads the insurance company’s ghost team to save a scientist. During the mission, they discover a child trapped in a cage but are ambushed on their way to the rescue. As Yu Wei writes the final paragraph of his novel “Ghost Sniper”, he is shot in the head. It is not until he wakes up that Yu Wei realises he has become his novel’s character!</desc>
+    <credits>
+      <director>Jiang Jing Zhong</director>
+      <director>Wang Wen Bo</director>
+      <actor>Zou Zhao Long</actor>
+      <actor>Xu Shen Dong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023083500 +0800" stop="20261023095500 +0800">
+    <title lang="en">Brother Wolf / 臥狼行動</title>
+    <desc lang="en">Recruited from prison for an undercover mission, convict Da Fei returns to the criminal underworld to investigate his former sworn brother, who stole a cartel drug shipment. However, when ruthless mercenaries kidnap his mother, Da Fei joins forces with border police in a desperate battle for justice and redemption.</desc>
+    <credits>
+      <director>Liu Shang</director>
+      <actor>Zhou Hao Dong</actor>
+      <actor>Ao Shun Wen</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023095500 +0800" stop="20261023112500 +0800">
+    <title lang="en">The Conqueror / 降魔大師</title>
+    <desc lang="en">Wu Jing Zi seeks help from demon hunters to cast away the evil spirits in town. Saved by demon hunter Meng Zhu, Ah Shi falls in love with her and becomes her disciple. They journey to Yu Zhan Cave to kill the Pig Demon with other hunters. In the end, Ah Shi sacrifices himself to let the hunters fight their way out, but the result is unexpected...</desc>
+    <credits>
+      <director>Xiong Chen</director>
+      <actor>Shi Zi Chen</actor>
+      <actor>Zhou Jing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023112500 +0800" stop="20261023124500 +0800">
+    <title lang="en">Anti Racing Action / 反飆車行動</title>
+    <desc lang="en">The Hong Kong Police and the triads are irreconcilable opponents. Inspector Cheng leads the anti street car racing team and Jiang is the leader of the street car racing gang. While the police investigates an underground street car race, they uncover the 15-year grudge between Cheng and Jiang, and discover a hidden triad group.</desc>
+    <credits>
+      <director>Hou Chu Feng</director>
+      <actor>Michael Tse</actor>
+      <actor>Le Tang Ji Er</actor>
+      <actor>Zhang Jing Chun</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023124500 +0800" stop="20261023141000 +0800">
+    <title lang="en">Coffin Mountain Ancient Tomb / 棺山古墓</title>
+    <desc lang="en">Zhang Sanye joins his junior He Lao Dao on a quest to a fabled tomb said to hold treasures and the secrets of immortality. However, as the tomb is about to open, warlord Luo Man Zi suddenly appears, and it turns out to be a plot set up by both Luo and He for Zhang. A thrilling journey into the tomb has just begun!</desc>
+    <credits>
+      <director>Xiang Qiu Liang</director>
+      <director>Xiang He Sheng</director>
+      <actor>Yuan Biao</actor>
+      <actor>Wu Hao</actor>
+      <actor>Wang Yun Han</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023141000 +0800" stop="20261023154000 +0800">
+    <title lang="en">Feng Qi Luo Yang / 風起洛陽之陰陽界</title>
+    <desc lang="en">In Zhou dynasty, two girls living in two ends of the Luo He River come from diverse backgrounds - one is a captain's daughter and another is a common swindler - and they encounter a series of mysterious events in Luo Yang City. Both team up to investigate a series of bizarre cases, to uphold justice and to maintain order amidst a social upheaval.</desc>
+    <credits>
+      <director>Dai Yi Lin</director>
+      <actor>Nan Sheng</actor>
+      <actor>Zhang Jia Hang</actor>
+      <actor>Zhang Chun Zhong</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023154000 +0800" stop="20261023170000 +0800">
+    <title lang="en">Di Renjie Secret Soldier Borrows / 狄仁傑之幽兵借路</title>
+    <desc lang="en">Detective Di Ren Jie is assigned by Empress Wu to investigate the massacre of Minister Hu's family. In the process, he uncovers Hu's involvement in a criminal case and encounters spooky incidents, as well as rumours of vengeful killing by hell guards. Di delves into the heart of the perplexing mystery, unravelling the truth behind it.</desc>
+    <credits>
+      <director>Fang Ying Hua</director>
+      <actor>Du Yi Heng</actor>
+      <actor>Li Ruo Xi</actor>
+      <actor>Zhu Xin Yuan</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023170000 +0800" stop="20261023181500 +0800">
+    <title lang="en">Shark Evil / 食人鯊</title>
+    <desc lang="en">A big white shark is enraged following a shark hunt by the poachers, who are then killed by it. Fueled by anger, the shark turns to attack four friends who are celebrating their graduation on a yacht. A life-and-death struggle between the four friends and the big white shark has just begun!</desc>
+    <credits>
+      <director>Chen Huan Xiang</director>
+      <actor>Chen Xin Zhe</actor>
+      <actor>Vana</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023181500 +0800" stop="20261023193500 +0800">
+    <title lang="en">Journey to the East / 東遊</title>
+    <desc lang="en">Han Miao is one of the eight immortals living in a desert. Dragon Maiden, who helms the East Ocean, loses her memory and becomes a fish demon. When she encounters her destined lover, Han Miao, they quickly fall in love. With help from a guru, they set out for Dragon Gate where Dragon Maiden can resume her identity and locate the water source.</desc>
+    <credits>
+      <director>Dong Wei</director>
+      <actor>Zhang Yuan</actor>
+      <actor>Li Qin Yao</actor>
+      <actor>Law Kar Ying</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023193500 +0800" stop="20261023210000 +0800">
+    <title lang="en">My Dear Bodyguard / 落魄保鑣之危機疑雲</title>
+    <desc lang="en">Former elite security guard Han Bin vanishes after a failed escort mission and wallows in self pity. His partner encourages Han to be his former self by escorting an actress to Southeast Asia to film a show. On the way, Han successfully deals with threats to the actress' life, but realizes in the end that he is the one the evil gang has targeted!</desc>
+    <credits>
+      <director>Xu An</director>
+      <actor>Xu Dong Dong</actor>
+      <actor>Terence Yin</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023210000 +0800" stop="20261023224500 +0800">
+    <title lang="en">Fast Forward / 快進者</title>
+    <desc lang="en">Gao, an ambulance driver, aspires to be a car racer. He meets top race car engineer Bao during a car racing dispute, which sets him on a path towards his dream. Gao faces the dilemma of leading a stable life or pursuing his passion, but finally decides to embrace his dream and live life to the fullest with the support of his close friend.</desc>
+    <credits>
+      <director>Li Jian Feng</director>
+      <actor>Zhang Rui Han</actor>
+      <actor>Shi Shi</actor>
+      <actor>Jia Bing</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
+  <programme channel="PopC.hk.feed" start="20261023224500 +0800" stop="20261024004500 +0800">
+    <title lang="en">Fist of Legend / 精武陳真</title>
+    <desc lang="en">When Chen Zhen travels to Japan to learn industrial technology, he teams up with martial artist She Zi Li, and accepts a duel challenge from the Japanese military officials to uphold the Chinese dignity. In a battle of Chinese kung fu master agianst the Japanese samurai, Chen showcases the unique finesse of Chinese kung fu.</desc>
+    <credits>
+      <director>Liu Chun</director>
+      <actor>Xu Ming Hu</actor>
+      <actor>Xia Di Ya</actor>
+    </credits>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </programme>
 </tv>
