@@ -4,6 +4,26 @@
     <display-name lang="en">Celestial Movies</display-name>
     <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
   </channel>
+  <channel id="CMPlusTV.hk.feed">
+    <display-name lang="en">CMPLUS-TV</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/334eac27e9bb208307eb60da0e2ce49972a4558e.png" />
+  </channel>
+  <channel id="PopC.hk.feed">
+    <display-name lang="en">PopC-TV</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
+  </channel>
+  <channel id="Kix.hk.feed">
+    <display-name lang="en">KIX</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
+  </channel>
+  <channel id="ThrillTV.hk.feed">
+    <display-name lang="en">Thrill</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
+  </channel>
+  <channel id="CelestialCassicMovies.hk.feed">
+    <display-name lang="en">Celestial Classic Movies</display-name>
+    <icon src="http://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png" />
+  </channel>
   <programme channel="CelestialMovies.hk.feed" start="20261018003000 +0800" stop="20261018022500 +0800">
     <title lang="en">Dust to Dust / 第八個嫌疑人</title>
     <desc lang="en">Back in 1995, the Police successfully arrested five armed bank robbers while the two masterminds got tipped off and made a clean escape. Decades later, retired cop Wang Shou Yue is drawn back to the unsolved case when he sees a blurred figure in a news clip. A battle between good and evil has just begun!</desc>
@@ -1131,10 +1151,6 @@
     </credits>
     <icon src="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2" />
   </programme>
-  <channel id="CMPlusTV.hk.feed">
-    <display-name lang="en">CMPLUS-TV</display-name>
-    <icon src="http://console.celestialtiger.com/images/upload/334eac27e9bb208307eb60da0e2ce49972a4558e.png" />
-  </channel>
   <programme channel="CMPlusTV.hk.feed" start="20261018002000 +0800" stop="20261018021500 +0800">
     <title lang="en">Victim(s) / 加害者、被害者</title>
     <desc lang="en">A ruthless Kuala Lumpur high school student kills his classmate, exposing the contrasting struggles of the victim's mother and the murderer's mother as they uncover their sons' hidden secrets, while inching closer to a heartbreaking truth.</desc>
@@ -2213,10 +2229,6 @@
     </credits>
     <icon src="http://console.celestialtiger.com/images/upload/334eac27e9bb208307eb60da0e2ce49972a4558e.png" />
   </programme>
-  <channel id="PopC.hk.feed">
-    <display-name lang="en">PopC-TV</display-name>
-    <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
-  </channel>
   <programme channel="PopC.hk.feed" start="20261018000500 +0800" stop="20261018014000 +0800">
     <title lang="en">Dragon Sword-Ancient Battlefield / 禦龍修仙傳3上古戰場</title>
     <desc lang="en">u sets out to find the Godly Flame and save the dying Nan. On his way, he encounters Master Shi of Can Yan Sect when vanquishing a guardian beast. Fu and Shi battle for their respective halves of the treasure map but eventually reconciled after a fierce fight. Both decide to share the map and team up to search for the treasure and the Godly Flame.</desc>
@@ -3393,10 +3405,6 @@
     </credits>
     <icon src="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" />
   </programme>
-  <channel id="Kix.hk.feed">
-    <display-name lang="en">KIX</display-name>
-    <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
-  </channel>
   <programme channel="Kix.hk.feed" start="20261018004500 +0800" stop="20261018021000 +0800">
     <title lang="en">Young Ip Man: Crisis Time</title>
     <desc lang="en">Young Ip Man pursues his studies in Hong Kong in 1917. When the whole school is held hostage during the day of an English speech competition, Ip Man decides to step up...</desc>
@@ -4643,10 +4651,6 @@
     </credits>
     <icon src="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" />
   </programme>
-  <channel id="ThrillTV.hk.feed">
-    <display-name lang="en">Thrill</display-name>
-    <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
-  </channel>
   <programme channel="ThrillTV.hk.feed" start="20261018000500 +0800" stop="20261018014000 +0800">
     <title lang="en">Red Rain</title>
     <desc lang="en">Based on true events, a young scientist who specialises in the study of aliens and extraterrestrials sets out to uncover the mystery behind a series of strange occurrences in Kerala.</desc>
@@ -5921,10 +5925,6 @@
     </credits>
     <icon src="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" />
   </programme>
-  <channel id="CelestialCassicMovies.hk.feed">
-    <display-name lang="en">Celestial Classic Movies</display-name>
-    <icon src="http://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png" />
-  </channel>
   <programme channel="CelestialCassicMovies.hk.feed" start="20261018003500 +0800" stop="20261018022500 +0800">
     <title lang="en">Crocodile River / 鱷魚河</title>
     <desc lang="en">This story has a Romeo and Juliet flavour. Two families who hate each other live across the opposite sides of a river filled with crocodiles and do not bother to have a bridge built. Their respective children meet in university and fall in love, but have to find ways to be together and resolve the hatred between their families.</desc>
