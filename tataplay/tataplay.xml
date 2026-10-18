@@ -1,0 +1,2505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="tataplay">
+  <channel id="ShirdiSaiBaba.in">
+    <display-name lang="en">Shirdi Sai Baba</display-name>
+  </channel>
+  <channel id="TataPlay4K.in">
+    <display-name lang="en">Tata Play 4K</display-name>
+  </channel>
+  <channel id="TataPlayFitness.in">
+    <display-name lang="en">Tata Play Fitness</display-name>
+  </channel>
+  <channel id="TataPlayBeauty.in">
+    <display-name lang="en">Tata Play Beauty</display-name>
+  </channel>
+  <channel id="TataPlayCooking.in">
+    <display-name lang="en">Tata Play Cooking</display-name>
+  </channel>
+  <channel id="TataPlayRomance.in">
+    <display-name lang="en">Tata Play Romance</display-name>
+  </channel>
+  <channel id="StarPlusHD.in">
+    <display-name lang="en">STAR Plus HD</display-name>
+  </channel>
+  <channel id="StarPlus.in">
+    <display-name lang="en">STAR Plus</display-name>
+  </channel>
+  <channel id="TataPlaySuperhitsSerials.in">
+    <display-name lang="en">Tata Play Superhits Serials</display-name>
+  </channel>
+  <channel id="StarBharatHD.in">
+    <display-name lang="en">Star Bharat HD</display-name>
+  </channel>
+  <channel id="StarBharat.in">
+    <display-name lang="en">Star Bharat</display-name>
+  </channel>
+  <channel id="SonyEntertainmentTelevisionHD.in">
+    <display-name lang="en">SET HD</display-name>
+  </channel>
+  <channel id="SonyEntertainmentTelevision.in">
+    <display-name lang="en">SET</display-name>
+  </channel>
+  <channel id="SonySABHD.in">
+    <display-name lang="en">SONY SAB HD</display-name>
+  </channel>
+  <channel id="SonySAB.in">
+    <display-name lang="en">SONY SAB</display-name>
+  </channel>
+  <channel id="TataPlayComedy.in">
+    <display-name lang="en">Tata Play Comedy</display-name>
+  </channel>
+  <channel id="AndTVHD.in">
+    <display-name lang="en">&amp;tv HD</display-name>
+  </channel>
+  <channel id="AndTV.in">
+    <display-name lang="en">&amp;TV</display-name>
+  </channel>
+  <channel id="ZeeTVHD.in">
+    <display-name lang="en">Zee TV HD</display-name>
+  </channel>
+  <channel id="ZeeTV.in">
+    <display-name lang="en">Zee TV</display-name>
+  </channel>
+  <channel id="TataPlayAdbhutKahaniyan.in">
+    <display-name lang="en">Tata Play Adbhut Kahaniyan</display-name>
+  </channel>
+  <channel id="Colors.in">
+    <display-name lang="en">Colors HD</display-name>
+  </channel>
+  <channel id="Colors.in">
+    <display-name lang="en">Colors</display-name>
+  </channel>
+  <channel id="TataPlayRealityTV.in">
+    <display-name lang="en">Tata Play Reality TV</display-name>
+  </channel>
+  <channel id="TataPlayK-Dramas.in">
+    <display-name lang="en">Tata Play K-Dramas</display-name>
+  </channel>
+  <channel id="TataPlayClassicTV.in">
+    <display-name lang="en">Tata Play Classic TV</display-name>
+  </channel>
+  <channel id="TataPlayZindagi.in">
+    <display-name lang="en">Tata Play Zindagi</display-name>
+  </channel>
+  <channel id="InvestigationDiscoveryHD.in">
+    <display-name lang="en">Investigation Discovery HD</display-name>
+  </channel>
+  <channel id="InvestigationDiscovery.in">
+    <display-name lang="en">Investigation Discovery</display-name>
+  </channel>
+  <channel id="StarUtsav.in">
+    <display-name lang="en">STAR Utsav</display-name>
+  </channel>
+  <channel id="AnmolCinema.in">
+    <display-name lang="en">Anmol TV</display-name>
+  </channel>
+  <channel id="ColorsRishteyAsia.in">
+    <display-name lang="en">Colors Rishtey</display-name>
+  </channel>
+  <channel id="SonyPal.in">
+    <display-name lang="en">Sony Pal</display-name>
+  </channel>
+  <channel id="DangalTV.in">
+    <display-name lang="en">Dangal</display-name>
+  </channel>
+  <channel id="AnjanTV.in">
+    <display-name lang="en">Anjan TV</display-name>
+  </channel>
+  <channel id="ShemarooTV.in">
+    <display-name lang="en">Shemaroo TV</display-name>
+  </channel>
+  <channel id="Delta140823_21.0.in">
+    <display-name lang="en">Delta 140823_21.0</display-name>
+  </channel>
+  <channel id="EpicParivar.in">
+    <display-name lang="en">EPIC Parivar</display-name>
+  </channel>
+  <channel id="NAZARA.in">
+    <display-name lang="en">EPIC Bharat</display-name>
+  </channel>
+  <channel id="SunNeo.in">
+    <display-name lang="en">Sun Neo</display-name>
+  </channel>
+  <channel id="DDNationalHD.in">
+    <display-name lang="en">DD National HD</display-name>
+  </channel>
+  <channel id="DDNational.in">
+    <display-name lang="en">DD National</display-name>
+  </channel>
+  <channel id="DDKisan.in">
+    <display-name lang="en">DD Kisan</display-name>
+  </channel>
+  <channel id="ColorsInfinityHD.in">
+    <display-name lang="en">Colors Infinity HD</display-name>
+  </channel>
+  <channel id="ColorsInfinity.in">
+    <display-name lang="en">Colors Infinity</display-name>
+  </channel>
+  <channel id="TataPlayBollywoodPremiereHD.in">
+    <display-name lang="en">Tata Play Bollywood Premiere HD</display-name>
+  </channel>
+  <channel id="TataPlayBollywoodPremiere.in">
+    <display-name lang="en">Tata Play Bollywood Premiere</display-name>
+  </channel>
+  <channel id="TataPlayHollywoodLocal.in">
+    <display-name lang="en">Tata Play Hollywood Local</display-name>
+  </channel>
+  <channel id="StarGoldHD.in">
+    <display-name lang="en">Star GOLD HD</display-name>
+  </channel>
+  <channel id="TataPlayBollywoodMasala.in">
+    <display-name lang="en">Tata Play Bollywood Masala</display-name>
+  </channel>
+  <channel id="SonyMaxHD.in">
+    <display-name lang="en">SONY MAX HD</display-name>
+  </channel>
+  <channel id="SonyMax.in">
+    <display-name lang="en">SONY MAX</display-name>
+  </channel>
+  <channel id="TataPlayFilmySafar.in">
+    <display-name lang="en">Tata Play Filmy Safar</display-name>
+  </channel>
+  <channel id="StarGold2HD.in">
+    <display-name lang="en">Star Gold 2 HD</display-name>
+  </channel>
+  <channel id="StarGold2.in">
+    <display-name lang="en">Star Gold 2</display-name>
+  </channel>
+  <channel id="TataPlayClassicCinema.in">
+    <display-name lang="en">Tata Play Classic Cinema</display-name>
+  </channel>
+  <channel id="ZeeCinemaHD.in">
+    <display-name lang="en">Zee Cinema HD</display-name>
+  </channel>
+  <channel id="ZeeCinema.in">
+    <display-name lang="en">Zee Cinema</display-name>
+  </channel>
+  <channel id="ColorsCineplexHD.in">
+    <display-name lang="en">Colors Cineplex HD</display-name>
+  </channel>
+  <channel id="ColorsCineplex.in">
+    <display-name lang="en">Colors Cineplex</display-name>
+  </channel>
+  <channel id="StarGoldRomance.in">
+    <display-name lang="en">Star Gold Romance</display-name>
+  </channel>
+  <channel id="ZeeBollywood.in">
+    <display-name lang="en">Zee Bollywood</display-name>
+  </channel>
+  <channel id="ZeeClassic.in">
+    <display-name lang="en">Zee Classic</display-name>
+  </channel>
+  <channel id="TataPlayTheatreHD.in">
+    <display-name lang="en">Tata Play Theatre HD</display-name>
+  </channel>
+  <channel id="AndpicturesHD.in">
+    <display-name lang="en">&amp;pictures HD</display-name>
+  </channel>
+  <channel id="Andpictures.in">
+    <display-name lang="en">&amp;pictures</display-name>
+  </channel>
+  <channel id="TataPlayShortsTV.in">
+    <display-name lang="en">Tata Play ShortsTV</display-name>
+  </channel>
+  <channel id="StarGoldThrills.in">
+    <display-name lang="en">Star Gold Thrills</display-name>
+  </channel>
+  <channel id="B4UKadak.in">
+    <display-name lang="en">B4U Kadak</display-name>
+  </channel>
+  <channel id="ActionCinema.in">
+    <display-name lang="en">Action Cinema</display-name>
+  </channel>
+  <channel id="TataPlaySouthTalkies.in">
+    <display-name lang="en">Tata Play South Talkies</display-name>
+  </channel>
+  <channel id="SonyWah.in">
+    <display-name lang="en">Sony Wah</display-name>
+  </channel>
+  <channel id="B4UMovies.in@India">
+    <display-name lang="en">B4U Movies</display-name>
+  </channel>
+  <channel id="SonyMax2.in">
+    <display-name lang="en">SONY MAX 2</display-name>
+  </channel>
+  <channel id="Dangal2.in">
+    <display-name lang="en">Dangal 2</display-name>
+  </channel>
+  <channel id="StarUtsavMovies.in">
+    <display-name lang="en">STAR Utsav Movies</display-name>
+  </channel>
+  <channel id="AnmolCinema.in">
+    <display-name lang="en">Anmol Cinema</display-name>
+  </channel>
+  <channel id="ColorsCineplexSuperhits.in">
+    <display-name lang="en">Colors Cineplex Superhits</display-name>
+  </channel>
+  <channel id="ColorsCineplexBollywood.in">
+    <display-name lang="en">Colors Cineplex Bollywood</display-name>
+  </channel>
+  <channel id="AllTimeMovies.in">
+    <display-name lang="en">ALL Time MOVIES</display-name>
+  </channel>
+  <channel id="Goldmines.in">
+    <display-name lang="en">Goldmines</display-name>
+  </channel>
+  <channel id="ManoranjanTV.in">
+    <display-name lang="en">Manoranjan TV</display-name>
+  </channel>
+  <channel id="AnmolCinema2.in">
+    <display-name lang="en">Anmol Cinema 2</display-name>
+  </channel>
+  <channel id="MoviesNow.in">
+    <display-name lang="en">Movies Now</display-name>
+  </channel>
+  <channel id="MNX.in">
+    <display-name lang="en">MNX</display-name>
+  </channel>
+  <channel id="ShemarooJosh.in">
+    <display-name lang="en">Shemaroo Josh</display-name>
+  </channel>
+  <channel id="GoldminesMovies.in">
+    <display-name lang="en">Goldmines Movies</display-name>
+  </channel>
+  <channel id="SonyMax1.in">
+    <display-name lang="en">SONY MAX 1</display-name>
+  </channel>
+  <channel id="BigMagic.in">
+    <display-name lang="en">Big Magic</display-name>
+  </channel>
+  <channel id="StarMovies.in">
+    <display-name lang="en">STAR Movies</display-name>
+  </channel>
+  <channel id="SonyPixHD.in">
+    <display-name lang="en">SONY PIX HD</display-name>
+  </channel>
+  <channel id="SonyPix.in">
+    <display-name lang="en">SONY PIX</display-name>
+  </channel>
+  <channel id="StarMoviesSelectHD.in">
+    <display-name lang="en">STAR Movies Select HD</display-name>
+  </channel>
+  <channel id="StarMoviesSelect.in">
+    <display-name lang="en">Star Movies Select</display-name>
+  </channel>
+  <channel id="MoviesNowHD.in">
+    <display-name lang="en">Movies Now HD</display-name>
+  </channel>
+  <channel id="MoviesNowPlus.in">
+    <display-name lang="en">MN+ HD</display-name>
+  </channel>
+  <channel id="MNXHD.in">
+    <display-name lang="en">MNX HD</display-name>
+  </channel>
+  <channel id="RomedyNow.in">
+    <display-name lang="en">Romedy Now</display-name>
+  </channel>
+  <channel id="DDSportsHD.in">
+    <display-name lang="en">DD Sports HD</display-name>
+  </channel>
+  <channel id="DDSports.in">
+    <display-name lang="en">DD Sports</display-name>
+  </channel>
+  <channel id="StarSports1HD.in">
+    <display-name lang="en">Star Sports 1 HD</display-name>
+  </channel>
+  <channel id="StarSports2HD.in">
+    <display-name lang="en">Star Sports 2 HD</display-name>
+  </channel>
+  <channel id="StarSports2.in">
+    <display-name lang="en">STAR Sports 2</display-name>
+  </channel>
+  <channel id="StarSports1HindiHD.in">
+    <display-name lang="en">Star Sports 1 Hindi HD</display-name>
+  </channel>
+  <channel id="StarSports2HindiHD.in">
+    <display-name lang="en">Star Sports 2 Hindi HD</display-name>
+  </channel>
+  <channel id="StarSports2Hindi.in">
+    <display-name lang="en">Star Sports 2 Hindi</display-name>
+  </channel>
+  <channel id="StarSportsSelect1HD.in">
+    <display-name lang="en">Star Sports Select 1 HD</display-name>
+  </channel>
+  <channel id="StarSportsSelect1.in">
+    <display-name lang="en">Star Sports Select 1</display-name>
+  </channel>
+  <channel id="SonySportsTen1HD.in">
+    <display-name lang="en">SONY SPORTS TEN 1 HD</display-name>
+  </channel>
+  <channel id="SonySportsTen1.in">
+    <display-name lang="en">SONY SPORTS TEN 1</display-name>
+  </channel>
+  <channel id="SonySportsTen2HD.in">
+    <display-name lang="en">SONY SPORTS TEN 2 HD</display-name>
+  </channel>
+  <channel id="SonySportsTen2.in">
+    <display-name lang="en">SONY SPORTS TEN 2</display-name>
+  </channel>
+  <channel id="SonySportsTen3HindiHD.in">
+    <display-name lang="en">SONY SPORTS TEN 3 Hindi HD</display-name>
+  </channel>
+  <channel id="SonySportsTen3Hindi.in">
+    <display-name lang="en">SONY SPORTS TEN 3 Hindi</display-name>
+  </channel>
+  <channel id="SonySportsTen5HD.in">
+    <display-name lang="en">SONY SPORTS TEN 5 HD</display-name>
+  </channel>
+  <channel id="SonySportsTen5.in">
+    <display-name lang="en">SONY SPORTS TEN 5</display-name>
+  </channel>
+  <channel id="TataPlayFancodeSports.in">
+    <display-name lang="en">Tata Play Fancode Sports</display-name>
+  </channel>
+  <channel id="TataPlayFancodeSports+1.in">
+    <display-name lang="en">Tata Play Fancode Sports +1</display-name>
+  </channel>
+  <channel id="StarSportsSelect2.in">
+    <display-name lang="en">Star Sports Select 2</display-name>
+  </channel>
+  <channel id="EurosportHD.in">
+    <display-name lang="en">Eurosport HD</display-name>
+  </channel>
+  <channel id="Eurosport.in">
+    <display-name lang="en">Eurosport</display-name>
+  </channel>
+  <channel id="StarSportsKhel.in">
+    <display-name lang="en">Star Sports Khel</display-name>
+  </channel>
+  <channel id="Unite8Sports2HD.in">
+    <display-name lang="en">Unite8 Sports 2 HD</display-name>
+  </channel>
+  <channel id="Unite8Sports2.in">
+    <display-name lang="en">Unite8 Sports 2</display-name>
+  </channel>
+  <channel id="Unite8Sports1HD.in">
+    <display-name lang="en">Unite8 Sports 1 HD</display-name>
+  </channel>
+  <channel id="Unite8Sports1.in">
+    <display-name lang="en">Unite8 Sports 1</display-name>
+  </channel>
+  <channel id="DDNewsHD.in">
+    <display-name lang="en">DD News HD</display-name>
+  </channel>
+  <channel id="DDNews.in">
+    <display-name lang="en">DD News</display-name>
+  </channel>
+  <channel id="TataPlaySeniors.in">
+    <display-name lang="en">Tata Play Seniors</display-name>
+  </channel>
+  <channel id="ABPNews.in">
+    <display-name lang="en">ABP News</display-name>
+  </channel>
+  <channel id="NDTVIndia.in">
+    <display-name lang="en">NDTV India</display-name>
+  </channel>
+  <channel id="TataCrucible.in">
+    <display-name lang="en">Tata Crucible</display-name>
+  </channel>
+  <channel id="AajTakHD.in">
+    <display-name lang="en">Aaj Tak HD</display-name>
+  </channel>
+  <channel id="AajTak.in">
+    <display-name lang="en">Aaj Tak</display-name>
+  </channel>
+  <channel id="ZeeNewsHD.in">
+    <display-name lang="en">Zee News HD</display-name>
+  </channel>
+  <channel id="ZeeNews.in">
+    <display-name lang="en">Zee News</display-name>
+  </channel>
+  <channel id="TataPlayAstroDuniya.in">
+    <display-name lang="en">Tata Play Astro Duniya</display-name>
+  </channel>
+  <channel id="IndiaTV.in">
+    <display-name lang="en">India TV</display-name>
+  </channel>
+  <channel id="News24.in">
+    <display-name lang="en">News 24</display-name>
+  </channel>
+  <channel id="TataPlayJEEPrep.in">
+    <display-name lang="en">Tata Play JEE Prep</display-name>
+  </channel>
+  <channel id="TataPlayNEETPrep.in">
+    <display-name lang="en">Tata Play NEET Prep</display-name>
+  </channel>
+  <channel id="News18India.in">
+    <display-name lang="en">News18 India</display-name>
+  </channel>
+  <channel id="ZeeBharat.in">
+    <display-name lang="en">Zee Bharat</display-name>
+  </channel>
+  <channel id="RBharat.in">
+    <display-name lang="en">R Bharat</display-name>
+  </channel>
+  <channel id="IndiaNews.in">
+    <display-name lang="en">India News</display-name>
+  </channel>
+  <channel id="NewsNation.in">
+    <display-name lang="en">News Nation</display-name>
+  </channel>
+  <channel id="TV9Bharatvarsh.in">
+    <display-name lang="en">TV9 Bharatvarsh</display-name>
+  </channel>
+  <channel id="TotalTVHaryana.in">
+    <display-name lang="en">TOTAL TV</display-name>
+  </channel>
+  <channel id="TimesNowNavbharatHD.in">
+    <display-name lang="en">Times Now Navbharat HD</display-name>
+  </channel>
+  <channel id="TimesNowNavbharat.in">
+    <display-name lang="en">Times Now Navbharat</display-name>
+  </channel>
+  <channel id="Bharat24.in">
+    <display-name lang="en">Bharat 24</display-name>
+  </channel>
+  <channel id="IndiaTVSpeedNewsHD.in">
+    <display-name lang="en">India TV Speed News HD</display-name>
+  </channel>
+  <channel id="SudarshanNews.in">
+    <display-name lang="en">Sudarshan News</display-name>
+  </channel>
+  <channel id="BharatExpress.in">
+    <display-name lang="en">Bharat Express</display-name>
+  </channel>
+  <channel id="IndiaDailyLive.in">
+    <display-name lang="en">India Daily 24x7</display-name>
+  </channel>
+  <channel id="LiveTimes.in">
+    <display-name lang="en">Live Times</display-name>
+  </channel>
+  <channel id="TNPNews.in">
+    <display-name lang="en">TNP News</display-name>
+  </channel>
+  <channel id="APN.in">
+    <display-name lang="en">APN News</display-name>
+  </channel>
+  <channel id="NewsLeader.in">
+    <display-name lang="en">News Leader</display-name>
+  </channel>
+  <channel id="ETNowSwadesh.in">
+    <display-name lang="en">ET Now Swadesh</display-name>
+  </channel>
+  <channel id="IndiaVoice.in">
+    <display-name lang="en">India Voice</display-name>
+  </channel>
+  <channel id="News11.in">
+    <display-name lang="en">News 11 Bharat</display-name>
+  </channel>
+  <channel id="News1India.in">
+    <display-name lang="en">News 1 India</display-name>
+  </channel>
+  <channel id="HindiKhabar.in">
+    <display-name lang="en">Hindi Khabar</display-name>
+  </channel>
+  <channel id="BharatSamachar.in">
+    <display-name lang="en">Bharat Samachar</display-name>
+  </channel>
+  <channel id="KhabarainAbhiTak.in">
+    <display-name lang="en">Khabarain Abhi Tak</display-name>
+  </channel>
+  <channel id="Network10.in">
+    <display-name lang="en">Network 10</display-name>
+  </channel>
+  <channel id="JantantraTV.in">
+    <display-name lang="en">Jantantra TV</display-name>
+  </channel>
+  <channel id="SwadeshNews.in">
+    <display-name lang="en">Swadesh News</display-name>
+  </channel>
+  <channel id="BharatUpdate.in">
+    <display-name lang="en">Bharat Update</display-name>
+  </channel>
+  <channel id="NewsTVIndia.in">
+    <display-name lang="en">News TV India</display-name>
+  </channel>
+  <channel id="ZeeBusiness.in">
+    <display-name lang="en">Zee Business</display-name>
+  </channel>
+  <channel id="GoodNewsToday.in">
+    <display-name lang="en">Good News Today</display-name>
+  </channel>
+  <channel id="CNBCAwaaz.in">
+    <display-name lang="en">CNBC Awaaz</display-name>
+  </channel>
+  <channel id="SansadTV1HD.in">
+    <display-name lang="en">Sansad TV 1 HD</display-name>
+  </channel>
+  <channel id="SansadTV2HD.in">
+    <display-name lang="en">Sansad TV 2 HD</display-name>
+  </channel>
+  <channel id="SansadTV1.in">
+    <display-name lang="en">Sansad TV 1</display-name>
+  </channel>
+  <channel id="SansadTV2.in">
+    <display-name lang="en">Sansad TV 2</display-name>
+  </channel>
+  <channel id="NDTV24x7.in">
+    <display-name lang="en">NDTV</display-name>
+  </channel>
+  <channel id="TimesNowWorld.in">
+    <display-name lang="en">Times Now World</display-name>
+  </channel>
+  <channel id="TimesNow.in">
+    <display-name lang="en">TIMES NOW</display-name>
+  </channel>
+  <channel id="IndiaToday.in">
+    <display-name lang="en">INDIA TODAY</display-name>
+  </channel>
+  <channel id="CNNNews18.in">
+    <display-name lang="en">CNN News18</display-name>
+  </channel>
+  <channel id="NewsX.in">
+    <display-name lang="en">NewsX</display-name>
+  </channel>
+  <channel id="MirrorNow.in">
+    <display-name lang="en">Mirror Now</display-name>
+  </channel>
+  <channel id="WION.in">
+    <display-name lang="en">WION</display-name>
+  </channel>
+  <channel id="RepublicTV.in">
+    <display-name lang="en">REPUBLIC TV</display-name>
+  </channel>
+  <channel id="NewsXWorld.in">
+    <display-name lang="en">NewsX World</display-name>
+  </channel>
+  <channel id="DDIndiaHD.in">
+    <display-name lang="en">DD India HD</display-name>
+  </channel>
+  <channel id="CNBCTV18PrimeHD.in">
+    <display-name lang="en">CNBC TV18 Prime HD</display-name>
+  </channel>
+  <channel id="DDIndia.in">
+    <display-name lang="en">DD India</display-name>
+  </channel>
+  <channel id="NDTVProfit.in">
+    <display-name lang="en">NDTV Profit Prime</display-name>
+  </channel>
+  <channel id="CNBCTV18.in">
+    <display-name lang="en">CNBC TV18</display-name>
+  </channel>
+  <channel id="ETNow.in">
+    <display-name lang="en">ET NOW</display-name>
+  </channel>
+  <channel id="BloombergTV.us@Plus">
+    <display-name lang="en">Bloomberg Television</display-name>
+  </channel>
+  <channel id="CNNInternational.us@SouthAsia">
+    <display-name lang="en">CNN International</display-name>
+  </channel>
+  <channel id="BBCNews.uk@SouthAsia">
+    <display-name lang="en">BBC News</display-name>
+  </channel>
+  <channel id="AlJazeera.qa@English">
+    <display-name lang="en">Al Jazeera</display-name>
+  </channel>
+  <channel id="ChannelNewsAsia.in">
+    <display-name lang="en">Channel News Asia</display-name>
+  </channel>
+  <channel id="France24.fr@English">
+    <display-name lang="en">France 24</display-name>
+  </channel>
+  <channel id="TV5MondeAsie.in">
+    <display-name lang="en">TV5 Monde Asie</display-name>
+  </channel>
+  <channel id="DW.de@English">
+    <display-name lang="en">DW</display-name>
+  </channel>
+  <channel id="ABCAustralia.au">
+    <display-name lang="en">ABC Australia</display-name>
+  </channel>
+  <channel id="RTIndiaHD.in">
+    <display-name lang="en">Russia Today</display-name>
+  </channel>
+  <channel id="NHKWorldJapan.in">
+    <display-name lang="en">NHK World Japan</display-name>
+  </channel>
+  <channel id="HungamaTV.in">
+    <display-name lang="en">Hungama</display-name>
+  </channel>
+  <channel id="TataPlayCartoonNetworkForever.in">
+    <display-name lang="en">Tata Play Cartoon Network Forever</display-name>
+  </channel>
+  <channel id="SuperHungama.in">
+    <display-name lang="en">Super Hungama</display-name>
+  </channel>
+  <channel id="DisneyChannelHD.in">
+    <display-name lang="en">Disney Channel HD</display-name>
+  </channel>
+  <channel id="Disney.in">
+    <display-name lang="en">Disney</display-name>
+  </channel>
+  <channel id="TataPlayEnglishinHindi.in">
+    <display-name lang="en">Tata Play English in Hindi</display-name>
+  </channel>
+  <channel id="NickHDPlusHD.in">
+    <display-name lang="en">Nick HD+</display-name>
+  </channel>
+  <channel id="Nickelodeon.in">
+    <display-name lang="en">Nick</display-name>
+  </channel>
+  <channel id="TataPlayFunLearnRhymes.in">
+    <display-name lang="en">Tata Play Fun Learn Rhymes</display-name>
+  </channel>
+  <channel id="TataPlayFunLearnJunior.in">
+    <display-name lang="en">Tata Play Fun Learn Junior</display-name>
+  </channel>
+  <channel id="CartoonNetworkHDPlus.in">
+    <display-name lang="en">Cartoon Network HD+</display-name>
+  </channel>
+  <channel id="CartoonNetwork.in">
+    <display-name lang="en">Cartoon Network</display-name>
+  </channel>
+  <channel id="Pogo.in">
+    <display-name lang="en">Pogo</display-name>
+  </channel>
+  <channel id="DiscoveryKids.in">
+    <display-name lang="en">Discovery Kids</display-name>
+  </channel>
+  <channel id="Sonic.in">
+    <display-name lang="en">Sonic</display-name>
+  </channel>
+  <channel id="SonyYay.in">
+    <display-name lang="en">SONY YAY!</display-name>
+  </channel>
+  <channel id="TataPlayToons+.in">
+    <display-name lang="en">Tata Play Toons+</display-name>
+  </channel>
+  <channel id="EpicKids.in">
+    <display-name lang="en">EPIC Kids</display-name>
+  </channel>
+  <channel id="ETVBalBharat.in">
+    <display-name lang="en">ETV Bal Bharat</display-name>
+  </channel>
+  <channel id="TataPlayAnimeLocal.in">
+    <display-name lang="en">Tata Play Anime Local</display-name>
+  </channel>
+  <channel id="NickJr.in">
+    <display-name lang="en">Nick Jr</display-name>
+  </channel>
+  <channel id="DisneyJunior.in">
+    <display-name lang="en">Disney Junior</display-name>
+  </channel>
+  <channel id="CBeebies.au">
+    <display-name lang="en">CBeeBies</display-name>
+  </channel>
+  <channel id="UniqueTV.in">
+    <display-name lang="en">Unique TV</display-name>
+  </channel>
+  <channel id="TataPlaySmartManager.in">
+    <display-name lang="en">Tata Play Smart Manager</display-name>
+  </channel>
+  <channel id="TataPlayVedicMaths.in">
+    <display-name lang="en">Tata Play Vedic Maths</display-name>
+  </channel>
+  <channel id="NationalGeographic.in">
+    <display-name lang="en">National Geographic</display-name>
+  </channel>
+  <channel id="NationalGeographicWild.in">
+    <display-name lang="en">Nat Geo Wild</display-name>
+  </channel>
+  <channel id="DiscoveryHDWorld.in">
+    <display-name lang="en">Discovery HD World</display-name>
+  </channel>
+  <channel id="DiscoveryChannel.in">
+    <display-name lang="en">Discovery Channel</display-name>
+  </channel>
+  <channel id="AnimalPlanetHD.in">
+    <display-name lang="en">Animal Planet HD</display-name>
+  </channel>
+  <channel id="AnimalPlanet.in">
+    <display-name lang="en">Animal Planet</display-name>
+  </channel>
+  <channel id="DiscoveryScience.in">
+    <display-name lang="en">Discovery Science</display-name>
+  </channel>
+  <channel id="HistoryTV18.in">
+    <display-name lang="en">History TV18</display-name>
+  </channel>
+  <channel id="SonyBBCEarthHD.in">
+    <display-name lang="en">SONY BBC Earth HD</display-name>
+  </channel>
+  <channel id="SonyBBCEarth.in">
+    <display-name lang="en">SONY BBC Earth</display-name>
+  </channel>
+  <channel id="EpicTV.in">
+    <display-name lang="en">EPIC</display-name>
+  </channel>
+  <channel id="DDGyanDarshan.in">
+    <display-name lang="en">DD Gyan Darshan</display-name>
+  </channel>
+  <channel id="TLCHD.in">
+    <display-name lang="en">TLC HD</display-name>
+  </channel>
+  <channel id="TLC.in">
+    <display-name lang="en">TLC</display-name>
+  </channel>
+  <channel id="NDTVGoodTimes.in">
+    <display-name lang="en">GOOD TiMES</display-name>
+  </channel>
+  <channel id="DiscoveryTurbo.in">
+    <display-name lang="en">Discovery Turbo</display-name>
+  </channel>
+  <channel id="TravelxpHD.in">
+    <display-name lang="en">Travelxp HD</display-name>
+  </channel>
+  <channel id="Travelxp.in">
+    <display-name lang="en">Travelxp</display-name>
+  </channel>
+  <channel id="FoodFood.in">
+    <display-name lang="en">Food Food</display-name>
+  </channel>
+  <channel id="ZeeZestHD.in">
+    <display-name lang="en">Zee Zest HD</display-name>
+  </channel>
+  <channel id="Foodxp.uk">
+    <display-name lang="en">Food XP</display-name>
+  </channel>
+  <channel id="FashionTV.in">
+    <display-name lang="en">Fashion TV</display-name>
+  </channel>
+  <channel id="TataPlayIbaadat.in">
+    <display-name lang="en">Tata Play Ibaadat</display-name>
+  </channel>
+  <channel id="MTVHD.in">
+    <display-name lang="en">MTV HD</display-name>
+  </channel>
+  <channel id="MTV.in">
+    <display-name lang="en">MTV</display-name>
+  </channel>
+  <channel id="9XM.in">
+    <display-name lang="en">9XM</display-name>
+  </channel>
+  <channel id="TataPlayJavedAkhtar.in">
+    <display-name lang="en">Tata Play Javed Akhtar</display-name>
+  </channel>
+  <channel id="Zoom.in">
+    <display-name lang="en">Zoom</display-name>
+  </channel>
+  <channel id="TataPlayMusic.in">
+    <display-name lang="en">Tata Play Music</display-name>
+  </channel>
+  <channel id="B4UMusic.in@India">
+    <display-name lang="en">B4U Music</display-name>
+  </channel>
+  <channel id="Zing.in">
+    <display-name lang="en">Zing</display-name>
+  </channel>
+  <channel id="EpicMusic.in">
+    <display-name lang="en">EPIC Music</display-name>
+  </channel>
+  <channel id="RajPariwar.in">
+    <display-name lang="en">Raj Pariwar</display-name>
+  </channel>
+  <channel id="DisneyInternationalHD.in">
+    <display-name lang="en">Disney International HD</display-name>
+  </channel>
+  <channel id="TataPlayBhaktiSangeet.in">
+    <display-name lang="en">Tata Play Bhakti Sangeet</display-name>
+  </channel>
+  <channel id="TataPlayAradhana.in">
+    <display-name lang="en">Tata Play Aradhana</display-name>
+  </channel>
+  <channel id="TataPlayAradhana+1.in">
+    <display-name lang="en">Tata Play Aradhana +1</display-name>
+  </channel>
+  <channel id="Aastha.in">
+    <display-name lang="en">Aastha</display-name>
+  </channel>
+  <channel id="SanskarTV.in">
+    <display-name lang="en">Sanskar</display-name>
+  </channel>
+  <channel id="ParasGoldOne.in">
+    <display-name lang="en">Paras Gold One</display-name>
+  </channel>
+  <channel id="MHOneShraddha.in">
+    <display-name lang="en">MH One Shraddha</display-name>
+  </channel>
+  <channel id="SadhnaTV.in">
+    <display-name lang="en">Sadhna TV</display-name>
+  </channel>
+  <channel id="SharnamTV.in">
+    <display-name lang="en">Sharnam TV</display-name>
+  </channel>
+  <channel id="PeaceofMindTV.in">
+    <display-name lang="en">Peace of Mind</display-name>
+  </channel>
+  <channel id="JinvaniChannel.in">
+    <display-name lang="en">Jinvani Channel</display-name>
+  </channel>
+  <channel id="DharmaSandesh.in">
+    <display-name lang="en">Dharma Sandesh</display-name>
+  </channel>
+  <channel id="IshwarBhaktiTV.in">
+    <display-name lang="en">Ishwar TV</display-name>
+  </channel>
+  <channel id="SatsangTV.in">
+    <display-name lang="en">Satsang TV</display-name>
+  </channel>
+  <channel id="ShubhTV.in">
+    <display-name lang="en">Shubh TV</display-name>
+  </channel>
+  <channel id="Bhaktisagar.in">
+    <display-name lang="en">Bhaktisagar</display-name>
+  </channel>
+  <channel id="ChannelDivya.in">
+    <display-name lang="en">DIVYA</display-name>
+  </channel>
+  <channel id="AwakeningTV.in">
+    <display-name lang="en">Awakening</display-name>
+  </channel>
+  <channel id="Santwani.in">
+    <display-name lang="en">Santwani</display-name>
+  </channel>
+  <channel id="AadinathTV.in">
+    <display-name lang="en">Aadinath TV</display-name>
+  </channel>
+  <channel id="HareKrsnaTV.in">
+    <display-name lang="en">Hare Krsna</display-name>
+  </channel>
+  <channel id="ShreeDishaBhakti.in">
+    <display-name lang="en">Shree Disha Bhakti</display-name>
+  </channel>
+  <channel id="ZeeBiskope.in">
+    <display-name lang="en">Zee Biskope</display-name>
+  </channel>
+  <channel id="EpicBhojpuri.in">
+    <display-name lang="en">EPIC Bhojpuri</display-name>
+  </channel>
+  <channel id="OscarMoviesBhojpuri.in">
+    <display-name lang="en">Oscar Movies Bhojpuri</display-name>
+  </channel>
+  <channel id="B4UBhojpuri.in">
+    <display-name lang="en">B4U Bhojpuri</display-name>
+  </channel>
+  <channel id="PasandTV.in">
+    <display-name lang="en">Pasand</display-name>
+  </channel>
+  <channel id="News18UttarPradeshUttarakhand.in">
+    <display-name lang="en">News18 Uttar Pradesh Uttarakhand</display-name>
+  </channel>
+  <channel id="ZeeUttarPradeshUttarakhand.in">
+    <display-name lang="en">Zee Uttar Pradesh Uttarakhand</display-name>
+  </channel>
+  <channel id="News18BiharJharkhand.in">
+    <display-name lang="en">News18 Bihar Jharkhand</display-name>
+  </channel>
+  <channel id="ZeeBiharJharkhand.in">
+    <display-name lang="en">Zee Bihar Jharkhand</display-name>
+  </channel>
+  <channel id="IndiaNewsUttarPradesh.in">
+    <display-name lang="en">India News UP UK</display-name>
+  </channel>
+  <channel id="NewsStateUPUttarakhand.in">
+    <display-name lang="en">News State UP Uttarakhand</display-name>
+  </channel>
+  <channel id="SadhnaPlusNews.in">
+    <display-name lang="en">Sadhna Plus News</display-name>
+  </channel>
+  <channel id="KashishNews.in">
+    <display-name lang="en">Kashish News</display-name>
+  </channel>
+  <channel id="HNN24x7.in">
+    <display-name lang="en">HNN News</display-name>
+  </channel>
+  <channel id="News360.in">
+    <display-name lang="en">News 360</display-name>
+  </channel>
+  <channel id="Nation27.in">
+    <display-name lang="en">Nation 27</display-name>
+  </channel>
+  <channel id="IndiaSuperfastTV.in">
+    <display-name lang="en">India Superfast TV</display-name>
+  </channel>
+  <channel id="DDUttarakhand.in">
+    <display-name lang="en">DD Uttarakhand</display-name>
+  </channel>
+  <channel id="DDJharkhand.in">
+    <display-name lang="en">DD Jharkhand</display-name>
+  </channel>
+  <channel id="DDBharati.in">
+    <display-name lang="en">DD Bharati</display-name>
+  </channel>
+  <channel id="DDUttarPradesh.in">
+    <display-name lang="en">DD Uttar Pradesh</display-name>
+  </channel>
+  <channel id="DDBihar.in">
+    <display-name lang="en">DD Bihar</display-name>
+  </channel>
+  <channel id="News18MadhyaPradeshChhattisgarh.in">
+    <display-name lang="en">News18 Madhya Pradesh Chhattisgarh</display-name>
+  </channel>
+  <channel id="ZeeMadhyaPradeshChhattisgarh.in">
+    <display-name lang="en">Zee Madhya Pradesh Chattisgarh</display-name>
+  </channel>
+  <channel id="IBC24.in">
+    <display-name lang="en">IBC 24</display-name>
+  </channel>
+  <channel id="BansalNews.in">
+    <display-name lang="en">Bansal News</display-name>
+  </channel>
+  <channel id="INH24x7.in">
+    <display-name lang="en">INH 24X7</display-name>
+  </channel>
+  <channel id="IndiaNewsMadhyaPradeshChhattisgarh.in">
+    <display-name lang="en">India News MP CG</display-name>
+  </channel>
+  <channel id="NewsStateMPCG.in">
+    <display-name lang="en">News State MP CG</display-name>
+  </channel>
+  <channel id="SwarajExpressSMBC.in">
+    <display-name lang="en">Swaraj Express SMBC</display-name>
+  </channel>
+  <channel id="SadhnaNewsMadhyaPradeshChhattisgarh.in">
+    <display-name lang="en">Sadhna News MP CG</display-name>
+  </channel>
+  <channel id="News24MPChhattisgarh.in">
+    <display-name lang="en">News 24 Madhyapradesh Chattisgarh</display-name>
+  </channel>
+  <channel id="AnaadiTV.in">
+    <display-name lang="en">Anaadi TV</display-name>
+  </channel>
+  <channel id="TV27News.in">
+    <display-name lang="en">TV27 News</display-name>
+  </channel>
+  <channel id="AsianNews.in">
+    <display-name lang="en">Asian News</display-name>
+  </channel>
+  <channel id="NDTVMadhyaPradeshChhattisgarh.in">
+    <display-name lang="en">NDTV MPCG</display-name>
+  </channel>
+  <channel id="VistaarNews.in">
+    <display-name lang="en">Vistaar News</display-name>
+  </channel>
+  <channel id="BSTV.in">
+    <display-name lang="en">BS TV</display-name>
+  </channel>
+  <channel id="SadhnaPrimeNews.in">
+    <display-name lang="en">Sadhna Prime News</display-name>
+  </channel>
+  <channel id="PublicFirst.in">
+    <display-name lang="en">Public First</display-name>
+  </channel>
+  <channel id="DDChhattisgarh.in">
+    <display-name lang="en">DD Chhattisgarh</display-name>
+  </channel>
+  <channel id="DDMadhyaPradesh.in">
+    <display-name lang="en">DD Madhya Pradesh</display-name>
+  </channel>
+  <channel id="News18Rajasthan.in">
+    <display-name lang="en">News18 Rajasthan</display-name>
+  </channel>
+  <channel id="ZeeRajasthan.in">
+    <display-name lang="en">Zee Rajasthan News</display-name>
+  </channel>
+  <channel id="FirstIndiaNews.in">
+    <display-name lang="en">First India Rajasthan</display-name>
+  </channel>
+  <channel id="IndiaNewsRajasthan.in">
+    <display-name lang="en">India News Rajasthan</display-name>
+  </channel>
+  <channel id="JanTV.in">
+    <display-name lang="en">Jan TV</display-name>
+  </channel>
+  <channel id="NDTVRajasthan.in">
+    <display-name lang="en">NDTV Rajasthan</display-name>
+  </channel>
+  <channel id="SamacharPlus24x7.in">
+    <display-name lang="en">Samachar Plus 24x7</display-name>
+  </channel>
+  <channel id="SachBedhadak.in">
+    <display-name lang="en">Sach Bedhadak</display-name>
+  </channel>
+  <channel id="GangaurTV.in">
+    <display-name lang="en">Gangaur TV</display-name>
+  </channel>
+  <channel id="DDRajasthan.in">
+    <display-name lang="en">DD Rajasthan</display-name>
+  </channel>
+  <channel id="NewsFlash.in">
+    <display-name lang="en">News Flash</display-name>
+  </channel>
+  <channel id="SalaamTV.in">
+    <display-name lang="en">Salaam TV</display-name>
+  </channel>
+  <channel id="ChannelWIN.in">
+    <display-name lang="en">Channel WIN</display-name>
+  </channel>
+  <channel id="GulistanNews.in">
+    <display-name lang="en">Gulistan News</display-name>
+  </channel>
+  <channel id="RashtraTV.in">
+    <display-name lang="en">Rashtra TV</display-name>
+  </channel>
+  <channel id="DDUrdu.in">
+    <display-name lang="en">DD Urdu</display-name>
+  </channel>
+  <channel id="ColorsMarathiHD.in">
+    <display-name lang="en">Colors Marathi HD</display-name>
+  </channel>
+  <channel id="ColorsMarathi.in">
+    <display-name lang="en">Colors Marathi</display-name>
+  </channel>
+  <channel id="ZeeMarathiHD.in">
+    <display-name lang="en">Zee Marathi HD</display-name>
+  </channel>
+  <channel id="ZeeMarathi.in">
+    <display-name lang="en">Zee Marathi</display-name>
+  </channel>
+  <channel id="TataPlayMarathiCinema.in">
+    <display-name lang="en">Tata Play Marathi Cinema</display-name>
+  </channel>
+  <channel id="StarPravahHD.in">
+    <display-name lang="en">Star Pravah HD</display-name>
+  </channel>
+  <channel id="StarPravah.in">
+    <display-name lang="en">STAR Pravah</display-name>
+  </channel>
+  <channel id="ZeeYuva.in">
+    <display-name lang="en">Zee YUVA</display-name>
+  </channel>
+  <channel id="SonyMarathi.in">
+    <display-name lang="en">Sony Marathi</display-name>
+  </channel>
+  <channel id="TataPlayMarathiClassics.in">
+    <display-name lang="en">Tata Play Marathi Classics</display-name>
+  </channel>
+  <channel id="SunMarathi.in">
+    <display-name lang="en">Sun Marathi</display-name>
+  </channel>
+  <channel id="ZeeTalkiesHD.in">
+    <display-name lang="en">Zee Talkies HD</display-name>
+  </channel>
+  <channel id="ZeeTalkies.in">
+    <display-name lang="en">Zee Talkies</display-name>
+  </channel>
+  <channel id="PravahPictureHD.in">
+    <display-name lang="en">Star Pravah Pictures HD</display-name>
+  </channel>
+  <channel id="ShemarooMarathiBana.in">
+    <display-name lang="en">Shemaroo MarathiBana</display-name>
+  </channel>
+  <channel id="TataPlayToons+.in">
+    <display-name lang="en">Tata Play Toons+</display-name>
+  </channel>
+  <channel id="ABPMajha.in">
+    <display-name lang="en">ABP Majha</display-name>
+  </channel>
+  <channel id="News18Marathi.in">
+    <display-name lang="en">NEWS18 MARATHI</display-name>
+  </channel>
+  <channel id="Zee24Taas.in">
+    <display-name lang="en">Zee 24 Taas</display-name>
+  </channel>
+  <channel id="SaamTV.in">
+    <display-name lang="en">Saam TV</display-name>
+  </channel>
+  <channel id="JaiMaharashtra.in">
+    <display-name lang="en">Jai Maharashtra</display-name>
+  </channel>
+  <channel id="TV9Marathi.in">
+    <display-name lang="en">TV9 Marathi</display-name>
+  </channel>
+  <channel id="LokshahiNews.in">
+    <display-name lang="en">Lokshahi Marathi</display-name>
+  </channel>
+  <channel id="PudhariNews.in">
+    <display-name lang="en">Pudhari News</display-name>
+  </channel>
+  <channel id="NDTVMarathi.in">
+    <display-name lang="en">NDTV MARATHI</display-name>
+  </channel>
+  <channel id="DDSahyadri.in">
+    <display-name lang="en">DD Sahyadri</display-name>
+  </channel>
+  <channel id="SangeetMarathi.in">
+    <display-name lang="en">Sangeet Marathi</display-name>
+  </channel>
+  <channel id="ColorsBanglaHD.in">
+    <display-name lang="en">Colors Bangla HD</display-name>
+  </channel>
+  <channel id="ColorsBangla.in">
+    <display-name lang="en">Colors Bangla</display-name>
+  </channel>
+  <channel id="TataPlayBanglaCinema.in">
+    <display-name lang="en">Tata Play Bangla Cinema</display-name>
+  </channel>
+  <channel id="ZeeBanglaHD.in">
+    <display-name lang="en">Zee Bangla HD</display-name>
+  </channel>
+  <channel id="ZeeBangla.in">
+    <display-name lang="en">Zee Bangla</display-name>
+  </channel>
+  <channel id="StarJalshaHD.in">
+    <display-name lang="en">Star Jalsha HD</display-name>
+  </channel>
+  <channel id="StarJalsha.in">
+    <display-name lang="en">STAR Jalsha</display-name>
+  </channel>
+  <channel id="SonyAath.in">
+    <display-name lang="en">SONY AATH</display-name>
+  </channel>
+  <channel id="SunBangla.in">
+    <display-name lang="en">Sun Bangla</display-name>
+  </channel>
+  <channel id="TataPlayToons+.in">
+    <display-name lang="en">Tata Play Toons+</display-name>
+  </channel>
+  <channel id="AakaashAath.in">
+    <display-name lang="en">Aakaash Aath</display-name>
+  </channel>
+  <channel id="RupasiBangla.in">
+    <display-name lang="en">Ruposhi Bangla</display-name>
+  </channel>
+  <channel id="JalshaMoviesHD.in">
+    <display-name lang="en">Jalsha Movies HD</display-name>
+  </channel>
+  <channel id="JalshaMovies.in">
+    <display-name lang="en">Jalsha Movies</display-name>
+  </channel>
+  <channel id="ZeeBanglaCinema.in">
+    <display-name lang="en">Zee Bangla Sonar</display-name>
+  </channel>
+  <channel id="ColorsBanglaCinema.in">
+    <display-name lang="en">Colors Bangla Cinema</display-name>
+  </channel>
+  <channel id="KhushbooBangla.in">
+    <display-name lang="en">Khushboo Bangla</display-name>
+  </channel>
+  <channel id="RongeenTV.in">
+    <display-name lang="en">Rongeen TV</display-name>
+  </channel>
+  <channel id="ABPAnanda.in">
+    <display-name lang="en">ABP Ananda</display-name>
+  </channel>
+  <channel id="Zee24Ghanta.in">
+    <display-name lang="en">Zee 24 Ghanta</display-name>
+  </channel>
+  <channel id="KolkataTV.in">
+    <display-name lang="en">Kolkata TV</display-name>
+  </channel>
+  <channel id="News18Bangla.in">
+    <display-name lang="en">News18 Bangla</display-name>
+  </channel>
+  <channel id="TV9Bangla.in">
+    <display-name lang="en">TV9 Bangla</display-name>
+  </channel>
+  <channel id="RepublicBangla.in">
+    <display-name lang="en">Republic Bangla</display-name>
+  </channel>
+  <channel id="CTVNAKDPlus.in">
+    <display-name lang="en">CTVN AKD Plus</display-name>
+  </channel>
+  <channel id="AKDCalcuttaNews.in">
+    <display-name lang="en">Calcutta News</display-name>
+  </channel>
+  <channel id="NewsLiveBangla.in">
+    <display-name lang="en">News Live Bangla</display-name>
+  </channel>
+  <channel id="DDBangla.in">
+    <display-name lang="en">DD Bangla</display-name>
+  </channel>
+  <channel id="SangeetBangla.in">
+    <display-name lang="en">Sangeet Bangla</display-name>
+  </channel>
+  <channel id="ZeeTeluguHD.in">
+    <display-name lang="en">Zee Telugu HD</display-name>
+  </channel>
+  <channel id="ZeeTelugu.in">
+    <display-name lang="en">Zee Telugu</display-name>
+  </channel>
+  <channel id="SunGeminiHD.in">
+    <display-name lang="en">Sun Gemini HD</display-name>
+  </channel>
+  <channel id="SunGemini.in">
+    <display-name lang="en">Sun Gemini</display-name>
+  </channel>
+  <channel id="StarMaaHD.in">
+    <display-name lang="en">STAR Maa HD</display-name>
+  </channel>
+  <channel id="StarMaaHD.in">
+    <display-name lang="en">STAR Maa HD</display-name>
+  </channel>
+  <channel id="StarMaa.in">
+    <display-name lang="en">STAR Maa</display-name>
+  </channel>
+  <channel id="ETVTeluguHD.in">
+    <display-name lang="en">ETV HD</display-name>
+  </channel>
+  <channel id="ETVTelugu.in">
+    <display-name lang="en">ETV Telugu</display-name>
+  </channel>
+  <channel id="SunGeminiLife.in">
+    <display-name lang="en">Sun Gemini Life</display-name>
+  </channel>
+  <channel id="ETVPlus.in">
+    <display-name lang="en">ETV Plus</display-name>
+  </channel>
+  <channel id="StarMoviesHD.in">
+    <display-name lang="en">STAR Movies HD</display-name>
+  </channel>
+  <channel id="TataPlayToons+.in">
+    <display-name lang="en">Tata Play Toons+</display-name>
+  </channel>
+  <channel id="VissaTV.in">
+    <display-name lang="en">Vissa TV</display-name>
+  </channel>
+  <channel id="TataPlayEnglishinTelugu.in">
+    <display-name lang="en">Tata Play English in Telugu</display-name>
+  </channel>
+  <channel id="Vanitha.in">
+    <display-name lang="en">Vanitha</display-name>
+  </channel>
+  <channel id="SunGeminiMoviesHD.in">
+    <display-name lang="en">Sun Gemini Movies HD</display-name>
+  </channel>
+  <channel id="SunGeminiMovies.in">
+    <display-name lang="en">Sun Gemini Movies</display-name>
+  </channel>
+  <channel id="StarMaaMoviesHD.in">
+    <display-name lang="en">Star Maa Movies HD</display-name>
+  </channel>
+  <channel id="StarMaaMovies.in">
+    <display-name lang="en">Star Maa Movies</display-name>
+  </channel>
+  <channel id="StarMaaGold.in">
+    <display-name lang="en">Star Maa Gold</display-name>
+  </channel>
+  <channel id="TataPlayHollywoodLocalTelugu.in">
+    <display-name lang="en">Tata Play Hollywood Local Telugu</display-name>
+  </channel>
+  <channel id="ZeeCinemaluHD.in">
+    <display-name lang="en">Zee Cinemalu HD</display-name>
+  </channel>
+  <channel id="ZeeCinemalu.in">
+    <display-name lang="en">Zee Cinemalu</display-name>
+  </channel>
+  <channel id="ETVCinema.in">
+    <display-name lang="en">ETV Cinema</display-name>
+  </channel>
+  <channel id="TataPlayTeluguClassics.in">
+    <display-name lang="en">Tata Play Telugu Classics</display-name>
+  </channel>
+  <channel id="StarSports1TeluguHD.in">
+    <display-name lang="en">Star Sports 1 Telugu HD</display-name>
+  </channel>
+  <channel id="StarSports1Telugu.in">
+    <display-name lang="en">Star Sports 1 Telugu</display-name>
+  </channel>
+  <channel id="StarSports2TeluguHD.in">
+    <display-name lang="en">Star Sports 2 Telugu HD</display-name>
+  </channel>
+  <channel id="StarSports2Telugu.in">
+    <display-name lang="en">Star Sports 2 Telugu</display-name>
+  </channel>
+  <channel id="SONYSPORTSTEN4Telugu.in">
+    <display-name lang="en">SONY SPORTS TEN 4 Telugu</display-name>
+  </channel>
+  <channel id="ETVLife.in">
+    <display-name lang="en">ETV Life</display-name>
+  </channel>
+  <channel id="SakshiTV.in">
+    <display-name lang="en">Sakshi TV</display-name>
+  </channel>
+  <channel id="ETVAndhraPradesh.in">
+    <display-name lang="en">ETV Andhra Pradesh</display-name>
+  </channel>
+  <channel id="TV5News.in">
+    <display-name lang="en">TV5 News</display-name>
+  </channel>
+  <channel id="TV9Telugu.in">
+    <display-name lang="en">TV9 Telugu</display-name>
+  </channel>
+  <channel id="NTVTelugu.in">
+    <display-name lang="en">NTV Telugu</display-name>
+  </channel>
+  <channel id="ABNAndhraJyoti.in">
+    <display-name lang="en">ABN Andhra Jyothy</display-name>
+  </channel>
+  <channel id="TNews.in">
+    <display-name lang="en">T News</display-name>
+  </channel>
+  <channel id="V6Telugu.in">
+    <display-name lang="en">V6 Telugu</display-name>
+  </channel>
+  <channel id="ETVTelangana.in">
+    <display-name lang="en">ETV Telangana</display-name>
+  </channel>
+  <channel id="HMTV.in">
+    <display-name lang="en">HM TV</display-name>
+  </channel>
+  <channel id="RajNewsTelugu.in">
+    <display-name lang="en">Raj News Telugu</display-name>
+  </channel>
+  <channel id="10TV.in">
+    <display-name lang="en">10 TV</display-name>
+  </channel>
+  <channel id="StarSports1.in">
+    <display-name lang="en">STAR Sports 1</display-name>
+  </channel>
+  <channel id="4TVNews.in">
+    <display-name lang="en">4tv News</display-name>
+  </channel>
+  <channel id="StarSports1Hindi.in">
+    <display-name lang="en">Star Sports 1 Hindi</display-name>
+  </channel>
+  <channel id="Prime9News.in">
+    <display-name lang="en">Prime9 Plus</display-name>
+  </channel>
+  <channel id="BRKNews.in">
+    <display-name lang="en">BRK News</display-name>
+  </channel>
+  <channel id="ZeeTeluguNews.in">
+    <display-name lang="en">Zee Telugu News</display-name>
+  </channel>
+  <channel id="DDSaptagiri.in">
+    <display-name lang="en">DD Saptagiri</display-name>
+  </channel>
+  <channel id="DDYadagiri.in">
+    <display-name lang="en">DD Yadagiri</display-name>
+  </channel>
+  <channel id="SunGeminiMusic.in">
+    <display-name lang="en">Sun Gemini Music</display-name>
+  </channel>
+  <channel id="StarMaaMusic.in">
+    <display-name lang="en">Star Maa Music</display-name>
+  </channel>
+  <channel id="RajMusixTelugu.in">
+    <display-name lang="en">Raj Musix Telugu</display-name>
+  </channel>
+  <channel id="ETVAbhiruchi.in">
+    <display-name lang="en">ETV Music</display-name>
+  </channel>
+  <channel id="BhakthiTV.in">
+    <display-name lang="en">Bhakti TV</display-name>
+  </channel>
+  <channel id="SubhavaarthaTV.in">
+    <display-name lang="en">Subhavaarta TV</display-name>
+  </channel>
+  <channel id="AradanaTV.in">
+    <display-name lang="en">Aradana TV</display-name>
+  </channel>
+  <channel id="SwaraSagar.in">
+    <display-name lang="en">Divyavani TV</display-name>
+  </channel>
+  <channel id="HinduDharmam.in">
+    <display-name lang="en">Hindu Dharmam</display-name>
+  </channel>
+  <channel id="CalvaryTV.in">
+    <display-name lang="en">Calvary TV</display-name>
+  </channel>
+  <channel id="NireekshanaTV.in">
+    <display-name lang="en">Nireekshana TV</display-name>
+  </channel>
+  <channel id="SVBC.in">
+    <display-name lang="en">SVBC</display-name>
+  </channel>
+  <channel id="TataPlayTamilCinema.in">
+    <display-name lang="en">Tata Play Tamil Cinema</display-name>
+  </channel>
+  <channel id="SunTVHD.in">
+    <display-name lang="en">Sun TV HD</display-name>
+  </channel>
+  <channel id="SunTV.in">
+    <display-name lang="en">Sun TV</display-name>
+  </channel>
+  <channel id="TataPlayTamilClassics.in">
+    <display-name lang="en">Tata Play Tamil Classics</display-name>
+  </channel>
+  <channel id="SunLife.in">
+    <display-name lang="en">Sun Life</display-name>
+  </channel>
+  <channel id="StarVijayHD.in">
+    <display-name lang="en">Star Vijay HD</display-name>
+  </channel>
+  <channel id="StarVijay.in">
+    <display-name lang="en">STAR Vijay</display-name>
+  </channel>
+  <channel id="TataPlayTamilTV.in">
+    <display-name lang="en">Tata Play Tamil TV</display-name>
+  </channel>
+  <channel id="ZeeTamilHD.in">
+    <display-name lang="en">Zee Tamil HD</display-name>
+  </channel>
+  <channel id="ZeeTamil.in">
+    <display-name lang="en">Zee Tamil</display-name>
+  </channel>
+  <channel id="VijaySuperHD.in">
+    <display-name lang="en">Vijay Super HD</display-name>
+  </channel>
+  <channel id="VijaySuper.in">
+    <display-name lang="en">Vijay Super</display-name>
+  </channel>
+  <channel id="ColorsTamilHD.in">
+    <display-name lang="en">Colors Tamil HD</display-name>
+  </channel>
+  <channel id="ColorsTamil.in">
+    <display-name lang="en">Colors Tamil</display-name>
+  </channel>
+  <channel id="TataPlayHollywoodLocalTamil.in">
+    <display-name lang="en">Tata Play Hollywood Local Tamil</display-name>
+  </channel>
+  <channel id="JayaTVHD.in">
+    <display-name lang="en">Jaya TV HD</display-name>
+  </channel>
+  <channel id="KalaignarTV.in">
+    <display-name lang="en">Kalaignar TV</display-name>
+  </channel>
+  <channel id="TataPlayToons+.in">
+    <display-name lang="en">Tata Play Toons+</display-name>
+  </channel>
+  <channel id="RajTV.in">
+    <display-name lang="en">Raj TV</display-name>
+  </channel>
+  <channel id="DTamil.in">
+    <display-name lang="en">D Tamil</display-name>
+  </channel>
+  <channel id="RajDigitalPlus.in">
+    <display-name lang="en">Raj Digital Plus</display-name>
+  </channel>
+  <channel id="MegaTV.in">
+    <display-name lang="en">Mega TV</display-name>
+  </channel>
+  <channel id="VasanthTV.in">
+    <display-name lang="en">Vasanth TV</display-name>
+  </channel>
+  <channel id="SirippoliTV.in">
+    <display-name lang="en">Sirippoli</display-name>
+  </channel>
+  <channel id="PolimerTV.in">
+    <display-name lang="en">Polimer TV</display-name>
+  </channel>
+  <channel id="MakkalTV.in">
+    <display-name lang="en">Makkal TV</display-name>
+  </channel>
+  <channel id="VendharTV.in">
+    <display-name lang="en">Vendhar TV</display-name>
+  </channel>
+  <channel id="KTVHD.in">
+    <display-name lang="en">KTV HD</display-name>
+  </channel>
+  <channel id="KTV.in">
+    <display-name lang="en">KTV</display-name>
+  </channel>
+  <channel id="Chithiram.in">
+    <display-name lang="en">CHITHIRAM</display-name>
+  </channel>
+  <channel id="JMovie.in">
+    <display-name lang="en">J Movies</display-name>
+  </channel>
+  <channel id="ZeeThirai.in">
+    <display-name lang="en">Zee Thirai</display-name>
+  </channel>
+  <channel id="StarSports1TamilHD.in">
+    <display-name lang="en">Star Sports 1 Tamil HD</display-name>
+  </channel>
+  <channel id="StarSports1Tamil.in">
+    <display-name lang="en">Star Sports 1 Tamil</display-name>
+  </channel>
+  <channel id="SONYSPORTSTEN4Tamil.in">
+    <display-name lang="en">SONY SPORTS TEN 4 Tamil</display-name>
+  </channel>
+  <channel id="StarSports2TamilHD.in">
+    <display-name lang="en">Star Sports 2 Tamil HD</display-name>
+  </channel>
+  <channel id="StarSports2Tamil.in">
+    <display-name lang="en">Star Sports 2 Tamil</display-name>
+  </channel>
+  <channel id="TravelxpTamil.in">
+    <display-name lang="en">Travelxp Tamil</display-name>
+  </channel>
+  <channel id="PuthiyaThalaimurai.in">
+    <display-name lang="en">Puthiya Thalaimurai</display-name>
+  </channel>
+  <channel id="ThanthiTV.in">
+    <display-name lang="en">Thanthi TV</display-name>
+  </channel>
+  <channel id="JayaPlus.in">
+    <display-name lang="en">Jaya Plus</display-name>
+  </channel>
+  <channel id="PolimerNews.in">
+    <display-name lang="en">Polimer News</display-name>
+  </channel>
+  <channel id="News18TamilNadu.in">
+    <display-name lang="en">News18 Tamil Nadu</display-name>
+  </channel>
+  <channel id="KalaignarSeithigal.in">
+    <display-name lang="en">Seithigal TV</display-name>
+  </channel>
+  <channel id="RajNewsTamil..in">
+    <display-name lang="en">Raj News Tamil.</display-name>
+  </channel>
+  <channel id="SathiyamTV.in">
+    <display-name lang="en">Sathiyam TV</display-name>
+  </channel>
+  <channel id="MalaiMurasuTV.in">
+    <display-name lang="en">MalaiMurasu Seithigal</display-name>
+  </channel>
+  <channel id="DDManipur.in">
+    <display-name lang="en">DD Manipur</display-name>
+  </channel>
+  <channel id="NewsTamil24x7.in">
+    <display-name lang="en">News Tamil 24x7</display-name>
+  </channel>
+  <channel id="TamilJanam.in">
+    <display-name lang="en">Tamil Janam</display-name>
+  </channel>
+  <channel id="JayaMax.in">
+    <display-name lang="en">Jaya Max</display-name>
+  </channel>
+  <channel id="RajMusix.in">
+    <display-name lang="en">Raj Musix</display-name>
+  </channel>
+  <channel id="VijayTakkar.in">
+    <display-name lang="en">Vijay Takkar</display-name>
+  </channel>
+  <channel id="IsaiAruvi.in">
+    <display-name lang="en">Isaiaruvi</display-name>
+  </channel>
+  <channel id="KalaignarMurasu.in">
+    <display-name lang="en">Murasu TV</display-name>
+  </channel>
+  <channel id="MegaMusiq.in">
+    <display-name lang="en">Mega Musiq</display-name>
+  </channel>
+  <channel id="JothiTV.in">
+    <display-name lang="en">Jothi TV</display-name>
+  </channel>
+  <channel id="MadhaTV.in">
+    <display-name lang="en">Madha TV</display-name>
+  </channel>
+  <channel id="AngelTV.gh">
+    <display-name lang="en">Angel TV</display-name>
+  </channel>
+  <channel id="NambikkaiTV.in">
+    <display-name lang="en">Nambikkai TV</display-name>
+  </channel>
+  <channel id="TataPlayDeiveegam.in">
+    <display-name lang="en">Tata Play Deiveegam</display-name>
+  </channel>
+  <channel id="AaseervathamTV.in">
+    <display-name lang="en">Aaseervatham TV</display-name>
+  </channel>
+  <channel id="SVBC2.in">
+    <display-name lang="en">SVBC 2</display-name>
+  </channel>
+  <channel id="DDTamil.in">
+    <display-name lang="en">DD Tamil</display-name>
+  </channel>
+  <channel id="TataPlayKannadaCinema.in">
+    <display-name lang="en">Tata Play Kannada Cinema</display-name>
+  </channel>
+  <channel id="SunUdayaHD.in">
+    <display-name lang="en">Sun Udaya HD</display-name>
+  </channel>
+  <channel id="SunUdaya.in">
+    <display-name lang="en">Sun Udaya</display-name>
+  </channel>
+  <channel id="ColorsKannadaHD.in">
+    <display-name lang="en">Colors Kannada HD</display-name>
+  </channel>
+  <channel id="ColorsKannada.in">
+    <display-name lang="en">Colors Kannada</display-name>
+  </channel>
+  <channel id="StarSuvarnaHD.in">
+    <display-name lang="en">Star Suvarna HD</display-name>
+  </channel>
+  <channel id="StarSuvarna.in">
+    <display-name lang="en">Star Suvarna</display-name>
+  </channel>
+  <channel id="ZeeKannadaHD.in">
+    <display-name lang="en">Zee Kannada HD</display-name>
+  </channel>
+  <channel id="ZeeKannada.in">
+    <display-name lang="en">Zee Kannada</display-name>
+  </channel>
+  <channel id="JeevanTV.in">
+    <display-name lang="en">Jeevan TV</display-name>
+  </channel>
+  <channel id="ColorsSuper.in">
+    <display-name lang="en">Colors SUPER</display-name>
+  </channel>
+  <channel id="SIRIKANNADAAlltime.in">
+    <display-name lang="en">SIRIKANNADA Alltime</display-name>
+  </channel>
+  <channel id="SunUdayaMovies.in">
+    <display-name lang="en">Sun Udaya Movies</display-name>
+  </channel>
+  <channel id="StarSuvarnaPlus.in">
+    <display-name lang="en">Star Suvarna Plus</display-name>
+  </channel>
+  <channel id="ColorsKannadaCinema.in">
+    <display-name lang="en">Colors Kannada Cinema</display-name>
+  </channel>
+  <channel id="ZeePower.in">
+    <display-name lang="en">Zee Power</display-name>
+  </channel>
+  <channel id="PublicMovies.in">
+    <display-name lang="en">Public Movies</display-name>
+  </channel>
+  <channel id="Mega24.in">
+    <display-name lang="en">Mega 24</display-name>
+  </channel>
+  <channel id="StarSports1Kannada.in">
+    <display-name lang="en">Star Sports 1 Kannada</display-name>
+  </channel>
+  <channel id="StarSports2Kannada.in">
+    <display-name lang="en">Star Sports 2 Kannada</display-name>
+  </channel>
+  <channel id="SONYSPORTSTEN4KANNADA.in">
+    <display-name lang="en">SONY SPORTS TEN 4 KANNADA</display-name>
+  </channel>
+  <channel id="TV9Kannada.in">
+    <display-name lang="en">TV9 Kannada</display-name>
+  </channel>
+  <channel id="News18Kannada.in">
+    <display-name lang="en">News18 Kannada</display-name>
+  </channel>
+  <channel id="PublicTV.in">
+    <display-name lang="en">Public TV</display-name>
+  </channel>
+  <channel id="AsianetSuvarnaNews.in">
+    <display-name lang="en">Asianet Suvarna News</display-name>
+  </channel>
+  <channel id="TV5Kannada.in">
+    <display-name lang="en">TV5 Kannada</display-name>
+  </channel>
+  <channel id="RajNewsKannada.in">
+    <display-name lang="en">Raj News Kannada</display-name>
+  </channel>
+  <channel id="RKannada.in">
+    <display-name lang="en">R Kannada</display-name>
+  </channel>
+  <channel id="PowerTV.in">
+    <display-name lang="en">Power TV</display-name>
+  </channel>
+  <channel id="News1st.in">
+    <display-name lang="en">News 1st Kannada</display-name>
+  </channel>
+  <channel id="ZeeKannadaNews.in">
+    <display-name lang="en">Zee Kannada News</display-name>
+  </channel>
+  <channel id="GuaranteeNews.in">
+    <display-name lang="en">Guarantee News</display-name>
+  </channel>
+  <channel id="FreedomTV.in">
+    <display-name lang="en">Freedom TV</display-name>
+  </channel>
+  <channel id="SampoornaNews.in">
+    <display-name lang="en">Sampoorna News</display-name>
+  </channel>
+  <channel id="RajMusixKannada.in">
+    <display-name lang="en">Raj Musix Kannada</display-name>
+  </channel>
+  <channel id="PublicMusic.in">
+    <display-name lang="en">Public Music</display-name>
+  </channel>
+  <channel id="SankaraTV.in">
+    <display-name lang="en">Sri Sankara TV</display-name>
+  </channel>
+  <channel id="AyushTV.in">
+    <display-name lang="en">Ayush TV</display-name>
+  </channel>
+  <channel id="SVBC3.in">
+    <display-name lang="en">SVBC 3</display-name>
+  </channel>
+  <channel id="ColorsGujarati.in">
+    <display-name lang="en">Colors Gujarati</display-name>
+  </channel>
+  <channel id="TataPlayGujaratiCinema.in">
+    <display-name lang="en">Tata Play Gujarati Cinema</display-name>
+  </channel>
+  <channel id="ColorsGujaratiCinema.in">
+    <display-name lang="en">Colors Gujarati Cinema</display-name>
+  </channel>
+  <channel id="TV9Gujarati.in">
+    <display-name lang="en">TV9 Gujarati</display-name>
+  </channel>
+  <channel id="GujaratSamacharTV.in">
+    <display-name lang="en">Gujarat Samachar TV</display-name>
+  </channel>
+  <channel id="SandeshNews.in">
+    <display-name lang="en">Sandesh News</display-name>
+  </channel>
+  <channel id="News18Gujarati.in">
+    <display-name lang="en">News18 Gujarati</display-name>
+  </channel>
+  <channel id="CNBCBajar.in">
+    <display-name lang="en">CNBC Bajaar</display-name>
+  </channel>
+  <channel id="ABPAsmita.in">
+    <display-name lang="en">ABP Asmita</display-name>
+  </channel>
+  <channel id="VTVNews.in">
+    <display-name lang="en">VTV News</display-name>
+  </channel>
+  <channel id="Zee24Kalak.in">
+    <display-name lang="en">Zee 24 Kalak</display-name>
+  </channel>
+  <channel id="IndiaNewsGujarati.in">
+    <display-name lang="en">India News Gujarat</display-name>
+  </channel>
+  <channel id="1stGujarat.in">
+    <display-name lang="en">1st Gujarat</display-name>
+  </channel>
+  <channel id="TV13Gujarati.in">
+    <display-name lang="en">TV13 Gujarati</display-name>
+  </channel>
+  <channel id="DDGirnar.in">
+    <display-name lang="en">DD Girnar</display-name>
+  </channel>
+  <channel id="SunNews.in">
+    <display-name lang="en">Sun News</display-name>
+  </channel>
+  <channel id="TataPlayValamTV.in">
+    <display-name lang="en">Tata Play Valam TV</display-name>
+  </channel>
+  <channel id="TataPlayOdiaManoranjan.in">
+    <display-name lang="en">Tata Play Odia Manoranjan</display-name>
+  </channel>
+  <channel id="ZeeSarthak.in">
+    <display-name lang="en">Zee Sarthak</display-name>
+  </channel>
+  <channel id="SidharthTV.in">
+    <display-name lang="en">Sidharth TV</display-name>
+  </channel>
+  <channel id="StarKiran.in">
+    <display-name lang="en">Star Kiran</display-name>
+  </channel>
+  <channel id="PeppersTV.in">
+    <display-name lang="en">Peppers TV</display-name>
+  </channel>
+  <channel id="SidharthGOLD.in">
+    <display-name lang="en">Sidharth GOLD</display-name>
+  </channel>
+  <channel id="KanakNews.in">
+    <display-name lang="en">Kanak News</display-name>
+  </channel>
+  <channel id="KalingaTV.in">
+    <display-name lang="en">Kalinga TV</display-name>
+  </channel>
+  <channel id="News18Odia.in">
+    <display-name lang="en">News18 Odia</display-name>
+  </channel>
+  <channel id="News7Tamil.in">
+    <display-name lang="en">News7</display-name>
+  </channel>
+  <channel id="NandighoshaTV.in">
+    <display-name lang="en">Nandighosha TV</display-name>
+  </channel>
+  <channel id="ArgusNews.in">
+    <display-name lang="en">Argus News</display-name>
+  </channel>
+  <channel id="SidharthUTSAV.in">
+    <display-name lang="en">Sidharth UTSAV</display-name>
+  </channel>
+  <channel id="JayJagannath.in">
+    <display-name lang="en">Jay Jagannath.</display-name>
+  </channel>
+  <channel id="DDOdia.in">
+    <display-name lang="en">DD Odia</display-name>
+  </channel>
+  <channel id="SriJagannathDham.in">
+    <display-name lang="en">Sri Jagannath Dham</display-name>
+  </channel>
+  <channel id="SunSurya.in">
+    <display-name lang="en">Sun Surya</display-name>
+  </channel>
+  <channel id="TataPlayMalayalamCinema.in">
+    <display-name lang="en">Tata Play Malayalam Cinema</display-name>
+  </channel>
+  <channel id="AsianetHD.in">
+    <display-name lang="en">Asianet HD</display-name>
+  </channel>
+  <channel id="Asianet.in">
+    <display-name lang="en">Asianet</display-name>
+  </channel>
+  <channel id="AsianetPlus.in">
+    <display-name lang="en">Asianet Plus</display-name>
+  </channel>
+  <channel id="ZeeKeralamHD.in">
+    <display-name lang="en">Zee Keralam HD</display-name>
+  </channel>
+  <channel id="ZeeKeralam.in">
+    <display-name lang="en">Zee Keralam</display-name>
+  </channel>
+  <channel id="FlowersTV.in">
+    <display-name lang="en">Flowers</display-name>
+  </channel>
+  <channel id="MazhavilManoramaHD.in">
+    <display-name lang="en">Mazhavil Manorama HD</display-name>
+  </channel>
+  <channel id="MazhavilManorama.in">
+    <display-name lang="en">Mazhavil Manorama</display-name>
+  </channel>
+  <channel id="KairaliTV.in">
+    <display-name lang="en">Kairali TV</display-name>
+  </channel>
+  <channel id="KairaliWe.in">
+    <display-name lang="en">We TV</display-name>
+  </channel>
+  <channel id="AmritaTV.in">
+    <display-name lang="en">Amrita TV</display-name>
+  </channel>
+  <channel id="SunSuryaMovies.in">
+    <display-name lang="en">Sun Surya Movies</display-name>
+  </channel>
+  <channel id="AsianetMoviesHD.in">
+    <display-name lang="en">Asianet Movies HD</display-name>
+  </channel>
+  <channel id="AsianetMovies.in">
+    <display-name lang="en">Asianet Movies</display-name>
+  </channel>
+  <channel id="StarGoldSelect.in">
+    <display-name lang="en">Star Gold Select</display-name>
+  </channel>
+  <channel id="StarGoldSelectHD.in">
+    <display-name lang="en">Star Gold Select HD</display-name>
+  </channel>
+  <channel id="SafariTV.in">
+    <display-name lang="en">Safari TV</display-name>
+  </channel>
+  <channel id="AsianetNews.in">
+    <display-name lang="en">Asianet News</display-name>
+  </channel>
+  <channel id="News18Kerala.in">
+    <display-name lang="en">News18 Kerala</display-name>
+  </channel>
+  <channel id="ManoramaNews.in">
+    <display-name lang="en">Manorama News</display-name>
+  </channel>
+  <channel id="MathrubhumiNews.in">
+    <display-name lang="en">Mathrubhumi News</display-name>
+  </channel>
+  <channel id="KairaliNews.in">
+    <display-name lang="en">Kairali News</display-name>
+  </channel>
+  <channel id="JaihindTV.in">
+    <display-name lang="en">Jaihind TV</display-name>
+  </channel>
+  <channel id="MediaOne.in">
+    <display-name lang="en">Media One</display-name>
+  </channel>
+  <channel id="JanamTV.in">
+    <display-name lang="en">Janam TV</display-name>
+  </channel>
+  <channel id="KaumudyTV.in">
+    <display-name lang="en">Kaumudy TV</display-name>
+  </channel>
+  <channel id="RajNewsMalayalam.in">
+    <display-name lang="en">Raj News Malayalam</display-name>
+  </channel>
+  <channel id="TwentyFour.in">
+    <display-name lang="en">Twenty Four</display-name>
+  </channel>
+  <channel id="ReporterTV.in">
+    <display-name lang="en">Reporter TV</display-name>
+  </channel>
+  <channel id="ShekinahTV.in">
+    <display-name lang="en">SHEKINAH</display-name>
+  </channel>
+  <channel id="NewsMalayalam24x7.in">
+    <display-name lang="en">News Malayalam 24x7</display-name>
+  </channel>
+  <channel id="DDMalayalam.in">
+    <display-name lang="en">DD Malayalam</display-name>
+  </channel>
+  <channel id="RajMusixMalayalam.in">
+    <display-name lang="en">Raj Musix Malayalam</display-name>
+  </channel>
+  <channel id="GoodnessTV.in">
+    <display-name lang="en">Goodness</display-name>
+  </channel>
+  <channel id="GodTV.in">
+    <display-name lang="en">God TV</display-name>
+  </channel>
+  <channel id="Shalom.in">
+    <display-name lang="en">Shalom TV</display-name>
+  </channel>
+  <channel id="HarvestTV.in">
+    <display-name lang="en">Harvest TV 24x7</display-name>
+  </channel>
+  <channel id="TataPlayPunjabDeRang.in">
+    <display-name lang="en">Tata Play Punjab De Rang</display-name>
+  </channel>
+  <channel id="ZeePunjabi.in">
+    <display-name lang="en">Zee Punjabi</display-name>
+  </channel>
+  <channel id="GTCPunjabi.in">
+    <display-name lang="en">GTC Punjabi</display-name>
+  </channel>
+  <channel id="PTCPunjabi.in">
+    <display-name lang="en">PTC Punjabi</display-name>
+  </channel>
+  <channel id="Mh1Music.in">
+    <display-name lang="en">MH One</display-name>
+  </channel>
+  <channel id="TataPlayToons+.in">
+    <display-name lang="en">Tata Play Toons+</display-name>
+  </channel>
+  <channel id="Pitaara.in">
+    <display-name lang="en">Pitaara Movies</display-name>
+  </channel>
+  <channel id="PTCPunjabiGold.in">
+    <display-name lang="en">PTC Punjabi Gold</display-name>
+  </channel>
+  <channel id="ZeePunjabHaryanaHimachal.in">
+    <display-name lang="en">Zee Punjab Haryana Himachal Pradesh</display-name>
+  </channel>
+  <channel id="PTCNews.in">
+    <display-name lang="en">PTC News</display-name>
+  </channel>
+  <channel id="News18PunjabHaryanaHimachal.in">
+    <display-name lang="en">News18 Punjab Haryana</display-name>
+  </channel>
+  <channel id="IndiaNewsPunjabHimachal.in">
+    <display-name lang="en">India News Punjab</display-name>
+  </channel>
+  <channel id="IndiaNewsHaryana.in">
+    <display-name lang="en">India News Haryana</display-name>
+  </channel>
+  <channel id="JantaTV.in">
+    <display-name lang="en">Janta TV</display-name>
+  </channel>
+  <channel id="Mh1News.in">
+    <display-name lang="en">MH One News</display-name>
+  </channel>
+  <channel id="ANBNews.in">
+    <display-name lang="en">ANB NEWS</display-name>
+  </channel>
+  <channel id="LivingIndiaNews.in">
+    <display-name lang="en">Living India News</display-name>
+  </channel>
+  <channel id="KhabarFast.in">
+    <display-name lang="en">Khabar Fast</display-name>
+  </channel>
+  <channel id="ZeeDelhiNCRHaryana.in">
+    <display-name lang="en">Zee Delhi NCR Haryana</display-name>
+  </channel>
+  <channel id="STVHaryanaNews.in">
+    <display-name lang="en">STV Haryana News</display-name>
+  </channel>
+  <channel id="DailyPostPunjabHaryanaHimachal.in">
+    <display-name lang="en">Daily Post Punjab Haryana Himachal</display-name>
+  </channel>
+  <channel id="NewsStatePunjabHaryanaHimachal.in">
+    <display-name lang="en">News State Punjab Haryana Himachal</display-name>
+  </channel>
+  <channel id="News18DelhiNCRJK.in">
+    <display-name lang="en">News18 Delhi NCR Jammu Kashmir</display-name>
+  </channel>
+  <channel id="RozanaSpokesman.in">
+    <display-name lang="en">Rozana Spokesman</display-name>
+  </channel>
+  <channel id="DDPunjabi.in">
+    <display-name lang="en">DD Punjabi</display-name>
+  </channel>
+  <channel id="DDHimachalPradesh.in">
+    <display-name lang="en">DD Himachal</display-name>
+  </channel>
+  <channel id="DDHaryana.in">
+    <display-name lang="en">DD Haryana</display-name>
+  </channel>
+  <channel id="PTCChakde.in">
+    <display-name lang="en">PTC Chak De</display-name>
+  </channel>
+  <channel id="PTCMusic.in">
+    <display-name lang="en">PTC Music</display-name>
+  </channel>
+  <channel id="ChardiklaTimeTV.in">
+    <display-name lang="en">Chardikla Time TV</display-name>
+  </channel>
+  <channel id="PTCSimran.in">
+    <display-name lang="en">PTC Simran</display-name>
+  </channel>
+  <channel id="Nepal1.in">
+    <display-name lang="en">Nepal 1</display-name>
+  </channel>
+  <channel id="Rang.in">
+    <display-name lang="en">Rang</display-name>
+  </channel>
+  <channel id="Rengoni.in">
+    <display-name lang="en">Rengoni TV</display-name>
+  </channel>
+  <channel id="TataPlayAsomiyaMonoronjan.in">
+    <display-name lang="en">Tata Play Asomiya Monoronjan</display-name>
+  </channel>
+  <channel id="StarGold.in">
+    <display-name lang="en">STAR Gold</display-name>
+  </channel>
+  <channel id="AssamTalks.in">
+    <display-name lang="en">Assam Talks</display-name>
+  </channel>
+  <channel id="DY365.in">
+    <display-name lang="en">DY 365</display-name>
+  </channel>
+  <channel id="News18AssamNorthEast.in">
+    <display-name lang="en">News18 Assam North East</display-name>
+  </channel>
+  <channel id="NEWSLIVE.in">
+    <display-name lang="en">NEWS LIVE</display-name>
+  </channel>
+  <channel id="PratidinTime.in">
+    <display-name lang="en">Protidin Time</display-name>
+  </channel>
+  <channel id="PragNews.in">
+    <display-name lang="en">Prag News</display-name>
+  </channel>
+  <channel id="NortheastLiveHD.in">
+    <display-name lang="en">North East Live</display-name>
+  </channel>
+  <channel id="NKTV24x7.in">
+    <display-name lang="en">NKTV PLUS</display-name>
+  </channel>
+  <channel id="HornbillTV.in">
+    <display-name lang="en">Hornbill TV</display-name>
+  </channel>
+  <channel id="AsomLive24.in">
+    <display-name lang="en">Asom Live 24</display-name>
+  </channel>
+  <channel id="AssamTalks.in">
+    <display-name lang="en">Assam Talks</display-name>
+  </channel>
+  <channel id="DDArunPrabha.in">
+    <display-name lang="en">DD Arunprabha</display-name>
+  </channel>
+  <channel id="DDNorthEast.in">
+    <display-name lang="en">DD North East</display-name>
+  </channel>
+  <channel id="SVBCKannada.in">
+    <display-name lang="en">SVBC Kannada</display-name>
+  </channel>
+  <channel id="DDKashir.in">
+    <display-name lang="en">DD Kashir</display-name>
+  </channel>
+  <channel id="Ramdhenu.in">
+    <display-name lang="en">Ramdhenu</display-name>
+  </channel>
+  <channel id="DDMeghalaya.in">
+    <display-name lang="en">DD Meghalaya</display-name>
+  </channel>
+  <channel id="DDTripura.in">
+    <display-name lang="en">DD Tripura</display-name>
+  </channel>
+  <channel id="DDMizoram.in">
+    <display-name lang="en">DD Mizoram</display-name>
+  </channel>
+  <channel id="DDNagaland.in">
+    <display-name lang="en">DD Nagaland</display-name>
+  </channel>
+  <channel id="DDPortBlair.in">
+    <display-name lang="en">DD Port Blair</display-name>
+  </channel>
+  <channel id="DDGoa.in">
+    <display-name lang="en">DD Goa</display-name>
+  </channel>
+  <channel id="SanaTV.in">
+    <display-name lang="en">Sana TV</display-name>
+  </channel>
+  <channel id="SanaPlus.in">
+    <display-name lang="en">Sana Plus TV</display-name>
+  </channel>
+  <channel id="SamacharPlus24x7.in">
+    <display-name lang="en">Samachar 24 News</display-name>
+  </channel>
+  <channel id="PrimeTVGoa.in">
+    <display-name lang="en">Prime TV</display-name>
+  </channel>
+  <channel id="KashiVishwanathTempleVaranasi.in">
+    <display-name lang="en">Kashi Vishwanath Temple, Varanasi</display-name>
+  </channel>
+  <channel id="BuletinIndia.in">
+    <display-name lang="en">Buletin India</display-name>
+  </channel>
+  <channel id="FatehTV.in">
+    <display-name lang="en">Fateh TV</display-name>
+  </channel>
+  <channel id="HaryanaBeats.in">
+    <display-name lang="en">Haryana Beats</display-name>
+  </channel>
+  <channel id="InGoa24x7.in">
+    <display-name lang="en">In Goa 24x7</display-name>
+  </channel>
+  <channel id="NammaTV.in">
+    <display-name lang="en">Namma TV</display-name>
+  </channel>
+  <channel id="RDXGoa.in">
+    <display-name lang="en">RDX Goa</display-name>
+  </channel>
+  <channel id="TVRIWorld.in">
+    <display-name lang="en">TVRI World</display-name>
+  </channel>
+  <channel id="HeadlinesTripura.in">
+    <display-name lang="en">Headlines Tripura</display-name>
+  </channel>
+  <channel id="BanglaBhakti.in">
+    <display-name lang="en">Bangla Bhakti</display-name>
+  </channel>
+  <channel id="TaraNews.in">
+    <display-name lang="en">Tara News</display-name>
+  </channel>
+  <channel id="GarvGurbani.in">
+    <display-name lang="en">Garv Gurbani</display-name>
+  </channel>
+  <channel id="SwarShree.in">
+    <display-name lang="en">Swar Shree</display-name>
+  </channel>
+  <channel id="NimbarkTV.in">
+    <display-name lang="en">Nimbark TV</display-name>
+  </channel>
+  <channel id="CnewsBharat.in">
+    <display-name lang="en">C News Bharat</display-name>
+  </channel>
+  <channel id="News21.in">
+    <display-name lang="en">News 21</display-name>
+  </channel>
+  <channel id="BVG.in">
+    <display-name lang="en">BVG</display-name>
+  </channel>
+  <channel id="NationalNewsLive.in">
+    <display-name lang="en">National News Live</display-name>
+  </channel>
+  <channel id="OyeMusic.in">
+    <display-name lang="en">Oye Music</display-name>
+  </channel>
+  <channel id="SangamTV.in">
+    <display-name lang="en">Sangam TV</display-name>
+  </channel>
+  <channel id="UpdateIndia.in">
+    <display-name lang="en">Update India</display-name>
+  </channel>
+  <channel id="SomnathTemple.in">
+    <display-name lang="en">Somnath Temple</display-name>
+  </channel>
+  <channel id="DHARSANTV.in">
+    <display-name lang="en">DHARSAN TV</display-name>
+  </channel>
+  <channel id="GreenChilliesTV.in">
+    <display-name lang="en">Green Chillies TV</display-name>
+  </channel>
+  <channel id="TV45News.in">
+    <display-name lang="en">TV 45 News</display-name>
+  </channel>
+  <channel id="ShikshaTV.in">
+    <display-name lang="en">Shiksha TV</display-name>
+  </channel>
+  <channel id="ABSTARNews.in">
+    <display-name lang="en">AB STAR News</display-name>
+  </channel>
+  <channel id="KBCNews.in">
+    <display-name lang="en">KBC News</display-name>
+  </channel>
+  <channel id="ABCNews.in">
+    <display-name lang="en">ABC News</display-name>
+  </channel>
+  <channel id="LivePatnaSahibPatna.in">
+    <display-name lang="en">Live Patna Sahib Patna</display-name>
+  </channel>
+  <channel id="SristiTV.in">
+    <display-name lang="en">Sristi TV</display-name>
+  </channel>
+  <channel id="Atmadarshan.in">
+    <display-name lang="en">Atmadarshan</display-name>
+  </channel>
+  <channel id="ZeeCinemaGeo.in">
+    <display-name lang="en">Zee Cinema Geo</display-name>
+  </channel>
+  <channel id="SaileelaTV.in">
+    <display-name lang="en">Saileela TV</display-name>
+  </channel>
+  <channel id="MahavirTemplePatna.in">
+    <display-name lang="en">Mahavir Temple, Patna.</display-name>
+  </channel>
+  <channel id="NagaSaiTemple.in">
+    <display-name lang="en">Naga Sai Temple</display-name>
+  </channel>
+  <channel id="ShriAshtavinayakMahaganpatiRanjangaon.in">
+    <display-name lang="en">Shri Ashtavinayak Mahaganpati, Ranjangaon</display-name>
+  </channel>
+  <channel id="7xMusic.in">
+    <display-name lang="en">7x Music</display-name>
+  </channel>
+  <channel id="KhandobaTempleJejuri.in">
+    <display-name lang="en">Khandoba Temple, Jejuri</display-name>
+  </channel>
+  <channel id="GlobalIndia.in">
+    <display-name lang="en">Global India</display-name>
+  </channel>
+  <channel id="AajKiKhabar.in">
+    <display-name lang="en">Aaj Ki Khabar</display-name>
+  </channel>
+  <channel id="IndianNews.in">
+    <display-name lang="en">Indian News</display-name>
+  </channel>
+  <channel id="NTV.in">
+    <display-name lang="en">NTV</display-name>
+  </channel>
+  <channel id="MEDIA9.in">
+    <display-name lang="en">MEDIA 9</display-name>
+  </channel>
+  <channel id="TTN24.in">
+    <display-name lang="en">TTN 24</display-name>
+  </channel>
+  <channel id="UBanglaTV.in">
+    <display-name lang="en">U Bangla TV</display-name>
+  </channel>
+  <channel id="ShreeIchchhapuranBalajiMandir.in">
+    <display-name lang="en">Shree Ichchhapuran Balaji Mandir</display-name>
+  </channel>
+  <channel id="EkamraBharatOdia.in">
+    <display-name lang="en">Ekamra Bharat Odia</display-name>
+  </channel>
+  <channel id="EkamraNilachakra.in">
+    <display-name lang="en">Ekamra Nilachakra</display-name>
+  </channel>
+  <channel id="EkamraCynema.in">
+    <display-name lang="en">Ekamra Cynema</display-name>
+  </channel>
+  <channel id="EkamraMusic.in">
+    <display-name lang="en">Ekamra  Music</display-name>
+  </channel>
+  <channel id="EkamraJatra.in">
+    <display-name lang="en">Ekamra Jatra</display-name>
+  </channel>
+  <channel id="EkamraParamatma.in">
+    <display-name lang="en">Ekamra Paramatma</display-name>
+  </channel>
+  <channel id="EkamraOnepaschima.in">
+    <display-name lang="en">Ekamra One paschima</display-name>
+  </channel>
+  <channel id="Lokmanch.in">
+    <display-name lang="en">Lokmanch</display-name>
+  </channel>
+  <channel id="LNI.in">
+    <display-name lang="en">LNI</display-name>
+  </channel>
+  <channel id="EkamraManoranjan.in">
+    <display-name lang="en">Ekamra Manoranjan</display-name>
+  </channel>
+  <channel id="News18Odia.in">
+    <display-name lang="en">Rajya 24</display-name>
+  </channel>
+  <channel id="SamratNews.in">
+    <display-name lang="en">Samrat News</display-name>
+  </channel>
+  <channel id="NationalToday24x7.in">
+    <display-name lang="en">National Today 24x7</display-name>
+  </channel>
+  <channel id="35MM.in">
+    <display-name lang="en">35 MM</display-name>
+  </channel>
+  <channel id="In24News.in">
+    <display-name lang="en">In24 News</display-name>
+  </channel>
+  <channel id="VandeBharatNews.in">
+    <display-name lang="en">Vande Bharat News</display-name>
+  </channel>
+  <channel id="JeewanBhakti.in">
+    <display-name lang="en">Jeewan Bhakti</display-name>
+  </channel>
+  <channel id="NIJAMTV.in">
+    <display-name lang="en">NIJAM TV</display-name>
+  </channel>
+  <channel id="SURIYANTV.in">
+    <display-name lang="en">SURIYAN TV</display-name>
+  </channel>
+  <channel id="SubinTV.in">
+    <display-name lang="en">SUBIN TV</display-name>
+  </channel>
+  <channel id="UTV.in">
+    <display-name lang="en">UTV</display-name>
+  </channel>
+  <channel id="SadvidyaTV.in">
+    <display-name lang="en">Sadvidya</display-name>
+  </channel>
+  <channel id="In24LiveNews.in">
+    <display-name lang="en">In24 Live News</display-name>
+  </channel>
+  <channel id="24HrsTV.in">
+    <display-name lang="en">The Voice TV</display-name>
+  </channel>
+  <channel id="TarTV.in">
+    <display-name lang="en">Tar TV</display-name>
+  </channel>
+  <channel id="BHIChannel.in">
+    <display-name lang="en">BHI Channel</display-name>
+  </channel>
+  <channel id="22Scope.in">
+    <display-name lang="en">22 Scope</display-name>
+  </channel>
+  <channel id="ExpressNewsBharat.in">
+    <display-name lang="en">Express News Bharat</display-name>
+  </channel>
+  <channel id="NewsNation81.in">
+    <display-name lang="en">News Nation 81</display-name>
+  </channel>
+  <channel id="DagdushethPune.in">
+    <display-name lang="en">Dagdusheth Pune</display-name>
+  </channel>
+  <channel id="LiveIskconVrindavan.in">
+    <display-name lang="en">Live Iskcon Vrindavan</display-name>
+  </channel>
+  <channel id="TestService3701.in">
+    <display-name lang="en">Test Service 3701</display-name>
+  </channel>
+  <channel id="StarSports3.in">
+    <display-name lang="en">Star Sports 3</display-name>
+  </channel>
+  <channel id="TestService4101.in">
+    <display-name lang="en">Test Service 4101</display-name>
+  </channel>
+  <channel id="SIndiaNews.in">
+    <display-name lang="en">Rashtra LIVE Prime</display-name>
+  </channel>
+  <channel id="KMNews.in">
+    <display-name lang="en">KM News</display-name>
+  </channel>
+  <channel id="NationalTVIndia.in">
+    <display-name lang="en">National TV India</display-name>
+  </channel>
+  <channel id="AagaazTimes.in">
+    <display-name lang="en">Aagaaz Times</display-name>
+  </channel>
+  <channel id="VoiceTVUrdu.in">
+    <display-name lang="en">Voice TV Urdu</display-name>
+  </channel>
+  <channel id="SmritiPatra.in">
+    <display-name lang="en">Smriti Patra</display-name>
+  </channel>
+  <channel id="SS1HDHindiGeo.in">
+    <display-name lang="en">SS1 HD Hindi Geo</display-name>
+  </channel>
+  <channel id="SS1HindiGeo.in">
+    <display-name lang="en">SS 1 Hindi Geo</display-name>
+  </channel>
+  <channel id="SS1Geo.in">
+    <display-name lang="en">SS 1 Geo</display-name>
+  </channel>
+  <channel id="OSD-1.in">
+    <display-name lang="en">OSD - 1</display-name>
+  </channel>
+  <channel id="Alias-1of2714.in">
+    <display-name lang="en">Alias-1 of 2714</display-name>
+  </channel>
+  <channel id="Alias-2of2714.in">
+    <display-name lang="en">Alias-2 of 2714</display-name>
+  </channel>
+  <channel id="Alias-3of2714.in">
+    <display-name lang="en">Alias-3 of 2714</display-name>
+  </channel>
+  <channel id="AliasService1543.in">
+    <display-name lang="en">Alias Service 1543</display-name>
+  </channel>
+  <channel id="OSD-2.in">
+    <display-name lang="en">OSD - 2</display-name>
+  </channel>
+  <channel id="Alias-1of2715.in">
+    <display-name lang="en">Alias-1 of 2715</display-name>
+  </channel>
+  <channel id="Alias-2of2715.in">
+    <display-name lang="en">Alias-2 of 2715</display-name>
+  </channel>
+  <channel id="Alias-3of2715.in">
+    <display-name lang="en">Alias-3 of 2715</display-name>
+  </channel>
+  <channel id="OSD-3.in">
+    <display-name lang="en">OSD - 3</display-name>
+  </channel>
+  <channel id="Alias-1of2725.in">
+    <display-name lang="en">Alias-1 of 2725</display-name>
+  </channel>
+  <channel id="Alias-2of2725.in">
+    <display-name lang="en">Alias-2 of 2725</display-name>
+  </channel>
+  <channel id="Alias-3of2725.in">
+    <display-name lang="en">Alias-3 of 2725</display-name>
+  </channel>
+  <channel id="OSDBinge1.in">
+    <display-name lang="en">OSD Binge 1</display-name>
+  </channel>
+  <channel id="OSDBinge2.in">
+    <display-name lang="en">OSD Binge 2</display-name>
+  </channel>
+  <channel id="OSDBinge3.in">
+    <display-name lang="en">OSD Binge 3</display-name>
+  </channel>
+  <channel id="OSDBinge4.in">
+    <display-name lang="en">OSD Binge 4</display-name>
+  </channel>
+  <channel id="OSDBinge5.in">
+    <display-name lang="en">OSD Binge 5</display-name>
+  </channel>
+  <channel id="MirrorMedia.in">
+    <display-name lang="en">Mirror Media</display-name>
+  </channel>
+  <channel id="TopNewsMarathi.in">
+    <display-name lang="en">Top News Marathi</display-name>
+  </channel>
+  <channel id="NEBharat24.in">
+    <display-name lang="en">NE Bharat 24</display-name>
+  </channel>
+  <channel id="PrimeAsiaTV.ca">
+    <display-name lang="en">Prime Asia</display-name>
+  </channel>
+  <channel id="NSC9.in">
+    <display-name lang="en">NSC9</display-name>
+  </channel>
+  <channel id="AONENEWS.in">
+    <display-name lang="en">A ONE NEWS</display-name>
+  </channel>
+  <channel id="INDIA24X7LIVETV.in">
+    <display-name lang="en">INDIA 24X7 LIVE TV</display-name>
+  </channel>
+  <channel id="NationUpdate.in">
+    <display-name lang="en">Nation Update</display-name>
+  </channel>
+  <channel id="HingulambikaDeviSolapur.in">
+    <display-name lang="en">Hingulambika Devi, Solapur</display-name>
+  </channel>
+  <channel id="SAITV.in">
+    <display-name lang="en">SAI TV</display-name>
+  </channel>
+  <channel id="SAMACHARTODAY.in">
+    <display-name lang="en">SAMACHAR TODAY</display-name>
+  </channel>
+  <channel id="ShreeSanatanTV.in">
+    <display-name lang="en">Shree Sanatan TV</display-name>
+  </channel>
+  <channel id="RojaTV.in">
+    <display-name lang="en">Roja TV</display-name>
+  </channel>
+  <channel id="RojaMovies.in">
+    <display-name lang="en">Roja Movies</display-name>
+  </channel>
+  <channel id="NewsPlus24x7.in">
+    <display-name lang="en">News Plus24x7</display-name>
+  </channel>
+  <channel id="MahotsavTV.in">
+    <display-name lang="en">Mahotsav TV</display-name>
+  </channel>
+  <channel id="LiveNainaDeviHimachalPradesh.in">
+    <display-name lang="en">Live Naina Devi Himachal Pradesh</display-name>
+  </channel>
+  <channel id="Rashtram.in">
+    <display-name lang="en">Rashtram</display-name>
+  </channel>
+  <channel id="NewzRoomGujarat.in">
+    <display-name lang="en">Newz Room Gujarat</display-name>
+  </channel>
+  <channel id="Today24UP/UK.in">
+    <display-name lang="en">Today24 UP/UK</display-name>
+  </channel>
+  <channel id="GrowthNowNews.in">
+    <display-name lang="en">Growth Now News</display-name>
+  </channel>
+  <channel id="YugAbhiyanTimes.in">
+    <display-name lang="en">Yug Abhiyan Times</display-name>
+  </channel>
+  <channel id="SBharatNews.in">
+    <display-name lang="en">S Bharat News</display-name>
+  </channel>
+  <channel id="TataPlayTeluguCinema.in">
+    <display-name lang="en">Tata Play Telugu Cinema</display-name>
+  </channel>
+</tv>
