@@ -1105,6 +1105,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261019110000 +0800" stop="20261019113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261019113000 +0800" stop="20261019120000 +0800">
     <title lang="zh">SMARTBIZ ACCELERATORS(30분)</title>
@@ -1545,6 +1547,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261020110000 +0800" stop="20261020113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261020113000 +0800" stop="20261020120000 +0800">
     <title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
@@ -2000,6 +2004,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261021110000 +0800" stop="20261021113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021113000 +0800" stop="20261021120000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -2432,6 +2438,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261022110000 +0800" stop="20261022113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022113000 +0800" stop="20261022120000 +0800">
     <title lang="zh">BEAUTY ON AND OFF</title>
@@ -2969,6 +2977,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261023110000 +0800" stop="20261023113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261023113000 +0800" stop="20261023115000 +0800">
     <title lang="zh">K-SPORTS BEYOND</title>
@@ -4426,6 +4436,8 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangUN.kr" start="20261019110000 +0800" stop="20261019113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261019113000 +0800" stop="20261019120000 +0800">
     <title lang="zh">SMARTBIZ ACCELERATORS(30분)</title>
@@ -4863,6 +4875,8 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangUN.kr" start="20261020110000 +0800" stop="20261020113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261020113000 +0800" stop="20261020120000 +0800">
     <title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
@@ -5329,6 +5343,8 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangUN.kr" start="20261021110000 +0800" stop="20261021113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021113000 +0800" stop="20261021120000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -5772,6 +5788,8 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangUN.kr" start="20261022110000 +0800" stop="20261022113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022113000 +0800" stop="20261022120000 +0800">
     <title lang="zh">BEAUTY ON AND OFF</title>
@@ -6310,6 +6328,8 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangUN.kr" start="20261023110000 +0800" stop="20261023113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261023113000 +0800" stop="20261023120000 +0800">
     <title lang="zh">VIBE IN ACTION: K-INITIATIVE</title>
@@ -7736,6 +7756,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019110000 +0800" stop="20261019113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019113000 +0800" stop="20261019120000 +0800">
     <title lang="zh">SMARTBIZ ACCELERATORS(30분)</title>
@@ -8181,6 +8203,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261020110000 +0800" stop="20261020113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261020113000 +0800" stop="20261020120000 +0800">
     <title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
@@ -8642,6 +8666,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021110000 +0800" stop="20261021113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021113000 +0800" stop="20261021120000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -9065,6 +9091,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022110000 +0800" stop="20261022113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022113000 +0800" stop="20261022120000 +0800">
     <title lang="zh">BEAUTY ON AND OFF</title>
@@ -9584,6 +9612,8 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023110000 +0800" stop="20261023113000 +0800">
     <title lang="zh">ARIRANG NEWS 12:00</title>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023113000 +0800" stop="20261023115000 +0800">
     <title lang="zh">K-SPORTS BEYOND</title>
