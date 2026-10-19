@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="mic">
+  <channel id="MusicInformationChannel.id">
+    <display-name lang="id">Music Information Channel</display-name>
+  </channel>
+  <programme channel="MusicInformationChannel.id" start="20261019010000 +0800" stop="20261019020000 +0800">
+    <title lang="zh">SENIN: MIC VIDEO LIRIK (00:00 - 01:00)</title>
+    <desc lang="zh">Memutarkan video lirik musisi-musisi Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019020001 +0800" stop="20261019030000 +0800">
+    <title lang="zh">SENIN: MIC MELAYU (01:00 - 02:00)</title>
+    <desc lang="zh">Video musik bernuansa pop melayu, ada disini!</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019030001 +0800" stop="20261019040000 +0800">
+    <title lang="zh">SENIN: MIC POP HITS (02:00 - 03:00)</title>
+    <desc lang="zh">Memutarkan lagu-lagu pop Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019040001 +0800" stop="20261019050000 +0800">
+    <title lang="zh">SENIN: MIC POP HITS (03:00 - 04:00)</title>
+    <desc lang="zh">Memutarkan lagu-lagu pop Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019050001 +0800" stop="20261019070000 +0800">
+    <title lang="zh">SENIN: MIC DANGDUT (04:00 - 06:00)</title>
+    <desc lang="zh">Bergoyang bersama dengan lagu dangdut Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019070001 +0800" stop="20261019110000 +0800">
+    <title lang="zh">SENIN: MIC POP HITS (06:00 - 10:00)</title>
+    <desc lang="zh">Memutarkan lagu-lagu pop Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019110001 +0800" stop="20261019130000 +0800">
+    <title lang="zh">SENIN: MIC DANGDUT (10:00 - 12:00)</title>
+    <desc lang="zh">Bergoyang bersama dengan lagu dangdut Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019130001 +0800" stop="20261019150000 +0800">
+    <title lang="zh">SENIN: MIC JAWA (12:00 - 14:00)</title>
+    <desc lang="zh">Urip di gawe, nyanyi wae lur!</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019150001 +0800" stop="20261019160000 +0800">
+    <title lang="zh">SENIN: MIC VIDEO LIRIK (14:00 - 15:00)</title>
+    <desc lang="zh">Memutarkan video lirik musisi-musisi Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019160001 +0800" stop="20261019170000 +0800">
+    <title lang="zh">SENIN: MIC MELAYU (15:00 - 16:00)</title>
+    <desc lang="zh">Video musik bernuansa pop melayu, ada disini!</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019170001 +0800" stop="20261019210000 +0800">
+    <title lang="zh">SENIN: MIC POP HITS (16:00 - 20:00)</title>
+    <desc lang="zh">Memutarkan lagu-lagu pop Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019210001 +0800" stop="20261019230000 +0800">
+    <title lang="zh">SENIN: MIC DANGDUT (20:00 - 22:00)</title>
+    <desc lang="zh">Bergoyang bersama dengan lagu dangdut Indonesia</desc>
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261019230001 +0800" stop="20261020010000 +0800">
+    <title lang="zh">SENIN: MIC JAWA (22:00 - 24:00)</title>
+    <desc lang="zh">Urip di gawe, nyanyi wae lur!</desc>
+  </programme>
+</tv>
