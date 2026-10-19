@@ -895,9 +895,6 @@ Join us every night from 10 pm till midnight!</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261018230000 +0800" stop="20261019000000 +0800">
     <title lang="zh">ARIRANG PRIME</title>
-    <desc lang="zh">Informative documentary Arirang Prime is a program that showcases various social and cultural topics relevant to Korea and the international community; exciting and informative, the documentary is enjoyable to all viewers.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2728794292221903618.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261019000000 +0800" stop="20261019003000 +0800">
     <title lang="zh">PREMIUM COLLECTION A</title>
@@ -977,33 +974,12 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangTV.kr" start="20261019040000 +0800" stop="20261019043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261019043000 +0800" stop="20261019050000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261019050000 +0800" stop="20261019053000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261019053000 +0800" stop="20261019060000 +0800">
     <title lang="zh">I'M LIVE</title>
@@ -1254,6 +1230,9 @@ Bringing the “chon-cance” trend, which has gained attention among young peop
   </programme>
   <programme channel="ArirangTV.kr" start="20261019193000 +0800" stop="20261019200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261019200000 +0800" stop="20261019203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -1384,6 +1363,9 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangTV.kr" start="20261020030000 +0800" stop="20261020033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261020033000 +0800" stop="20261020035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-NOW</title>
@@ -1857,6 +1839,9 @@ cooperation on the global stage today.</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261021030000 +0800" stop="20261021033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021033000 +0800" stop="20261021035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-PEOPLE</title>
@@ -1939,15 +1924,6 @@ exploring hidden gems and unique experiences that reveal a fresh side of Korea.�
   </programme>
   <programme channel="ArirangTV.kr" start="20261021073000 +0800" stop="20261021075000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021075000 +0800" stop="20261021080000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -1963,13 +1939,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261021083000 +0800" stop="20261021090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021090000 +0800" stop="20261021093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -2030,25 +1999,9 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261021140000 +0800" stop="20261021143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021143000 +0800" stop="20261021145000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021145000 +0800" stop="20261021150000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -2110,13 +2063,6 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangTV.kr" start="20261021183000 +0800" stop="20261021190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021190000 +0800" stop="20261021193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -2126,6 +2072,9 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangTV.kr" start="20261021193000 +0800" stop="20261021200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021200000 +0800" stop="20261021203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -2135,15 +2084,6 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangTV.kr" start="20261021203000 +0800" stop="20261021205000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261021205000 +0800" stop="20261021210000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -2254,18 +2194,12 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangTV.kr" start="20261022030000 +0800" stop="20261022033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022033000 +0800" stop="20261022035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022035000 +0800" stop="20261022040000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -2275,13 +2209,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261022040000 +0800" stop="20261022043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022043000 +0800" stop="20261022045000 +0800">
     <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
@@ -2349,15 +2276,6 @@ exploring hidden gems and unique experiences that reveal a fresh side of Korea.�
   </programme>
   <programme channel="ArirangTV.kr" start="20261022073000 +0800" stop="20261022075000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022075000 +0800" stop="20261022080000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -2391,13 +2309,6 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261022083000 +0800" stop="20261022090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022090000 +0800" stop="20261022093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -2477,25 +2388,9 @@ anytime, anywhere with Simply K-Pop.</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261022140000 +0800" stop="20261022143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022143000 +0800" stop="20261022145000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022145000 +0800" stop="20261022150000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -2587,13 +2482,6 @@ anytime, anywhere with Simply K-Pop.</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261022183000 +0800" stop="20261022190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022190000 +0800" stop="20261022193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -2603,6 +2491,9 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangTV.kr" start="20261022193000 +0800" stop="20261022200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022200000 +0800" stop="20261022203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -2612,15 +2503,6 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangTV.kr" start="20261022203000 +0800" stop="20261022205000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261022205000 +0800" stop="20261022210000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -2785,18 +2667,12 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261023030000 +0800" stop="20261023033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261023033000 +0800" stop="20261023035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261023035000 +0800" stop="20261023040000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -2806,13 +2682,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261023040000 +0800" stop="20261023043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261023043000 +0800" stop="20261023045000 +0800">
     <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
@@ -2924,13 +2793,6 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangTV.kr" start="20261023083000 +0800" stop="20261023090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261023090000 +0800" stop="20261023093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -3008,13 +2870,6 @@ Please catch one of the scheduled rebroadcasts.</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261023140000 +0800" stop="20261023143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261023143000 +0800" stop="20261023145000 +0800">
     <title lang="zh">EXPLORING KOREAN LITERATURE C</title>
@@ -3115,13 +2970,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261023183000 +0800" stop="20261023190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261023190000 +0800" stop="20261023193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -3293,6 +3141,9 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangTV.kr" start="20261024030000 +0800" stop="20261024033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024033000 +0800" stop="20261024035000 +0800">
     <title lang="zh">EXPLORING KOREAN LITERATURE C</title>
@@ -3308,13 +3159,6 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangTV.kr" start="20261024040000 +0800" stop="20261024043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024043000 +0800" stop="20261024050000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -3370,33 +3214,12 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangTV.kr" start="20261024070000 +0800" stop="20261024073000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024073000 +0800" stop="20261024080000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024080000 +0800" stop="20261024083000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024083000 +0800" stop="20261024090000 +0800">
     <title lang="zh">SMARTBIZ ACCELERATORS(30분)</title>
@@ -3607,33 +3430,12 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangTV.kr" start="20261024190000 +0800" stop="20261024193000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024193000 +0800" stop="20261024200000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024200000 +0800" stop="20261024203000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261024203000 +0800" stop="20261024210000 +0800">
     <title lang="zh">MYSTORY</title>
@@ -3756,27 +3558,9 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261025013000 +0800" stop="20261025014500 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261025014500 +0800" stop="20261025020000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261025020000 +0800" stop="20261025023000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -3929,15 +3713,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261025093000 +0800" stop="20261025095000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261025095000 +0800" stop="20261025110000 +0800">
     <title lang="zh">SHOW K-POP [R]</title>
@@ -3971,33 +3746,12 @@ Please catch one of the scheduled rebroadcasts.</desc>
   </programme>
   <programme channel="ArirangTV.kr" start="20261025120000 +0800" stop="20261025123000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261025123000 +0800" stop="20261025130000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261025130000 +0800" stop="20261025133000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangTV.kr" start="20261025133000 +0800" stop="20261025140000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -4172,9 +3926,6 @@ cooperation on the global stage today.</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261018230000 +0800" stop="20261019000000 +0800">
     <title lang="zh">ARIRANG PRIME</title>
-    <desc lang="zh">Informative documentary Arirang Prime is a program that showcases various social and cultural topics relevant to Korea and the international community; exciting and informative, the documentary is enjoyable to all viewers.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2728794292221903618.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261019000000 +0800" stop="20261019003000 +0800">
     <title lang="zh">PREMIUM COLLECTION A</title>
@@ -4271,33 +4022,12 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangUN.kr" start="20261019040000 +0800" stop="20261019043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261019043000 +0800" stop="20261019050000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261019050000 +0800" stop="20261019053000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261019053000 +0800" stop="20261019060000 +0800">
     <title lang="zh">I'M LIVE</title>
@@ -4545,6 +4275,9 @@ Bringing the “chon-cance” trend, which has gained attention among young peop
   </programme>
   <programme channel="ArirangUN.kr" start="20261019193000 +0800" stop="20261019200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261019200000 +0800" stop="20261019203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -4609,479 +4342,6 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
     <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208598355307397988.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261019225000 +0800" stop="20261019230000 +0800">
-    <title lang="zh">HANOK SCENE</title>
-    <desc lang="zh">A program that introduces the hanok, Korea's unique house, and hanok culture to viewers around the world through the architectural process of hanok, 
-commentary from competent architects on hanok in various regions, and the 
-scenery of hanok villages.
-※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202504/2965426945182925584.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261019230000 +0800" stop="20261019233000 +0800">
-    <title lang="zh">NEWS GENERATION [R]</title>
-    <desc lang="zh">NEWs Generation is Arirang TV’s daily news program covering latest trends and current affairs affecting people in their twenties and thirties. It opens discussions with millennial and Gen Z panelists and experts who would like to share their insight and firsthand experience on various topics of interest.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365103961643156333.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261019233000 +0800" stop="20261020000000 +0800">
-    <title lang="zh">TRIP IN KOREA</title>
-    <desc lang="zh">“Trip in Korea” takes you on a five-star local journey with Korean actor Oh Ji-ho and trot singer Shin Seong,
-exploring hidden gems and unique experiences that reveal a fresh side of Korea.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3217670528441516900.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020000000 +0800" stop="20261020003000 +0800">
-    <title lang="zh">TALK ROOM</title>
-    <desc lang="zh">What is the true strength of the K-people leading the K-Wave? We invite the most talked-about figures—those who influence not just Korea but the world—into our studio for intimate one-on-one conversations. Through their stories, the secrets behind overcoming failure and achieving success, and even private small talk, we uncover what makes them extraordinary.
-
-When you listen to someone’s story, you enter their world. In this time of dialogue with the most Korean yet most global K-people, we step into the K-Universe.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202511/3285389319992247142.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020003000 +0800" stop="20261020005000 +0800">
-    <title lang="zh">K-ARTS ARTISTS</title>
-    <desc lang="zh">Connecting Artists’ Today and Tomorrow.We share the stories of artists moving toward the future, while capturing the vibrant 
-essence of the arts through performances, exhibitions, education, and creation, and 
-conveying its inspiration and value.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208601298031084388.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020005000 +0800" stop="20261020010000 +0800">
-    <title lang="zh">HERITAGE WALKS WITH LITTLE FRIEND</title>
-    <desc lang="zh">A cultural heritage walk accompanied by Maltese Byeol-yi and Yorkshire Terrier Kka-mi.
-Produced to offer information including walk tips and precautions to those who intend to visit national heritage with their pets.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2699828560230613762.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020010000 +0800" stop="20261020020000 +0800">
-    <title lang="zh">PERFORMARTS RELOAD</title>
-    <desc lang="zh">PerformArts Reload(Biweekly)『PerformArts Reload Season 4』 takes you to the world of sage cultural arts!    We are delighted to help you open your eyes to the new dynamics of K-cultures&amp;arts, offering a variety of artsy stages in gugak, classical music, musicals, opera and traditional dance.         #CulturalArts_Now #KCulturesnArts_WAVE    --&gt;</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/old/A_UpFile/TvPg_Info_Img/T200909105101_SCH.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020020000 +0800" stop="20261020023000 +0800">
-    <title lang="zh">K-CULTURE DIVE [R]</title>
-    <desc lang="zh">K-CULTURE DIVE</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365121745928323949.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020023000 +0800" stop="20261020030000 +0800">
-    <title lang="zh">SMARTBIZ ACCELERATORS(30분)</title>
-    <desc lang="zh">Along with the strengthened manufacturing capabilities of various countries all around the world, "Smart Factory" has garnered a lot of attention in the global market. 
-And the government has unveiled and promoted a roadmap "Manufacturing Innovation 3.0," as part of an effort to enhance the competitiveness of the domestic manufacturing sector. Moreover, a domestic major company Samsung Electronics has provided a smart factory solution in order to boost mutual growth with small and medium-sized businesses.
-SmartBiz Accelerators introduces a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics as well as gives information on the technological competitiveness and the outlook for the companies in the global market.
-
-#SmartBizAccelerators #ArirangTV #smartfactory #smartfactoryproject #competitiveness_of_manufacturing #strengthening_competitiveness_of_SMEs #expanding_into_overseas_markets #growth_into_globalbusiness</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202503/2953409952149930765.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020030000 +0800" stop="20261020033000 +0800">
-    <title lang="zh">WITHIN THE FRAME [R]</title>
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020033000 +0800" stop="20261020035000 +0800">
-    <title lang="zh">K-CULTURE MINUTES: K-NOW</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020035000 +0800" stop="20261020040000 +0800">
-    <title lang="zh">THE LIVING SEA OF JEJU</title>
-    <desc lang="zh">Pathways can be found even beneath the sea, where along Jeju’s underwater routes one can behold brilliantly beautiful corals and the marine life that inhabits them.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202512/3320457532123644779.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020040000 +0800" stop="20261020043000 +0800">
-    <title lang="zh">COUNTRYSIDE ESCAPE</title>
-    <desc lang="zh">A reality show that captures the growing trend of “chon-cance”—a countryside vacation enjoyed by foreigners living in cities across Korea.
-
-More than just a getaway, the show follows the group as they unwind, enjoy local food, and experience rural life amid unfamiliar surroundings, bringing generations and nationalities together through shared laughter and connection.
-
-Through a fresh and unique perspective, the show offers a new look at Korea’s familiar yet unexpected countryside, delivering a refreshing experience for viewers.
-
-Bringing the “chon-cance” trend, which has gained attention among young people and on social media, to television, the show creates a feel-good story of healing and connection that everyone can relate to.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3714762822652003199.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020043000 +0800" stop="20261020045000 +0800">
-    <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
-    <desc lang="zh">Cultural Heritage storyThe Grand Heritage presents the historical value and hidden stories of Korea's world-famous cultural heritage in an aesthetic format  helping our global viewers get a better understanding of Korea's cultural assets.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208598355307397988.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020045000 +0800" stop="20261020050000 +0800">
-    <title lang="zh">HANOK SCENE</title>
-    <desc lang="zh">A program that introduces the hanok, Korea's unique house, and hanok culture to viewers around the world through the architectural process of hanok, 
-commentary from competent architects on hanok in various regions, and the 
-scenery of hanok villages.
-※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202504/2965426945182925584.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020050000 +0800" stop="20261020060000 +0800">
-    <title lang="zh">PERFORMARTS RELOAD</title>
-    <desc lang="zh">PerformArts Reload(Biweekly)『PerformArts Reload Season 4』 takes you to the world of sage cultural arts!    We are delighted to help you open your eyes to the new dynamics of K-cultures&amp;arts, offering a variety of artsy stages in gugak, classical music, musicals, opera and traditional dance.         #CulturalArts_Now #KCulturesnArts_WAVE    --&gt;</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/old/A_UpFile/TvPg_Info_Img/T200909105101_SCH.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020060000 +0800" stop="20261020063000 +0800">
-    <title lang="zh">WITH SCIENCE, WE LIVE</title>
-    <desc lang="zh">Humanity has learned from the past, transcended the present, and dreamed of the future."With Science, We Live"explores the frontiers of science alongside some of the world’s leading thinkers, offering insights into what lies ahead and uncovering new possibilities.In an era of rapid change, where are we headed?As we navigate between the vast universe and the smallness of human existence, we reconsider the direction we must take.Now, in this very moment, we imagine the future shaped by our choices—and move forward toward it.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202507/3092792820386235212.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020063000 +0800" stop="20261020065000 +0800">
-    <title lang="zh">K-ARTS ARTISTS</title>
-    <desc lang="zh">Connecting Artists’ Today and Tomorrow.We share the stories of artists moving toward the future, while capturing the vibrant 
-essence of the arts through performances, exhibitions, education, and creation, and 
-conveying its inspiration and value.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208601298031084388.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020065000 +0800" stop="20261020070000 +0800">
-    <title lang="zh">HERITAGE WALKS WITH LITTLE FRIEND</title>
-    <desc lang="zh">A cultural heritage walk accompanied by Maltese Byeol-yi and Yorkshire Terrier Kka-mi.
-Produced to offer information including walk tips and precautions to those who intend to visit national heritage with their pets.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2699828560230613762.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020070000 +0800" stop="20261020073000 +0800">
-    <title lang="zh">TRIP IN KOREA</title>
-    <desc lang="zh">“Trip in Korea” takes you on a five-star local journey with Korean actor Oh Ji-ho and trot singer Shin Seong,
-exploring hidden gems and unique experiences that reveal a fresh side of Korea.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3217670528441516900.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020073000 +0800" stop="20261020075000 +0800">
-    <title lang="zh">K-CULTURE MINUTES: K-PEOPLE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020075000 +0800" stop="20261020080000 +0800">
-    <title lang="zh">THE LIVING SEA OF JEJU</title>
-    <desc lang="zh">Pathways can be found even beneath the sea, where along Jeju’s underwater routes one can behold brilliantly beautiful corals and the marine life that inhabits them.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202512/3320457532123644779.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020080000 +0800" stop="20261020083000 +0800">
-    <title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
-    <desc lang="zh">As of April 2025, S. Korea has established 
-diplomatic relations with a total of 194 countries.
-Among them are countries that have had ties and 
-exchanges with Korea for hundreds of years.
-With such long-standing relationships with so many nations,
-might there be fascinating hidden stories between 
-Korea and the rest of the world that we don’t know yet?
-
-"Diplomat’s Archives: Hidden Stories" begins with this very question.
-Together with foreign embassies in Korea, 
-the series uncovers and sheds light on meaningful 
-yet lesser-known stories between Korea and other countries.
-
-Through this, we aim to reaffirm the deep friendships that 
-have been built over time, highlight how countries 
-are interconnected—bilaterally and multilaterally—
-and emphasize the importance of 
-cooperation on the global stage today.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202504/2985531324875408146.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020083000 +0800" stop="20261020090000 +0800">
-    <title lang="zh">COUNTRYSIDE ESCAPE</title>
-    <desc lang="zh">A reality show that captures the growing trend of “chon-cance”—a countryside vacation enjoyed by foreigners living in cities across Korea.
-
-More than just a getaway, the show follows the group as they unwind, enjoy local food, and experience rural life amid unfamiliar surroundings, bringing generations and nationalities together through shared laughter and connection.
-
-Through a fresh and unique perspective, the show offers a new look at Korea’s familiar yet unexpected countryside, delivering a refreshing experience for viewers.
-
-Bringing the “chon-cance” trend, which has gained attention among young people and on social media, to television, the show creates a feel-good story of healing and connection that everyone can relate to.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3714762822652003199.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020090000 +0800" stop="20261020093000 +0800">
-    <title lang="zh">NEW DAY AT ARIRANG [L]</title>
-    <desc lang="zh">Start your day with Bae Eun-ji bringing you the first things you need to know each morning and the biggest stories in Korea and around the world.NEW DAY AT ARIRANG | Bae Eun-ji</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2737628169581363970.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020093000 +0800" stop="20261020100000 +0800">
-    <title lang="zh">NEWS GENERATION [L]</title>
-    <desc lang="zh">NEWs Generation is Arirang TV’s daily news program covering latest trends and current affairs affecting people in their twenties and thirties. It opens discussions with millennial and Gen Z panelists and experts who would like to share their insight and firsthand experience on various topics of interest.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365103961643156333.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020100000 +0800" stop="20261020103000 +0800">
-    <title lang="zh">WITH SCIENCE, WE LIVE</title>
-    <desc lang="zh">Humanity has learned from the past, transcended the present, and dreamed of the future."With Science, We Live"explores the frontiers of science alongside some of the world’s leading thinkers, offering insights into what lies ahead and uncovering new possibilities.In an era of rapid change, where are we headed?As we navigate between the vast universe and the smallness of human existence, we reconsider the direction we must take.Now, in this very moment, we imagine the future shaped by our choices—and move forward toward it.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202507/3092792820386235212.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020103000 +0800" stop="20261020105000 +0800">
-    <title lang="zh">K-ARTS ARTISTS</title>
-    <desc lang="zh">Connecting Artists’ Today and Tomorrow.We share the stories of artists moving toward the future, while capturing the vibrant 
-essence of the arts through performances, exhibitions, education, and creation, and 
-conveying its inspiration and value.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208601298031084388.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020105000 +0800" stop="20261020110000 +0800">
-    <title lang="zh">HERITAGE WALKS WITH LITTLE FRIEND</title>
-    <desc lang="zh">A cultural heritage walk accompanied by Maltese Byeol-yi and Yorkshire Terrier Kka-mi.
-Produced to offer information including walk tips and precautions to those who intend to visit national heritage with their pets.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2699828560230613762.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020110000 +0800" stop="20261020113000 +0800">
-    <title lang="zh">ARIRANG NEWS 12:00</title>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208795028939866980.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020113000 +0800" stop="20261020120000 +0800">
-    <title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
-    <desc lang="zh">As of April 2025, S. Korea has established 
-diplomatic relations with a total of 194 countries.
-Among them are countries that have had ties and 
-exchanges with Korea for hundreds of years.
-With such long-standing relationships with so many nations,
-might there be fascinating hidden stories between 
-Korea and the rest of the world that we don’t know yet?
-
-"Diplomat’s Archives: Hidden Stories" begins with this very question.
-Together with foreign embassies in Korea, 
-the series uncovers and sheds light on meaningful 
-yet lesser-known stories between Korea and other countries.
-
-Through this, we aim to reaffirm the deep friendships that 
-have been built over time, highlight how countries 
-are interconnected—bilaterally and multilaterally—
-and emphasize the importance of 
-cooperation on the global stage today.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202504/2985531324875408146.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020120000 +0800" stop="20261020130000 +0800">
-    <title lang="zh">GUGAK THE MUSIC OF KOREA</title>
-    <desc lang="zh">A program to experience excellent Gugak performances. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Entertainment</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202302/1834579356375056901.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020130000 +0800" stop="20261020133000 +0800">
-    <title lang="zh">K-CULTURE DIVE [L]</title>
-    <desc lang="zh">K-CULTURE DIVE</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365121745928323949.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020133000 +0800" stop="20261020140000 +0800">
-    <title lang="zh">NEWS GENERATION [R]</title>
-    <desc lang="zh">NEWs Generation is Arirang TV’s daily news program covering latest trends and current affairs affecting people in their twenties and thirties. It opens discussions with millennial and Gen Z panelists and experts who would like to share their insight and firsthand experience on various topics of interest.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365103961643156333.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020140000 +0800" stop="20261020143000 +0800">
-    <title lang="zh">COUNTRYSIDE ESCAPE</title>
-    <desc lang="zh">A reality show that captures the growing trend of “chon-cance”—a countryside vacation enjoyed by foreigners living in cities across Korea.
-
-More than just a getaway, the show follows the group as they unwind, enjoy local food, and experience rural life amid unfamiliar surroundings, bringing generations and nationalities together through shared laughter and connection.
-
-Through a fresh and unique perspective, the show offers a new look at Korea’s familiar yet unexpected countryside, delivering a refreshing experience for viewers.
-
-Bringing the “chon-cance” trend, which has gained attention among young people and on social media, to television, the show creates a feel-good story of healing and connection that everyone can relate to.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3714762822652003199.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020143000 +0800" stop="20261020145000 +0800">
-    <title lang="zh">K-CULTURE MINUTES: K-PEOPLE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020145000 +0800" stop="20261020150000 +0800">
-    <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
-    <desc lang="zh">Along with the strengthened manufacturing capabilities of various countries all around the world, "Smart Factory" has garnered a lot of attention in the global market. 
-And the government has unveiled and promoted a roadmap "Manufacturing Innovation 3.0," as part of an effort to enhance the competitiveness of the domestic manufacturing sector. Moreover, a domestic major company Samsung Electronics has provided a smart factory solution in order to boost mutual growth with small and medium-sized businesses.
-SmartBiz Accelerators introduces a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics as well as gives information on the technological competitiveness and the outlook for the companies in the global market.
-
-#SmartBizAccelerators #ArirangTV #smartfactory #smartfactoryproject #competitiveness_of_manufacturing #strengthening_competitiveness_of_SMEs #expanding_into_overseas_markets #growth_into_globalbusiness</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202503/2953409952149930765.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020150000 +0800" stop="20261020151500 +0800">
-    <title lang="zh">ARIRANG SPECIAL(B-30' 구매B)</title>
-    <desc lang="zh">Arirang Special features a variety of unique and special programs produced by Arirang TV. These exciting programs will open your eyes to a new part of the world.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2728785761695433474.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020151500 +0800" stop="20261020153000 +0800">
-    <title lang="zh">ARIRANG SPECIAL(B-30' 구매B)</title>
-    <desc lang="zh">Arirang Special features a variety of unique and special programs produced by Arirang TV. These exciting programs will open your eyes to a new part of the world.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2728785761695433474.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020153000 +0800" stop="20261020160000 +0800">
-    <title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
-    <desc lang="zh">As of April 2025, S. Korea has established 
-diplomatic relations with a total of 194 countries.
-Among them are countries that have had ties and 
-exchanges with Korea for hundreds of years.
-With such long-standing relationships with so many nations,
-might there be fascinating hidden stories between 
-Korea and the rest of the world that we don’t know yet?
-
-"Diplomat’s Archives: Hidden Stories" begins with this very question.
-Together with foreign embassies in Korea, 
-the series uncovers and sheds light on meaningful 
-yet lesser-known stories between Korea and other countries.
-
-Through this, we aim to reaffirm the deep friendships that 
-have been built over time, highlight how countries 
-are interconnected—bilaterally and multilaterally—
-and emphasize the importance of 
-cooperation on the global stage today.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202504/2985531324875408146.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020160000 +0800" stop="20261020163000 +0800">
-    <title lang="zh">THE DAILY REPORT [L] (30분)</title>
-    <desc lang="zh">The Daily Report airs from Monday to Friday at 2 p.m. KST and offers the afternoon edition of Arirang News.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202209/1623490255543861281.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020163000 +0800" stop="20261020170000 +0800">
-    <title lang="zh">PRESS PERSPECTIVE [L]</title>
-    <desc lang="zh">Daily 17:30-18:00((KST) Press Perspective</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2696972320861324034.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020170000 +0800" stop="20261020180000 +0800">
-    <title lang="zh">GUGAK THE MUSIC OF KOREA</title>
-    <desc lang="zh">A program to experience excellent Gugak performances. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Entertainment</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202302/1834579356375056901.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020180000 +0800" stop="20261020183000 +0800">
-    <title lang="zh">WITH SCIENCE, WE LIVE</title>
-    <desc lang="zh">Humanity has learned from the past, transcended the present, and dreamed of the future."With Science, We Live"explores the frontiers of science alongside some of the world’s leading thinkers, offering insights into what lies ahead and uncovering new possibilities.In an era of rapid change, where are we headed?As we navigate between the vast universe and the smallness of human existence, we reconsider the direction we must take.Now, in this very moment, we imagine the future shaped by our choices—and move forward toward it.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202507/3092792820386235212.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020183000 +0800" stop="20261020190000 +0800">
-    <title lang="zh">COUNTRYSIDE ESCAPE</title>
-    <desc lang="zh">A reality show that captures the growing trend of “chon-cance”—a countryside vacation enjoyed by foreigners living in cities across Korea.
-
-More than just a getaway, the show follows the group as they unwind, enjoy local food, and experience rural life amid unfamiliar surroundings, bringing generations and nationalities together through shared laughter and connection.
-
-Through a fresh and unique perspective, the show offers a new look at Korea’s familiar yet unexpected countryside, delivering a refreshing experience for viewers.
-
-Bringing the “chon-cance” trend, which has gained attention among young people and on social media, to television, the show creates a feel-good story of healing and connection that everyone can relate to.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3714762822652003199.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020190000 +0800" stop="20261020193000 +0800">
-    <title lang="zh">NEWSCENTER [L] (30분)</title>
-    <desc lang="zh">Watch the Latest Stories Here: Arirang's Primetime News Center (Weekdays 7 PM KST)</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202506/3060932114795987770.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020193000 +0800" stop="20261020200000 +0800">
-    <title lang="zh">WITHIN THE FRAME [L]</title>
-    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020200000 +0800" stop="20261020203000 +0800">
-    <title lang="zh">K-CULTURE DIVE [R]</title>
-    <desc lang="zh">K-CULTURE DIVE</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365121745928323949.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020203000 +0800" stop="20261020205000 +0800">
-    <title lang="zh">K-CULTURE MINUTES: K-PEOPLE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020205000 +0800" stop="20261020210000 +0800">
-    <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
-    <desc lang="zh">Along with the strengthened manufacturing capabilities of various countries all around the world, "Smart Factory" has garnered a lot of attention in the global market. 
-And the government has unveiled and promoted a roadmap "Manufacturing Innovation 3.0," as part of an effort to enhance the competitiveness of the domestic manufacturing sector. Moreover, a domestic major company Samsung Electronics has provided a smart factory solution in order to boost mutual growth with small and medium-sized businesses.
-SmartBiz Accelerators introduces a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics as well as gives information on the technological competitiveness and the outlook for the companies in the global market.
-
-#SmartBizAccelerators #ArirangTV #smartfactory #smartfactoryproject #competitiveness_of_manufacturing #strengthening_competitiveness_of_SMEs #expanding_into_overseas_markets #growth_into_globalbusiness</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202503/2953409952149930765.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020210000 +0800" stop="20261020211500 +0800">
-    <title lang="zh">ARIRANG SPECIAL(B-30' 구매B)</title>
-    <desc lang="zh">Arirang Special features a variety of unique and special programs produced by Arirang TV. These exciting programs will open your eyes to a new part of the world.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2728785761695433474.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020211500 +0800" stop="20261020213000 +0800">
-    <title lang="zh">ARIRANG SPECIAL(B-30' 구매B)</title>
-    <desc lang="zh">Arirang Special features a variety of unique and special programs produced by Arirang TV. These exciting programs will open your eyes to a new part of the world.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2728785761695433474.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020213000 +0800" stop="20261020220000 +0800">
-    <title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
-    <desc lang="zh">As of April 2025, S. Korea has established 
-diplomatic relations with a total of 194 countries.
-Among them are countries that have had ties and 
-exchanges with Korea for hundreds of years.
-With such long-standing relationships with so many nations,
-might there be fascinating hidden stories between 
-Korea and the rest of the world that we don’t know yet?
-
-"Diplomat’s Archives: Hidden Stories" begins with this very question.
-Together with foreign embassies in Korea, 
-the series uncovers and sheds light on meaningful 
-yet lesser-known stories between Korea and other countries.
-
-Through this, we aim to reaffirm the deep friendships that 
-have been built over time, highlight how countries 
-are interconnected—bilaterally and multilaterally—
-and emphasize the importance of 
-cooperation on the global stage today.</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202504/2985531324875408146.jpg" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020220000 +0800" stop="20261020223000 +0800">
-    <title lang="zh">PRESS PERSPECTIVE [R]</title>
-    <desc lang="zh">Daily 17:30-18:00((KST) Press Perspective</desc>
-    <category lang="zh">Current Affairs</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2696972320861324034.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020223000 +0800" stop="20261020225000 +0800">
-    <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
-    <desc lang="zh">Cultural Heritage storyThe Grand Heritage presents the historical value and hidden stories of Korea's world-famous cultural heritage in an aesthetic format  helping our global viewers get a better understanding of Korea's cultural assets.※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202509/3208598355307397988.png" />
-  </programme>
-  <programme channel="ArirangUN.kr" start="20261020225000 +0800" stop="20261020230000 +0800">
     <title lang="zh">HANOK SCENE</title>
     <desc lang="zh">A program that introduces the hanok, Korea's unique house, and hanok culture to viewers around the world through the architectural process of hanok, 
 commentary from competent architects on hanok in various regions, and the 
@@ -5161,6 +4421,9 @@ cooperation on the global stage today.</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261021030000 +0800" stop="20261021033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021033000 +0800" stop="20261021035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-PEOPLE</title>
@@ -5243,15 +4506,6 @@ exploring hidden gems and unique experiences that reveal a fresh side of Korea.�
   </programme>
   <programme channel="ArirangUN.kr" start="20261021073000 +0800" stop="20261021075000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021075000 +0800" stop="20261021080000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -5267,13 +4521,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261021083000 +0800" stop="20261021090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021090000 +0800" stop="20261021093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -5345,25 +4592,9 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangUN.kr" start="20261021140000 +0800" stop="20261021143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021143000 +0800" stop="20261021145000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021145000 +0800" stop="20261021150000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -5425,13 +4656,6 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangUN.kr" start="20261021183000 +0800" stop="20261021190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021190000 +0800" stop="20261021193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -5441,6 +4665,9 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangUN.kr" start="20261021193000 +0800" stop="20261021200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021200000 +0800" stop="20261021203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -5450,15 +4677,6 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangUN.kr" start="20261021203000 +0800" stop="20261021205000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261021205000 +0800" stop="20261021210000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -5569,18 +4787,12 @@ Produced to offer information including walk tips and precautions to those who i
   </programme>
   <programme channel="ArirangUN.kr" start="20261022030000 +0800" stop="20261022033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022033000 +0800" stop="20261022035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022035000 +0800" stop="20261022040000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -5590,13 +4802,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261022040000 +0800" stop="20261022043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022043000 +0800" stop="20261022045000 +0800">
     <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
@@ -5664,15 +4869,6 @@ exploring hidden gems and unique experiences that reveal a fresh side of Korea.�
   </programme>
   <programme channel="ArirangUN.kr" start="20261022073000 +0800" stop="20261022075000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022075000 +0800" stop="20261022080000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -5706,13 +4902,6 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261022083000 +0800" stop="20261022090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022090000 +0800" stop="20261022093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -5796,25 +4985,9 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261022140000 +0800" stop="20261022143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022143000 +0800" stop="20261022145000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022145000 +0800" stop="20261022150000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -5899,13 +5072,6 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261022183000 +0800" stop="20261022190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022190000 +0800" stop="20261022193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -5915,6 +5081,9 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangUN.kr" start="20261022193000 +0800" stop="20261022200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022200000 +0800" stop="20261022203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -5924,15 +5093,6 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangUN.kr" start="20261022203000 +0800" stop="20261022205000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261022205000 +0800" stop="20261022210000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -6090,18 +5250,12 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261023030000 +0800" stop="20261023033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261023033000 +0800" stop="20261023035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261023035000 +0800" stop="20261023040000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -6111,13 +5265,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261023040000 +0800" stop="20261023043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261023043000 +0800" stop="20261023045000 +0800">
     <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
@@ -6222,13 +5369,6 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangUN.kr" start="20261023083000 +0800" stop="20261023090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261023090000 +0800" stop="20261023093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -6322,13 +5462,6 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangUN.kr" start="20261023140000 +0800" stop="20261023143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261023143000 +0800" stop="20261023145000 +0800">
     <title lang="zh">EXPLORING KOREAN LITERATURE C</title>
@@ -6429,13 +5562,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261023183000 +0800" stop="20261023190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261023190000 +0800" stop="20261023193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -6615,6 +5741,9 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangUN.kr" start="20261024030000 +0800" stop="20261024033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024033000 +0800" stop="20261024035000 +0800">
     <title lang="zh">EXPLORING KOREAN LITERATURE C</title>
@@ -6630,13 +5759,6 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangUN.kr" start="20261024040000 +0800" stop="20261024043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024043000 +0800" stop="20261024050000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -6691,33 +5813,12 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangUN.kr" start="20261024070000 +0800" stop="20261024073000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024073000 +0800" stop="20261024080000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024080000 +0800" stop="20261024083000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024083000 +0800" stop="20261024090000 +0800">
     <title lang="zh">SMARTBIZ ACCELERATORS(30분)</title>
@@ -6921,33 +6022,12 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangUN.kr" start="20261024190000 +0800" stop="20261024193000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024193000 +0800" stop="20261024200000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024200000 +0800" stop="20261024203000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261024203000 +0800" stop="20261024210000 +0800">
     <title lang="zh">MYSTORY</title>
@@ -7070,27 +6150,9 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261025013000 +0800" stop="20261025014500 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261025014500 +0800" stop="20261025020000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261025020000 +0800" stop="20261025023000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -7270,27 +6332,9 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261025093000 +0800" stop="20261025094500 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261025094500 +0800" stop="20261025100000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261025100000 +0800" stop="20261025110000 +0800">
     <title lang="zh">GUGAK THE MUSIC OF KOREA</title>
@@ -7312,33 +6356,12 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangUN.kr" start="20261025120000 +0800" stop="20261025123000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261025123000 +0800" stop="20261025130000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261025130000 +0800" stop="20261025133000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangUN.kr" start="20261025133000 +0800" stop="20261025140000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -7521,9 +6544,6 @@ cooperation on the global stage today.</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261018230000 +0800" stop="20261019000000 +0800">
     <title lang="zh">ARIRANG PRIME</title>
-    <desc lang="zh">Informative documentary Arirang Prime is a program that showcases various social and cultural topics relevant to Korea and the international community; exciting and informative, the documentary is enjoyable to all viewers.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2728794292221903618.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019000000 +0800" stop="20261019010000 +0800">
     <title lang="zh">GUGAK THE MUSIC OF KOREA</title>
@@ -7580,33 +6600,12 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019040000 +0800" stop="20261019043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019043000 +0800" stop="20261019050000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019050000 +0800" stop="20261019053000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019053000 +0800" stop="20261019060000 +0800">
     <title lang="zh">I'M LIVE</title>
@@ -7857,6 +6856,9 @@ Bringing the “chon-cance” trend, which has gained attention among young peop
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019193000 +0800" stop="20261019200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261019200000 +0800" stop="20261019203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -7992,6 +6994,9 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangWorld.kr" start="20261020030000 +0800" stop="20261020033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261020033000 +0800" stop="20261020035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-NOW</title>
@@ -8471,6 +7476,9 @@ cooperation on the global stage today.</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021030000 +0800" stop="20261021033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021033000 +0800" stop="20261021035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-PEOPLE</title>
@@ -8553,15 +7561,6 @@ exploring hidden gems and unique experiences that reveal a fresh side of Korea.�
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021073000 +0800" stop="20261021075000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021075000 +0800" stop="20261021080000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -8577,13 +7576,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021083000 +0800" stop="20261021090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021090000 +0800" stop="20261021093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -8644,25 +7636,9 @@ Go to the radio homepage</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021140000 +0800" stop="20261021143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021143000 +0800" stop="20261021145000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021145000 +0800" stop="20261021150000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -8724,13 +7700,6 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021183000 +0800" stop="20261021190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021190000 +0800" stop="20261021193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -8740,6 +7709,9 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021193000 +0800" stop="20261021200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021200000 +0800" stop="20261021203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -8749,15 +7721,6 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021203000 +0800" stop="20261021205000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261021205000 +0800" stop="20261021210000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -8859,18 +7822,12 @@ exploring hidden gems and unique experiences that reveal a fresh side of Korea.�
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022030000 +0800" stop="20261022033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022033000 +0800" stop="20261022035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022035000 +0800" stop="20261022040000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -8880,13 +7837,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022040000 +0800" stop="20261022043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022043000 +0800" stop="20261022045000 +0800">
     <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
@@ -8954,15 +7904,6 @@ exploring hidden gems and unique experiences that reveal a fresh side of Korea.�
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022073000 +0800" stop="20261022075000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022075000 +0800" stop="20261022080000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -8996,13 +7937,6 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022083000 +0800" stop="20261022090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022090000 +0800" stop="20261022093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -9082,25 +8016,9 @@ anytime, anywhere with Simply K-Pop.</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022140000 +0800" stop="20261022143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022143000 +0800" stop="20261022145000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022145000 +0800" stop="20261022150000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -9192,13 +8110,6 @@ anytime, anywhere with Simply K-Pop.</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022183000 +0800" stop="20261022190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022190000 +0800" stop="20261022193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -9208,6 +8119,9 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022193000 +0800" stop="20261022200000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022200000 +0800" stop="20261022203000 +0800">
     <title lang="zh">K-CULTURE DIVE [R]</title>
@@ -9217,15 +8131,6 @@ With the production team staying completely out of it, Jun Hyun-moo and KwakTube
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022203000 +0800" stop="20261022205000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261022205000 +0800" stop="20261022210000 +0800">
     <title lang="zh">SMARTBIZ ACCEL 2(10분)</title>
@@ -9372,18 +8277,12 @@ as they explore and discover the world of K-Beauty together!</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023030000 +0800" stop="20261023033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023033000 +0800" stop="20261023035000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023035000 +0800" stop="20261023040000 +0800">
     <title lang="zh">THE LIVING SEA OF JEJU</title>
@@ -9393,13 +8292,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023040000 +0800" stop="20261023043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023043000 +0800" stop="20261023045000 +0800">
     <title lang="zh">(20분)THE GRAND HERITAGE ASMR</title>
@@ -9511,13 +8403,6 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023083000 +0800" stop="20261023090000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023090000 +0800" stop="20261023093000 +0800">
     <title lang="zh">NEW DAY AT ARIRANG [L]</title>
@@ -9595,13 +8480,6 @@ Please catch one of the scheduled rebroadcasts.</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023140000 +0800" stop="20261023143000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023143000 +0800" stop="20261023145000 +0800">
     <title lang="zh">EXPLORING KOREAN LITERATURE C</title>
@@ -9702,13 +8580,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023183000 +0800" stop="20261023190000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261023190000 +0800" stop="20261023193000 +0800">
     <title lang="zh">NEWSCENTER [L] (30분)</title>
@@ -9871,6 +8742,9 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024030000 +0800" stop="20261024033000 +0800">
     <title lang="zh">WITHIN THE FRAME [R]</title>
+    <desc lang="zh">Ranging from politics, economy, foreign policy and culture, "Within the Frame" is a daily in-depth analysis show, delving deeper into different topics every day.With a panel of experts, "Within the Frame" will delve deeper into the headlines of the week, providing for premium news analysis in an easy, well-trimmed manner. Tune into "Within the Frame."</desc>
+    <category lang="zh">Current Affairs</category>
+    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202410/2736035322507821826.png" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024033000 +0800" stop="20261024035000 +0800">
     <title lang="zh">EXPLORING KOREAN LITERATURE C</title>
@@ -9886,13 +8760,6 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024040000 +0800" stop="20261024043000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024043000 +0800" stop="20261024050000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -9948,33 +8815,12 @@ Through these five keywords,
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024070000 +0800" stop="20261024073000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024073000 +0800" stop="20261024080000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024080000 +0800" stop="20261024083000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024083000 +0800" stop="20261024090000 +0800">
     <title lang="zh">SMARTBIZ ACCELERATORS(30분)</title>
@@ -10185,33 +9031,12 @@ SmartBiz Accelerators introduces a variety of domestic small and medium-sized co
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024190000 +0800" stop="20261024193000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024193000 +0800" stop="20261024200000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024200000 +0800" stop="20261024203000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261024203000 +0800" stop="20261024210000 +0800">
     <title lang="zh">MYSTORY</title>
@@ -10340,27 +9165,9 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025013000 +0800" stop="20261025014500 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025014500 +0800" stop="20261025020000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STAGE</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025020000 +0800" stop="20261025023000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
@@ -10513,15 +9320,6 @@ K-STAGE : Must-see performances</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025093000 +0800" stop="20261025095000 +0800">
     <title lang="zh">K-CULTURE MINUTES: K-STORY</title>
-    <desc lang="zh">The emergence of the word ‘K-Brand’ indicates the level of worldwide interest in Korean culture today.
-[K-CULTURE MINUTES] is a daily series of cultural programs designed to bring viewers closer to the everyday cultures of Korea.
-
-K-NOW : What's popular in Korea
-K-PEOPLE : Like and follow, Koreans of interest
-K-STORY : What Koreans are viewing now
-K-STAGE : Must-see performances</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365145204922254189.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025095000 +0800" stop="20261025110000 +0800">
     <title lang="zh">SHOW K-POP [R]</title>
@@ -10555,33 +9353,12 @@ Please catch one of the scheduled rebroadcasts.</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025120000 +0800" stop="20261025123000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025123000 +0800" stop="20261025130000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025130000 +0800" stop="20261025133000 +0800">
     <title lang="zh">MOO NO PLAN</title>
-    <desc lang="zh">A no-rules, real-life food documentary that unfolds somewhere between No Plan and Jun Hyun-moo’s Plan.
-
-The show explores local restaurants and hot spots recommended by neighborhood residents.
-
-With the production team staying completely out of it, Jun Hyun-moo and KwakTube build their own travel itinerary as they go, venturing off the beaten path to discover hidden gems that locals swear by. ※ VOD service is currently not available due to copyright issues.</desc>
-    <category lang="zh">Culture</category>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202609/3721962444621349760.jpg" />
   </programme>
   <programme channel="ArirangWorld.kr" start="20261025133000 +0800" stop="20261025140000 +0800">
     <title lang="zh">ARIRANG SPECIAL(B-30' 자체A)</title>
