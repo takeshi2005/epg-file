@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="tving">
+  <channel id="ChunghwaTV.kr">
+    <display-name lang="ko">중화TV</display-name>
+  </channel>
+  <channel id="tvN.kr">
+    <display-name lang="ko">tvN</display-name>
+  </channel>
+  <channel id="tvNSports.kr">
+    <display-name lang="ko">Olive</display-name>
+  </channel>
+  <channel id="Mnet.kr">
+    <display-name lang="ko">Mnet</display-name>
+  </channel>
+  <channel id="TVChosun2.kr">
+    <display-name lang="ko">c time</display-name>
+  </channel>
+  <channel id="OGN.kr">
+    <display-name lang="ko">OGN</display-name>
+  </channel>
+  <channel id="YTN.kr">
+    <display-name lang="ko">YTN</display-name>
+  </channel>
+  <channel id="TVing.C00611.kr">
+    <display-name lang="ko">life time</display-name>
+  </channel>
+  <channel id="MBN.kr">
+    <display-name lang="ko">MBN</display-name>
+  </channel>
+  <channel id="TVing.C00805.kr">
+    <display-name lang="ko">jtbc3</display-name>
+  </channel>
+  <channel id="YTN2.kr">
+    <display-name lang="ko">YTN life</display-name>
+  </channel>
+  <channel id="tvNShow.kr">
+    <display-name lang="ko">Xtvn</display-name>
+  </channel>
+  <channel id="OnStyle.kr">
+    <display-name lang="ko">Onstyle</display-name>
+  </channel>
+  <channel id="tvNDrama.kr">
+    <display-name lang="ko">OtvN</display-name>
+  </channel>
+  <channel id="TVChosun.kr">
+    <display-name lang="ko">tv조선</display-name>
+  </channel>
+  <channel id="JTBC.kr">
+    <display-name lang="ko">jtbc</display-name>
+  </channel>
+  <channel id="ChannelA.kr">
+    <display-name lang="ko">채널a</display-name>
+  </channel>
+  <channel id="YonhapNewsTV.kr">
+    <display-name lang="ko">연합뉴스</display-name>
+  </channel>
+  <channel id="OCNMovies.kr">
+    <display-name lang="ko">Ch. CGV</display-name>
+  </channel>
+  <channel id="TVing.C05661.kr">
+    <display-name lang="ko">디즈니</display-name>
+  </channel>
+  <channel id="Tooniverse.kr">
+    <display-name lang="ko">Tooniverse</display-name>
+  </channel>
+  <channel id="OCN.kr">
+    <display-name lang="ko">OCN</display-name>
+  </channel>
+  <channel id="OCNThrills.kr">
+    <display-name lang="ko">super Action</display-name>
+  </channel>
+  <channel id="TVing.C15152.kr">
+    <display-name lang="ko">DAI TV</display-name>
+  </channel>
+  <channel id="YTNScience.kr">
+    <display-name lang="ko">YTN science</display-name>
+  </channel>
+  <channel id="JTBC2.kr">
+    <display-name lang="ko">jtbc2</display-name>
+  </channel>
+  <channel id="ChannelAPlus.kr">
+    <display-name lang="ko">채널a plus</display-name>
+  </channel>
+  <channel id="MBNPlus.kr">
+    <display-name lang="ko">MBN Plus</display-name>
+  </channel>
+  <channel id="History.kr">
+    <display-name lang="ko">히스토리</display-name>
+  </channel>
+  <channel id="JTBC4.kr">
+    <display-name lang="ko">jtbc4</display-name>
+  </channel>
+</tv>
